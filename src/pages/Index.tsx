@@ -52,14 +52,14 @@ const weekly = [
   {
     image: getGalleryImage("gallery-46"),
     title: "Bible Study",
-    when: "Wednesdays, 5:30 PM",
-    text: "Open your Bible midweek and go deeper in the Scriptures with the congregation.",
+    when: "Tuesdays, 5:00 PM",
+    text: "Open your Bible and grow deeper in the Scriptures with the congregation.",
   },
   {
     image: getGalleryImage("cong-2"),
-    title: "Prayer Meeting",
-    when: "Fridays, 6:00 PM",
-    text: "Close the week together in prayer for our families, our city and our nation.",
+    title: "Hour of Grace",
+    when: "Thursdays, 5:00 PM",
+    text: "Gather with us for a special hour of prayer, worship and grace.",
   },
 ];
 
@@ -71,7 +71,7 @@ const pastors = [
 ];
 
 const faqs = [
-  { q: "What time does your service begin?", a: "Our Sunday School starts at 8:00 AM and the main Sunday service begins at 9:00 AM. We also have Bible Study on Wednesdays at 5:30 PM and Prayer Meeting on Fridays at 6:00 PM." },
+  { q: "What time does your service begin?", a: "Sunday School begins at 8:00 AM, followed by the main Sunday service at 9:00 AM. Bible Study is on Tuesdays at 5:00 PM, and Hour of Grace is on Thursdays at 5:00 PM." },
   { q: "Where are you located?", a: "We are located in Wuse, Abuja, Nigeria. You can use the 'Get directions' button on this page to navigate to us via Google Maps." },
   { q: "What should I wear?", a: "Come as you are! We welcome everyone regardless of attire. Most members dress in smart casual or traditional wear." },
   { q: "What about my kids?", a: "We have a vibrant children's ministry that runs during our Sunday services. Your children are welcome and will be well taken care of." },

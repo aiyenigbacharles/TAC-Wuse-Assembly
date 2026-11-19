@@ -14,10 +14,14 @@ const tablet: Slot[] = [
   { id: "L1", x: -2, y: 16, w: 16, ratio: 1.05, rot: -3 }, { id: "L2", x: 5, y: 46, w: 15, ratio: .8, rot: 3 }, { id: "L3", x: -2, y: 74, w: 15, ratio: 1, rot: -4 },
   { id: "R1", x: 86, y: 16, w: 16, ratio: 1.05, rot: 3 }, { id: "R2", x: 80, y: 46, w: 15, ratio: .8, rot: -3 }, { id: "R3", x: 87, y: 74, w: 15, ratio: 1, rot: 4 },
 ];
-const mobileTop: Slot[] = [
-  { id: "T1", x: -5, y: 8, w: 34, ratio: .72, rot: -5 }, { id: "T2", x: 33, y: 20, w: 30, ratio: .72, rot: 3 }, { id: "T3", x: 71, y: 8, w: 34, ratio: .72, rot: -3 },
+const mobileScatter: Slot[] = [
+  { id: "M1", x: -7, y: 12, w: 34, ratio: .72, rot: -5 }, { id: "M2", x: 72, y: 17, w: 34, ratio: .78, rot: 4 },
+  { id: "M3", x: 34, y: 25, w: 31, ratio: .78, rot: -3 }, { id: "M4", x: -8, y: 34, w: 34, ratio: .72, rot: 4 },
+  { id: "M5", x: 76, y: 40, w: 32, ratio: .78, rot: -5 }, { id: "M6", x: 31, y: 45, w: 34, ratio: .72, rot: 3 },
+  { id: "M7", x: -7, y: 54, w: 32, ratio: .78, rot: -4 }, { id: "M8", x: 73, y: 61, w: 34, ratio: .72, rot: 5 },
+  { id: "M9", x: 34, y: 65, w: 31, ratio: .78, rot: -3 }, { id: "M10", x: -6, y: 74, w: 34, ratio: .72, rot: 4 },
+  { id: "M11", x: 74, y: 80, w: 33, ratio: .78, rot: -4 }, { id: "M12", x: 34, y: 86, w: 31, ratio: .78, rot: 3 },
 ];
-const mobileBottom: Slot[] = mobileTop.map((s) => ({ ...s, id: s.id.replace("T", "B"), y: 8 }));
 
 interface Props { images: GalleryImage[]; variant?: "hero" | "field" | "compact"; exclusionRef?: React.RefObject<HTMLElement>; slots?: Slot[]; }
 
@@ -69,9 +73,6 @@ export default function FloatingImages({ images, variant = "hero" }: Props) {
   const slots = variant === "field" ? tablet : desktop;
   return <>
     <FloatingField images={images.slice(0, saveData ? 4 : images.length)} slots={slots} className={`floating-desktop floating-${variant}`} debug />
-    {variant === "hero" && <>
-      <FloatingField images={images.slice(0, saveData ? 2 : 3)} slots={mobileTop} className="floating-mobile floating-mobile-top" debug />
-      <FloatingField images={images.slice(3, saveData ? 5 : 6)} slots={mobileBottom} className="floating-mobile floating-mobile-bottom" debug />
-    </>}
+    {variant === "hero" && <FloatingField images={images.slice(0, saveData ? 4 : 12)} slots={mobileScatter} className="floating-mobile floating-mobile-scatter" debug />}
   </>;
 }

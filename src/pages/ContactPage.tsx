@@ -16,9 +16,10 @@ const contactItems = [
 ];
 
 const times = [
-  ["Sunday Service", "8:00 AM"],
-  ["Bible Study (Wednesday)", "5:30 PM"],
-  ["Prayer Meeting (Friday)", "6:00 PM"],
+  ["Sunday School", "8:00 AM"],
+  ["Main Service", "9:00 AM"],
+  ["Bible Study (Tuesday)", "5:00 PM"],
+  ["Hour of Grace (Thursday)", "5:00 PM"],
 ];
 
 const ContactPage = () => (

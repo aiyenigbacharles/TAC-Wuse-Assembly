@@ -329,13 +329,9 @@ footer { padding-bottom: max(2rem, env(safe-area-inset-bottom)); }
   .lightbox-left { left: .5rem; }.lightbox-right { right: .5rem; }
   .lightbox-arrow { width: 2.75rem; height: 2.75rem; }
   .floating-desktop { display: none; }
-  .floating-mobile { display: block; position: absolute; left: 0; width: 100%; height: min(24svh, 200px); overflow: visible; }
-  .floating-mobile-top { top: 4.5rem; }
-  .floating-mobile-bottom { bottom: .5rem; height: min(22svh, 180px); }
+  .floating-mobile { display: block; position: absolute; inset: 0; width: 100%; height: 100%; overflow: hidden; }
   .floating-mobile .floating-card { max-width: none; }
   .floating-mobile .floating-card-drift { border-radius: 12px; }
-  .floating-mobile-top .floating-card:nth-child(2) { top: 20% !important; }
-  .floating-mobile-bottom .floating-card:nth-child(2) { top: 20% !important; }
   .floating-debug-header { height: 72px; }
   .mobile-menu { padding-left: max(1rem, env(safe-area-inset-left)); padding-right: max(1rem, env(safe-area-inset-right)); padding-bottom: max(2rem, env(safe-area-inset-bottom)); }
 }
