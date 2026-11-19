@@ -21,7 +21,7 @@ const AccountCard = ({ account, index }: { account: (typeof donationAccounts)[nu
   };
 
   return (
-    <Reveal delay={index * 0.08} className="flex flex-col rounded-lg bg-card p-7">
+    <Reveal delay={index * 0.08} className="donation-account-card flex flex-col rounded-lg p-7">
       <h2 className="display-3 mb-1">{account.label}</h2>
       <p className="mb-8 text-sm text-muted-foreground">{account.bank}</p>
       <p className="mb-1 text-xs font-semibold uppercase tracking-[0.06em] text-muted-foreground">Account number</p>
