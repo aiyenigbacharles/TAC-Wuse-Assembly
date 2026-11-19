@@ -1,0 +1,3 @@
+# Deployment caching
+
+Serve generated `/gallery/<hash>-<width>.*` image variants with `Cache-Control: public, max-age=31536000, immutable`; their filenames include the source content hash. The generated `/gallery/gallery.manifest.json` changes as the photo set changes, so serve that file with `Cache-Control: no-cache` (or a short revalidation window). Apply an immutable long cache to Vite's hashed JS, CSS, and font assets. Serve `index.html` with `Cache-Control: no-cache` (or `max-age=0, must-revalidate`) so new builds are discovered promptly. The image pipeline creates static files in `public/gallery/` during `npm run build`.

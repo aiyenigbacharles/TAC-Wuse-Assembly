@@ -1,0 +1,3696 @@
+[
+  {
+    "id": "cong-1",
+    "width": 1336,
+    "height": 1365,
+    "aspect": 0.9787545787545787,
+    "blur": "data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAAAQBgCdASoYABgAPvVsqlCqpaOiqA1RUB6JQBgBkn1NHuxFt6Pu9Kg2cPrQJ8R4Jl/5tXrTgKktpeAA/jRQUxTFIxn+u2PoNsURXu+JGZVing6Y1i974Bo4t9w/2rxRaBjQnl0UvP+B7c92+zMboqzvWPzZRsxdmuJHN+TjYcxy/tz13LXZ2BrmrAxWHPyGJ/5LHhaqfxJ1n+XhWYOonr5p+OIzb7XDSbZdnbMTXP/kRrhBZnh3DMG9uWkrCM/xrioBOk83o2NfM03KgLtnMeJQXBIA7TK6QproMPvBdm06CwQVL9pGc9zkjJr3tQBnVmIq84TfwZLGRHiezNFmRr8GnhVu8k2t35VqTIOZ1pM6E2N9DVKT/2TMSDUQFvEmW6CF/vSwAAA=",
+    "color": "#e8e8e8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/ac73a4f1f5364392-320.avif",
+        "480": "/gallery/ac73a4f1f5364392-480.avif",
+        "640": "/gallery/ac73a4f1f5364392-640.avif",
+        "960": "/gallery/ac73a4f1f5364392-960.avif",
+        "1280": "/gallery/ac73a4f1f5364392-1280.avif",
+        "1336": "/gallery/ac73a4f1f5364392-1336.avif"
+      },
+      "webp": {
+        "320": "/gallery/ac73a4f1f5364392-320.webp",
+        "480": "/gallery/ac73a4f1f5364392-480.webp",
+        "640": "/gallery/ac73a4f1f5364392-640.webp",
+        "960": "/gallery/ac73a4f1f5364392-960.webp",
+        "1280": "/gallery/ac73a4f1f5364392-1280.webp",
+        "1336": "/gallery/ac73a4f1f5364392-1336.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo cong-1",
+    "sourceHash": "ac73a4f1f53643923906065327bdc7265c997e38634a954bf4b70846e70676ee"
+  },
+  {
+    "id": "cong-2",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAwBACdASoYABAAPvVmqk4qpaOiMAgBUB6JbAC06BelRu44H9rdBr5/35QA/pjtOtJpnKJthE+PHcnhVQGWNiI3yJqyzpKVf4vvRIBFgNq0AkEZIldkDJRqoyVTK9TLdyRRxnmmcbtTmwhp6syF/3uTxz9i59Z94525Fh4nhL4eder1EiFMR2UqLYonf/E4RyNuusfLQLaoPse6TDXsMsJYLfvrPRwA",
+    "color": "#888898",
+    "variants": {
+      "avif": {
+        "320": "/gallery/53a3622e077894ea-320.avif",
+        "480": "/gallery/53a3622e077894ea-480.avif",
+        "640": "/gallery/53a3622e077894ea-640.avif",
+        "960": "/gallery/53a3622e077894ea-960.avif",
+        "1280": "/gallery/53a3622e077894ea-1280.avif",
+        "1920": "/gallery/53a3622e077894ea-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/53a3622e077894ea-320.webp",
+        "480": "/gallery/53a3622e077894ea-480.webp",
+        "640": "/gallery/53a3622e077894ea-640.webp",
+        "960": "/gallery/53a3622e077894ea-960.webp",
+        "1280": "/gallery/53a3622e077894ea-1280.webp",
+        "1920": "/gallery/53a3622e077894ea-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo cong-2",
+    "sourceHash": "53a3622e077894eae07ed0e7adf15e48b39a9a326cfd155d442f2075edb73995"
+  },
+  {
+    "id": "gallery-1",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADwBACdASoYABAAPvVmqk4qpaOiMAgBUB6JbAC7MoFWAby+BPyOt/w9eZtHIsJ534AA8pyjm6YTlDrkkptxmWSTwpSc4ZrLjLNAI7C8FPGE6iM3X3+UA5SbGud0gv/wZKXNT+ezfWSBNIHEr2TLD7FtKXVBhXRxc3XNG4z9ESvk7qZnTl0be6HPZDYg+rkCDcW1oKPXtwqwySQOPWgRJ6Oo/PrhNu38APvK7nE5UpaGXnFNd7Lc9TwHG8PP5CX9NzuYU8xK4vbFqdjlP4P4XFy8Uf65IAAA",
+    "color": "#280858",
+    "variants": {
+      "avif": {
+        "320": "/gallery/a349f5dea820566f-320.avif",
+        "480": "/gallery/a349f5dea820566f-480.avif",
+        "640": "/gallery/a349f5dea820566f-640.avif",
+        "960": "/gallery/a349f5dea820566f-960.avif",
+        "1280": "/gallery/a349f5dea820566f-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/a349f5dea820566f-320.webp",
+        "480": "/gallery/a349f5dea820566f-480.webp",
+        "640": "/gallery/a349f5dea820566f-640.webp",
+        "960": "/gallery/a349f5dea820566f-960.webp",
+        "1280": "/gallery/a349f5dea820566f-1280.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly members gathered for a group photograph",
+    "sourceHash": "a349f5dea820566fe7c37d52fadaa6da9930d088782725f2afbf3b271dde30fe"
+  },
+  {
+    "id": "gallery-2",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAADwAwCdASoYABAAPvVkqk4qpaOiMAgBUB6JQBOgBCSt5oJr1hGaLBUAAP7w0p2UGaZ/gRLxGlY9drXqxwFKU00107S3eqpD1PW5ReLKKBg/6FVQtToFg0u9MzoIpsdt0J1zH8spkgx1clJB6ngkMXV9MAmMj2cn7u22Gztw739LeQP5UnjcizZ5SflkFvtEschFHze1kb8B03FCW68todwA",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/f35560ccbd83e72f-320.avif",
+        "480": "/gallery/f35560ccbd83e72f-480.avif",
+        "640": "/gallery/f35560ccbd83e72f-640.avif",
+        "960": "/gallery/f35560ccbd83e72f-960.avif",
+        "1280": "/gallery/f35560ccbd83e72f-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/f35560ccbd83e72f-320.webp",
+        "480": "/gallery/f35560ccbd83e72f-480.webp",
+        "640": "/gallery/f35560ccbd83e72f-640.webp",
+        "960": "/gallery/f35560ccbd83e72f-960.webp",
+        "1280": "/gallery/f35560ccbd83e72f-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 2",
+    "sourceHash": "f35560ccbd83e72f59dbcf1a490dcc0c08f6302542cf4e750e437da2cd539211"
+  },
+  {
+    "id": "gallery-3",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdGult8ABDQfI2i7BRTqafgAD+VEuOrWFVR29Y8VvtuFvS5YhjROTp8xoQXcSfeU3jLEoSVNoi4QJT3e+jBF4Dsbu1DPamUMkIVrsKzeoaDaBzrikwhGJdxx+D9h/CZBqz/mMrKUcGbsb8Zp5VZH+JB6aJOE/iFbxamkn1kaA7Hoh5bxqhF4+PiGmEAAA=",
+    "color": "#d8d8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/769a15212e020c5c-320.avif",
+        "480": "/gallery/769a15212e020c5c-480.avif",
+        "640": "/gallery/769a15212e020c5c-640.avif",
+        "960": "/gallery/769a15212e020c5c-960.avif",
+        "1280": "/gallery/769a15212e020c5c-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/769a15212e020c5c-320.webp",
+        "480": "/gallery/769a15212e020c5c-480.webp",
+        "640": "/gallery/769a15212e020c5c-640.webp",
+        "960": "/gallery/769a15212e020c5c-960.webp",
+        "1280": "/gallery/769a15212e020c5c-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 3",
+    "sourceHash": "769a15212e020c5cf55ccdc90393b938586ce389e5ee07a4143f1595e494a382"
+  },
+  {
+    "id": "gallery-4",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbAC7MoAvQBrt04U4zJWpNLDVydnAAPRMVTOyqKOUlzkbKrVdpZjgv/PyKEMYBiAqRK11xRWJNLwkyOOm3N2eMHXbd1p4AjQclt3H2tbSHuq940j2e2+OiThWdYzzt67BbuIUK8UBl20Ug6K8j1VrvyXbLJkKNV2dbm9wKavO09pt+rnToXQap7kO7cJn8GoJsrKUR1gwQKHFmKG8U/9csN/NruxAAAA=",
+    "color": "#e80808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/c33a9008fff865f9-320.avif",
+        "480": "/gallery/c33a9008fff865f9-480.avif",
+        "640": "/gallery/c33a9008fff865f9-640.avif",
+        "960": "/gallery/c33a9008fff865f9-960.avif",
+        "1280": "/gallery/c33a9008fff865f9-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/c33a9008fff865f9-320.webp",
+        "480": "/gallery/c33a9008fff865f9-480.webp",
+        "640": "/gallery/c33a9008fff865f9-640.webp",
+        "960": "/gallery/c33a9008fff865f9-960.webp",
+        "1280": "/gallery/c33a9008fff865f9-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 4",
+    "sourceHash": "c33a9008fff865f92bdc47233624b23dd07863459d8c5187e6c5850acb150812"
+  },
+  {
+    "id": "gallery-5",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoACjsfCmIvj5ZnVwAD+VGc9XEk7lI2JtEMmmsWdfktb+B6vFXyUKAuKGh4Dn/J7m8e2Dk4VdgKP5VXEauIypGqzAGBNf/Uj4vpZ3T6u7PnU5VWUjucZeFDaXY62ngHKBx3Dpt0EPNN1QGR8y7/1LWAJyb/QigtVA1f4PtnQWQd2Kh28IeV/AAAA",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/2116b7f9c35d9ae7-320.avif",
+        "480": "/gallery/2116b7f9c35d9ae7-480.avif",
+        "640": "/gallery/2116b7f9c35d9ae7-640.avif",
+        "960": "/gallery/2116b7f9c35d9ae7-960.avif",
+        "1280": "/gallery/2116b7f9c35d9ae7-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/2116b7f9c35d9ae7-320.webp",
+        "480": "/gallery/2116b7f9c35d9ae7-480.webp",
+        "640": "/gallery/2116b7f9c35d9ae7-640.webp",
+        "960": "/gallery/2116b7f9c35d9ae7-960.webp",
+        "1280": "/gallery/2116b7f9c35d9ae7-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 5",
+    "sourceHash": "2116b7f9c35d9ae7ac6f7b38d3a2faccaaf9a4d7805ff25643556a095d0d9f62"
+  },
+  {
+    "id": "gallery-6",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACsEfqgMSVC2K3k0zGLyjBOAAD+cWPHCfh65F/7d7trwS2xhtnGuLs6nr2O8MT1s0Y6D6zE+3NYyKRcMUTOW4WhjmsKIodClepfUt5X+KT2PViB/alJUQeYTYDW+Kg0+QSGCXei2Ff6gKiiUuO0deGEfBMQiVuhfj/N/ta56+NvYrpE/Az//rKHW8cp0InhznI4s1ltVVZE+/oCAAAA",
+    "color": "#c8c8e8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/be99a1f4f34b58c6-320.avif",
+        "480": "/gallery/be99a1f4f34b58c6-480.avif",
+        "640": "/gallery/be99a1f4f34b58c6-640.avif",
+        "960": "/gallery/be99a1f4f34b58c6-960.avif",
+        "1280": "/gallery/be99a1f4f34b58c6-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/be99a1f4f34b58c6-320.webp",
+        "480": "/gallery/be99a1f4f34b58c6-480.webp",
+        "640": "/gallery/be99a1f4f34b58c6-640.webp",
+        "960": "/gallery/be99a1f4f34b58c6-960.webp",
+        "1280": "/gallery/be99a1f4f34b58c6-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 6",
+    "sourceHash": "be99a1f4f34b58c62c7f71dcb14799400540770c89e668725818a2089f3346d9"
+  },
+  {
+    "id": "gallery-7",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JZAC1GoABdjF/r1AmrslWKYAA/rYbJJMJu8mkTSyyQcUl7ZWD8+orX1B6Si9WA1/mqZg2nCOdSSwJ2Pv6yeqDmyHGVcHPGVFUdsv274GRbIcONHdvrNgh9jR+oxbvcpLNisMbmlarh8i3XijB1wg+zClymvXY/XcJK47JSmLdvX9c7BD8TtoAPJGhbdobzyBopqvhuAVzCIrfAAA=",
+    "color": "#c8c8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/ae95ea194a4b02fb-320.avif",
+        "480": "/gallery/ae95ea194a4b02fb-480.avif",
+        "640": "/gallery/ae95ea194a4b02fb-640.avif",
+        "960": "/gallery/ae95ea194a4b02fb-960.avif",
+        "1280": "/gallery/ae95ea194a4b02fb-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/ae95ea194a4b02fb-320.webp",
+        "480": "/gallery/ae95ea194a4b02fb-480.webp",
+        "640": "/gallery/ae95ea194a4b02fb-640.webp",
+        "960": "/gallery/ae95ea194a4b02fb-960.webp",
+        "1280": "/gallery/ae95ea194a4b02fb-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 7",
+    "sourceHash": "ae95ea194a4b02fb152fc19574110ffabd9d428efe672a126c93c99a96583fd2"
+  },
+  {
+    "id": "gallery-8",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoADY4mksWTOi5/JR1YT8AD2Jy+yL1TwvmAX7Ol/jF3QAzeO6w/N2U26P4GumBKNOZXk7mINh+aPDyyY7rGduYjANluYbBTuuBIVXNndHBC/gzMP6ZEohB0+YymR1ihfJe7wC+hTKjVEicOgZOycX9lFDHF9wBZ5bNo+WyH1/ofVohVwHomzi1DeHj/P/b78ynzgMaggAAA=",
+    "color": "#987848",
+    "variants": {
+      "avif": {
+        "320": "/gallery/a9fd0501d057dfec-320.avif",
+        "480": "/gallery/a9fd0501d057dfec-480.avif",
+        "640": "/gallery/a9fd0501d057dfec-640.avif",
+        "960": "/gallery/a9fd0501d057dfec-960.avif",
+        "1280": "/gallery/a9fd0501d057dfec-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/a9fd0501d057dfec-320.webp",
+        "480": "/gallery/a9fd0501d057dfec-480.webp",
+        "640": "/gallery/a9fd0501d057dfec-640.webp",
+        "960": "/gallery/a9fd0501d057dfec-960.webp",
+        "1280": "/gallery/a9fd0501d057dfec-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 8",
+    "sourceHash": "a9fd0501d057dfec48e7dc6bc81934a94382d128c39f7054c83ddb99dc664801"
+  },
+  {
+    "id": "gallery-9",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABQBACdASoYABAAPvVkqk4qpaQiMAgBUB6JZACdAywBi195EurqJRCf5LsIANqrwF+iFaZIiuTE19jSDefYmZUAXybAMUftMgCD0LAdwwn7lmBC2TTkZenloSR31ueEJScMIVkuOJ6BUVKhoEEW603guW1XOOJkvOTgnvh4B8B/EJtiIPAAAA==",
+    "color": "#988878",
+    "variants": {
+      "avif": {
+        "320": "/gallery/7516975d29f5b168-320.avif",
+        "480": "/gallery/7516975d29f5b168-480.avif",
+        "640": "/gallery/7516975d29f5b168-640.avif",
+        "960": "/gallery/7516975d29f5b168-960.avif",
+        "1280": "/gallery/7516975d29f5b168-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/7516975d29f5b168-320.webp",
+        "480": "/gallery/7516975d29f5b168-480.webp",
+        "640": "/gallery/7516975d29f5b168-640.webp",
+        "960": "/gallery/7516975d29f5b168-960.webp",
+        "1280": "/gallery/7516975d29f5b168-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 9",
+    "sourceHash": "7516975d29f5b1682c17a4447b81274013fe4b832d9525c006b4f00b6158ffea"
+  },
+  {
+    "id": "gallery-10",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JQBOgMYxbiC2dDpmpZEduJ+VyiAD+8MujedRUe1quAEJOSwmxm+Me798JeBgtFXcnwQoPF5FTLl5RghdPfIRlVIOgo+FJmYhRb/qDGZIHOPBRHWJJ2HdvGxD/5nN9EPSbXvK4P5Y1/j1QXTeTjdyj4cE+n6XiDFexKM6MgdoMOfAzd2ah0047gYfJwAAA",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/9fc2fe2aabc87211-320.avif",
+        "480": "/gallery/9fc2fe2aabc87211-480.avif",
+        "640": "/gallery/9fc2fe2aabc87211-640.avif",
+        "960": "/gallery/9fc2fe2aabc87211-960.avif",
+        "1280": "/gallery/9fc2fe2aabc87211-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/9fc2fe2aabc87211-320.webp",
+        "480": "/gallery/9fc2fe2aabc87211-480.webp",
+        "640": "/gallery/9fc2fe2aabc87211-640.webp",
+        "960": "/gallery/9fc2fe2aabc87211-960.webp",
+        "1280": "/gallery/9fc2fe2aabc87211-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 10",
+    "sourceHash": "9fc2fe2aabc8721158c458bbc4a06c82b6ada6f8ecd4db6f86d2310c41a24c3c"
+  },
+  {
+    "id": "gallery-11",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAADQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoR4G8AXgNnQMJKXI5+rn/tQAAD0bNzFVFxR+TnEBqIR2omU037gy1ItQbM/C3hBT5atfpN2xtaFaY6wK9ytW3gYc+MkuO/2l0/FzE9r/MRAV38LpwH57GmSdEHdABSujPryjd5v6Gxg2loPwS4g53ncV6wnOzilULski8f1+qvVpAz56/vDwsfLJHxM5kGXwTjBoGTyhdurMi51rzwcSCThQL/5LFc19jNZpMwo+biMl5PawybahEFmYBe8cAAA",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/9d17bfceb82ddec7-320.avif",
+        "480": "/gallery/9d17bfceb82ddec7-480.avif",
+        "640": "/gallery/9d17bfceb82ddec7-640.avif",
+        "960": "/gallery/9d17bfceb82ddec7-960.avif",
+        "1280": "/gallery/9d17bfceb82ddec7-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/9d17bfceb82ddec7-320.webp",
+        "480": "/gallery/9d17bfceb82ddec7-480.webp",
+        "640": "/gallery/9d17bfceb82ddec7-640.webp",
+        "960": "/gallery/9d17bfceb82ddec7-960.webp",
+        "1280": "/gallery/9d17bfceb82ddec7-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 11",
+    "sourceHash": "9d17bfceb82ddec7c173366bf14fe7eb8e418b17c91ad35b3270ce3baf802a85"
+  },
+  {
+    "id": "gallery-12",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADwAwCdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdABMMjBdvN/indGgAAP2ZkvqRhNZmFwFDXXhd9zWxFYnRmCsokxE232aM1+9a1CCWOx7dt2QkUeoKh39uiAVbHZlp8oYymRQICyFK4mxxCEXEhkvjX0LRV8Z1AWygS06Jd17i/+zE2IqgtLJRb1jUJtoiWUnc53jbVK/vHlgA",
+    "color": "#a89888",
+    "variants": {
+      "avif": {
+        "320": "/gallery/6737171c808138ae-320.avif",
+        "480": "/gallery/6737171c808138ae-480.avif",
+        "640": "/gallery/6737171c808138ae-640.avif",
+        "960": "/gallery/6737171c808138ae-960.avif",
+        "1280": "/gallery/6737171c808138ae-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/6737171c808138ae-320.webp",
+        "480": "/gallery/6737171c808138ae-480.webp",
+        "640": "/gallery/6737171c808138ae-640.webp",
+        "960": "/gallery/6737171c808138ae-960.webp",
+        "1280": "/gallery/6737171c808138ae-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 12",
+    "sourceHash": "6737171c808138ae074d9ffe48d5f16b0ab5af763246ef30d1c0619750866111"
+  },
+  {
+    "id": "gallery-13",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAADwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdEf/i2NmBjszgMfSMFV4GH+fOVcAA/qN28dqWCC/aEXkRpIwY1ZHHI/sNOcPEqeDukPiNVfv+VM4PhgyX8NTYErxmMYfbsRmqaPWDcqHrwWSHbffrRLTf278/uCMd1HhPi8rbwK/FmiXAV6HVei6/yYJWAyggT7fZYQMSjqCayyprGPOM0fINrz+rdZXBA/wA",
+    "color": "#380848",
+    "variants": {
+      "avif": {
+        "320": "/gallery/bb6774c6bc16e99b-320.avif",
+        "480": "/gallery/bb6774c6bc16e99b-480.avif",
+        "640": "/gallery/bb6774c6bc16e99b-640.avif",
+        "960": "/gallery/bb6774c6bc16e99b-960.avif",
+        "1280": "/gallery/bb6774c6bc16e99b-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/bb6774c6bc16e99b-320.webp",
+        "480": "/gallery/bb6774c6bc16e99b-480.webp",
+        "640": "/gallery/bb6774c6bc16e99b-640.webp",
+        "960": "/gallery/bb6774c6bc16e99b-960.webp",
+        "1280": "/gallery/bb6774c6bc16e99b-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 13",
+    "sourceHash": "bb6774c6bc16e99b036ea49bed4310d249c1469cf8b9d07f1c5e3531732732f2"
+  },
+  {
+    "id": "gallery-14",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAABQBQCdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoMYOFXFgG8dkRcHyBt6OSD4jqoo+8wA/nk2JfhcSfejT2MrWd0igkGpY6imxDI5RKhYSUNTEvcyIgxL4GAW9K1WiMzpp1KSaU887EidiAiyKtxxbz9Va59eX0qZSKsRnRVHgCOAd88RR87cIxu3POHRvee/pAQ6K8Vo1PS4KjvIb3nrhS55N+PeSH4gOaeZ4U1ZMtIRaiy1uqQDIDTLjtxQq0XksJUbGEFTgo8ANtMS0KOMdQzsBiONUrZ7k0l/XoyCn5GXynY+sWfAAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/6e1298ac73dfdef4-320.avif",
+        "480": "/gallery/6e1298ac73dfdef4-480.avif",
+        "640": "/gallery/6e1298ac73dfdef4-640.avif",
+        "960": "/gallery/6e1298ac73dfdef4-960.avif",
+        "1280": "/gallery/6e1298ac73dfdef4-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/6e1298ac73dfdef4-320.webp",
+        "480": "/gallery/6e1298ac73dfdef4-480.webp",
+        "640": "/gallery/6e1298ac73dfdef4-640.webp",
+        "960": "/gallery/6e1298ac73dfdef4-960.webp",
+        "1280": "/gallery/6e1298ac73dfdef4-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 14",
+    "sourceHash": "6e1298ac73dfdef412ab7b7a0729d28c8d9796f5636e3783ec1d0b92c6300560"
+  },
+  {
+    "id": "gallery-15",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoMjiYAAQ0BrSwXTnkdNlq3xHoAA+pB5X28vA+e8XAV2olU5wuNePFFdNqClY1RyPg2nOtw1fV79EoCF5I+RDfAF5+uA+OA39rDyew7y8apMMQLZ/lEnECAX+FtjnmprR3orF1qeEuElR0LLwcV7/8+s8Jtoj34Wnggstgwq8bjeir55yyQtTfRvwPzk7e7oth/f+ipp1sbru/xvVrLV7FQccdPmbxC24C3ZescR8RcAAA==",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/a1c1f5c0f264fdd2-320.avif",
+        "480": "/gallery/a1c1f5c0f264fdd2-480.avif",
+        "640": "/gallery/a1c1f5c0f264fdd2-640.avif",
+        "960": "/gallery/a1c1f5c0f264fdd2-960.avif",
+        "1280": "/gallery/a1c1f5c0f264fdd2-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/a1c1f5c0f264fdd2-320.webp",
+        "480": "/gallery/a1c1f5c0f264fdd2-480.webp",
+        "640": "/gallery/a1c1f5c0f264fdd2-640.webp",
+        "960": "/gallery/a1c1f5c0f264fdd2-960.webp",
+        "1280": "/gallery/a1c1f5c0f264fdd2-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 15",
+    "sourceHash": "a1c1f5c0f264fdd2cd582425d9f739ee164f9442f9745083a0f0bc89976fdd0f"
+  },
+  {
+    "id": "gallery-16",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbAC06YwwphjcTwN4wnc+2EAA9ocBEw8abCdD+XG8XNvwLmVxnuN21DCX4mIA/Uo0ekgPXVoWgR7Of0EQBAGyngRBax4d3SvyLLGWewRNoheVDz/UO7ikSNZybg+X0+WSlxnhdNdyUnwN+QsoFDCwhl+YCFDkPF/XtWeiDe7jb40/ypXp5e9ZM42a7mzgDLHHH+LSpHc+Ict7hIlccD1AAAA=",
+    "color": "#a8a8b8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/688b2ee60dddf882-320.avif",
+        "480": "/gallery/688b2ee60dddf882-480.avif",
+        "640": "/gallery/688b2ee60dddf882-640.avif",
+        "960": "/gallery/688b2ee60dddf882-960.avif",
+        "1280": "/gallery/688b2ee60dddf882-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/688b2ee60dddf882-320.webp",
+        "480": "/gallery/688b2ee60dddf882-480.webp",
+        "640": "/gallery/688b2ee60dddf882-640.webp",
+        "960": "/gallery/688b2ee60dddf882-960.webp",
+        "1280": "/gallery/688b2ee60dddf882-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 16",
+    "sourceHash": "688b2ee60dddf882c5982fd27151ed6fea7b5e06447821763550391d21777844"
+  },
+  {
+    "id": "gallery-17",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoR4GdF5F6Xnl6dDjaIOkAD+kbuOER3YGmm2cLi6Gaq6qtL+ngl1k/WJdV+/nWLA/cV2dbXgYata0hTjEHtOrGyvCn3Ab4zmXWxHakiT9v5Vdfhbh3vly1ydAeyVC5DqzHqzDy4PQVNpIyDx04Fl2d6HT3a7Ubt6+JtkblekJgx24uvzEq3i73gfvM8OHIBVC2nNEj3hyPIin5xzkoXOP09I88wAAA==",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/c324ae6b7dd12a8e-320.avif",
+        "480": "/gallery/c324ae6b7dd12a8e-480.avif",
+        "640": "/gallery/c324ae6b7dd12a8e-640.avif",
+        "960": "/gallery/c324ae6b7dd12a8e-960.avif",
+        "1280": "/gallery/c324ae6b7dd12a8e-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/c324ae6b7dd12a8e-320.webp",
+        "480": "/gallery/c324ae6b7dd12a8e-480.webp",
+        "640": "/gallery/c324ae6b7dd12a8e-640.webp",
+        "960": "/gallery/c324ae6b7dd12a8e-960.webp",
+        "1280": "/gallery/c324ae6b7dd12a8e-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 17",
+    "sourceHash": "c324ae6b7dd12a8e1e9974b8b16787edc725be180c6e3656bf39da4bbfae9807"
+  },
+  {
+    "id": "gallery-18",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoADTdRH/6sWthjs/FzIgAD+nXFSt48V+zNUWvmK4mRVJC5lhGLQ0Daj++lS7dfJ8cE9176loowQWRdZpzFMzPaAeRs+SfPmRwtKT3BhF6si+7NijggbXAFd3pc/1lYx+cMhKQPI6fJELHIUay9Kd/Mo7w4FiEX4fnzCnyA/VxPhouQAAAA=",
+    "color": "#d8d8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/0a097f87e0672721-320.avif",
+        "480": "/gallery/0a097f87e0672721-480.avif",
+        "640": "/gallery/0a097f87e0672721-640.avif",
+        "960": "/gallery/0a097f87e0672721-960.avif",
+        "1280": "/gallery/0a097f87e0672721-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/0a097f87e0672721-320.webp",
+        "480": "/gallery/0a097f87e0672721-480.webp",
+        "640": "/gallery/0a097f87e0672721-640.webp",
+        "960": "/gallery/0a097f87e0672721-960.webp",
+        "1280": "/gallery/0a097f87e0672721-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 18",
+    "sourceHash": "0a097f87e06727211c70ee28ee0a8db2ed57a7e39f4123e540eb823c830b604f"
+  },
+  {
+    "id": "gallery-19",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACsLwJ5WfiMBSub5vKgvZ//Oyy8AP7VusxOIrXQQbA76UIbnW5P42QmeFikq2STqXH1e4FtQUX+bVfcRjo4kLm+osgZq7o9GvDkFs5hfi+aHRtm0326n8IKViY2hBYsH++S0KcURo2Y/giF0ZMKOuurE+7fr3N0G2QSHhnJG+NE0D6sfTxsDsYHrmPTXjcq+wS5mDlxFfVasCKO4KPY9P7PKzXAAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/013a558a61f6efee-320.avif",
+        "480": "/gallery/013a558a61f6efee-480.avif",
+        "640": "/gallery/013a558a61f6efee-640.avif",
+        "960": "/gallery/013a558a61f6efee-960.avif",
+        "1280": "/gallery/013a558a61f6efee-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/013a558a61f6efee-320.webp",
+        "480": "/gallery/013a558a61f6efee-480.webp",
+        "640": "/gallery/013a558a61f6efee-640.webp",
+        "960": "/gallery/013a558a61f6efee-960.webp",
+        "1280": "/gallery/013a558a61f6efee-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 19",
+    "sourceHash": "013a558a61f6efee68fbf81e4506989541a27b19efbf82f5b93d93890c62f525"
+  },
+  {
+    "id": "gallery-20",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAABwBACdASoYABAAPvVmqk4qpaOiMAgBUB6JbACdAdwLgiaALJOUf7aCWtyCAADKGYTYkLsQFpc6YtOt+ebJbvghwNOSNqeXH9t2Gh9gn249S0igqtfGp8OZycbRiN7ffLff5CzqbwYK7kNzd2spKA6CyeWj1hLaep+pCgnre3c7FV+9nZ28bnWZf0JwVL60C+9krgyI3ewYCdlfWls4EW3rFB3TNaJEZtxuVtjn05vjgwrEBkHjTBvtu2PYp/8G/pz5GXFGv79iwKllTTeKiyNHIq4c0kgA",
+    "color": "#c8d8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/a5dddd9c069fa203-320.avif",
+        "480": "/gallery/a5dddd9c069fa203-480.avif",
+        "640": "/gallery/a5dddd9c069fa203-640.avif",
+        "960": "/gallery/a5dddd9c069fa203-960.avif",
+        "1280": "/gallery/a5dddd9c069fa203-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/a5dddd9c069fa203-320.webp",
+        "480": "/gallery/a5dddd9c069fa203-480.webp",
+        "640": "/gallery/a5dddd9c069fa203-640.webp",
+        "960": "/gallery/a5dddd9c069fa203-960.webp",
+        "1280": "/gallery/a5dddd9c069fa203-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 20",
+    "sourceHash": "a5dddd9c069fa203697d8e33b09329ba6cb2e4db38ab3f8b678719d77c89083d"
+  },
+  {
+    "id": "gallery-21",
+    "width": 1279,
+    "height": 1920,
+    "aspect": 0.6661458333333333,
+    "blur": "data:image/webp;base64,UklGRkwBAABXRUJQVlA4IEABAAAwBwCdASoYACQAPvVsrVEqpaQiqqgBUB6JbACdMw5AFarIbAayFe58sGfFdIfInjnTrsMP9eVj0XhEhcbRtzSydeAA/t9GsdZgFkVFST8p83Pcbib+sZ95PBHXRaftvDSkCFeqqHKAmFtgkM05Yultf5d2TDk9aRQ/31F8sYK1is4t6ilIwReJKOPbAFDGFLnp4B+v0aBLRN4Z+Q07mhIALXOH8rGpHbsB0AqO1++ZgRnACOlIWRp3ZzD+HiTxiw2L8Qa5oRf+/LpTRtzB5MUsEdPlpiPW9B1wQ+oNCEZ6uOs7BDTzuGhzti/HuSvmHY1M33Z5lJg/Biz+F1UDCd23EPMY7+rn+NXAToePs0TqnENbN21bnTGALNZ43V9VGUhS5HjJvDfDUZdV7uQ/20M9DVtevZeQYu2IRqDowFwAAA==",
+    "color": "#f8c898",
+    "variants": {
+      "avif": {
+        "320": "/gallery/eeaf6886f26b3ea3-320.avif",
+        "480": "/gallery/eeaf6886f26b3ea3-480.avif",
+        "640": "/gallery/eeaf6886f26b3ea3-640.avif",
+        "960": "/gallery/eeaf6886f26b3ea3-960.avif",
+        "1279": "/gallery/eeaf6886f26b3ea3-1279.avif"
+      },
+      "webp": {
+        "320": "/gallery/eeaf6886f26b3ea3-320.webp",
+        "480": "/gallery/eeaf6886f26b3ea3-480.webp",
+        "640": "/gallery/eeaf6886f26b3ea3-640.webp",
+        "960": "/gallery/eeaf6886f26b3ea3-960.webp",
+        "1279": "/gallery/eeaf6886f26b3ea3-1279.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 21",
+    "sourceHash": "eeaf6886f26b3ea3ec50906a1a3afbb068134d447767a2abee0ef84b4db414a5"
+  },
+  {
+    "id": "gallery-22",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACQBACdASoYABAAPvVmq04qpaQiMAgBUB6JbAC7MjcAxbYDVVKU9GRivck47UAA/u6Lupu5PXI+BjxrbadX7xfvg5/YVI9FDSyM4Bxumu+l6SgikKTKn5OIvGgG07IA0ZtbVeAONhDHo8CNUBoPsTttUwt+xNuHXf6cbH7PjodYXaHmcc2aorftPtcWRSjlT13ARcAA",
+    "color": "#181828",
+    "variants": {
+      "avif": {
+        "320": "/gallery/eba2ae8553edd071-320.avif",
+        "480": "/gallery/eba2ae8553edd071-480.avif",
+        "640": "/gallery/eba2ae8553edd071-640.avif",
+        "960": "/gallery/eba2ae8553edd071-960.avif",
+        "1280": "/gallery/eba2ae8553edd071-1280.avif",
+        "1920": "/gallery/eba2ae8553edd071-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/eba2ae8553edd071-320.webp",
+        "480": "/gallery/eba2ae8553edd071-480.webp",
+        "640": "/gallery/eba2ae8553edd071-640.webp",
+        "960": "/gallery/eba2ae8553edd071-960.webp",
+        "1280": "/gallery/eba2ae8553edd071-1280.webp",
+        "1920": "/gallery/eba2ae8553edd071-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 22",
+    "sourceHash": "eba2ae8553edd071a5e6254ea4a596972d78761f6d712c6b9798ca7da89975b1"
+  },
+  {
+    "id": "gallery-23",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbAAAXBuUiqty1KgjpwlmHYAA/vKiXScOZC0HLmUEvcw/gJJJsh6QqcNUQ+bfKZoTkZyLLwy72UYPBfiT1f9gBU+rJMEFjKC5YLVT5otcQkLvjJzIfCXeV5ez/TgWtcsO4/uTChc6T4gA",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/b58b6328eded6a20-320.avif",
+        "480": "/gallery/b58b6328eded6a20-480.avif",
+        "640": "/gallery/b58b6328eded6a20-640.avif",
+        "960": "/gallery/b58b6328eded6a20-960.avif",
+        "1280": "/gallery/b58b6328eded6a20-1280.avif",
+        "1920": "/gallery/b58b6328eded6a20-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/b58b6328eded6a20-320.webp",
+        "480": "/gallery/b58b6328eded6a20-480.webp",
+        "640": "/gallery/b58b6328eded6a20-640.webp",
+        "960": "/gallery/b58b6328eded6a20-960.webp",
+        "1280": "/gallery/b58b6328eded6a20-1280.webp",
+        "1920": "/gallery/b58b6328eded6a20-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 23",
+    "sourceHash": "b58b6328eded6a2079ccfe675c8d4800d9f3680c16d8b241259dc2ebcc14ee5b"
+  },
+  {
+    "id": "gallery-24",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JYgAOcFuAMlB0ft5jroEV4jDAAP7wyVOk4w9/rRte3qR6nS9ltiOWelo/rzH9ulBND/FSmFMffR8yq6uc4YvSNJOJuLEMI2+QvFJTN+fvEQ7SbLWFQbaQpXPmAd0lQAA=",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/008c1d07915f2cc8-320.avif",
+        "480": "/gallery/008c1d07915f2cc8-480.avif",
+        "640": "/gallery/008c1d07915f2cc8-640.avif",
+        "960": "/gallery/008c1d07915f2cc8-960.avif",
+        "1280": "/gallery/008c1d07915f2cc8-1280.avif",
+        "1920": "/gallery/008c1d07915f2cc8-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/008c1d07915f2cc8-320.webp",
+        "480": "/gallery/008c1d07915f2cc8-480.webp",
+        "640": "/gallery/008c1d07915f2cc8-640.webp",
+        "960": "/gallery/008c1d07915f2cc8-960.webp",
+        "1280": "/gallery/008c1d07915f2cc8-1280.webp",
+        "1920": "/gallery/008c1d07915f2cc8-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 24",
+    "sourceHash": "008c1d07915f2cc8f2759261064dc40cb4c03e7517014f6e10e2297aabe7539f"
+  },
+  {
+    "id": "gallery-25",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JZwDKACHhMx1DmrD9/iXT7FwQAP7tIAgv7ElGzJM7+YZevmFdMDm08pR9tqtzmnzU+f/WROf+S6NJebETyH4JGbaxOzL3orySqnQe3LsbF2WS1DMeZgR87TvhowNZp6G8QPa4P4xTSpWY/4LZ2EAMZcAAAA==",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/0ade17e12111640e-320.avif",
+        "480": "/gallery/0ade17e12111640e-480.avif",
+        "640": "/gallery/0ade17e12111640e-640.avif",
+        "960": "/gallery/0ade17e12111640e-960.avif",
+        "1280": "/gallery/0ade17e12111640e-1280.avif",
+        "1920": "/gallery/0ade17e12111640e-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/0ade17e12111640e-320.webp",
+        "480": "/gallery/0ade17e12111640e-480.webp",
+        "640": "/gallery/0ade17e12111640e-640.webp",
+        "960": "/gallery/0ade17e12111640e-960.webp",
+        "1280": "/gallery/0ade17e12111640e-1280.webp",
+        "1920": "/gallery/0ade17e12111640e-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 25",
+    "sourceHash": "0ade17e12111640e41c259dc6e9acb4227d5e4c18972d4f62409cc131196b47d"
+  },
+  {
+    "id": "gallery-26",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JQBgbsYTbz0naLLxoQh7nqHRxHAAA/u9IbtOTrNgOaC3UZM7l7lWt0O1IfohDBfYJiVZ0Nd9sw/bPUmZ3NtQQ36MuY8b9tAXruKVRVYFhB03Gso4S3/cRjIfAZzux9fURDA0MSBVfWu6/LJrO6IDUUMUrrAyV9fedfbgsER6UWN/yHehWSmX5ZzjvLYDAAAA=",
+    "color": "#181818",
+    "variants": {
+      "avif": {
+        "320": "/gallery/4386780e5f024588-320.avif",
+        "480": "/gallery/4386780e5f024588-480.avif",
+        "640": "/gallery/4386780e5f024588-640.avif",
+        "960": "/gallery/4386780e5f024588-960.avif",
+        "1280": "/gallery/4386780e5f024588-1280.avif",
+        "1920": "/gallery/4386780e5f024588-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/4386780e5f024588-320.webp",
+        "480": "/gallery/4386780e5f024588-480.webp",
+        "640": "/gallery/4386780e5f024588-640.webp",
+        "960": "/gallery/4386780e5f024588-960.webp",
+        "1280": "/gallery/4386780e5f024588-1280.webp",
+        "1920": "/gallery/4386780e5f024588-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 26",
+    "sourceHash": "4386780e5f024588224fd77630e2ff3c46dfb0f40e6f252f487713b33b3d60e6"
+  },
+  {
+    "id": "gallery-27",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JZAC7ACFsMkVPP680F0K46bIAAP7wzbStonhe4ZjJF06ZxBRk4kTsX1LJ3QdeRhuIM+hCiIOtgqG4kZZxaQVhsE1FjcoRwdxkodGFs/m+WXV1XzcZRoFZrs9YqlGoOcxXEn0AjmQzQ5FHBah+7m8H+GTgTjgZJkbxRrckSTPqAAAA",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/f6f3f0dd7637e43e-320.avif",
+        "480": "/gallery/f6f3f0dd7637e43e-480.avif",
+        "640": "/gallery/f6f3f0dd7637e43e-640.avif",
+        "960": "/gallery/f6f3f0dd7637e43e-960.avif",
+        "1280": "/gallery/f6f3f0dd7637e43e-1280.avif",
+        "1920": "/gallery/f6f3f0dd7637e43e-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/f6f3f0dd7637e43e-320.webp",
+        "480": "/gallery/f6f3f0dd7637e43e-480.webp",
+        "640": "/gallery/f6f3f0dd7637e43e-640.webp",
+        "960": "/gallery/f6f3f0dd7637e43e-960.webp",
+        "1280": "/gallery/f6f3f0dd7637e43e-1280.webp",
+        "1920": "/gallery/f6f3f0dd7637e43e-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 27",
+    "sourceHash": "f6f3f0dd7637e43ed7f3fafd2156129c8bdf3297c92429563c8cd38a7a8090f3"
+  },
+  {
+    "id": "gallery-28",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JQBfrGQR6rymHHooYLLpxHAAA/tmYaRJqSejmWiL7BR74oELfoubhpN1QiBPfpzB36m+yqxKYgV0DxlOpXRdzFEed8a+8xkdbEs8uc0R/X7+lt8+UVLChF992ad25ALPduHqmCVCgQVYm5jXfOtIKRT/aLJuJDMBs8ccNqxL8eSq8aGQbYNpUGBEzropAHC7KyAvJiYTDAvQAAAA=",
+    "color": "#182838",
+    "variants": {
+      "avif": {
+        "320": "/gallery/8e9435cd893deabb-320.avif",
+        "480": "/gallery/8e9435cd893deabb-480.avif",
+        "640": "/gallery/8e9435cd893deabb-640.avif",
+        "960": "/gallery/8e9435cd893deabb-960.avif",
+        "1280": "/gallery/8e9435cd893deabb-1280.avif",
+        "1920": "/gallery/8e9435cd893deabb-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/8e9435cd893deabb-320.webp",
+        "480": "/gallery/8e9435cd893deabb-480.webp",
+        "640": "/gallery/8e9435cd893deabb-640.webp",
+        "960": "/gallery/8e9435cd893deabb-960.webp",
+        "1280": "/gallery/8e9435cd893deabb-1280.webp",
+        "1920": "/gallery/8e9435cd893deabb-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 28",
+    "sourceHash": "8e9435cd893deabb40a0f87a84d39d2d2b391fc4c36f3ea5815c41abd11c1a12"
+  },
+  {
+    "id": "gallery-29",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JagBTAAbjHtSb/doRtyHh3kDmwAD+2sa7hh5RIomSnhN4P9pmYs/XWLgnYaywvpqN84Nz7C6RBSOJe/HL/KuBaQkHnyq8hHtLxOXDeE2vS/PLZ5p2nLQ2VsRuBlXx2UlTId0Dn/2f/9YoUoE6vWbdbhZvCsvD4ly5fm31h1Uda29BriPisLVtFL6yTeCVki4ggAAA",
+    "color": "#183848",
+    "variants": {
+      "avif": {
+        "320": "/gallery/1acefab6dc64cdfc-320.avif",
+        "480": "/gallery/1acefab6dc64cdfc-480.avif",
+        "640": "/gallery/1acefab6dc64cdfc-640.avif",
+        "960": "/gallery/1acefab6dc64cdfc-960.avif",
+        "1280": "/gallery/1acefab6dc64cdfc-1280.avif",
+        "1920": "/gallery/1acefab6dc64cdfc-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/1acefab6dc64cdfc-320.webp",
+        "480": "/gallery/1acefab6dc64cdfc-480.webp",
+        "640": "/gallery/1acefab6dc64cdfc-640.webp",
+        "960": "/gallery/1acefab6dc64cdfc-960.webp",
+        "1280": "/gallery/1acefab6dc64cdfc-1280.webp",
+        "1920": "/gallery/1acefab6dc64cdfc-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 29",
+    "sourceHash": "1acefab6dc64cdfc2b319d266202f1d998b0fb8b9661ddecb51de436a9aa372c"
+  },
+  {
+    "id": "gallery-30",
+    "width": 1279,
+    "height": 1920,
+    "aspect": 0.6661458333333333,
+    "blur": "data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAAAwBwCdASoYACQAPvVsqVCqpaOiqqoBUB6JZgCxHxs+CCutwJBaJ4Gj+n8I61UTGCbL5mBm0hrCzzB5ewfbWphbc4AA/sQBV3fRMbh938W4v5wKJPMKFL5pTLzbLeLcqcVE/gbo4OfmtHhj7LIcZMpBeJfeDX/HZDVJ3yCtudYjdGIhtXxLgzaKQ1pnnpIMJ+yr+aEyyOq+IMPVESHaDotJNNP8dwT4meyztojvdlYsviuVvzwnEYVdg/ayHfR31X0cJwVWravTi8sRb/BPnX4EH4W3fQfneVEv7Wr2xfXHYtDvqz8k0SXYZUo3qSycWwRzW+NqgpHNylxkcBO2iKjEXvZONdfsFNChoIRQH6FHqe1XFKT07ytGjT9kvPvWvohfniQogTDd2qxAAAA=",
+    "color": "#d89878",
+    "variants": {
+      "avif": {
+        "320": "/gallery/2e38afd8c00918ea-320.avif",
+        "480": "/gallery/2e38afd8c00918ea-480.avif",
+        "640": "/gallery/2e38afd8c00918ea-640.avif",
+        "960": "/gallery/2e38afd8c00918ea-960.avif",
+        "1279": "/gallery/2e38afd8c00918ea-1279.avif"
+      },
+      "webp": {
+        "320": "/gallery/2e38afd8c00918ea-320.webp",
+        "480": "/gallery/2e38afd8c00918ea-480.webp",
+        "640": "/gallery/2e38afd8c00918ea-640.webp",
+        "960": "/gallery/2e38afd8c00918ea-960.webp",
+        "1279": "/gallery/2e38afd8c00918ea-1279.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 30",
+    "sourceHash": "2e38afd8c00918eada1c706ed3a6f01557d764e023e6e1072b748d29bc862442"
+  },
+  {
+    "id": "gallery-31",
+    "width": 1279,
+    "height": 1920,
+    "aspect": 0.6661458333333333,
+    "blur": "data:image/webp;base64,UklGRjYBAABXRUJQVlA4ICoBAAAQBwCdASoYACQAPvVmq08qpaOiKqwBUB6JagCdBa+xgKptM6XG4yJ7vBrHg5f+jPKgBREfvHQOsUfw05utl40c0AD+2XTSzfoPeOuLqokOcXOSSh9PSFQ4SDqevAMTnPxpsD2Z44lL19glVdWMmWhcY93x827zNSIhhBFwz735POONV/hgyKsXO7sTYZFs7/hceL+XtyXOP3hzotAMwJrA5LXQWej1brEQjGFE2m/LE9DVpDigFeY+X5F4eji6QSqZLYeiJ90wXcYsXlwURFpmvyLjsTFjJx/mVsbS+bw2kX3PFwbXjOnmkBFiPfKyg9a5AHObPQbKFzLjHCwV+V79gk5Ha7FuXXvbANV1Knay0pBvzhvDe96/fqVGYMc+c9zRbQll8EjVAAAA",
+    "color": "#382828",
+    "variants": {
+      "avif": {
+        "320": "/gallery/6d077154adf7436c-320.avif",
+        "480": "/gallery/6d077154adf7436c-480.avif",
+        "640": "/gallery/6d077154adf7436c-640.avif",
+        "960": "/gallery/6d077154adf7436c-960.avif",
+        "1279": "/gallery/6d077154adf7436c-1279.avif"
+      },
+      "webp": {
+        "320": "/gallery/6d077154adf7436c-320.webp",
+        "480": "/gallery/6d077154adf7436c-480.webp",
+        "640": "/gallery/6d077154adf7436c-640.webp",
+        "960": "/gallery/6d077154adf7436c-960.webp",
+        "1279": "/gallery/6d077154adf7436c-1279.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 31",
+    "sourceHash": "6d077154adf7436c98e11ec881e1c6c6d3c5b8df054adfdfdc1f3852783415eb"
+  },
+  {
+    "id": "gallery-32",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAwBACdASoYABAAPvVmqk4qpaOiMAgBUB6JbAC06BelRu44H9rdBr5/35QA/pjtOtJpnKJthE+PHcnhVQGWNiI3yJqyzpKVf4vvRIBFgNq0AkEZIldkDJRqoyVTK9TLdyRRxnmmcbtTmwhp6syF/3uTxz9i59Z94525Fh4nhL4eder1EiFMR2UqLYonf/E4RyNuusfLQLaoPse6TDXsMsJYLfvrPRwA",
+    "color": "#888898",
+    "variants": {
+      "avif": {
+        "320": "/gallery/53a3622e077894ea-320.avif",
+        "480": "/gallery/53a3622e077894ea-480.avif",
+        "640": "/gallery/53a3622e077894ea-640.avif",
+        "960": "/gallery/53a3622e077894ea-960.avif",
+        "1280": "/gallery/53a3622e077894ea-1280.avif",
+        "1920": "/gallery/53a3622e077894ea-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/53a3622e077894ea-320.webp",
+        "480": "/gallery/53a3622e077894ea-480.webp",
+        "640": "/gallery/53a3622e077894ea-640.webp",
+        "960": "/gallery/53a3622e077894ea-960.webp",
+        "1280": "/gallery/53a3622e077894ea-1280.webp",
+        "1920": "/gallery/53a3622e077894ea-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 32",
+    "sourceHash": "53a3622e077894eae07ed0e7adf15e48b39a9a326cfd155d442f2075edb73995"
+  },
+  {
+    "id": "gallery-33",
+    "width": 1667,
+    "height": 1365,
+    "aspect": 1.2212454212454213,
+    "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADQBACdASoYABQAPvVwsFKqpiSiqAgBUB6JQBWAZYAJyy01yoDFeYT7yUnOFRMMAAD+oX4n6Cv2mxlUNhi334vw8Rp5h0YtPN+hm6ePusfcufqqZD2RbU7dJwFZ37SsQNJIdKq5eB3CH3RlGAXP8NExT8zhRXDqW/QB8H4ob6rDy0/oH3UceYO85txO+EO4C8JPZsynh2pEn4wjnZe0aKG8kzrSFbVhDoJ46NfKE1Sy4iAoje4vOAAA",
+    "color": "#182848",
+    "variants": {
+      "avif": {
+        "320": "/gallery/469a86e695dbb30e-320.avif",
+        "480": "/gallery/469a86e695dbb30e-480.avif",
+        "640": "/gallery/469a86e695dbb30e-640.avif",
+        "960": "/gallery/469a86e695dbb30e-960.avif",
+        "1280": "/gallery/469a86e695dbb30e-1280.avif",
+        "1667": "/gallery/469a86e695dbb30e-1667.avif"
+      },
+      "webp": {
+        "320": "/gallery/469a86e695dbb30e-320.webp",
+        "480": "/gallery/469a86e695dbb30e-480.webp",
+        "640": "/gallery/469a86e695dbb30e-640.webp",
+        "960": "/gallery/469a86e695dbb30e-960.webp",
+        "1280": "/gallery/469a86e695dbb30e-1280.webp",
+        "1667": "/gallery/469a86e695dbb30e-1667.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 33",
+    "sourceHash": "469a86e695dbb30e2876b326eaee32c0d5521f6cae4490d88076ffbe62a248e0"
+  },
+  {
+    "id": "gallery-34",
+    "width": 1336,
+    "height": 1365,
+    "aspect": 0.9787545787545787,
+    "blur": "data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAAAQBgCdASoYABgAPvVsqlCqpaOiqA1RUB6JQBgBkn1NHuxFt6Pu9Kg2cPrQJ8R4Jl/5tXrTgKktpeAA/jRQUxTFIxn+u2PoNsURXu+JGZVing6Y1i974Bo4t9w/2rxRaBjQnl0UvP+B7c92+zMboqzvWPzZRsxdmuJHN+TjYcxy/tz13LXZ2BrmrAxWHPyGJ/5LHhaqfxJ1n+XhWYOonr5p+OIzb7XDSbZdnbMTXP/kRrhBZnh3DMG9uWkrCM/xrioBOk83o2NfM03KgLtnMeJQXBIA7TK6QproMPvBdm06CwQVL9pGc9zkjJr3tQBnVmIq84TfwZLGRHiezNFmRr8GnhVu8k2t35VqTIOZ1pM6E2N9DVKT/2TMSDUQFvEmW6CF/vSwAAA=",
+    "color": "#e8e8e8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/ac73a4f1f5364392-320.avif",
+        "480": "/gallery/ac73a4f1f5364392-480.avif",
+        "640": "/gallery/ac73a4f1f5364392-640.avif",
+        "960": "/gallery/ac73a4f1f5364392-960.avif",
+        "1280": "/gallery/ac73a4f1f5364392-1280.avif",
+        "1336": "/gallery/ac73a4f1f5364392-1336.avif"
+      },
+      "webp": {
+        "320": "/gallery/ac73a4f1f5364392-320.webp",
+        "480": "/gallery/ac73a4f1f5364392-480.webp",
+        "640": "/gallery/ac73a4f1f5364392-640.webp",
+        "960": "/gallery/ac73a4f1f5364392-960.webp",
+        "1280": "/gallery/ac73a4f1f5364392-1280.webp",
+        "1336": "/gallery/ac73a4f1f5364392-1336.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 34",
+    "sourceHash": "ac73a4f1f53643923906065327bdc7265c997e38634a954bf4b70846e70676ee"
+  },
+  {
+    "id": "gallery-35",
+    "width": 853,
+    "height": 1280,
+    "aspect": 0.66640625,
+    "blur": "data:image/webp;base64,UklGRigBAABXRUJQVlA4IBwBAABQBwCdASoYACQAPvVusVKqpiSiqrgIAVAeiWIAuzNGACLFA0wYSe4C2QHTCtObfp0OAusdtCf6vAZzHrw7RikyTlMwAP5tFCXbMqU1XmMw+w7aJPwyOPJjPemZ2ri1U+a29hTbVoNVnal2FFBtXF7iPoogRnybke4tRUFUPlA70CYfYm5B9Z2HQbGSTqVSd88yimbDqqrKRzEl/+Tpj9iZ2C1XKVsNLrJ6pRj1JU1Lgi5kiX2vK5FDgd8766OAPTAyoigg1raKkWoQHrTIhRBE/Chtsy6I+HDW+0Ll2wD0EeRqSKf40Zlqmej1nwdx4WAXTDHaUNml9myxvpgbQRRF1gGcTA3dgcgqkqi8lGpSf5Mu4qyFcFPDFqkAAA==",
+    "color": "#f8e8c8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/3744fe3e09bb17c2-320.avif",
+        "480": "/gallery/3744fe3e09bb17c2-480.avif",
+        "640": "/gallery/3744fe3e09bb17c2-640.avif",
+        "853": "/gallery/3744fe3e09bb17c2-853.avif"
+      },
+      "webp": {
+        "320": "/gallery/3744fe3e09bb17c2-320.webp",
+        "480": "/gallery/3744fe3e09bb17c2-480.webp",
+        "640": "/gallery/3744fe3e09bb17c2-640.webp",
+        "853": "/gallery/3744fe3e09bb17c2-853.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 35",
+    "sourceHash": "3744fe3e09bb17c22b572939498921b4d4d26e8d667e6d18b986e89239357c48"
+  },
+  {
+    "id": "gallery-36",
+    "width": 1279,
+    "height": 1920,
+    "aspect": 0.6661458333333333,
+    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADwBgCdASoYACQAPvV2r1Iqp6QiqrgIAVAeiWUAA+doneBRc1jKa07wu+XIFAUVuJ7TChobsR0L+GcIGBMjnTQAAP7m5OfYfqeOeA33rZWxniyvWfETn1pbI6cDYXNgngbuDqBLHT0LmuaQoqf6byTbgc33edi8Peip9TJ8bNjEFtTRpkWeBiHpY2sVsl3S5lxKBrdqSSSMZt0G+QZGgusQeMW2hhjz5dO5l0ARCcuc+dc91MPpBA8ML+NWePTqMKH19l5pDQP4IhvsP1OTFu4U5fRIAAXt0Yk5y0UtLsX9CNB5Um6y+q2jRsNInp4c1xmrWv4YAIAAAA==",
+    "color": "#382818",
+    "variants": {
+      "avif": {
+        "320": "/gallery/d04a9c0e7f1b648f-320.avif",
+        "480": "/gallery/d04a9c0e7f1b648f-480.avif",
+        "640": "/gallery/d04a9c0e7f1b648f-640.avif",
+        "960": "/gallery/d04a9c0e7f1b648f-960.avif",
+        "1279": "/gallery/d04a9c0e7f1b648f-1279.avif"
+      },
+      "webp": {
+        "320": "/gallery/d04a9c0e7f1b648f-320.webp",
+        "480": "/gallery/d04a9c0e7f1b648f-480.webp",
+        "640": "/gallery/d04a9c0e7f1b648f-640.webp",
+        "960": "/gallery/d04a9c0e7f1b648f-960.webp",
+        "1279": "/gallery/d04a9c0e7f1b648f-1279.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 36",
+    "sourceHash": "d04a9c0e7f1b648f5a46dba892386be81ea8fabf45714a4e1a606677f23dece7"
+  },
+  {
+    "id": "gallery-37",
+    "width": 854,
+    "height": 1280,
+    "aspect": 0.6671875,
+    "blur": "data:image/webp;base64,UklGRnQBAABXRUJQVlA4IGgBAABwCACdASoYACQAPvVwrlEqpqQiqrgKAVAeiWwApzUiCASwB/ADtEDAde090h7NfSjwIlLvkA7R9qeYiNByndQzWqVD+j+eKuAtHgBgAP39E7xgSccIlrhXoJ/CNxzLi9u45drztK+0m+AMaFGfhfmWiy2l7ZXLUq+/iaFbTprDl1OEUtoZmtTf9FYTT3J3r4HMfMuRkQ1vZUaqtFZIOrF2xpuPEwCbOtj3cNiPrBCLtzn0Kck7xedBIrclH1cQz/KOpQ556s/oQFsYaHT94CM89UXSda79zYakG97otlEPsUTXYgqn91mv05UvwGfyKManMOgztSnvVvV1amHPhGJ/SiBLCrR/oAp2aMY+2e7JSBor5y18oMdwuH+KEDhY7Rheg6f3Eoi06e7lmPM+zsqFX3EvCeEZkjh91fSVqM/K9KNeZ5Erh6zU0MOw/E9oj6OVHPkkTQ73q7RrjxgbVLuW1ZVgBgGaMAA=",
+    "color": "#e8e808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/fbe9f21fab5ede5f-320.avif",
+        "480": "/gallery/fbe9f21fab5ede5f-480.avif",
+        "640": "/gallery/fbe9f21fab5ede5f-640.avif",
+        "854": "/gallery/fbe9f21fab5ede5f-854.avif"
+      },
+      "webp": {
+        "320": "/gallery/fbe9f21fab5ede5f-320.webp",
+        "480": "/gallery/fbe9f21fab5ede5f-480.webp",
+        "640": "/gallery/fbe9f21fab5ede5f-640.webp",
+        "854": "/gallery/fbe9f21fab5ede5f-854.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 37",
+    "sourceHash": "fbe9f21fab5ede5f34067f7266e5754c9674eb998f7801db7c041191f9c5dbd1"
+  },
+  {
+    "id": "gallery-38",
+    "width": 854,
+    "height": 1280,
+    "aspect": 0.6671875,
+    "blur": "data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAADwBwCdASoYACQAPvVoq1CqpaOiqqoBUB6JbACdMw40QRJu0A7Xtx2l1W3W2UBZVRoPVEWJy/seokNZNfIZhXrh5eoDTrD8lngAyt1cyeN2ladYQ1xHSaN5aypmCrq9Pc/3feTewivCotNkizuFCj3DVp+SGgm9SUSzUiAptPta2Yys7w1Psu+3Z1YwrdqVzueL2Q659msfg8my78M5QIGCkwLA7qvQGuDjzHhRv+DWJTkZ4CFYE95zZRukGYu2kmdigwy+v8s1yM4nVWb0NPJ/RVC+PUEJmQusVlhj+KN+uDdqmaCl33GrqmPdmIWgh9I8p2NTIwbd6u+JfOpKmAbN7TmMbdGZDVfg5KBP1d2if9AYCpVgrhCvNvq+T2fYJsy5d7YWbJavf19PMqvlxi7BFZQbqLKw8izgPt5R8CVcVkiD/L01LZ8e6e+3Ka/Kaj5JpgiUqbCr9Ym8eBJTQYAA",
+    "color": "#482878",
+    "variants": {
+      "avif": {
+        "320": "/gallery/9e2940096c905607-320.avif",
+        "480": "/gallery/9e2940096c905607-480.avif",
+        "640": "/gallery/9e2940096c905607-640.avif",
+        "854": "/gallery/9e2940096c905607-854.avif"
+      },
+      "webp": {
+        "320": "/gallery/9e2940096c905607-320.webp",
+        "480": "/gallery/9e2940096c905607-480.webp",
+        "640": "/gallery/9e2940096c905607-640.webp",
+        "854": "/gallery/9e2940096c905607-854.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 38",
+    "sourceHash": "9e2940096c90560765ba32a46c9a6dd1439514798d396553a61f473a122fc64e"
+  },
+  {
+    "id": "gallery-39",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbAC0+fwAMhwUUuvtycgTOEMAAPzv/L9zLlnYRbdQYQYYHqQo7KzknqsOgUP8bbyR/PJm6DkAj2N7b4/7Xf/+vGBE9alzNkhi3dxTw+RG8I85WME0xnozx6Jm9g0gjX2fCFQjWb2OK8k7ORH3Xb16Ykv9nWWApg5er63mLLjHzkl80gvfO1REOYfT5qgm+VNgAA==",
+    "color": "#a8b8b8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/3c98103b486d22d6-320.avif",
+        "480": "/gallery/3c98103b486d22d6-480.avif",
+        "640": "/gallery/3c98103b486d22d6-640.avif",
+        "960": "/gallery/3c98103b486d22d6-960.avif",
+        "1280": "/gallery/3c98103b486d22d6-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/3c98103b486d22d6-320.webp",
+        "480": "/gallery/3c98103b486d22d6-480.webp",
+        "640": "/gallery/3c98103b486d22d6-640.webp",
+        "960": "/gallery/3c98103b486d22d6-960.webp",
+        "1280": "/gallery/3c98103b486d22d6-1280.webp"
+      }
+    },
+    "featured": true,
+    "alt": "The Wuse Assembly family gathered together",
+    "sourceHash": "3c98103b486d22d657773b3bc53f3b09fb7f8cae077b47a46803f2193fb7a0d1"
+  },
+  {
+    "id": "gallery-40",
+    "width": 853,
+    "height": 1280,
+    "aspect": 0.66640625,
+    "blur": "data:image/webp;base64,UklGRrYBAABXRUJQVlA4IKoBAADQCQCdASoYACQAPvVmrE6qpaQiKqwBUB6JbACdMxvKPejgAbcDngNMd9ACYASLZbUXMsJRslKwZ8+7h8b7w96YOIgeP4Bk8Qqs+2UOBWbLAEJ/MIlaFUAA/qPf/yh1R5v36Wss7De2ELFrT1gOHawW2dao0BctLE5mECC9eX32ZCnotzzbdB0QuN+a+8PGhGNU62O8cNYDBwcDL/1WWx2c9rZLioe87RRrzItMbw0nv80oNezOG6qDPYwWZXhE22AeYrfMTxQwUeNeDI/hsg5nO4tvdM6QylljTDLMUrcKuCyzc+BAvlLsJaKs7QyxQRa488sXGzz8hI5h7r5sJj91HlXmcWCKUOvRW8aLxxpmm1l1X4ztdkzGPj0/XqQXiIEks3sSwXeQsDiyvmZiEkqvYBl4PFvp3uSiSZ8INXwwf3QNOc12054HHLro9TztpMH+s/BAPBStd0BKuHRujnE/ZEq2/zJz7urShR9ZarEa4si7NReNh6yt/A5B5FycGB5PyTHkj+Kth34RuJRT6XHTAL7i/8hh1hdEXtGWFq6AFfexJQ0jl+hgAAA=",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/f15bc63e7e097b37-320.avif",
+        "480": "/gallery/f15bc63e7e097b37-480.avif",
+        "640": "/gallery/f15bc63e7e097b37-640.avif",
+        "853": "/gallery/f15bc63e7e097b37-853.avif"
+      },
+      "webp": {
+        "320": "/gallery/f15bc63e7e097b37-320.webp",
+        "480": "/gallery/f15bc63e7e097b37-480.webp",
+        "640": "/gallery/f15bc63e7e097b37-640.webp",
+        "853": "/gallery/f15bc63e7e097b37-853.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 40",
+    "sourceHash": "f15bc63e7e097b37983da09f0ba8ff179ff9ed8ef8343436507be2b1fb284b9b"
+  },
+  {
+    "id": "gallery-41",
+    "width": 854,
+    "height": 1280,
+    "aspect": 0.6671875,
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAwBwCdASoYACQAPvVwsFIqpiSipWsxUB6JYgCdM2KApGWt4jDUOlTsrc+Tyr3zFtsmmhe+pIF/Cs2oEVpMo1EQnIgA9kGES6OOgcwTC4NyT6sgw7C2uaPHxfh+DdbSBSHTN9tAeZdhynKuqy1iCdKO0JUINtPIsh8q7N5lERYPCdUs43MfIJUKZr7qShDsiKkkqsWVGWbU9ba1OKROM4OyUyb0lgbzpgzy5gLrN3FkhCRHO9Ol9KfwlFKhkX85lwTSfSjzjFOF4F45DUCEWi7IiJ7f9cT89UeQW6Xwwle4G6ufYjfZLpoBDsh/yZoa3cUI21oQAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/8cb8bf4c2154abf6-320.avif",
+        "480": "/gallery/8cb8bf4c2154abf6-480.avif",
+        "640": "/gallery/8cb8bf4c2154abf6-640.avif",
+        "854": "/gallery/8cb8bf4c2154abf6-854.avif"
+      },
+      "webp": {
+        "320": "/gallery/8cb8bf4c2154abf6-320.webp",
+        "480": "/gallery/8cb8bf4c2154abf6-480.webp",
+        "640": "/gallery/8cb8bf4c2154abf6-640.webp",
+        "854": "/gallery/8cb8bf4c2154abf6-854.webp"
+      }
+    },
+    "featured": true,
+    "alt": "A minister speaking at the assembly",
+    "sourceHash": "8cb8bf4c2154abf68850b69559ecbd15e7ffa61d9ef3380b8588305b334a2800"
+  },
+  {
+    "id": "gallery-42",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADwAwCdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoACdoXgB1UIft+IAP68jUKDpuADqHslvNx51ZybbIcNVaDeeqtWHxZWEqmjaaCCMOWsZDAORyhxlfa4I983abXHXT7kJdWrzj0cWUsv49qn35+L/s//T7PGdrjfb9QpYs/Z6O8orRBdlseJ+Hp/w/1InBpUojGmuMbt0BNYxvCD1ifEri8K443/G3Bzv/+Dkyzf6pXg/gwAwAAA",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/2e4d6f767f0c1f1c-320.avif",
+        "480": "/gallery/2e4d6f767f0c1f1c-480.avif",
+        "640": "/gallery/2e4d6f767f0c1f1c-640.avif",
+        "960": "/gallery/2e4d6f767f0c1f1c-960.avif",
+        "1280": "/gallery/2e4d6f767f0c1f1c-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/2e4d6f767f0c1f1c-320.webp",
+        "480": "/gallery/2e4d6f767f0c1f1c-480.webp",
+        "640": "/gallery/2e4d6f767f0c1f1c-640.webp",
+        "960": "/gallery/2e4d6f767f0c1f1c-960.webp",
+        "1280": "/gallery/2e4d6f767f0c1f1c-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 42",
+    "sourceHash": "2e4d6f767f0c1f1c1c84c8531cf41f35cd9ef4008fb81bb4e33a4015398b87ce"
+  },
+  {
+    "id": "gallery-43",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdH8D2WSvA93R/ZCkypYxOq8WssUAA/mrnG6MV2/2IkPIHHjUJxQr1Pc2cFY6U30O1Xq5rdJRHHTz3NO45+1/xUKdh+6O6C+O7YLmpu2VajUsSLSJCRXf2JRgO3lzXr/nBDTqMhaJkd4RjlzUxT/cf1fZI6xZ6SY+oLtM8jPEsZU696ndo6XacXH+379t1Rb8X8Faq6UCapZBgB+bKXsmwYFOqKYVjP1nDZfzt1eiykjytSDN9hBr4AAAA",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/098f1b436f48eea8-320.avif",
+        "480": "/gallery/098f1b436f48eea8-480.avif",
+        "640": "/gallery/098f1b436f48eea8-640.avif",
+        "960": "/gallery/098f1b436f48eea8-960.avif",
+        "1280": "/gallery/098f1b436f48eea8-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/098f1b436f48eea8-320.webp",
+        "480": "/gallery/098f1b436f48eea8-480.webp",
+        "640": "/gallery/098f1b436f48eea8-640.webp",
+        "960": "/gallery/098f1b436f48eea8-960.webp",
+        "1280": "/gallery/098f1b436f48eea8-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 43",
+    "sourceHash": "098f1b436f48eea80885e91b833a0f56d5e3d4d1e10b1587333c1a8d61fa4f57"
+  },
+  {
+    "id": "gallery-44",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAAAwBQCdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoLUDgAYW2BAXu+dS0ZkIQ2AGvIZAAD+JeYpV5d/K3kZDQNYvR8Y+0x/PzRkxFix3bicxXfbt5x7FeaFFuD2XxuNffm8A7H1Hz5j01EY52P0BFLk7Rdk3BxBYtgSR/Gr/E92urD7If1dbJ3rYJ/dQzv4pU7wrvhXFa18t7rbfFp8E9flMoVDvujXitI3C7m9XedVzP/akzIWg8Z8Z/CP9aV9bAAAAA==",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/31ca47f7846ecafd-320.avif",
+        "480": "/gallery/31ca47f7846ecafd-480.avif",
+        "640": "/gallery/31ca47f7846ecafd-640.avif",
+        "960": "/gallery/31ca47f7846ecafd-960.avif",
+        "1280": "/gallery/31ca47f7846ecafd-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/31ca47f7846ecafd-320.webp",
+        "480": "/gallery/31ca47f7846ecafd-480.webp",
+        "640": "/gallery/31ca47f7846ecafd-640.webp",
+        "960": "/gallery/31ca47f7846ecafd-960.webp",
+        "1280": "/gallery/31ca47f7846ecafd-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 44",
+    "sourceHash": "31ca47f7846ecafd72b0f5ad66519c6aae7488f9008940858e0a6b6036212d59"
+  },
+  {
+    "id": "gallery-45",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdGvVAUyHkBXJ5YbYRNuc2gAD+FSHE+ABhqFFfzTNR6P4comhvCpK50D6VAR7DEZbtHSDWj/px89KSQN/pwj0SjllmSwzjNTkKzIH5cP7Bmqw+KUWGYpQTHiNpfms3S1Uz/aXMEUFiNDvmwwf9UL9gIfxUX9WTjgJ87hHWVEgkA2mOp15UygAAAA==",
+    "color": "#e8e8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/1f145b52df9a0a4d-320.avif",
+        "480": "/gallery/1f145b52df9a0a4d-480.avif",
+        "640": "/gallery/1f145b52df9a0a4d-640.avif",
+        "960": "/gallery/1f145b52df9a0a4d-960.avif",
+        "1280": "/gallery/1f145b52df9a0a4d-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/1f145b52df9a0a4d-320.webp",
+        "480": "/gallery/1f145b52df9a0a4d-480.webp",
+        "640": "/gallery/1f145b52df9a0a4d-640.webp",
+        "960": "/gallery/1f145b52df9a0a4d-960.webp",
+        "1280": "/gallery/1f145b52df9a0a4d-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 45",
+    "sourceHash": "1f145b52df9a0a4d993b1fb569acfeed2fb83c48368d7ae34e74d0c28e631b27"
+  },
+  {
+    "id": "gallery-46",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoR3ACUZbfARcajHBVhIAP7D/q88OujJqOvLlznfOZII6TfPZ/jKJFGoI01h3pTSjHV9FByQt1UB+KgJZoqOv8dLgvANpmR3gR3ZJ/C8pev3bDiucUinxm2oiPhyAGOQZsdBjoi+99Sz5kAQaPg2X77H4en56z+O5F/qnJRwSBBxQS/rtAUQAA==",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/ede0826aa9af2feb-320.avif",
+        "480": "/gallery/ede0826aa9af2feb-480.avif",
+        "640": "/gallery/ede0826aa9af2feb-640.avif",
+        "960": "/gallery/ede0826aa9af2feb-960.avif",
+        "1280": "/gallery/ede0826aa9af2feb-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/ede0826aa9af2feb-320.webp",
+        "480": "/gallery/ede0826aa9af2feb-480.webp",
+        "640": "/gallery/ede0826aa9af2feb-640.webp",
+        "960": "/gallery/ede0826aa9af2feb-960.webp",
+        "1280": "/gallery/ede0826aa9af2feb-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 46",
+    "sourceHash": "ede0826aa9af2febc2fb47405b603ec6373ccf0181df40a8898e41a52f1d4df6"
+  },
+  {
+    "id": "gallery-47",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoRwAkgPdiM+sl67ummgerkAAP7ED4D4CblHhdYWc50+CrdeLpEf5HUJgfGdE8H51GNbY7FTe7pLK1g44FdoOzB+X764b1OsTgwFe3eKZ+AVZPH2UNhJUTR6rFFn3B+L0JbJjw1APtGGcIDkPMNItvvdBkfkZZkqVi6gh9vIZ2qYS0cBl/gf2j37AKB09hPPS2ATW93/QDkf9cpwZ/VBOKC/fdsfPgAA",
+    "color": "#e8e8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/0bc4d635a4ee1cc3-320.avif",
+        "480": "/gallery/0bc4d635a4ee1cc3-480.avif",
+        "640": "/gallery/0bc4d635a4ee1cc3-640.avif",
+        "960": "/gallery/0bc4d635a4ee1cc3-960.avif",
+        "1280": "/gallery/0bc4d635a4ee1cc3-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/0bc4d635a4ee1cc3-320.webp",
+        "480": "/gallery/0bc4d635a4ee1cc3-480.webp",
+        "640": "/gallery/0bc4d635a4ee1cc3-640.webp",
+        "960": "/gallery/0bc4d635a4ee1cc3-960.webp",
+        "1280": "/gallery/0bc4d635a4ee1cc3-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 47",
+    "sourceHash": "0bc4d635a4ee1cc3d50023a58be1b68f56cecd7c5e6edc8746a092122c0b7343"
+  },
+  {
+    "id": "gallery-48",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBQCdASoYABAAPvVsrk4qpqSiMAgBUB6JbACdMoRwN5BbgwlkI0+3e+0rJzVWDaqWAADiQVpwb0iZegNJTncVx7nthCk7AKvFWmptACzjJjutWdBU/CJl03nCRqq29Upd3TNGk8if/hpNzB4LaEgfYbZJkTk7/ww/Z/nTJlPhP/Xy8oW4sQ2jGGEJJrzTLqXwVB1G5KbAIxq5fz/ki87DLRjm0zAWPnXk5Zxys5NHVNtTqUSvOzLAAAA=",
+    "color": "#a85808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/44546de4769d3eba-320.avif",
+        "480": "/gallery/44546de4769d3eba-480.avif",
+        "640": "/gallery/44546de4769d3eba-640.avif",
+        "960": "/gallery/44546de4769d3eba-960.avif",
+        "1280": "/gallery/44546de4769d3eba-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/44546de4769d3eba-320.webp",
+        "480": "/gallery/44546de4769d3eba-480.webp",
+        "640": "/gallery/44546de4769d3eba-640.webp",
+        "960": "/gallery/44546de4769d3eba-960.webp",
+        "1280": "/gallery/44546de4769d3eba-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 48",
+    "sourceHash": "44546de4769d3ebab122512204729a58fada1396113fdd9990b58900ce34115a"
+  },
+  {
+    "id": "gallery-49",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoR3ACfboV3EIKqhsp9A2AAA/tPbeHBRGaDNu6y3ztRq5EIlZqmve1p/DGpiktnaTnmQYgbOsdZyPWqch5rg4bvThKMlhsyTqOMCXfo/lXEDvkZuh/rtRIfVtaWic0wh2O8IjAfjsgkEwVa7cIBA5fSceW2A82J3RazzZF4sgwDgtFA2lqHZJSUCk9S5SjSZLOlDfsv0aAT9lR89j79eaH3RAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/14bd29554c9ac655-320.avif",
+        "480": "/gallery/14bd29554c9ac655-480.avif",
+        "640": "/gallery/14bd29554c9ac655-640.avif",
+        "960": "/gallery/14bd29554c9ac655-960.avif",
+        "1280": "/gallery/14bd29554c9ac655-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/14bd29554c9ac655-320.webp",
+        "480": "/gallery/14bd29554c9ac655-480.webp",
+        "640": "/gallery/14bd29554c9ac655-640.webp",
+        "960": "/gallery/14bd29554c9ac655-960.webp",
+        "1280": "/gallery/14bd29554c9ac655-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 49",
+    "sourceHash": "14bd29554c9ac655bb16574e9ea1db20f94f591bec519f00d3bbf15fec16d30e"
+  },
+  {
+    "id": "gallery-50",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAACQBACdASoYABAAPvVmq04qpaQiMAgBUB6JbACdMoFWAbyqBifQiHwOu9/5g0AA/vDHJ0oJlnWs2DjPqTMyKIY20WzoB8CdVoPc1cfyejw6fPDp7LVfPcyKCcEkoit0QD0JTErLmnGz2nKPQ/cuDFnV5lMhrHyYYNxlP/a/Pl87VNEZg0w+av0Wpe/PfamP5cwe/o3yPZpTm4OYo8Oiv5Yp1NhcwCfuHX1kBScfLs1rrqzU360Hntns8a2AGfD7Ki/nCwmJuo2AAAAA",
+    "color": "#180838",
+    "variants": {
+      "avif": {
+        "320": "/gallery/9345097cc6b5bfda-320.avif",
+        "480": "/gallery/9345097cc6b5bfda-480.avif",
+        "640": "/gallery/9345097cc6b5bfda-640.avif",
+        "960": "/gallery/9345097cc6b5bfda-960.avif",
+        "1280": "/gallery/9345097cc6b5bfda-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/9345097cc6b5bfda-320.webp",
+        "480": "/gallery/9345097cc6b5bfda-480.webp",
+        "640": "/gallery/9345097cc6b5bfda-640.webp",
+        "960": "/gallery/9345097cc6b5bfda-960.webp",
+        "1280": "/gallery/9345097cc6b5bfda-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 50",
+    "sourceHash": "9345097cc6b5bfda9a1f06e79ba5cf4cbd15da6926080f542308cecd5f2c9ac7"
+  },
+  {
+    "id": "gallery-51",
+    "width": 1279,
+    "height": 1920,
+    "aspect": 0.6661458333333333,
+    "blur": "data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAABwBgCdASoYACQAPvVqrVAqpaQiqqoBUB6JZAC2+7AB03XbDbM5AKIXCyN1d6IVjnjyMy1PNVTePAXLRAAAlUVAOPbYCbZGXoafC6w6YlY0sBblsnbpPdZPzYdH4GEDjgZFsNX7suFI0VgnV07FmaxUdb1kEv+OaLtiWyY1YebY8Cw/Hb6G4/cIQcExuT4pEoylICCRNmEMNHjKfRVN3ugxYWkfZ71ZM/+gtKoUFvp6aPUKMonABK5y7X2GqWYTT/chrotv28kWOJnYB+HNuJKAQfjJaQmF7d7h8IDjcgVdyyJZ/VN63r1y//+w8kC4nDUc5Rwdr6lCVYJPg/efmAAA",
+    "color": "#887878",
+    "variants": {
+      "avif": {
+        "320": "/gallery/4aa2f9f5865b236b-320.avif",
+        "480": "/gallery/4aa2f9f5865b236b-480.avif",
+        "640": "/gallery/4aa2f9f5865b236b-640.avif",
+        "960": "/gallery/4aa2f9f5865b236b-960.avif",
+        "1279": "/gallery/4aa2f9f5865b236b-1279.avif"
+      },
+      "webp": {
+        "320": "/gallery/4aa2f9f5865b236b-320.webp",
+        "480": "/gallery/4aa2f9f5865b236b-480.webp",
+        "640": "/gallery/4aa2f9f5865b236b-640.webp",
+        "960": "/gallery/4aa2f9f5865b236b-960.webp",
+        "1279": "/gallery/4aa2f9f5865b236b-1279.webp"
+      }
+    },
+    "featured": true,
+    "alt": "A church leader sharing a message",
+    "sourceHash": "4aa2f9f5865b236b402045c3c7c8ae726e9d1aa10462eb351d7c000575e58663"
+  },
+  {
+    "id": "gallery-52",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JQBadApf5PBBhM2SF0KodPAAA/J/ZOFPuc8TmYuhZdVaTHi9fK0FujnlWJzokM6JAJtLI76Nkg5/YfoeRVq9P7xW8C1geJoF1PJKbOG56fGLKd3JAWdFjhouceyfIEJoPbsEuGeBrnNDrFqEHZpJjeGL4eC17oMgAAA==",
+    "color": "#282828",
+    "variants": {
+      "avif": {
+        "320": "/gallery/7f3e074e099afd04-320.avif",
+        "480": "/gallery/7f3e074e099afd04-480.avif",
+        "640": "/gallery/7f3e074e099afd04-640.avif",
+        "960": "/gallery/7f3e074e099afd04-960.avif",
+        "1280": "/gallery/7f3e074e099afd04-1280.avif",
+        "1920": "/gallery/7f3e074e099afd04-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/7f3e074e099afd04-320.webp",
+        "480": "/gallery/7f3e074e099afd04-480.webp",
+        "640": "/gallery/7f3e074e099afd04-640.webp",
+        "960": "/gallery/7f3e074e099afd04-960.webp",
+        "1280": "/gallery/7f3e074e099afd04-1280.webp",
+        "1920": "/gallery/7f3e074e099afd04-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 52",
+    "sourceHash": "7f3e074e099afd0404024539a82c959534c419e4cc24705ad2a0bfee08ae8d86"
+  },
+  {
+    "id": "gallery-53",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JZgCdMoACC4bocWfrXsM5P8AAAPeLRum19W5jsRUTOc+/v2SUdRAk5Bgzz1sXwg5Z0hAoQk55uurq7n+bG5uY587xdmKTTR7cL+p5rZfpmhwWu5oKzs0+eGS3/jloLEQ3BR0tzEBpHw6xwXrRF588AiVWiwScgkNaksjN7SAQR9yWbjVMAiA2AAA=",
+    "color": "#d8b898",
+    "variants": {
+      "avif": {
+        "320": "/gallery/e483435e1000ac72-320.avif",
+        "480": "/gallery/e483435e1000ac72-480.avif",
+        "640": "/gallery/e483435e1000ac72-640.avif",
+        "960": "/gallery/e483435e1000ac72-960.avif",
+        "1280": "/gallery/e483435e1000ac72-1280.avif",
+        "1920": "/gallery/e483435e1000ac72-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/e483435e1000ac72-320.webp",
+        "480": "/gallery/e483435e1000ac72-480.webp",
+        "640": "/gallery/e483435e1000ac72-640.webp",
+        "960": "/gallery/e483435e1000ac72-960.webp",
+        "1280": "/gallery/e483435e1000ac72-1280.webp",
+        "1920": "/gallery/e483435e1000ac72-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 53",
+    "sourceHash": "e483435e1000ac72293629676b8bb6fd787adb68dd4b33a84fed6ed8a82c506e"
+  },
+  {
+    "id": "gallery-54",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADQAwCdASoYABAAPvVkqk4qpaOiMAgBUB6JbAC7AYxiifs/vo+5WvgA/mWUBwHpkrlpTHhvx9mM3jTe/6losDl4PMlgAfHDmTfZoIQck34ooYUldldQ6Y4tqrtl5lhh+nhcOTaj5UHxCkVR+CqMvfl0MEsC+NFYQ7VopfWt0DVow/IpczlN1gGA8l3gESis8+zMV4L6VcmgAA==",
+    "color": "#182838",
+    "variants": {
+      "avif": {
+        "320": "/gallery/f2c89d0a4f7873d5-320.avif",
+        "480": "/gallery/f2c89d0a4f7873d5-480.avif",
+        "640": "/gallery/f2c89d0a4f7873d5-640.avif",
+        "960": "/gallery/f2c89d0a4f7873d5-960.avif",
+        "1280": "/gallery/f2c89d0a4f7873d5-1280.avif",
+        "1920": "/gallery/f2c89d0a4f7873d5-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/f2c89d0a4f7873d5-320.webp",
+        "480": "/gallery/f2c89d0a4f7873d5-480.webp",
+        "640": "/gallery/f2c89d0a4f7873d5-640.webp",
+        "960": "/gallery/f2c89d0a4f7873d5-960.webp",
+        "1280": "/gallery/f2c89d0a4f7873d5-1280.webp",
+        "1920": "/gallery/f2c89d0a4f7873d5-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 54",
+    "sourceHash": "f2c89d0a4f7873d5d3abe608e71b42dc48e563cd605e0909ec6cc51b74e1c00d"
+  },
+  {
+    "id": "gallery-55",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAACwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JZgCsMoCGACYygl0PqF1WtwhrJmkAAPoKdEEy1IzT4U3J44h9sDMWNJqhJF9Xcg0tq1e9qbBOb/Rfuq52mUE8xRyatkOwdglO4dtsJAyy2eHW1W361UGCJGR49OJMfv9YcmlLIbrLKsK2jP2uDPh/YbzQj//0iCAM+UAi1CdkprLgjkHRDZ+sfTK8UAAA",
+    "color": "#283848",
+    "variants": {
+      "avif": {
+        "320": "/gallery/6c6dd8705e25afef-320.avif",
+        "480": "/gallery/6c6dd8705e25afef-480.avif",
+        "640": "/gallery/6c6dd8705e25afef-640.avif",
+        "960": "/gallery/6c6dd8705e25afef-960.avif",
+        "1280": "/gallery/6c6dd8705e25afef-1280.avif",
+        "1920": "/gallery/6c6dd8705e25afef-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/6c6dd8705e25afef-320.webp",
+        "480": "/gallery/6c6dd8705e25afef-480.webp",
+        "640": "/gallery/6c6dd8705e25afef-640.webp",
+        "960": "/gallery/6c6dd8705e25afef-960.webp",
+        "1280": "/gallery/6c6dd8705e25afef-1280.webp",
+        "1920": "/gallery/6c6dd8705e25afef-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 55",
+    "sourceHash": "6c6dd8705e25afef3d399ffe8e4c59568c7ac7b8b9fab807b628c943b53d945f"
+  },
+  {
+    "id": "gallery-56",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAACwAwCdASoYABAAPvVkqk4qpaOiMAgBUB6JZAC06CKF2iVsKHnLAAD9/GNxUuGjV7aetpvaFSX4Vx+MXHQjcPkaOW+aEP5mnMOP8zZT8I0dwqOuT1F8kVhpqVOmMiQrQMgvtXzBjTMJRyM/77pldbveR0pT+bZX7R8L8d1mGezGM3Z+a8gqoKJu2qpYtVJ0Kyd+JrOh9/obDpBHsAA=",
+    "color": "#182838",
+    "variants": {
+      "avif": {
+        "320": "/gallery/be4511b36d7a2338-320.avif",
+        "480": "/gallery/be4511b36d7a2338-480.avif",
+        "640": "/gallery/be4511b36d7a2338-640.avif",
+        "960": "/gallery/be4511b36d7a2338-960.avif",
+        "1280": "/gallery/be4511b36d7a2338-1280.avif",
+        "1920": "/gallery/be4511b36d7a2338-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/be4511b36d7a2338-320.webp",
+        "480": "/gallery/be4511b36d7a2338-480.webp",
+        "640": "/gallery/be4511b36d7a2338-640.webp",
+        "960": "/gallery/be4511b36d7a2338-960.webp",
+        "1280": "/gallery/be4511b36d7a2338-1280.webp",
+        "1920": "/gallery/be4511b36d7a2338-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 56",
+    "sourceHash": "be4511b36d7a2338af9966d5397c908b1ad4f269ed8fa3824a2293176b30dcc9"
+  },
+  {
+    "id": "gallery-57",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JZACdAywTnYwV2cloWz9wmUVk8AD+lC/Xt27h+XdM01xUDAoSbJmtU36HrE1VjqgoGYA4XUoP5HUa+D6bUNWb+6OK4VwT1U17ul0tYsC9wkQLkvm7JP7LJBUZciY+p/pyBWZDyYQJX7+tlJwuufDoTKdb8tmaRWfanhzc0KhRBn21hCCufbWD3+TPBjh4k2YuZnG8AMoAAA==",
+    "color": "#283848",
+    "variants": {
+      "avif": {
+        "320": "/gallery/a37907002cf81b0a-320.avif",
+        "480": "/gallery/a37907002cf81b0a-480.avif",
+        "640": "/gallery/a37907002cf81b0a-640.avif",
+        "960": "/gallery/a37907002cf81b0a-960.avif",
+        "1280": "/gallery/a37907002cf81b0a-1280.avif",
+        "1920": "/gallery/a37907002cf81b0a-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/a37907002cf81b0a-320.webp",
+        "480": "/gallery/a37907002cf81b0a-480.webp",
+        "640": "/gallery/a37907002cf81b0a-640.webp",
+        "960": "/gallery/a37907002cf81b0a-960.webp",
+        "1280": "/gallery/a37907002cf81b0a-1280.webp",
+        "1920": "/gallery/a37907002cf81b0a-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 57",
+    "sourceHash": "a37907002cf81b0afeecdac5194ff10a824132b39d87546206d53ac60c92fb8f"
+  },
+  {
+    "id": "gallery-58",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADwAwCdASoYABAAPvVkqk4qpaOiMAgBUB6JbAC7ACDpHEvE+xxUJPpAAPx2x2zJxUi09eZGG81Lb9+VSpupANY7KxfEsBCEqExfCFLYGGa5IKV9FSdejqotOoj6rKtoyycafSGWWPNhp5PmjljgSoF1QmleXUbl1oFoqj0vy5JkVIX69bg/1tdoknbONtABB+QXWmqtasZQUi1YADyH6/CntPu0HDNjcAA=",
+    "color": "#989888",
+    "variants": {
+      "avif": {
+        "320": "/gallery/fd1136752c135d07-320.avif",
+        "480": "/gallery/fd1136752c135d07-480.avif",
+        "640": "/gallery/fd1136752c135d07-640.avif",
+        "960": "/gallery/fd1136752c135d07-960.avif",
+        "1280": "/gallery/fd1136752c135d07-1280.avif",
+        "1920": "/gallery/fd1136752c135d07-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/fd1136752c135d07-320.webp",
+        "480": "/gallery/fd1136752c135d07-480.webp",
+        "640": "/gallery/fd1136752c135d07-640.webp",
+        "960": "/gallery/fd1136752c135d07-960.webp",
+        "1280": "/gallery/fd1136752c135d07-1280.webp",
+        "1920": "/gallery/fd1136752c135d07-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 58",
+    "sourceHash": "fd1136752c135d079ba18f8c0c57118e5cb4f0ee5cb710133ab31aebc897e673"
+  },
+  {
+    "id": "gallery-59",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoYABAAPvVkqk4qpaOiMAgBUB6JQBkW+ABgGa8o//5KEalAAM2jgUV/+Quni41H7iq0BDEkX+fkIuWCEgmHliFESW6AlgiAn30ABQkNd5DDrG7ljBDs83VDKpWHOKmB9JkzxO/S0bjgWXGsAwcnk1PGn/YV4rLGgkGPghUiPxFs8gd9Wpo20ogA",
+    "color": "#182838",
+    "variants": {
+      "avif": {
+        "320": "/gallery/a5c47d89183e9d0f-320.avif",
+        "480": "/gallery/a5c47d89183e9d0f-480.avif",
+        "640": "/gallery/a5c47d89183e9d0f-640.avif",
+        "960": "/gallery/a5c47d89183e9d0f-960.avif",
+        "1280": "/gallery/a5c47d89183e9d0f-1280.avif",
+        "1920": "/gallery/a5c47d89183e9d0f-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/a5c47d89183e9d0f-320.webp",
+        "480": "/gallery/a5c47d89183e9d0f-480.webp",
+        "640": "/gallery/a5c47d89183e9d0f-640.webp",
+        "960": "/gallery/a5c47d89183e9d0f-960.webp",
+        "1280": "/gallery/a5c47d89183e9d0f-1280.webp",
+        "1920": "/gallery/a5c47d89183e9d0f-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 59",
+    "sourceHash": "a5c47d89183e9d0f3ac57d1a5a956a2f93d4e98a54794b859ff3a9becc00efcb"
+  },
+  {
+    "id": "gallery-60",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JagCsAYyAl+anfAYsqvF6aWgA+SlL4SIxTxPLGK1dNxprhKjM2/bI/m0/XRAgsTN7G0nLPJFRKbu7ExWgwb1d51on7UW+/nX6tWaCPcGZqXY1OPh90O52SJXhGFTgDygVfFPgWkHy0WeHG0KuYnYfCWCsOH1rs0RwjmdUGXn5ASdAuASafJ2aeKzByx1AAAA=",
+    "color": "#182838",
+    "variants": {
+      "avif": {
+        "320": "/gallery/ed41fe4fb4fdae31-320.avif",
+        "480": "/gallery/ed41fe4fb4fdae31-480.avif",
+        "640": "/gallery/ed41fe4fb4fdae31-640.avif",
+        "960": "/gallery/ed41fe4fb4fdae31-960.avif",
+        "1280": "/gallery/ed41fe4fb4fdae31-1280.avif",
+        "1920": "/gallery/ed41fe4fb4fdae31-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/ed41fe4fb4fdae31-320.webp",
+        "480": "/gallery/ed41fe4fb4fdae31-480.webp",
+        "640": "/gallery/ed41fe4fb4fdae31-640.webp",
+        "960": "/gallery/ed41fe4fb4fdae31-960.webp",
+        "1280": "/gallery/ed41fe4fb4fdae31-1280.webp",
+        "1920": "/gallery/ed41fe4fb4fdae31-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 60",
+    "sourceHash": "ed41fe4fb4fdae31ecadff3b403c73ef76b8b11a5ba28555589bfcfd89986dda"
+  },
+  {
+    "id": "gallery-61",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JagCdAYyU5YTn+rpqEh8bG3RgYXAA/rHiDB7cybhNWajkVdrpdL1je/bAeDKiHJnWqR9jajWmuv19IId02DCflRp/NBx2ZWOdWNXXfxc8ZRELlqyEoBVKDXEkk8radM6xkLNDCePFobhLEhmMoGOhF2nmPlsFVdfoaOWt/eTznfIz/VLQeLfJPs1+lIXsa/lYeoKVP0wsgAAA",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/9aad93085a37aa10-320.avif",
+        "480": "/gallery/9aad93085a37aa10-480.avif",
+        "640": "/gallery/9aad93085a37aa10-640.avif",
+        "960": "/gallery/9aad93085a37aa10-960.avif",
+        "1280": "/gallery/9aad93085a37aa10-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/9aad93085a37aa10-320.webp",
+        "480": "/gallery/9aad93085a37aa10-480.webp",
+        "640": "/gallery/9aad93085a37aa10-640.webp",
+        "960": "/gallery/9aad93085a37aa10-960.webp",
+        "1280": "/gallery/9aad93085a37aa10-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 61",
+    "sourceHash": "9aad93085a37aa100256b05e3735b6fcdf04ecaad90cd088c22b6cecb37a53e4"
+  },
+  {
+    "id": "gallery-62",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoRwAkgPdiM+sl67ummgerkAAP7ED4D4CblHhdYWc50+CrdeLpEf5HUJgfGdE8H51GNbY7FTe7pLK1g44FdoOzB+X764b1OsTgwFe3eKZ+AVZPH2UNhJUTR6rFFn3B+L0JbJjw1APtGGcIDkPMNItvvdBkfkZZkqVi6gh9vIZ2qYS0cBl/gf2j37AKB09hPPS2ATW93/QDkf9cpwZ/VBOKC/fdsfPgAA",
+    "color": "#e8e8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/0bc4d635a4ee1cc3-320.avif",
+        "480": "/gallery/0bc4d635a4ee1cc3-480.avif",
+        "640": "/gallery/0bc4d635a4ee1cc3-640.avif",
+        "960": "/gallery/0bc4d635a4ee1cc3-960.avif",
+        "1280": "/gallery/0bc4d635a4ee1cc3-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/0bc4d635a4ee1cc3-320.webp",
+        "480": "/gallery/0bc4d635a4ee1cc3-480.webp",
+        "640": "/gallery/0bc4d635a4ee1cc3-640.webp",
+        "960": "/gallery/0bc4d635a4ee1cc3-960.webp",
+        "1280": "/gallery/0bc4d635a4ee1cc3-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 62",
+    "sourceHash": "0bc4d635a4ee1cc3d50023a58be1b68f56cecd7c5e6edc8746a092122c0b7343"
+  },
+  {
+    "id": "gallery-63",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBQCdASoYABAAPvVsrk4qpqSiMAgBUB6JbACdMoRwN5BbgwlkI0+3e+0rJzVWDaqWAADiQVpwb0iZegNJTncVx7nthCk7AKvFWmptACzjJjutWdBU/CJl03nCRqq29Upd3TNGk8if/hpNzB4LaEgfYbZJkTk7/ww/Z/nTJlPhP/Xy8oW4sQ2jGGEJJrzTLqXwVB1G5KbAIxq5fz/ki87DLRjm0zAWPnXk5Zxys5NHVNtTqUSvOzLAAAA=",
+    "color": "#a85808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/44546de4769d3eba-320.avif",
+        "480": "/gallery/44546de4769d3eba-480.avif",
+        "640": "/gallery/44546de4769d3eba-640.avif",
+        "960": "/gallery/44546de4769d3eba-960.avif",
+        "1280": "/gallery/44546de4769d3eba-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/44546de4769d3eba-320.webp",
+        "480": "/gallery/44546de4769d3eba-480.webp",
+        "640": "/gallery/44546de4769d3eba-640.webp",
+        "960": "/gallery/44546de4769d3eba-960.webp",
+        "1280": "/gallery/44546de4769d3eba-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 63",
+    "sourceHash": "44546de4769d3ebab122512204729a58fada1396113fdd9990b58900ce34115a"
+  },
+  {
+    "id": "gallery-64",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoR3ACfboV3EIKqhsp9A2AAA/tPbeHBRGaDNu6y3ztRq5EIlZqmve1p/DGpiktnaTnmQYgbOsdZyPWqch5rg4bvThKMlhsyTqOMCXfo/lXEDvkZuh/rtRIfVtaWic0wh2O8IjAfjsgkEwVa7cIBA5fSceW2A82J3RazzZF4sgwDgtFA2lqHZJSUCk9S5SjSZLOlDfsv0aAT9lR89j79eaH3RAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/14bd29554c9ac655-320.avif",
+        "480": "/gallery/14bd29554c9ac655-480.avif",
+        "640": "/gallery/14bd29554c9ac655-640.avif",
+        "960": "/gallery/14bd29554c9ac655-960.avif",
+        "1280": "/gallery/14bd29554c9ac655-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/14bd29554c9ac655-320.webp",
+        "480": "/gallery/14bd29554c9ac655-480.webp",
+        "640": "/gallery/14bd29554c9ac655-640.webp",
+        "960": "/gallery/14bd29554c9ac655-960.webp",
+        "1280": "/gallery/14bd29554c9ac655-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 64",
+    "sourceHash": "14bd29554c9ac655bb16574e9ea1db20f94f591bec519f00d3bbf15fec16d30e"
+  },
+  {
+    "id": "gallery-65",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAACQBACdASoYABAAPvVmq04qpaQiMAgBUB6JbACdMoFWAbyqBifQiHwOu9/5g0AA/vDHJ0oJlnWs2DjPqTMyKIY20WzoB8CdVoPc1cfyejw6fPDp7LVfPcyKCcEkoit0QD0JTErLmnGz2nKPQ/cuDFnV5lMhrHyYYNxlP/a/Pl87VNEZg0w+av0Wpe/PfamP5cwe/o3yPZpTm4OYo8Oiv5Yp1NhcwCfuHX1kBScfLs1rrqzU360Hntns8a2AGfD7Ki/nCwmJuo2AAAAA",
+    "color": "#180838",
+    "variants": {
+      "avif": {
+        "320": "/gallery/9345097cc6b5bfda-320.avif",
+        "480": "/gallery/9345097cc6b5bfda-480.avif",
+        "640": "/gallery/9345097cc6b5bfda-640.avif",
+        "960": "/gallery/9345097cc6b5bfda-960.avif",
+        "1280": "/gallery/9345097cc6b5bfda-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/9345097cc6b5bfda-320.webp",
+        "480": "/gallery/9345097cc6b5bfda-480.webp",
+        "640": "/gallery/9345097cc6b5bfda-640.webp",
+        "960": "/gallery/9345097cc6b5bfda-960.webp",
+        "1280": "/gallery/9345097cc6b5bfda-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 65",
+    "sourceHash": "9345097cc6b5bfda9a1f06e79ba5cf4cbd15da6926080f542308cecd5f2c9ac7"
+  },
+  {
+    "id": "gallery-66",
+    "width": 854,
+    "height": 1280,
+    "aspect": 0.6671875,
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAwBwCdASoYACQAPvVwsFIqpiSipWsxUB6JYgCdM2KApGWt4jDUOlTsrc+Tyr3zFtsmmhe+pIF/Cs2oEVpMo1EQnIgA9kGES6OOgcwTC4NyT6sgw7C2uaPHxfh+DdbSBSHTN9tAeZdhynKuqy1iCdKO0JUINtPIsh8q7N5lERYPCdUs43MfIJUKZr7qShDsiKkkqsWVGWbU9ba1OKROM4OyUyb0lgbzpgzy5gLrN3FkhCRHO9Ol9KfwlFKhkX85lwTSfSjzjFOF4F45DUCEWi7IiJ7f9cT89UeQW6Xwwle4G6ufYjfZLpoBDsh/yZoa3cUI21oQAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/8cb8bf4c2154abf6-320.avif",
+        "480": "/gallery/8cb8bf4c2154abf6-480.avif",
+        "640": "/gallery/8cb8bf4c2154abf6-640.avif",
+        "854": "/gallery/8cb8bf4c2154abf6-854.avif"
+      },
+      "webp": {
+        "320": "/gallery/8cb8bf4c2154abf6-320.webp",
+        "480": "/gallery/8cb8bf4c2154abf6-480.webp",
+        "640": "/gallery/8cb8bf4c2154abf6-640.webp",
+        "854": "/gallery/8cb8bf4c2154abf6-854.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 66",
+    "sourceHash": "8cb8bf4c2154abf68850b69559ecbd15e7ffa61d9ef3380b8588305b334a2800"
+  },
+  {
+    "id": "gallery-67",
+    "width": 1280,
+    "height": 853,
+    "aspect": 1.5005861664712778,
+    "blur": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdLwAB3q1BsVHxdM95Vqh0ZMAA+gKC5JTxbUqHrNrYmfd+/douh3H8Veu7UXPZ2nFInL/KB0zowLb9PsfO5YTSH+EPzgbMrDZBOJprQ3+uFy+gsQtxkaTFBaPVyrfCtrMK3TDdp1JsZ7T3y8Dv/UCf13/JxoXEzcRrsjYAAA==",
+    "color": "#a87848",
+    "variants": {
+      "avif": {
+        "320": "/gallery/473507fad7826066-320.avif",
+        "480": "/gallery/473507fad7826066-480.avif",
+        "640": "/gallery/473507fad7826066-640.avif",
+        "960": "/gallery/473507fad7826066-960.avif",
+        "1280": "/gallery/473507fad7826066-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/473507fad7826066-320.webp",
+        "480": "/gallery/473507fad7826066-480.webp",
+        "640": "/gallery/473507fad7826066-640.webp",
+        "960": "/gallery/473507fad7826066-960.webp",
+        "1280": "/gallery/473507fad7826066-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 67",
+    "sourceHash": "473507fad7826066a3c3c6457a93b2b4582feb5d919e26c2bb80e4d6f734e859"
+  },
+  {
+    "id": "gallery-68",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JagCdACLpb4ugNRsN4FMyXNOAAP34PKXNlgNfAT6o+vqcZtxGEy1BKlWNpTgyOXs0oSKnIzqD/i5OcASl/nGe98kpx7kVM+Qty2GjVPL2x9WOIP47wn/UE8isXvqXsFc+8BkM8/64yNhDvoRTJYbGKJ9BLSMPSKJmjvX5tsFnBLDx5DwTZTvRbqPWv3TsyQAvtgunsq0vc0bxeRhIeRGn+Y3AAA==",
+    "color": "#c8c8e8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/6939ecd77086dd64-320.avif",
+        "480": "/gallery/6939ecd77086dd64-480.avif",
+        "640": "/gallery/6939ecd77086dd64-640.avif",
+        "960": "/gallery/6939ecd77086dd64-960.avif",
+        "1280": "/gallery/6939ecd77086dd64-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/6939ecd77086dd64-320.webp",
+        "480": "/gallery/6939ecd77086dd64-480.webp",
+        "640": "/gallery/6939ecd77086dd64-640.webp",
+        "960": "/gallery/6939ecd77086dd64-960.webp",
+        "1280": "/gallery/6939ecd77086dd64-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 68",
+    "sourceHash": "6939ecd77086dd64821c161908d9fb62d7077b247978d4ac0c807f77b0fb04f7"
+  },
+  {
+    "id": "gallery-69",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoGvqgLrOfuHOlI49hqBJ5AA/rob++zXAaxOnfMc3twrjyCrfrFUL3ayemibyF2KVVp8ntHEE3+96Bff3CR0lDaCW7S4v8jXaENDmYekSV3bevw91Yv8vT3A9se5yxugkuP+drEEmz3nBbIhq3Egps6osCxHsVK9wTrNKhudderln6//Dn3gOh3//CLIpB08qPoHs3ykxOKy37SAAAA=",
+    "color": "#d8d8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/64a1ade2096a3f59-320.avif",
+        "480": "/gallery/64a1ade2096a3f59-480.avif",
+        "640": "/gallery/64a1ade2096a3f59-640.avif",
+        "960": "/gallery/64a1ade2096a3f59-960.avif",
+        "1280": "/gallery/64a1ade2096a3f59-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/64a1ade2096a3f59-320.webp",
+        "480": "/gallery/64a1ade2096a3f59-480.webp",
+        "640": "/gallery/64a1ade2096a3f59-640.webp",
+        "960": "/gallery/64a1ade2096a3f59-960.webp",
+        "1280": "/gallery/64a1ade2096a3f59-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 69",
+    "sourceHash": "64a1ade2096a3f59245a1e3602856ba8a5763f10758ad54be479de6cdc8203f7"
+  },
+  {
+    "id": "gallery-70",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoRwH1/ASF/8H4J/WWE6W9EAAP5r0D/LlRI/MlYJ7hOnAnSaLYzWpzch1ovM82V3Lv9A3+qERkZm6wEqPcpyuvr+3302rWbmjnhiw2pwHpmavxPB6e908TYZlvbWf98IO+ohAZ9xc0OeZjipWj6v4LYpAlsJJMA7/Wx8zQ/znJs9b3/1dHjwz/v23ZXttrOEo9gJLz5aHx+stieEliA6gT6vrt7DSwAA",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/dd27c86ecbf77d7b-320.avif",
+        "480": "/gallery/dd27c86ecbf77d7b-480.avif",
+        "640": "/gallery/dd27c86ecbf77d7b-640.avif",
+        "960": "/gallery/dd27c86ecbf77d7b-960.avif",
+        "1280": "/gallery/dd27c86ecbf77d7b-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/dd27c86ecbf77d7b-320.webp",
+        "480": "/gallery/dd27c86ecbf77d7b-480.webp",
+        "640": "/gallery/dd27c86ecbf77d7b-640.webp",
+        "960": "/gallery/dd27c86ecbf77d7b-960.webp",
+        "1280": "/gallery/dd27c86ecbf77d7b-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 70",
+    "sourceHash": "dd27c86ecbf77d7bc0287303bee77c91feeefda5f7d923257787ca79bdb702f6"
+  },
+  {
+    "id": "gallery-71",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAABwBQCdASoYABgAPvVqq1AqpiOiqA1RUB6JbACdM47BqhJUg7bN5Oy+RifM7hHmjWw1LpDQAP1TkwtKaWDrg0NBi0/mAtH+QC8ztUZLTz5VK9O35nbzcBimiE73pOajtETPoywtvjXxMjxnmXnp1zeeMH1UQCnPIUlGbzMLd0Icbme8dZXmiF1MOmdqrTMtHdpP4ETmgUdeCuwd5D2JImOuvvuao0D213bmWs9vgW6SEDjg0IDPkVAteeB/hHN8c+iDgLSZYycXytAA",
+    "color": "#181818",
+    "variants": {
+      "avif": {
+        "206": "/gallery/b48c2846ac08aea7-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/b48c2846ac08aea7-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 71",
+    "sourceHash": "b48c2846ac08aea771207942c14e23c2cb038a1a1d1539a57b9001c50f34add3"
+  },
+  {
+    "id": "gallery-72",
+    "width": 198,
+    "height": 200,
+    "aspect": 0.99,
+    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAAAwBgCdASoYABgAPvVsrlGqpaQiqAqpUB6JbACdMuz6bxhhtgFCZsnBMreHEz5GmJ/lWreLJ1vHOiygAPcmPCPZgrtitplMnSTBJaZXOSujuCFVEpInK9E1CJmz7W0WrJbS+rTudrceBoe/mCwJ/Zl1e4RyN6r/50GMv2ya62OUMovPk49pGdKQnMVN9DogpidFolE/jB7gHXp5hKsKQst+1Yglzgf2nIQe7+G8unlRHLcpeMeA8I3C4QO31LJLDkVkzvZQ0+TXU+OoQqQneexY3hxKJPx5iFsJfm4TwICzF5PHAAA=",
+    "color": "#583828",
+    "variants": {
+      "avif": {
+        "198": "/gallery/82ab80e7c5d9df1e-198.avif"
+      },
+      "webp": {
+        "198": "/gallery/82ab80e7c5d9df1e-198.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 72",
+    "sourceHash": "82ab80e7c5d9df1ed7c094c4aebb966576ff94d571e5e5ab96e6523a7650ed60"
+  },
+  {
+    "id": "gallery-73",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRkQBAABXRUJQVlA4IDgBAACQBwCdASoYABgAPvVsq1AqpiOiqA1RUB6JbACdMuN/gLjyCft30a7QCPWNwhG6BvNtWvMq5k8q+IExZM6EItx+EG6LjwAA/tztgx7fr15Cf23jjzNuR8GuZpB+EYSwz0cR51stVbFYEMuMflSJyQjzjp/I7QNnsQJXp0PhYzUmUL/wBt7IZIiS5PreKCEs2NJTfYotpQOoMripoJPeQ2fa1+A/b+MSqZbmjlJD8JED1T+9cLaSnDt1LOgFau1ZOIP6N/55Tak5t7FvS4mR49ARb2rXA3p4Pms5h24VwfACiw6C8nZ4TLBZwW7zx96TXFSoPxLOBQFR/DHJdvpCz8x2W5F4S6X4nw9rb5CqD259B+i8QQK7dKhr9tiZnAGqasu+rpRFUO+GKUmyUgI+tuw4IkUK95OMAAA=",
+    "color": "#083888",
+    "variants": {
+      "avif": {
+        "206": "/gallery/11666ce3a8c114ba-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/11666ce3a8c114ba-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 73",
+    "sourceHash": "11666ce3a8c114ba3c07fbd4c94d4854bd53f32f36c52620cfddc0338bbe048b"
+  },
+  {
+    "id": "gallery-74",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAACQBgCdASoYABgAPvVsrVGqpaQiqAqpUB6JZgCxHoMqpCWtgTSQOsJDeGe/WppmalJ6qMGp2SzxQR4W6ZcAAP7qAAiULoCIGAXIDSS0QjHTOCqf38nivIy+nopyx4ze3C9alPV6YJnk/U+h4XS1T5DpmNyWnh2djnJ0JAs5p3l36YQDzGIO72mQV3yM27BLmq8GR4En/MIVuIVFosMO3C7fU7fopfsBKC+4zhqCCYWzAFeCtpdjRqeCq9Z4VXZU6Hg5XavjLuDHY/9cOGup5SR3MgZTqeEAzNpT+j3zMde4w4SdY4syjUb6UfKDTKAAAAA=",
+    "color": "#082858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/f96fd5e0e18cfa48-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/f96fd5e0e18cfa48-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 74",
+    "sourceHash": "f96fd5e0e18cfa48c32fddb2cec47d16ee64a5e053faade5bbbf0d51db9257a9"
+  },
+  {
+    "id": "gallery-75",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAABQBgCdASoYABgAPvVurFGqpiQiqAqpUB6JbACdMuupJnMFsOlrAl7+duNX/2+WULrR1p+npnXadHOAAADvdW8PQQbafwm5sf/OFuPhAlE/W3Ot1bW1BO3H+ehAtERZDI2aN4gDe4FU8Um3uCAMt1yOqK6U6NcQromPi+UsNy28dfK5Gm7gciuWqucV2ulGE8waA8msyKlAwFwKsNe/yDcjuqwztP9uJ4ykxZXPch9TnP90AIfif43LxiDfV0xkgFU49QouKxSSZgln2UqjbOV78L3+L3j68ikB4MU2MxGfovXmQ7lzwAAA",
+    "color": "#987838",
+    "variants": {
+      "avif": {
+        "206": "/gallery/3830a1a2e94ce6f0-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/3830a1a2e94ce6f0-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 75",
+    "sourceHash": "3830a1a2e94ce6f019fcfca32ce445f30c151275aba0ea91a2f02ed739cf5fc7"
+  },
+  {
+    "id": "gallery-76",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAAAwBgCdASoYABgAPvVwr1MqpiQiqAgBUB6JbACdMuxHawEpndszWt+AKn/A/CgDKNjl/cjOchWVL8rAAP6iXrbH49UTlo89/Zr6+6h0wdUbWv5fjiqpQKL23FRfxVy2ILMH5ZXX/b4dSRHue6wKmukvof5+FZLdeM6GKxKm+l4gSMcqGQqCrYT+2QOa7jvS4Y1clt8YfSVdC+Ip8dMrxAeocWS3yhjVpfqt7287tzwXOUP1HOZZsb8K1iTD6YSQir317kmlQd4j+CM8k19XXQo1MJWtTyXN7FdKWjQ5Qlks4VcvYkbSEjQRnpi5WlX19xurW1mx3ZO6xOkuGpBWF9GyuzCDRtOoQMt/kPR/vNgRfqrzNKSzSmaeUt0uK80y+EuAp2mQxahYNyhOtCKUgU8IEAAAAA==",
+    "color": "#081858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/8f1f77b00ce3513a-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/8f1f77b00ce3513a-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 76",
+    "sourceHash": "8f1f77b00ce3513a6e83ad942f767fe8b8bb97f1e6a592aff2d6be4c749ae289"
+  },
+  {
+    "id": "gallery-77",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABQBQCdASoYABgAPvVwsFMqpiSiqAgBUB6JZgDE2BE0hx4b2uXh1YEDtt6XVJRDLR4GtAAA99BXrACeAP9WMftA84zTtAEba7Sq2tB/2GjR0+4WaLp2aYPQM+vaxDTZgnFxZ2DHnfph2r8vakqbRT3WhhhdIjHq3OUznnAFrYoEoI4HWti2qwDSxCaUHU/FiyBwmlPkkyV3Kjfl362T4s/n7VrazxqpeL8f+ePSMveuEUfLq0hbB8obeJgOpQFS5Aw2yAAA",
+    "color": "#181828",
+    "variants": {
+      "avif": {
+        "206": "/gallery/9a2cf4d9e69a18d6-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/9a2cf4d9e69a18d6-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 77",
+    "sourceHash": "9a2cf4d9e69a18d6e35e24c51f3cb86c08428d8a146fdf1d7740f8cd5d2e6a06"
+  },
+  {
+    "id": "gallery-78",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAACQBQCdASoYABgAPvVysVMqpqSiqAgBUB6JagC7IGKD3LUYX0wpfu45ecXF5fNVsCvDiME8aAD+0dgRkfAgHRPm3ZSKV+HEYlHiFXqZPIHVTLS3ZNXWVrA8o1OrRrJhDXMFOymii7N/zoXF9xIQgOwxB2mdGQT9LD33r+6JN/15F8e3XxJsGkXoUQPABNd/qE+iQKI/7+b3qmgjEKfgi3AuUZeG+iOhzDWv8+pesNumIjXUS6HuSbkeuknBAKm/E+v7JLZUTeL4bb1aQ38zOWS1F2NLbk1JOPQ5FaT9sFLmnz26I5k0Gr46u0Vy40gbi6rwmAAA",
+    "color": "#989898",
+    "variants": {
+      "avif": {
+        "206": "/gallery/6c79421f71e3b028-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/6c79421f71e3b028-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 78",
+    "sourceHash": "6c79421f71e3b0285ee69701a9d780534955d00b2fe1c045f62154d47e753134"
+  },
+  {
+    "id": "gallery-79",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAACQBQCdASoYABgAPvVwr1MqpiQiqAgBUB6JagCdIMggyQvu6n5L8uZ/SM6vdTRJmUm1dpdk0AD9mkJ9JvkJAOeLiZ3V61ok6yjNCVR0HRxwPdALrSr1S5MY0SmWoK33IfP6Y5j96bNjYOoRcFUD6dW53VEKtlO0TeqQOL0VZ708jgyW+vTPHUvMR1tk64p3HnWRh7uFKPlfmzKv5YdskRwps6QCwMqq4if3Atq2EmVyZEVa9bEBdPvpa+H54iTJZWE/QoRl8g01I4H8j6+2BFWKev43L/v7a4clVRFkBTeaQrS1BWz/3LIPbkYAOErqawAAAA==",
+    "color": "#989898",
+    "variants": {
+      "avif": {
+        "206": "/gallery/62422504ed828046-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/62422504ed828046-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 79",
+    "sourceHash": "62422504ed828046ee1bf8c488f672842c33118e29746bf76f2453ee5553dc28"
+  },
+  {
+    "id": "gallery-80",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAACwBQCdASoYABgAPvVyslKqpqSiqAgBUB6JZACdIHAgzgc7pywmeKTxk6tmLAnsilyloS6ENYAA/qwsDGg2RFhLQsuJNO8Kw1WJD5hAb7GhX2Klx1nVsHa2aofypCrDL9YFuEd7+/DoLpczG6gM+hRbdpy6xHikawl5WOuwuNnVS/DsISlK8YGIUXGz/R7xCVp16K0FXiJ4HyI477NQzGDDmTlP/CoRJufbwYDVkMzVYZgcbnQpnPf+rYqnphUq5kaOWwFmR/6y+4f3v5HqH5DQ0Y7V9+YdpTAAAA==",
+    "color": "#282828",
+    "variants": {
+      "avif": {
+        "206": "/gallery/65f3262b55aad417-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/65f3262b55aad417-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 80",
+    "sourceHash": "65f3262b55aad4174bd622eeb18803a386f91c184f37e3746c27669cf0ce1053"
+  },
+  {
+    "id": "gallery-81",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAACQBwCdASoYABgAPvVorE8qpiQiKA1RUB6JbACdMoSCvxio1zwGm17zec4BhYjwAfm05eaPAQdhDJ9QA8m5Ol/3OqmygAAA/s9pRS2fU4+/EbJY/OuMRB0vmVPOWgOQBaUBUSCK3oXmU3BqF33WxLxC8ln2ijE1uktQWLZ3xHjGSt+4l6CQXKxNW23t8Us7qozyD3QV/KP5j5oq3QHH/7QS10m28eEmb/pUeKi8K0+6nUNYa0rFqw2OctH/ELCmX4VZIxxDcO8erTBuGvxOeD34UL2ElXnPnNUViGhx6m0Dmj+TQ3tmJd91kbKsvnD6e/dRZeKNtF/JkTBvAb8jxNJM2GP3Ou4cC/MfbIc8sD/xBnauNegiYeuSU+MZgohwN1QgG5mwSg3v3FHDYFl5SgfJV6wlZPEJQ/RixA3p4Gj9guqOz6puyTa8Ejoviil45/JtBffAAAA=",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/deb13be5683fea16-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/deb13be5683fea16-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 81",
+    "sourceHash": "deb13be5683fea166ad43a5b313b9ce2379869a5e48425a2f3e901ea9ce3c3a1"
+  },
+  {
+    "id": "gallery-82",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAABQBQCdASoYABgAPvVuq1IqpiOiqAqpUB6JbACdBAoWXmQln2CkzGB4E7zURAHgKD/0lDAA/rWIGeZ90KNxH5jJbaXDDU1+coNzFhb+ZFfpXWpMTMuc08CVYSDmtRyHJhw0dp5U53w5YKXTYmVQTiJThQjTbpE/J8ebDxc45oQ1JCYc0PYTIgB4X2hlWNubZ0iNekce3PhtzdtwvDY4hKH1fUplqQK/IGkZHoLnqrpmq2LU1ZN/2HnKnzFn4ragZlvuWPax2zSnG2JFJq15dbRUSE0iUJLlFKX9MC35q1gHdEmAAAA=",
+    "color": "#d8c878",
+    "variants": {
+      "avif": {
+        "206": "/gallery/755b34c183394fb3-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/755b34c183394fb3-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 82",
+    "sourceHash": "755b34c183394fb355371c2d5b373953619078eca0a469e4a8941ceedd930a41"
+  },
+  {
+    "id": "gallery-83",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAQBQCdASoYABgAPvVwq1IqpiOiqAqpUB6JaADDNGjr/5OD9FerSoRhv4gYZ9w4ayVwAP7OBxSnExubsukuDyPhEdU0TCDOySUdStHsJyxN0Kau53ncm4yc218j3PLPg/+QKsNNZXpbEZN4em8d2pQVCOtJrZpiw461HfsIAOZ971YJIMFK+SbThYnjIYKzeX1IBGHD6ik9/tryg+3fywrawjxpwAAA",
+    "color": "#382848",
+    "variants": {
+      "avif": {
+        "206": "/gallery/e7a5f94aac872753-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/e7a5f94aac872753-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 83",
+    "sourceHash": "e7a5f94aac872753c6917f33e0ee75c591ce2323cd1ace3ebc2e932f642a7df1"
+  },
+  {
+    "id": "gallery-84",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAACQBgCdASoYABgAPvVsq1AqpiOiqA1RUB6JbACzqIAhAJW83vELD/TXjtYer+FT6poSBXiRGhqpbW29q4QAAP54/8JtOkpCNRTZbwRo0i946LbROhXb8mJnuoQc2GRv16DvdOCFl/LqYXw6z1Z2sjEDPeFgZ4i7Yd1gkmM+6BkpE3j5bnrX2ucr40GL0nlKH+MjJhWVqx8qi2PnuEAqOB4G75UpVlcq43uIzyvHgaxGPWB1JoRrh9HOHVP9K19Onpy+oF4Rv9iQbSITJUK5fnBR1/GDlH3yRQ0fXSz1KZQxoomDljrgSfZzBaVB4oXL+5ozLAdaPzqD/B3xdGxido3+TYUDQEcFwAA=",
+    "color": "#181828",
+    "variants": {
+      "avif": {
+        "206": "/gallery/f1fe390e69dc5eb0-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/f1fe390e69dc5eb0-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 84",
+    "sourceHash": "f1fe390e69dc5eb07b67ba113daa388d8d71c41cdab83f49931c7e3801b5b496"
+  },
+  {
+    "id": "gallery-85",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAwBQCdASoYABgAPvVgq06qpSOiMBgMAVAeiWYAv2svyB+LLapC0rWk7BzRhsIOpTfd6AD+7qCwZv76Aky3k1XQkD1+p1/7sUggFYhU+HymbAaCj8xx3fTgwzigBxbp5tBKBV6Ue4sPwA3C8cZ5MlQ84j6KwngcLSCsrzQa4Vcg4B8RL8ruMFifQuwAKmKEgidqpmzFMF7iuuVZ2jl184paFBBgAA==",
+    "color": "#888878",
+    "variants": {
+      "avif": {
+        "206": "/gallery/e591227b1539846e-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/e591227b1539846e-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 85",
+    "sourceHash": "e591227b1539846e5d7e3ae5b65416777094fcd7830bb8dba673dbad8425598b"
+  },
+  {
+    "id": "gallery-86",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAADQBQCdASoYABgAPvVysVMqpqSiqAgBUB6JYgDGnMggyAg8fYDJSOYjzUMeEU2Jf+gCgVy0LXoAAP0SdvEpkyJG+NA4DqdRZh7j5RfL/FkYtx/l/kxifaDsbfaHl70UVInL4hM0GcaIr3NsjAsk/FQwPVNOmReWgPUXtRxQlmDf9Hv7HN5HpczeiU9LhfCJevd6Ue3egyl8saxDiElhCuvjqPcPGHSZIG7HqaMvlOc7quUppd/bxm+C3vBkKZw+LWBfgAAA",
+    "color": "#686868",
+    "variants": {
+      "avif": {
+        "206": "/gallery/43a3b8dd0772c739-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/43a3b8dd0772c739-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 86",
+    "sourceHash": "43a3b8dd0772c7392784c54194b87302bad449b407ec74291e3c70ea82630438"
+  },
+  {
+    "id": "gallery-87",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRloBAABXRUJQVlA4IE4BAABwBgCdASoYABgAPvVwr1MqpiQiqAgBUB6JbACdMySxvZZGaEC+GKb/t8yiw26i58OvEjUlL5FZWM410AgA/KxmYgkGdMArb3jMQjKligVuOHfPdPZV01dOaeoA9oLaKoBPrtNelJiipI4dxNjBPahD3EEC7/G27o6obyHg1+KTVsscFr1uRCxTC2a+vJJx2QYg7ET3grZafVADMzPzs0TP+cpigIrw0gO/bfMSlXYPmGhYdgsoOfWcCc56TeWHPv70+8Uvhqnwk5MD/zh97/6taXhFgBJJtAaEzkhBsoBS4c8s0ZJMHMtSpmp9nnBjIKCkWe1CCvIEfZRkDuezXM1bPtHHEr1szhGGTGoZBJOTkoH2LxjwpdDe0XAUrT6naJoFuWtBUIVy1FTQCJsdt1P6+8wgXAd30W3bKP442tvXk0/N8G1EcByfqGPsDbAA",
+    "color": "#c8e8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/9546cb8b6805f345-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/9546cb8b6805f345-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 87",
+    "sourceHash": "9546cb8b6805f345ac169e52e738f73fc29ccbf61b17c22d8d4a6fb7891a9910"
+  },
+  {
+    "id": "gallery-88",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAABQBQCdASoYABgAPvVurlGqpiQiqAqpUB6JaACo9YzuS1haoxcHbAckBFTNmjXe8pDRBoAA3XcG56+qcM/RJM/ovBCmVtojYu4o4fSwnMA6+/vFGmRxmWHCZ9GV9T5qzP0JArkj0fwTTFUuP0WDgeTEDKl1+VCIpgsJjXYzL+Q4cxarSLp5VglZakjbl17odotOYolWlC81pefQm8LkM0siTRKe9SSwn9+VqmFAkEx5lq4X/yHR8Gofj/n3JhXuyy9MQO8tCD2AnjQCsEJvi/Q+u0OzHrxnD5N03kuWAq+YGb/HfocCUBxt9fLAAA==",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/0b5a7a5841155a01-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/0b5a7a5841155a01-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 88",
+    "sourceHash": "0b5a7a5841155a0197726b47bf048331aaca5f85655aa28bafc49cb4139f7ebf"
+  },
+  {
+    "id": "gallery-89",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRi4BAABXRUJQVlA4ICIBAACQBgCdASoYABgAPvVysFMqpqSiqAgBUB6JbAC1GoPEGoAFPwGMS2mflI4daV75HH2R7BcPUmqUMUAnFj4AAP7Uto3PoRLCqI2qix4GNieRxshQdKYfKHfef0lNnAv687yMjE+ftmdTwWBI8nXjOO4VdubxueTpDfv5L/JJDXK9WKvDwAlvVOqe+vmxclMzB8bVDiu7D85icvmKjBRiheVZ2M5BQ9I5SuRziMeQAe9vsd3H0ZdzuwuabXPKIvJmj+NOlAtGYdhsF98JD2/n90nvhvPPUjy1Jxtbm/zVyVFu2wUWiSjNbwKwKCrZWzSaixVMBZa8LF7WTDjdm+PP+ANRrz/fzZM1s99OzTMDO/DIGAki8m7L8hjBrmlDWYPXDGzQAA==",
+    "color": "#c8e8e8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/d198545fcbf0e6d8-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/d198545fcbf0e6d8-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 89",
+    "sourceHash": "d198545fcbf0e6d8caf68d19b3be53133f0614395780027a667e590eed9d91d0"
+  },
+  {
+    "id": "gallery-90",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRkgBAABXRUJQVlA4IDwBAADwBgCdASoYABgAPvVwq1IqpiOiqAqpUB6JbACdMoR5j91xy5/83QKm5O/uZ7IfcoRIUj+rn8nVT/fCI6fwmV3AAP6JyCQCnGrfiLyh+mfCUQqvUylinefQ3BFl8mebOJMSOHJOexxIFmrbCfZhLa1JmlBlLVpRIjzUI+b0XFyH7QcxCzn06FoC7q2VnE0vd+vVk+s8UWcAaLR32vpQHh9RIwiLbhpDnq5xwdpUYXzOfXbwSmdV8KiKQxbbWNtO4MmvNoD8GHWO2br6vAKk3HknPhp9WRO6IEciRQFzZz2E1bYBrSqu3HwO3sb6+DkEPTYLl3Vrx8NK9wZQFS4BtWkodZYBfnjhtFaMrFF+0l0pFSGFG3Xmn8mierX2WGDloULXITtSP1QsGFQb6flVLNXtGkoxqdvisHRvQUAA",
+    "color": "#082868",
+    "variants": {
+      "avif": {
+        "206": "/gallery/63a0ab34d0061a36-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/63a0ab34d0061a36-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 90",
+    "sourceHash": "63a0ab34d0061a36e59c09ea0c2c0b29f01b185f02259258b1a2c07d35d9a075"
+  },
+  {
+    "id": "gallery-91",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRioBAABXRUJQVlA4IB4BAABQBgCdASoYABgAPvVysFMqpqSiqAgBUB6JZACdMzBiZXixnYHfG4NTKOc+87wppTZEIeHjfU0o2o2IAAD9uhy31401SZF4FHX/RSatcPqaFxHnS8NfUyYHAzlCTwc6eq4PUp+T4Tq4hXg/eKAmNOT0iIkWT3s95poZK/ndq9qsizs5kQ1bX8J8jzfD21BScLrvcVIUHgL8ytCJzatqsna7RWqCHPw2ouO0InECKFDkBcAQM+rfZnWdx7TVG6Ay77kt7qzKwPvo1/Tb8KVHYC73qPMenDYZrMuFIKwXv5MqXB9cU0GNaZyTkaH/oZ3SpJkoSVGzSV7uGO6TiMY25TvglwsE/WTUq0g/kS+tKe+p4q/jAh4qaZymwS8LcAAA",
+    "color": "#282828",
+    "variants": {
+      "avif": {
+        "206": "/gallery/76f3a639404670c7-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/76f3a639404670c7-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 91",
+    "sourceHash": "76f3a639404670c7849d738f95cdabe6ee73f30d0954d98c27b1cd0b3ea35081"
+  },
+  {
+    "id": "gallery-92",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAABQBQCdASoYABgAPvVysVMqpqSiqAgBUB6JQBkageTxQGtubiw6L0W5qTLbdTD4Fail62AA+pxP4jWUvxDQ+eaCpI3mSxYB8fLFWZRAjd0Df1nqRmyRK431vhCtAUHuG585u9Pd2Vr7PvwmRrXtiZt/3fWKO0HqFKJcxwKm5O2DhUJQn9Otahj7vRTyPgsSJfptN8dKg+1xZcwH2PBhFU75/uYQ8cBtd5a0vFEaMMEoS4ohI0DUSQh9NheESewxeYoLYwxD8vg8+iJz7Fw0IAAA",
+    "color": "#383838",
+    "variants": {
+      "avif": {
+        "206": "/gallery/be5d426369829654-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/be5d426369829654-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 92",
+    "sourceHash": "be5d426369829654b6763157a1bb80b2ac29daeb29dcfac09c273469325cdf53"
+  },
+  {
+    "id": "gallery-93",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRlYBAABXRUJQVlA4IEoBAAAQBwCdASoYABgAPvVusFEqpiSiqAqpUB6JbACdMuIw2nAZoGWDTsxr45vADYI2szTNpm6ObWAh07AhQiOZc4TuAAD+o29ujvfqJ33Tu2KFEI6AbzZFDHKT3iiRmfYRHdehRnnQXLcfP4vejofZ5Vae8fG/yXeMR/xhI1trai1IQ43efkFaI9QMoSkXLwFFAZ2BduM6+vmmcxYUFjAwxTxav1HbtXAQmWG6dNBVD94c9mUc5j4LhfpbI+E2+V963n8OubfTvGCNwtU8Injihw9r6xVgxxK1ZqhZPGoxO/NmxcAFrc9xof1lps8kVb5pxUO1zGldVYB2L1XGuMIv7TlPs442L5AcZmNYHdVpP872VUltQ1ZqNLnPeCvtuoustOHsMZzgx6Ow7YoyYhdZuOSUvLccceL0TH0geOjReHkKg1l7dFOLNOHDwAA=",
+    "color": "#082868",
+    "variants": {
+      "avif": {
+        "206": "/gallery/4ae0071b166e56ac-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/4ae0071b166e56ac-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 93",
+    "sourceHash": "4ae0071b166e56acfe159ef91d4802b436ce6642720725fd714ee3f7cf3e1ed2"
+  },
+  {
+    "id": "gallery-94",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRmgBAABXRUJQVlA4IFwBAABQBwCdASoYABgAPvVsqlCqpaOiqA1RUB6JbACdMoSCvug8Btmrsg3oAva3KK22CTjwYOqc60AfmdxrxJ7lJDCEbYNAAP7Zm4qvVBXZ6InDy3e/EdQg4H74yC+UEuiizEIaVLgLTCXtbiCTfKSklbYa0y3ObXnDha00BtuaQcCHRquYmR2Omo4oug3ZOedwqfKp3WR6lBiUC00ckmLA3Dgd/SkF9PKa5JBqAIhvyGFSvOTKbixFzUkg8StXuzW2donszQbP1uClMCFnPoR/8HHyZY+dewmmfmk4KhN3YZvFfIgshqLJ9IPA9D6uMP7fHcrO5n8GCVAQQLuWNksgZ0x3p822oBsFYbSdK+Ujgo2IO1ORFjetuuu+Oj1eh4sJjaebeOMDoJ266VaSv2stgDQf4yAA3BTyauvorce+FNu21yqv+qRaBB/LNaNCdtcn67VD5Mu+FVDecG3AAAA=",
+    "color": "#e8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/e7878e7fc759002b-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/e7878e7fc759002b-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 94",
+    "sourceHash": "e7878e7fc759002bb9915ad010c24672a05a3bfc7fb69f61c7a304caf1df9edb"
+  },
+  {
+    "id": "gallery-95",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAABwBQCdASoYABgAPvVysVKqpqSiqAgBUB6JZgDE2A8rguMqQtfe4J3l8cea/IBVc8lk1n4AAPuuLP6bFmcCJYJYxF1XncaiIys3kltkV9+C6LQ7Xhrnug3foBZ5fzDwl3KnkCutDoihHksCpUA4B5uUfMLromwylRHDMgmKna+tPZI5eAazsVu2sTy4gcl2yIur/whfnHQf3KW1ZKyIswpCG7HZiMODxCsG4OqAzo+jQRZm1gcAAA==",
+    "color": "#686878",
+    "variants": {
+      "avif": {
+        "206": "/gallery/564bdc6844b977c0-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/564bdc6844b977c0-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 95",
+    "sourceHash": "564bdc6844b977c0d5e1ce4eb4e00d86b2120064d92cc17b6d3b6d27b5a8d98d"
+  },
+  {
+    "id": "gallery-96",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACQBQCdASoYABgAPvVqrVCqpaQisBgIAVAeiWQAw3GM5Gatw5k8QrcxO7D4i1ql9DH3e4MAGADI3QOd5mHgIi5y5yYnpt919haJNSPBLWh1tBYHUK2ujfNScHWw2carxbjIcJn4j+X3cuOPeO6uZwPv6n++E6eBHZrmhWHqMqAIxppN97pPnqZW+Uoi6U+XCCfHs+wqPBjVHKC0hmOZc2yvOUhtOhgLcbjE457NNpwwqZHvK6hHcYACagBBMAdBgKyGp4AA",
+    "color": "#181818",
+    "variants": {
+      "avif": {
+        "206": "/gallery/920b9ec4cbe085ff-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/920b9ec4cbe085ff-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 96",
+    "sourceHash": "920b9ec4cbe085ff9f86dccfb7bb92037f45795c780d6dbcae5a5aa65b9315bb"
+  },
+  {
+    "id": "gallery-97",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADwBQCdASoYABgAPvVuq1IqpiOiqAqpUB6JZAC26SB4QmjQb1PFZz2mz1/Rw6nPV+vsL5NNy14DAADXKDVCFHEuj6ZsG7Imz++rsLfnzHipAhXIAeSrUMAu3xcH8AKCx2S/sqOoR0IpcLyUdzP/W50VJH8Qm/DL95WEcenbrF6aTMp9rQSVdbPSeAoZ4ujWBRfVyak+MTQI8xLz6dRx0qRgNJCYBufQqrSFQnJo3jC8jya0LqVEwOdiGH74eEQ4A2L7rgFA93WF12giLJB2GrN33J3ct/z+yoTKmq4fXQelc81LIXcQUDPzhPgt8IZC4AAAAA==",
+    "color": "#989888",
+    "variants": {
+      "avif": {
+        "206": "/gallery/ad08fe3f9835aca2-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/ad08fe3f9835aca2-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 97",
+    "sourceHash": "ad08fe3f9835aca23561561f4244ceb05371bb02206d97e1d281da0bee97e524"
+  },
+  {
+    "id": "gallery-98",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAAAQBgCdASoYABgAPvVysVMqpqSiqAgBUB6JZgC/a6T6A0qkibOy0i73lt3nLYOZq3/kyQFLjq1LLgAA+5jdtUUCL2Pgx92hKUqK1SUMYQtlkYMHDgOUUgCOFMteTsWpx8HfPiSPSo3g1udzYq2jMMiPL8T7cILp475m7sGIe/9QS/L+FgAXZhllr5qUa4CTUVWNJDMPkUegdJGTpCtIpcQvl08V1vDeO0G1xN0e8lz6RUflFOmui9XR3gubLZ+UZfGLLU0e1ft1w0TByHWX8ys871RdQ/1uVh2TpAw+sXiZ0SL/pG6/UZAA",
+    "color": "#484848",
+    "variants": {
+      "avif": {
+        "206": "/gallery/194313db2ba15edb-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/194313db2ba15edb-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 98",
+    "sourceHash": "194313db2ba15edbefcba0af7b5afd952525a5aea69b52a81f0060dd71634824"
+  },
+  {
+    "id": "gallery-99",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAABwBQCdASoYABgAPvVurVGqpiQiqAqpUB6JbAC7AYyeSTYC1nAnGreSg3Uk3/dwDy+s6MQAAJAKTq7WOWZQla99u8lrO4AaskT3ryxwfmCsTv01iyGDQzURtiHLefmm55UI7fvgFnAlkIK8UzxqRkEnM5eTFPKIbEfaO7vBMmXd+WkEjRqIrtBB21Q5ptLs+HtFHLyDR5Q5PUSqQURJcie2rgHmOkEsRKUpq8r830lZKdKFqvEylnxQy4D0k6zu+4kAvGPxS4F6bW9O8mWJjQDfF7XBAWAA",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/b3e7c2672162aeb0-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/b3e7c2672162aeb0-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 99",
+    "sourceHash": "b3e7c2672162aeb09058df8eb19ede2d1df97020e7d49111f43545ccb49a42d0"
+  },
+  {
+    "id": "gallery-100",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRigBAABXRUJQVlA4IBwBAADwBQCdASoYABgAPvVysFMqpqSiqAgBUB6JZQATyFW+mf+cVWe9mgfWaDMzxDp+EAAg98VEiF3mAAD93uYp9e5F2tmR9L12xvOloqSpREcOFT+KVk/BPicegwmALZzCidwmALQTyr+lQ0Tr2/t791bUf6TY/N8YofoOSNWG0UEdVdMDjrAv9PPWW9bwqO98iYev1iEq4+QkzsCLA2l7oHvWMab8XJ+L5cN7iH2HO/4yFmdvPlzOF4rx69/HplVTL7Cm/PdQ7GaquyjExUjdMYkjfXCd30OOmu53KxZEL6omKo2xP7S5yacjSpJ8VAEriAwt9RJHijUM82XA5IJeGIFydSqgWZyT1s/sImzyceWTAOH/2hXzSSFAIkTAAA==",
+    "color": "#383838",
+    "variants": {
+      "avif": {
+        "206": "/gallery/3d394591db672610-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/3d394591db672610-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 100",
+    "sourceHash": "3d394591db672610e50307a71a33e61d4f93aa3065d9c25e7927c2abb82b2a42"
+  },
+  {
+    "id": "gallery-101",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAACwBgCdASoYABgAPvVsqlCqpiOiqA1RUB6JbACdMoLU96gBdAOsmOX1Lm0/YaPPxf8oLibOi+SRRo0tS3S+AAD8LZYCqgMTSaPltsd9Z7Ij/Ozwcg9kTTxqZEDwpvBEyYuqoEnL27wJkqRb8LGhcqo5XemKjHAnIpgbDfp24d6/pgep2bSpKbnLMzKAazpE3Q7W2MasPK1qJt/cNPeXcKdxPeqfSPF6cyie3LA4I1/RucnqFaxGz3xrJTNZIVQRti3nSOmDluFpnmk0tuCB1SFBe1EfxzBPt6MT7cS/MQUo5tmuo0zMsVZKhP4EqibVklHOGl11QKPSPoOkMz0blOQ4nU8eLBtH/2drlPl8KbnA+3+HHnk16OSSfhJJvL4Jq3fmFKUQSHbgh9AG/yNmyREAAAA=",
+    "color": "#98b8b8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/e2d3a5d8a8e31a42-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/e2d3a5d8a8e31a42-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 101",
+    "sourceHash": "e2d3a5d8a8e31a42fd0febc70a1e1ddb7f27be41e32f689ffc5b5c88eba09569"
+  },
+  {
+    "id": "gallery-102",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASoYABgAPvVysVKqpqSiqAgBUB6JbAC3vazSCIVvhSxnrfvZ5j32qJ+kYgo4tAlNwW6SAAD+s+QHCafRZz2v37NHWcGNyfHAeN8xc8onlY3TAl5Fy/zoSXutH+uMWpMetyRzusQcC4f0Xu+xiPMYXVAVEXlghFBjYKDkFvJRN7q8FgAQswAsnUEI0UxnEc+EMyWTn4zuQ0ivW+9sfvVwZaX1mDjMiMd9eM7fY07K8V1e4lDSonDA68QGxPYEXNXMjvm0FS/OD1GSss1h6Ciq3YPgZQGbPHk+MON0mNQaAAA=",
+    "color": "#e8c888",
+    "variants": {
+      "avif": {
+        "206": "/gallery/d58c0c0ce6ade6bf-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/d58c0c0ce6ade6bf-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 102",
+    "sourceHash": "d58c0c0ce6ade6bf175dd9c08eba37c5d523c10b3076628b706bc649a74059e7"
+  },
+  {
+    "id": "gallery-103",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRngBAABXRUJQVlA4IGwBAADQBwCdASoYABgAPvVgq06qpSOiMBgMAVAeiWwAnTKEdeCrMsYye2U54jTIDswHERDcu86yB8GRXQzYqILMonKdyx3bmEEL4AD+uk/j7V/bPNG+qDv/3n8cJjYMjKFsy8n3ytBYw7mMIt4Vr16iyoDsSHrO3TvcEcHMqp3+K8JYamuq5dPmAkqul9C7qGMHIOb24LjXLMzik60Hvds6rn2jrttUISYH7DDduL2Mod8aDn/OKPrr4p+sNqWu7dQa3h6blsfF+H3RNpQ/MzZXpVLvElNkK6JBMIoQ6H0IvbHcvsN/jN14+WJzXlEiOpo/o0Z/NXnr1L5JtE/4cFfqfk8gxFrZuKUjse7cAzZoqZ9r9tnVLrw2rXr/PdYclQNHl4HjKTWbQUccmePmHl1o+Ejv5zM+LpsjNW4FdCFOghYHsEbOWpN5MJUdFOZnScpgXNLA5ckgeYi/SSq1hHeYAnkYI32iGlNHx58AgAAA",
+    "color": "#e8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/e352f76ea69d9c15-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/e352f76ea69d9c15-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 103",
+    "sourceHash": "e352f76ea69d9c152fda16d1c23d22e167c1e39a6f2f53f26fbb51f2a3ba49ed"
+  },
+  {
+    "id": "gallery-104",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRjYBAABXRUJQVlA4ICoBAADwBQCdASoYABgAPvVsrlEqpaQiqAqpUB6JZgCsMzLjb+06xwZaFqy4FXF0E5UrqgbPYUvGVzSTUAD+ciACp90+n1pLla/d35orGRwFqe5uU3MaPC67hqb9AQNlDVYaYsdUhiUKHi4361G+XIlcpgAVdEu/C8pNwMslmM2SuXsxkHgoEOKqyQ+KczfXf8bJqM/SOW2ofW3S4ifX/kLNWj55PrvTDSoI2GzcyFoLkilWpeCw4k1pD0TGCUMsRQcwBnNnqQqmYzq5+95yWh2/NHPZq//+EI0SSB90ycZyNqpwl6IVKPLnYuWkYvWFJYNKCpPI0C2EUvcLFzPu4T/Ge9fk3qR1HeJP2P499J0scWbo8Z33cGL8vUB846J8A5r3rAA9f/fK08yDetQA",
+    "color": "#082858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/e7abd36a1f438f4a-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/e7abd36a1f438f4a-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 104",
+    "sourceHash": "e7abd36a1f438f4af240a8b2a731c31260825f2bbe93f27c29fc02c6a3012c65"
+  },
+  {
+    "id": "gallery-105",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAACQBQCdASoYABgAPvVysFMqpqSiqAgBUB6JbACsIHAgzAt9fr6GdzSCt2cf8qC6ZyBsqtFBgAD+hK/pMGYAKtaSXrFySUp1uzEufLgSK9oszsN3CPDh4eeojg2MTyKZc+hd+Q4FIroONchhDwTpv86yHZ2BWqz1MRZz6E5jnR8rJSbdi1IZDSRIfN52F2MAC6KL4qqyzxyJqelGy+tSMA32n4qVV4Qh2UE3d+QSWU2tFQWG6EVwBuNM1Otsb/waZPDblkZpQhJ991Au0p6Afkk2vKM8yj01F95ewrfhPma7P8PS4WSHf6vbJqz+lNUUChuYO3VKTu1I1mU9fZITmGs3WceXJ5fHcL/afAA4IAAAAA==",
+    "color": "#483858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/18d42c5b81de06fe-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/18d42c5b81de06fe-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 105",
+    "sourceHash": "18d42c5b81de06fe09563c70466203691b7fa51b7d2712e6786f47fdb91d918f"
+  },
+  {
+    "id": "gallery-106",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRiQBAABXRUJQVlA4IBgBAADQBgCdASoYABgAPvVurFGqpiQiqAqpUB6JbACdMuz1XaA21F25HaiOXjhY16el6T/sdQwVQyt6MAgD5JGXh1AA/t62MZ7rZohl6LaJLbnMMqNLvsIKVfEFu7Xz637DYb4zNBYSBiQ+1v0b8hVXmP6RQ2i1lSi5Wi6nf0jPv0df7IL3tue2GyAGe8X4BkAIudtjwkdk8/ZlPKeW/6z+rSerFSvmTjWmq+UkgZm2m6KzFs5p28Yy5hL1g1lJNG40NPibL9VpRflxUiqrejRe4dA1OEKM7dco4PPoiUiyJyBbyy9R0c/vigXbY4gQb46mZyphoNIwry9OLh3PLd6bs41YRBa2EZvbiUJXeyzfpEGYptuw81lMgAAA",
+    "color": "#d8e8e8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/7cb9c7c50044c1fe-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/7cb9c7c50044c1fe-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 106",
+    "sourceHash": "7cb9c7c50044c1fe5384ea72413ebb03b191b8a340b62504d9f63e2ce3976b6e"
+  },
+  {
+    "id": "gallery-107",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAADQBQCdASoYABgAPvVwsFMqpiQiqAgBUB6JQBg6NY4wFVUkv6LYnMVtHCZjE1geGahxKtyUE3YAAMozqhVIXKvlsj41i/kRf4sbkkD6zQkbjnokroTxm9deVc1c7zcc0oRvgswlIokvtmFYE6FakhVjVulmqZRNVB7lvVzMtKr+RbmF2dkptIvbSQvhoPHcs3A/9M4+i31dy1+2Bg9EooLIycyXgY5SPjwqkY4rcU96azrHZ8ff0SMbx0S7gguSZ9cHk0HijSXB/MO7QFOnzxlQCauINrVAbFVf84qb59Lv8sO3Qh2jsyZ2E/fTL7hO798hXAE/20imAAAA",
+    "color": "#c8c8b8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/f457f9d24dba7cf8-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/f457f9d24dba7cf8-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 107",
+    "sourceHash": "f457f9d24dba7cf8483d8429b1e905a028f223df22699d87467622d21066b939"
+  },
+  {
+    "id": "gallery-108",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAACQBwCdASoYABgAPvVqrE+qpaQiKA1RUB6JbACdMoPHMdn/l8CX9Vi2bebl+Ctg97A8jUmFqK147cAAyKhny8vwa9Y1n4AA/kAM8aJfjX8wILcjGPigDzNM0YaadCE9sELn7Q3+Xspgsgde2x6Q2/l/92+3uacxEk1siRJB+0wj8irNc6KSBU23Sxq4fuM3/XeXCQ3kGg0PaIbk3TUUcO6gYl4y2T3mr5ClITo1YrC1TFseRPS2QkJX45E0SbxcRVAuEc01lUgul4lOPZsx/j3qitjy52Gl255Xn+l1mvn2IqNbTpXI70ffZGatZCyDH8274tbYFHrbVYOkrPe0gnLwGNS/DcHBgE3AnqPcLVbWe64WNLWrDvLZorjjLWCJzbzunJHh/0OX5gxB+PooeJ0zn/0AAA==",
+    "color": "#e8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/a94ca4a417de2504-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/a94ca4a417de2504-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 108",
+    "sourceHash": "a94ca4a417de2504f8f75ef1c17d6de6bda5a3bbbc0441d3cc09722d08af752e"
+  },
+  {
+    "id": "gallery-109",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAAAQBgCdASoYABgAPvVop06qpiMiMBgMAVAeiWgAnSD0Q4G1kGMDljsz/EWiGheFlXm8+KFsbCFKqQAA/bATdu6F4FEIaWv4ohqpCicitxEIKWk1d0TvP5IZPa8YsvdNkUJOFmKH/FgwR4XHcxubGWxVEngja3VXejr2NmkBfj/vBASlrgN4Qu3DQ2hfJTPxWuyjdrIsDsbNccq6IcVyPeIRsebuiAqq66j/RpSZs5/dxn3GB28rcwumQ0i0IEcTQjRY7RVhInj6kBaVCFvplUsjqsWQHLnCkSx/amSxKqw80tnvI8bXM194AAA=",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/4777418cd0cf56ba-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/4777418cd0cf56ba-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 109",
+    "sourceHash": "4777418cd0cf56ba7000b99bbec9b2a205990bc923d8846c941d5976105cdcc6"
+  },
+  {
+    "id": "gallery-110",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAACwBgCdASoYABgAPvVurlGqpiQiqAqpUB6JbAC1GoKNFbWI306+uV0o7nNoPoC5TmgHK1Ac0xuVpMF2PMr4AAD9pjCwYQByRzZpk2cv/c4Kdsi9a+EjtpFRKqxNpHSnuLDJZVO5J/Qs22uxMgSndhvMq61MLOZdQN+NuQNdcVItGQwS5conlew0/ncYC91XFhcZ0eeiKzn8oKg88STIbKZq9BUg9fqmP/cRzJDMyw11ma8d4Tk1kYyfbun94zAYocL/FOFfh1mzYisBO0lizzcDS70GqROdnZ7yHiX4KXWYHaMe58tQE62XaI9OpW4QgWqrOxOFOgPrrE3ebF+yEF+mjsWll2GDxLMaa2WFkIRyU+QzZRIXgK+W8BrRbSvZMSINelhxRAlZx0tS0dwAAA==",
+    "color": "#080838",
+    "variants": {
+      "avif": {
+        "206": "/gallery/6e5c53879a70f44f-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/6e5c53879a70f44f-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 110",
+    "sourceHash": "6e5c53879a70f44f1a935676a21fcd891bc9c03e1f03f80d06bd28f8aef04c43"
+  },
+  {
+    "id": "gallery-111",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAAAQBgCdASoYABgAPvVysVMqpqSiqAgBUB6JagCxHt8lwwwNN9WbdimWl7JmRevmm016CvhOPZPZIAAA/pGQCztrmcBDrF0mUE6+dtzETdZfrrnr3PjRy8R/t3viRgegeHH4zlotHxZ0CjrGf1qrbmjbt4LHVsgYsRRhRWrR5juSZNFQbt586FjmBGpv4NgovMRIi/shqFvQjycmnUjP3nKPWde2DsOUJT+PD+//ToPop8oDDxUvDNJjtnkASmj2BePMJC14qRCD2qmP+2rS904sn+ucnHdYn4DWhK/VbOD7UK6SGD6numNYAAA=",
+    "color": "#e8d898",
+    "variants": {
+      "avif": {
+        "206": "/gallery/7191c24a4ea6c22f-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/7191c24a4ea6c22f-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 111",
+    "sourceHash": "7191c24a4ea6c22fdb3c7c17ea468df2f2069b4debc64e29012db082f9fb93a4"
+  },
+  {
+    "id": "gallery-112",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAACQBgCdASoYABgAPvVysFMqpqSiqAgBUB6JZgC2+oKNnFJKgBHAhHdaqQztLDVMpnuExwkbT76IyrH1lI0AAPLqH7zZr9MboTOlLXPQ0Mbrw6tR6ao+iasMouUlPUuZY1v9CDZeyO1lnae0DdTKilj2EMKblGYBzZPAWbgeIIVJfo9MK2BnsT84iE5s8EMi6E2XkPV8TDWIE8gKc4ZbLM4MK7rlnV5NZrT9of32CBvE+UONZrBKMonP0os2V1erhcTWYmNnPsvu5FSYltI9vxFdKYyeSemgsyGXVpviR6wQBLsFP7mcHrYrQC3zCBAWSl5aSzFi/NLM5jnHBbR4AA==",
+    "color": "#b8b8a8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/a2852ad6ae158bb9-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/a2852ad6ae158bb9-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 112",
+    "sourceHash": "a2852ad6ae158bb92cf9c4c40e31cf895de73c07a3f84aaf51f221937bc53ac0"
+  },
+  {
+    "id": "gallery-113",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAABwBQCdASoYABgAPvVysFMqpqSiqAgBUB6JagCdBawW2JoMKB2WOwcusuzWiLjAAeWQIQoAAPnX7a13jNEYLmQD2hkuCnBRL+PISHZslg2x3sPgyA2BALkkWTRKxIMgvDtmSugU2KHEGUZhAA6ljJI+VV/kp56LXfGOqhSgObwhi7NXKLyI7hLFcKBEPivoWR8JPJV2wpZmAU7e/wkQSzTzCueg+CcAidfQJaCegAIGzQ2bZB13kSWFSHU3yWceHLO4ntiTWSmX6Fx8x3N27wWUHk3ylDOteJNiw2tYpQKSzS2x2Xm9Q7CuQoNjPEpKEhwAzNOjOAoe/JjjiSE5+TSRStY69PVXVNlwAA==",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/1881c3cba4a8ec6f-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/1881c3cba4a8ec6f-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 113",
+    "sourceHash": "1881c3cba4a8ec6f9b252e04248cbb6db4559e0de43596dd64e5ee745414155f"
+  },
+  {
+    "id": "gallery-114",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAAAwBgCdASoYABgAPvVqq1AqpiOiqA1RUB6JbACsMvU81JBz2Itb4mdmxH9q8Ac9lqbm7rP0z6VEL5AAAP68KHRq8KaGqVaP+Dewgje5Js8QGlbfpm1rux98PrCKG+J9QSJbMMmWLqM7Nt80fjrZ2UC/vnRFd82mM19Rx7Qm9W5v4MiaSKphq0G+Yv2Au5qzk+HQq++nvnBr14CvlrzShbNn4dk21VR7q7ztk+8ELhioOdVYeJObjiZA4DreuhdFfpo2kX1GsYdt5iEOYm6mPeJNioZcs1oiZqef16roAoeO9knQwttaUelFUwUv6KBb7pUankD441MF73Je5pRYSFQCyQx64sIHy455Aue3GVh6z81pME6fGd+9gGAYZ7UgZ8rqdJClkPGQkS2cZkC1bEAA",
+    "color": "#b8c8c8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/f2a22c65d22097a6-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/f2a22c65d22097a6-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 114",
+    "sourceHash": "f2a22c65d22097a617152a19ee24906798d8d638e1d508cd2ec6e8c8d7108e33"
+  },
+  {
+    "id": "gallery-115",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABwBQCdASoYABgAPvVyslKqpqSiqAgBUB6JZADE+OZBck94c/v0Rp1F8ozoDZg9La9JubwAAPHgrkGBFQ8rZEI6k7Q0zEaoPVMTDxR9U/dnSn1zSVT14Jl6YIdeatiPnhLDWoNuz57zVrWkcyewzVd+0O+n0Ua3has/w54IQqpM11CFT/8iqjgm25J2E8ncC0JCiUZBq5yDmAhFFMbML4IlV4R2eO5hmK3jAYAA",
+    "color": "#182848",
+    "variants": {
+      "avif": {
+        "206": "/gallery/66ea2c6b9a775a10-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/66ea2c6b9a775a10-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 115",
+    "sourceHash": "66ea2c6b9a775a106ab5df49b590574bef38ddf20a4efb13851e7e9b5595df19"
+  },
+  {
+    "id": "gallery-116",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAAAQBgCdASoYABgAPvVysVMqpqSiqAgBUB6JbACxH5LH+kqhbDBp7UQfwYVOqAZEI+1FH8qn3mzThnAAyrlae/5QHQlbMQyrTV63vCIHBD96IHKYfghFGF+Zp9cmJIwsjSjdyZ0XtxciYF3JfdMkAzeqgss7jzlqkiv8mY0BAKPlCjYU+PA+FETldsSUrUXbD3mtq1665sJjBHps3kvERsGd+XJ0SdwXvsefnqfhwcMBKaWxmzZK6T+hHPbhOLh6MmTATSP83/x2TGMZHQEDLVWbRrWRDpirts3JDI2xdgDBp0eX9Zr+4jU8A4HzIAAA",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/915ab0fc7d9d6372-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/915ab0fc7d9d6372-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 116",
+    "sourceHash": "915ab0fc7d9d6372f22af7d52a57933b52f02e8d8dee5e333ec32a4f3d12de35"
+  },
+  {
+    "id": "gallery-117",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAAAQBgCdASoYABgAPvVysFMqpqSiqAgBUB6JbACdMoR1Qc/gXGnNXrOLhNf5xGk6KvI0LIaBozVyZEAA/t2vGtqODTX8MR0RFoI1HJEEw6mwl5iy2ffFAgq5dAWNWjHeilF7NNYCjD+M+QDHN7+bTG85Ofr7SxP1IpVRn2N2iw6Y6oLdRKRZRNZt+kIE4CIENXwRSXAHV29v+OzIcTsSk+bsYBDd7KrWZ4fC6BVddjgbTBH2B2+HRsBsceREFfARg4J8636vAdH4A1OmE+x+cYITWtb8P8X2kY2Cy5s6SRx19raZovjV0EgPye8zddD3NFKe/rSzaEk0cm6RN6C0GkmJZj02CAKi8qRBMSelJXCZQovbkyUCuBPTTxroZlOcTW7KKjdxRfsQ8FMO+XHyYAAA",
+    "color": "#081858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/d75be481e78ba917-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/d75be481e78ba917-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 117",
+    "sourceHash": "d75be481e78ba9172072b7a9c2e8f77627abb99303e437bc0adebd9726d9bb7f"
+  },
+  {
+    "id": "gallery-118",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAADwBQCdASoYABgAPvVsrVGqpaQiqAqpUB6JbACdMujnAaQJo4JAoQJVa6NmECduxuAxQjV9DnOOAAD07/RfFB3/d7eY/ySxSllrFZA9G+Aawe/RvMFDoFlBZuOae+XFs8BSvaGIk3rJfz2GUn2ieA91N55gUO9LjdNfDq7ACpPfQbFY93b9yzr9l9Roia7roRO4fbh+ADCzOBbE0V9r11ADbJuytHf8C+crjOVlOCyJMikD+fbSkQn9lI7xzbXnKh4f+UBgs33V4PwtVA5g/nUOd3XO0d9Nx2fFbFEo8Q49iXRgwPKLDWB5BgbtyD94gAA=",
+    "color": "#988868",
+    "variants": {
+      "avif": {
+        "206": "/gallery/7f21feb5e8a619bd-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/7f21feb5e8a619bd-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 118",
+    "sourceHash": "7f21feb5e8a619bd70b8f27f39bcb33d8a88936ef18cf03b00e92d52293772fc"
+  },
+  {
+    "id": "gallery-119",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRjQBAABXRUJQVlA4ICgBAADwBQCdASoYABgAPvVsqlAqpaOiqA1RUB6JbACdMuOCmdCUeAup4MEFAl3GM+NAAAW8sN8DjzFNgADOOUm4R8aSeeCXpYzgXln3ShhAgXXRMy2pSCQv1Qo/viRVunNv0Vk2Yz2FPkM/Z7xaGuh9IkRczg8iW1O5DUfB7aqIySIbjIyr3YBOkyVBKUS9YV8FwCNbCQwTTPvGfLOxuKiR36NERm1gd0wf0uhv4CVX/oDDG1saD64DFR7DrXKjBnsYAsAvHnElmnjtwYWX52U/6Z0so2P2dMpv1x3y/4TE2EqZCe7UOWzTYqZy8uKt/PVXMq1OPoiCHdZ8Rm7rjPILaObL8j9aOX7TEV9Qns/8XnZHuWRibRRLD0BsnXp8u/9w9Nrum+NnwFAAAA==",
+    "color": "#a8c8c8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/e7333d11eb189ab8-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/e7333d11eb189ab8-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 119",
+    "sourceHash": "e7333d11eb189ab8a8167d148142f2d4f22b6ee42f7b24f7740fdb352801be96"
+  },
+  {
+    "id": "gallery-120",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAABQBgCdASoYABgAPvVsrVGqpaQiqAqpUB6JbACdMoPHI3ji2VDnETb64dPHK9v/VpVvWLluNpqc6ew4AAD+zgNi0aN9g9Z9Q4AzCy3BDqbt9CcJp1vVpH82gVtz7TacTmnFqFFERZFn/A1h8GT2cD9AgC1t1pmYr6kHH2en6fDsAV8p6ToIY5U9/pI8ZcugmPb/HPQVSZ2bCPEisa0uIONNBPMyIW3Xn/vBnvc1Eg0twKH2Xjm309mbSPexYAXT+dFNS+6BYaR2nGjiZo48976FPyG7EZWC3xuKNYtSEt6kVVPKwoUxt+AHPHU8vNDMy4AAAA==",
+    "color": "#988868",
+    "variants": {
+      "avif": {
+        "206": "/gallery/dce317b82f69a94f-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/dce317b82f69a94f-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 120",
+    "sourceHash": "dce317b82f69a94f9f2a53016d636df90fe3f50ecb5c7f183a99f40ca77a883c"
+  },
+  {
+    "id": "gallery-121",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAAAwBQCdASoYABgAPvVysFMqpqSiqAgBUB6JagDDNY0qbSNrBYXPHCEo/LQYDdQ316KhYADh/7Al8JB6jMugxbxdnXVS6LOzYIDI80//rkO80M5I1HeZ0bRuk5Tgbx1FP9RPRDTS9Y0otT+W4xONf1IKMpsqOhFgXPh/kVyUF8FHd4VSj3BET1yCaTbJd1K+O10QowZn3nGpAxebtK+OdBGkxxKO2f1FkRC8y0g1lrQQKwg5LL7mc6TOzjwnCfleIrbE62NTTqsV6/lms3U9IdJSLIP43LIJzqU9AAAA",
+    "color": "#282838",
+    "variants": {
+      "avif": {
+        "206": "/gallery/5ddb863d692bb84a-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/5ddb863d692bb84a-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 121",
+    "sourceHash": "5ddb863d692bb84a1be0581c4de8e1ec46ac84f0208f0bb580d9d34ee3f67b8e"
+  },
+  {
+    "id": "gallery-122",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAAAQBwCdASoYABgAPvVorE+qpaQiKA1RUB6JbACdMu0A/5BwMPq9ACVA92hCf0O9LqzPoBUv523mJfVwQmfT9imJgADN3vDVj0J/VmVmKYmCdtb6MnpHZNTqmu3xwSwbyeWUzZl0h++qPKqq2834C3JB2KpfRbBfaTW2AePyjUjsFGkYWQEsVHAqt90xy/os6l60xRy3Hz24q3A1RhBhtuaeA7Jp6G2W60b4SEy2kEzXsItBIVq1cs1HINwLpiVFTnntKJosFJDT2EaIUgc0BoLFbvvQIJizUZYN1wfJ3uOj52RgzaKJidrIR3E7bbEhjwMoaVc9dxL2k55avJo6Yni8GOAN8DNUxKZaAdtMLgyGjsRiw/N0UDi/jEWt+ZizwE2H85cBIfvPDAxhNgAAAA==",
+    "color": "#081858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/22620a3ae0ec6629-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/22620a3ae0ec6629-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 122",
+    "sourceHash": "22620a3ae0ec662937a5da37d6ec4d341ca80c5c86f24ad0233ab6d4d950e655"
+  },
+  {
+    "id": "gallery-123",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAAAQBgCdASoYABgAPvVysVMqpqSiqAgBUB6JaAC1GtqOg5FwkVawtTDww7XJClb6YYCzbB5hTU1HMqAA3mOXtGU2LD9yQmhq0Yccss45kc26QhZgTs354ZrbBcmomDgWmnfsQYhAM00BYAmdoc7918CCnz4uFQQVVhM4CVPsCtfDGTMT89epaAlcLx4+a3aPfm5Na6EK5UXcJY5xT54cbFFrMsTw7x+SX7dFokz5KfAzAgWNcwwL3u3EytnUyF8ER30NEnOo+aHrxxJ6pxY6ZlvJhUE3mZfDoXn/Su0brBAwZwsiy2AAAA==",
+    "color": "#c8c8b8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/2844840bb1b59504-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/2844840bb1b59504-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 123",
+    "sourceHash": "2844840bb1b5950464a377e63b25a7ddce2085ad4b16e7d3d3fb4687c6ed7438"
+  },
+  {
+    "id": "gallery-124",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAABQBgCdASoYABgAPvVysVMqpqSiqAgBUB6JagC7BAgdlq6LOL1sd9gD8nWdIr5Lxe8wseLiwwH+bOicAAD+2faKLtqvy+jikqxGkNNqJDOgn2P9poZ4+tKvS4OscJ6v0voyDREae1uHtVxK0UQxfv2qEwFnKG2/sX03ah4vhaXTjMUgW2QN1KFbd4p3plo94JR3IZsSyduEBlp2BgpIg5oKx25+PAYRW0G1GourHYG9RL/Z9rELstI/5CTp4t64XpYck+qfMO+cHX2vT6inDJ3CMcBUWVhzZzCPV9Fnv3JPo8CeJVaZo6ZCGzc899XDR3H5+9xisAA=",
+    "color": "#181828",
+    "variants": {
+      "avif": {
+        "206": "/gallery/2bc25719651e33cd-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/2bc25719651e33cd-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 124",
+    "sourceHash": "2bc25719651e33cd1901ee3a376cd748f41a3b3755d4199c28aa8e75fa75a057"
+  },
+  {
+    "id": "gallery-125",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADQBQCdASoYABgAPvVsq1AqpiOiqA1RUB6JbACdMuu200lQ13Qh+N1HFEF2ohjeHv5Q9AgEFPAAAP6hETh4G+icbaR9iEEcw0XbdHpnnfXmMzjIJJYreXcu/tjpU4KgxQfOkedeMtra9F8k6bd61q9uZN2GZzAwlr0BkZTNQbrupKqHD+PJxr5vl7nn/+lnQc0/z7lMBj984UuXLKEpOHecTb7phJpI0BfAe+ygRTpx9cORJ1BxcFkCh9NJwvqptpmpWYBQgacYVXA2oGwfUrg7lKjE828JyS8GsKweNnmI0v7Lx1fjDbrre1f3QorSccpllDn0pmgAAA==",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/636e413f9a3dbef8-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/636e413f9a3dbef8-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 125",
+    "sourceHash": "636e413f9a3dbef89220fa22ff189d1bcbf03914e4d4658a19f3c1838b82116b"
+  },
+  {
+    "id": "gallery-126",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAADQBQCdASoYABgAPvVurVGqpiQiqAqpUB6JbAAIFYgBKsW/we3d7fTpVqJZLlK07kBwm1UUOSfgAP7WD3Vsmw3cxhwj5s8e1ScMcZoEsvbr6Uh0zBBRDqiGiOXJAfmxCVbx0RyDDe100TB8s72MX9qASlLJ1P8bbJPsc0CoDRmUpVrwHFkNHdxdxYNldsJ1Bx8lmS0WOFC7FOVQ16gwY3k/2lSm6M0dk56rHzEem6k40Yto5Kfl04RAb5z6E0qXNjoUOYju0Bj9KBYNKJ/jWS59k951i46oJmJGiWqMwbBe6poatTq8XnkFzQAAAA==",
+    "color": "#383838",
+    "variants": {
+      "avif": {
+        "206": "/gallery/6eb04d4189074e50-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/6eb04d4189074e50-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 126",
+    "sourceHash": "6eb04d4189074e50950f8f03e222bfc2e832708c5d0bfa33e34500f9b4122640"
+  },
+  {
+    "id": "gallery-127",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAACQBQCdASoYABgAPvVkrFCqpSQisBgIAVAeiWoAnTMhgaodovY9BGaA0ZxrsWccNbYCwxwZrAD+w5pLwUbspdEvELC0oNAmJXQaL5nVHJly5KJBtmgc+YLMOGC2aUd23R74KMIglmIzMXQZfWggWFp2DINy68NGf8B17V5l4VtCF21oA3/AOkqpIy+6oyRzgI7Q9Ic7u9n2Y/thtW+WPIn3sGNOAd/+V3LES4WuaRRjrOHSDJk3M7tRn6Cerj/s5mzt2RKMsJfLnmJ2EcXXBBHbIAhBAa3pRxf3y16Ey0Rdf0IrWj9gDH2byGUDrjJcIItoKmgTJBzmVE1rIwpXtxxNeZSAAA==",
+    "color": "#e8c888",
+    "variants": {
+      "avif": {
+        "206": "/gallery/08f88cdb754d6b83-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/08f88cdb754d6b83-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 127",
+    "sourceHash": "08f88cdb754d6b830eddc8a46ae1b83beebaef17f45c395d3ae9518cda7110c0"
+  },
+  {
+    "id": "gallery-128",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAADQBQCdASoYABgAPvVurFGqpiQiqAqpUB6JbAC1GvUpA+ug16yFMUqFWOtI9926lluxT0qzcwJAAP7PJhrdBgePH4DRD1p+xvS3gfVT2z8Zsu6oTX8wZSOkkDfP6YiKIazCGNEK01MJvvGdKXhOLZ/mRE4DGYQlAR1MTV4vdAYZKR2wwMnwPnx8oJ+98WnopLL8LXPaWJHUUgXtJerbmpJACtKtE7O0F3F4eC67ghqA5SHy0NnkQAvI6cM6PRVGjibG/LPnMVKhFtGPWujdXqQS4Ar231gPCW3+pFO3qF8mFgWOQkwAAA==",
+    "color": "#181818",
+    "variants": {
+      "avif": {
+        "206": "/gallery/8dfff0d08ee69285-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/8dfff0d08ee69285-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 128",
+    "sourceHash": "8dfff0d08ee69285e1362b5804228f5a732f724bc2d5d82a2bad0af7d7e583c9"
+  },
+  {
+    "id": "gallery-129",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAADwBgCdASoYABgAPvVsqlAqpaOiqA1RUB6JbACdMuIskYzHYEGA61w/xFcr+VXdejMLqXbUT8SDvStQHC5OaqsAAP6XEREXjY9tdV8HlQf+vN8ERti1ya3iy4Gt1FH/C8LmFvs2t/p4Ie0qsxiLWOBsEdbqLXaWbLhYliGVSIDGgzlDFOmpAb8mJyvZ4qnusP6yLPNjOkOOXDT7c9d/lLwPed7cesiyqH1oJKb0dETtvQ7USaq52i3bmwwmeGwSIptKfVomTInDJ83iV1ibFyh5YssDEGVvs8MrhqSFrxCabRrENtuDvXkyIcpr4zp7zrg8c8jxp4FBfF88K24qAgPJKUweOlaeNIKriZeeYmvCBmsu2Ffzo+gkFqNiqZRQ2d4+h1709wuHU97jDTmMPZYx9l7ELq44g6f/v0gngtCx3ykAAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/16adc24a6ab24eee-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/16adc24a6ab24eee-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 129",
+    "sourceHash": "16adc24a6ab24eee76f6deba1523e21e95ffbcc767fa36924119dd7afb9e9ca1"
+  },
+  {
+    "id": "gallery-130",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRjABAABXRUJQVlA4ICQBAADwBQCdASoYABgAPvVqq1AqpiOiqA1RUB6JbAC2+oGvVJF15gInlGUelh/byooCaoocgfNUaB9O4AD8oKsMSvtnhcR3/71CDA7osiZQLbGW+xxguCHXAwntVUJiwYW5hjzxUQ6RPQShiCKtn3msuG80r8k/YaaZ4VuS5pjspmTkmwT8t6mHaPeRyKIFphJopoT2PddrqVNGCVLehBaRO00zb8S3jnhYyvYz/ljL8yi4K/JNkwm9sACwgFMVFaAlr02PgjxxXJRq/v+Z7kAlQonILALzrNX/8fYjkPK9/fs4FsqT0t4A/LEXkWjfJxAIYgW9zq+jdmJqUPz92U2YrM6ut3ezehPUf7g8JJa30SLLgoVebMpNxeq3oMTKf3gCR9f1AAAA",
+    "color": "#080838",
+    "variants": {
+      "avif": {
+        "206": "/gallery/88ca26646f6212f4-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/88ca26646f6212f4-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 130",
+    "sourceHash": "88ca26646f6212f4dad3b609b8b0041bc2786dc1d6c2edfcaa666090f76aff95"
+  },
+  {
+    "id": "gallery-131",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAACQBgCdASoYABgAPvVurlEqpiQiqAqpUB6JbACsEfgWP+boHDzjf5woRfrpntIraz4cDpzi2zRkto3QGrrgAOJ8mrpBvyJ0byPNEpi72CeFmasgE8b3F3oq8ZFTtLEauR60VYbPj7A72aS32cZWgiAI/xCsg4YomTo786l1ImMWyDLR+BAoYSzMivjao0tzsRzrXSD+mlGv1peM2X1RoJIxfYxA74GnzJly6bMN4Xyzgp2z11HPgEoyO62z5/ofci8SWYa2Zh2DNHHwC77fTBdCbBWt6E8vnMWsweuMBKJZx3QJ5vS/DOMbeJydL9PeWEFQ8b7liDTPmqDMFfP7EDNmLS+jbf/u2H5qfg50cXgAAA==",
+    "color": "#081858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/ffe1e48fb8d2ab30-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/ffe1e48fb8d2ab30-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 131",
+    "sourceHash": "ffe1e48fb8d2ab30eed2b701768323be30b12dca490ec73bfdaa5c5235962966"
+  },
+  {
+    "id": "gallery-132",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAACQBQCdASoYABgAPvV0slKqpqSiqAgBUB6JQBhUGx8JlwAKn11tfhHGSvhYKZA7BilytJgBIADKqzraI2KYRlG9Wt9eaxhrV26TYC0QaWVpxbdGYj9Df5oyRP+q5+YXKLyFUNvwUg8r7JLRUota0JTnHDLd8jpEq9rO5iVXTPwwKoNZMcznaxylYO9rleWbJSMwSpGusmqYFwt/En2aGvfgRiKjKPoGqoerWzxeYJdEXQJKHzohtBq9eORZVHAQPe9qkWgt8hx2eNi9zgAAAA==",
+    "color": "#888888",
+    "variants": {
+      "avif": {
+        "206": "/gallery/4bb17567a27a7bd1-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/4bb17567a27a7bd1-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 132",
+    "sourceHash": "4bb17567a27a7bd179a900c77760d910b1f9b0b88072447e2a355f6a2e6909fc"
+  },
+  {
+    "id": "gallery-133",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAADQBQCdASoYABgAPvVysFMqpqSiqAgBUB6JbACdMoM6A0lk7CPFTOCsdQoNhN243/kFbMFwU8V8AP7lLHKpCGodE0OP8h04sP0/5Ha+2L3gg8F/PQ27bUx7CeVlpZRN4eX+TA7wsCZ/aFDn+GEJCqNd8r/LGj1l496JDhKEEWM/SoZX+K1gJIR1xoA2dRnay1c0NcuqwZP5PBgw5IimENymNyC2yGzuzinPq+Win+VE6/aMJTKLaGbtTEP3j5FsqM2sZ8eW5C8w/j4SxgsPdvJY7tp722SL72nPm68Cz/s6Wt51ixCQeMS++LsipWlY1AA=",
+    "color": "#081858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/161a137f3f222b54-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/161a137f3f222b54-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 133",
+    "sourceHash": "161a137f3f222b5474e1cd6b8c92893dfb4fa4b7800d9ac7f10ef0808e6a4e91"
+  },
+  {
+    "id": "gallery-134",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAAAQBwCdASoYABgAPvVurVGqpiQiqAqpUB6JbACdL8I80CwPkjzBrOt9w6CwdR54byIIq2XHK+MvJUDwJpEvaYuGAAD+sB9srwKf/UDjZLmDfqLnBv3kESvYZnPindtSuEOltcxvvX3jRvOMPlVZwfH3V9TU2RCOXDF5B68gEag9My0Rr1PVbnLoLkTlk9oU6l0Ew8tLvp4seS565XQKoy2Rt3TfbsRCnnzgosTVGwQe+XMTOVvVa44QFPcrI89P4ZwyLcWZDOLf5SRt0zvXtarXWeBKlA2v8F9ghMN342Bs62CwM3Ee5wRS89hATAv/hc1/g14ku/eRhd1DptFEZ2h0X9oLYjTPZK3p/kSlQ4axGz35V0zl6AMluo+TkFZ96GRCLLfudxRHHzBGZIFYvCBds7Ah8pA++AAAAA==",
+    "color": "#b8d8d8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/a890f43ef1901af2-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/a890f43ef1901af2-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 134",
+    "sourceHash": "a890f43ef1901af260664ac8904987b8d75a2906e9e8a25cdcaf46fe519ee8c2"
+  },
+  {
+    "id": "gallery-135",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAABwBgCdASoYABgAPvVwr1MqpiQiqAgBUB6JbACdMuI8xYml0BKshQuvsMSaI31dMJVxIXH95mT44efyPlgA+KapHW/qo/KTcrKGPlFPD6vH2dVc9V045fHX01YIMN8HizCha9ocHDJgVEhElRe7COi4wNop/BJY8g1HQJp4ZQvlN1zp2aMxopsln94aFkWeVruuz13hpbe4IpIXuWSwy8uwFrTPh1EV8l0uPLh4CA1IQe7GO72CDh2PTHPv4eqVbn09g1/Ft7utZlpcY1Jz4sk9VB5USM0nKl6ET8cnr1E0+UpBy1Qfv3y2V9o+KRKdlpVprVay2yICj6Dg/4yT1kt1IJqAe5r+A5kf74nNxVssHS6fAQAAAA==",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/89e8c635ea658eba-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/89e8c635ea658eba-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 135",
+    "sourceHash": "89e8c635ea658ebac8204931d1e8dab8520c3af65acc5250b3e05f5c9e146f4e"
+  },
+  {
+    "id": "gallery-136",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAADwBgCdASoYABgAPvVsqlAqpaOiqA1RUB6JbACsMoRwJ4JmrFpu8wPgDPQCtMXU4C1mu/e4NVrlFXCDhJ95lcYAAP5o+AKp+M1Itkw+IsSnT5bG+WdnWb1OEXCI2rLyknJbsYnsfDJMnxTf6oaGfXKYOTw4QMXsuTFzE+lH/clIVuuOA3DPSZS/J2qFpqAXaFuPEIO72gwkPSQcG/qAhrjyyOWGoceoRK3a1ZSZisbYybQvvX0VNltBYTZ9rgzdno6cvbvnKGvgZF5e753u0CG0umkX5kh6SLFtgaMiBKNpPdoYYreOeQB3AfZlr4zzbh2DsPA7Jjzm3YuDDqcpy0Tfw1iGat7ztd+GNQncsOb+f0JyzKY8c4smidcAsJu10D/p+ty03U6d4PFJPQAAAA==",
+    "color": "#f80828",
+    "variants": {
+      "avif": {
+        "206": "/gallery/109d59982d9ca48d-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/109d59982d9ca48d-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 136",
+    "sourceHash": "109d59982d9ca48dd2dcad24c6c84d0f67c28869201c289ef5464536b5bd2567"
+  },
+  {
+    "id": "gallery-137",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAACQBQCdASoYABgAPvVsrlGqpaQiqAqpUB6JaACdMoABKO/cOrgG7+ArWv/QPsEu6liSDEI0AADtfrhu+RB5WneA1CLDaFqv3Tze9XAjFkxkASz69C6YOs5wxUOd7zC1RYlLCWQhSq0Wn/u0kIYnRPkBBcnZlsqiP6u5GvDFyAVusX1qjn0NHyl0n/nLeWtz0F9ThD64ekfVdPTkETuUZRtfgi9UFulKigBOpepCn6/JBBGw+glaD8ODmSr4Ay0hYbDJq91HMM2IjyJcNQW9M10AzDi0AAAA",
+    "color": "#a88868",
+    "variants": {
+      "avif": {
+        "206": "/gallery/f855f0dd46762d67-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/f855f0dd46762d67-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 137",
+    "sourceHash": "f855f0dd46762d6745755e9c42d42c2cdd3c5d62bed28af6a7f70ca2f7ad5fc7"
+  },
+  {
+    "id": "gallery-138",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAABwBgCdASoYABgAPvVurFGqpiQiqAqpUB6JbACdMxyEUL25gWTGRIoXnIc3704aiJGxdCMlY+YHIjeX1YQA/utSpxzAVGB9BJHqJu3JoRqXtOApRwl8VYsNPl2DLiTFFKcttRCNz9o8LzLsyFwNCZPRoZgkhsx+l/g+JezireKsYLcO4IJOv9ocd6u0jABdmjLx/Z9QN7oxFPkCPSbMAETS34sDYOC1UJwNbEGSCDg0ZsCT8t4mYtYAHMPYK+ODrbIUlcX+HcoVTO8JcOJL6fnTJUafhiqkVNzfyPJp/h2VLX4qLRP50sxNf/rP2rWSfghPjl1YRUsQu4EfMAqainvfoEhVx1IJRHgAAA==",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/9d29d8d15167d329-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/9d29d8d15167d329-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 138",
+    "sourceHash": "9d29d8d15167d329659c35999786fd5d504b10501508113219b7575cfcd1d6b9"
+  },
+  {
+    "id": "gallery-139",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAABwBgCdASoYABgAPvVsq1AqpaOiqA1RUB6JbACdMoMrkKBdlbXIywAlJf9/mhvHPZyIbhUKeaGCE9mpDyAA+/FxuVaOJsLjrNCFG1kq1t9/U9ixUkTNE75d5vYVxsFmWF3JDK71bwbPwBzN29bBpuxkE/Nse0HWypeMU66G0tiF/pcO3NcUpEMNCXTpfDa4juXd72WLy45X3JtsvSHRPumTvrASaCn4btQ0uOwqmirYvlJ09ExcrLluU1qq1emYk3aiAr+Gpk4o9vNbYs5hvoFiurqyIxfg05UbpCxGCgbK56Z69sJT486zLGDT97cpUt7TIADwOrjXoQFguTG5URK2/oM8DZqvP+AAAA==",
+    "color": "#b8b8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/285232b1508765c8-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/285232b1508765c8-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 139",
+    "sourceHash": "285232b1508765c8e8047f67089cf287dcfd08f3f82cfae81f1116bd8084fde6"
+  },
+  {
+    "id": "gallery-140",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRlYBAABXRUJQVlA4IEoBAAAQBwCdASoYABgAPvVorE8qpaQiKA1RUB6JbACdMuz7TxioBdsG8vERSGIER5SD/qg7zmzcovciQvZddaLkAoEQAAD+0bEi8Qrc0pcC1poV2INnGtaYeGFm6thEt38OHnQUad+4ZSHcWjw3A7rVjZ8q/y7odfPWrFM5L3zEiJXb8XZ71tOORB3mWnE9M8+0z3eS57b9saKh94HA+7Uk8UElSbbRRtIaLcsj30dMfHd6jcoDDcBZcTBAIRTuX22Eqa77h1H/J0Or+4lMH3//BtJOP7Uo7fhQ1HYB/pYWWLHUp9HFPP7hiyYDsp3ZUbiLksjd0FG0BDATkxEtu56RSq/tr5+HmTIat4K38LX/qFGQ0miQ/5oEvDqEtmIeMfDrnvmi4MrpCmPn4M5aXN39xhcJYTPMNV+8eMGuY+ZAxmTjF4HnXr0WQXQAAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/1e2ab7b5948754c9-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/1e2ab7b5948754c9-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 140",
+    "sourceHash": "1e2ab7b5948754c9b5ec2c0f4dcd96da89c2a7e85ab930ed96d413c465f8f6ef"
+  },
+  {
+    "id": "gallery-141",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAADQBACdASoYABgAPvVsqlCqpiOiqA1RUB6JQBXDgelOSrxl65QeMzAr7hVhXzFccADbW1CmcSuoZHsVw2g77BfTOMGx1/Wllsez6AFIHCGN24FjbJMmxaZwcNkAmb1W5gAFuHa8zS/MhAgVcvSKpSYO4+WaQ+o0ApubyBWfII7P2/lxlyzks65dFIbHWj0kv/EK482Hd+MPQp+6t8y8zpVYpldYDbgulhqorGaLkmG/vbQczAA=",
+    "color": "#988878",
+    "variants": {
+      "avif": {
+        "206": "/gallery/be880780d8c23646-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/be880780d8c23646-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 141",
+    "sourceHash": "be880780d8c23646582dd34cc0713336b595b79a203eeb36b2bd250681339098"
+  },
+  {
+    "id": "gallery-142",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADQBQCdASoYABgAPvVmrlAqpSQisBgIAVAeiWIAnS+OgL1kJkEFjsshPbv+PjyzYtjX4ZoeH4eoAPxci9JC4e9kCl40q/f9Jt4ptXJiFkKs+u3X9kYjEvsG+Q9Rdo84UnpiCeayg5clOxjx8mdljxEB6krimO9zVhNoPseVwF9ZwHekphwYLIv836Ydb/pLVMg8cqsqy4t2Zz0rN8vmvi9HCzkq0fCE/Q0St6tsEW48itivtLEdnSQLXhPNlfkPw5HW7M2xsoAAAA==",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/256ae96f7fbcaf92-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/256ae96f7fbcaf92-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 142",
+    "sourceHash": "256ae96f7fbcaf92282b0aa89f2f1818556f81ccf9a14ed0c81fc2e964bd9f5b"
+  },
+  {
+    "id": "gallery-143",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAACwBgCdASoYABgAPvVwrFIqpiOiqAqpUB6JbACdMuIzNYZl0A63RB4q+w68+Z87WKnfIRQdA8NYANX4NvSVgADhP8v9phZXK+a65qPahAneh5A0VQfvrygEFmOaDYM/jUuweHRxOngK6yMlWgKp9FnZ43vgB5d2PFQDVS3hCT6kcJj/HXpfwoxjKq7Jz0KAg155CcTKrwvF21aDl1YlAY7J02lJvOpuvNV1SXK/XOlQj7LXEKGb+9ScIqCAOGqK3ouaOOuhGpPSmIE95SoItzXGcTCvmaH4Uk3yR04tEAAlbAwyENnKvXYVbSfUir6+bUWu+imxJ/S0FsYEp5xj9KFASwfNcTsYLZqYAcrzUajTvlXEh3AyzTfwfXCkUQJAAAA=",
+    "color": "#c8d8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/b7fac453ec89a919-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/b7fac453ec89a919-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 143",
+    "sourceHash": "b7fac453ec89a9199c5d87df84bebeec314654338c82dbc28c3f2287d09c2f71"
+  },
+  {
+    "id": "gallery-144",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAABwBwCdASoYABgAPvVorE+qpaQiKA1RUB6JbACdMoMn2JfzvFkur8Fbuu4y7gckkMHijmP43BcAol+nVlP4u3rU0IS8AAD8CRtwtOApBy1aIZM4llRYYqNLq9HDpxNJli+Y32/B+fjTIFx71sxrCN5fXu9zoZXUnT5BM/yN3TgdfMy/vQu5n78X4luxYtu4NpW0jA3doj07rTr5wh6LrxfCeeiRov7IiXA2VaG6Y6/UR7mlxzCMq7V9/WSGZSNjvQakwuiQ0lcjnYuCeAch3gBza1hWfo+lOXB+FLBdxRc0ucZ/lmZJT2UMexZRWJsYAWpiKc1dOI385Tj/QBG63U4vnybawIUsJakRJt1k0P3J9hVMxZSIS1jsnA7dzm6cN4DsVvIFpKZwWVIIsLF4JqO9ux3NFtziHgrGORQBAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/5444c015f71b6514-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/5444c015f71b6514-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 144",
+    "sourceHash": "5444c015f71b651414c1e67a5ab5fd7e4be974c42106641e13546477ab4d1ebc"
+  },
+  {
+    "id": "gallery-145",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAABQBgCdASoYABgAPvVirU4qpSSiMBgMAVAeiWwAnTKDyg5MaAG8qkSMe+DwqMzjk3NrTkGRnQclI7vzaAD+93e9JXxOE0/5qcbYSm6v/aLtWj0GWhitOFN50sutQqOI+ePR9OWt6wrAR/I1P7X/b4U+vcgihvSZvKPjF4i+Q+I+bwt8SAK+UIsw4GSHsYr21MG4dtJ+gQSeawZhoCykPi6mYkTAGdauHn69MQWm6c6L1J8ZC5JSlSXDpgBCwgwWBQpLLrAa/cB8eJzmaWDf3k35ZGzdDPfZDy/ZWAZEa+jcvvJbE2TTwjejoeLPdx2jbd1CEy49fpI+m7Z/F11d1HsP2t8bE+VwAAA=",
+    "color": "#280848",
+    "variants": {
+      "avif": {
+        "206": "/gallery/d8b7ec12bd03943d-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/d8b7ec12bd03943d-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 145",
+    "sourceHash": "d8b7ec12bd03943df33140cb6cd44519ef864bfb7cc7baff9aa0b737c2240f51"
+  },
+  {
+    "id": "gallery-146",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAwBgCdASoYABgAPvVsqlAqpiOiqA1RUB6JbACdMyX/dwLGpvj2uRD8u72/Nora51BkrwD+uYOGXDcAAP1SRzzfQqNijUG7u2E4iQtjeRkhZ9OG3UvJ7+X6kyDHztmMUV0AqNhTM4WMlfCeLJYA3l5SbZv9M0VmdM3g1PMwrMmRdOnGhmQhPmC6VLEzRzr8CQ4DuB9ySLMicUx6C4XKS3ljC0bcYIHWiyI10CjFs3CmJ/5u+05m2SFMnNpZH1RI8roPhw4MC41tJ5Akb0DEOYU0zvrHK1YSmB+tzR2HLxA0s3r7NcYgwTbAK8qmUwN60yfbF0Chr69ZBxbLc7TlAEZlppeYgj7gAAA=",
+    "color": "#280858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/9b88b0a5f8f8e0b6-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/9b88b0a5f8f8e0b6-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 146",
+    "sourceHash": "9b88b0a5f8f8e0b63027494a0a9cefbf423c8e84a0bb31d3ac20b49041560589"
+  },
+  {
+    "id": "gallery-147",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAABwBQCdASoYABgAPvVysFMqpqQiqAgBUB6JbAC7My/vXgcO1h9FjcdCdfoeFhqDLpBeeO4AAP5xC0BMsdEGhziZZPG+7/c8kaP0WoqIICkYrf4mKyh6AuZyPPgFQ/07uVafPaMxTAymgG0/gG4zIIMj5RX45rpbjZJAoq+hydFqzMxEGzND5LqoxxI/tn/KKmr7uTq+UZ4Llz4us+T0fNTjfeZ48GNZ+Y3fOTGWZSMf0ulMrsxola6iRQglAZ5Kp41wnJ54Dn+20WnpaNfsAQ51YIhb9iNJokTYIYAA",
+    "color": "#c8c8e8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/2996ec6a34749976-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/2996ec6a34749976-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 147",
+    "sourceHash": "2996ec6a347499760c6cd4b862aa30d2c4e3df90b116c4b582d05609717443d5"
+  },
+  {
+    "id": "gallery-148",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRiABAABXRUJQVlA4IBQBAABwBgCdASoYABgAPvVsqlAqpiOiqA1RUB6JbACdMoR/ZfO6aTvLCNdyQeUcTwHkElGhWBskJjJOEI1AVsAA/luV1IilsvT25VOxjbkyqYrnHCVsl/gylxpi+Z0BiWsNXkHLD/jTYcRp+DoVxyTN0pxtGxaquO/okS/wMgRaqLfsIy6GkfmJphUEW/swAGdz58xBRzzOFmZNZ83FztT//0CHPfUnsrtNHDV9p+L1wvYS5utXFuoQ9Eq5lQ2g3U0genN9/rdhB+LDYpevpsyrh4X2D5m/tTrNcFn6W8YAb4Dq3qb2iJ+fUF83Yx3nfsQWLpF7ypcxZK+8WG7rppth39orBYbkNYNrrL1I2ZLnVqPbulwTgAA=",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/9eabbe8fea482729-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/9eabbe8fea482729-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 148",
+    "sourceHash": "9eabbe8fea482729ae64d030a80bf5686ba8c7d27d9adef49c5286138f3f5732"
+  },
+  {
+    "id": "gallery-149",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAQBQCdASoYABgAPvVsqlCqpaOiqA1RUB6JZAC/TQgADjYEPJFNsIkQbK2I64hAjdoAAP7nrbcH94crsSzkjrQWAXS7lJWrGJKnT7byGPGIxQndR1Y0BYUbUFxW6lRH+FKZIi+sTGDABQ8xmrnH1zdp3vEjudLLqWp7o0Cly3UNVhfLptj5CphaWZduDYZf1kwJ3Uayc2n0fD8EYR92+7XCYeU7YIqzzNNpC+8BdLMlRaVygEErqotJfjWnGFgtyjwSp19l1iHf5GYQAPUXYnWOPjtoaog1V6/z1We4NXgAAA==",
+    "color": "#c8c8e8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/74edba713f208cb8-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/74edba713f208cb8-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 149",
+    "sourceHash": "74edba713f208cb863a6f824f801416681a470919850a8100c1b3fc0127885ef"
+  },
+  {
+    "id": "gallery-150",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASoYABgAPvVyslMqpqSiqAgBUB6JagCsO//OFPZGXPK2LhCGydJPZGdO5hG9c50tn1n4iSJMQAD3L7xNWZuyxs6hLiyufol0Y+Z4S/K2BUe9uQgHpviDIhjJ6ydT7ZgylrxrMTJGQsngyq3GGMOGtFO5KH1PM4RE6wK/M5jwspA4hBZ5xnnfGomi9eEeprmLE7wXKLzXY7nfHqQ7me0Sg2xWX0YmzXWnr0iub/l+1XMtlG4kAIQ0eSPTms2QbrZXnoY/zudYVU/06SY5SUi84G13hwtKQGjiP6dpFf3bIfbvUAcB8sjNzwc0R6zM9wFNQn5ld75YKlQkrUuN0IISTAAA",
+    "color": "#a89888",
+    "variants": {
+      "avif": {
+        "206": "/gallery/b920f775733535ca-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/b920f775733535ca-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 150",
+    "sourceHash": "b920f775733535ca5ff195d7ce8a4360c184c9ea6fa60c13a2541292060cfadc"
+  },
+  {
+    "id": "gallery-151",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAAAQBgCdASoYABgAPvVorE+qpiQiKA1RUB6JbACdMoHga5+MuwWTAc84wAOupsppCLX9J+juLlL37wAA8gr7I8x0ife2FbDj7jHPcm9QwCiQP+fGWWS6WfDA+9XGv2jgQxjdx0icGovkYTzbz49MMTQItd35jc1nj8dFiQY1dZ7V4sZsB1C8GXTqUFXyRF/cfj/sb6oRtQVdxNdK8eP+n/1jgbHvi2WtWd/sgXTsiA6byoad5eVEQ590LMl7p4MKxz+efSHUrRRma6G7FrDH0Xx9glSfO/6yJZ2MZg7AaE6AUdaXGroeh7y0uOYndeKVg1x1XdaeZOzaz1jVjRE/BG1NRfGMDJltRk3VxpCQAAA=",
+    "color": "#9898b8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/f90616f39b400734-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/f90616f39b400734-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 151",
+    "sourceHash": "f90616f39b400734944e6eef767e7943ede3432e2aa41654f02cad308500069e"
+  },
+  {
+    "id": "gallery-152",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAADwBQCdASoYABgAPvVurlEqpiQiqAqpUB6JaAC7MuI6JnbFsRFuv4mMF9SNF8P2ArWpig+OnqUXAAD+seGQVWtnm0IDAQGrHQvycfNbz2mF3LYb0T3EaLFQUCDfuj5JQJW8VrCxsMlZcdHocdeHcApI9Lif4x4h/wN2Aw+QkB+wyTOMKJdsp/5TEl2mCaJMmjQwlZNxNMg+4yeV7oArIAEFwguqx+4fdQF6zowajHxDpGi3S1fuYibmsLxGIaUoi3QAJyW8Q84DweIsBbnmvs5omzpv63vA4Ia+XyOSZngj2FLnw9xhNOqN3RVwE0du6qvZcYRaGe76xQi2llP0WlR93XdZd6x0q70AAA==",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/8afdd36d2f454610-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/8afdd36d2f454610-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 152",
+    "sourceHash": "8afdd36d2f45461074e622688b76832337957df0d749f1286799e6bbae626d74"
+  },
+  {
+    "id": "gallery-153",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAACQBQCdASoYABgAPvVwr1MqpiQiqAgBUB6JagCdISAgvAcYa98la/oaTAW0RCXrVkHtV7ErwADOPgtyIuoGEMNbXYmsCKKXM1/RtsRzTZRkF8IKWuffenwHPBaLUcXcL7ULcu2FjGrU8eXz0wvML4Sd4qAT9Woia9jiE2XZvMqKCzJy2+T3MFvXCqpq6USApzZLYpxJAKcn439RcYwSYEHMT4StdRMkXeTs9eTEUtvSAY6h+AdjgO/XoX6LHtO1i4/CWwLRc1LphjSt1JTq0imsU5R1b1psio9t9+yqp5N3mGKNsZtjKFqG7Xl+GTgpLVBd2yZUaT8sAAAA",
+    "color": "#a8c8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/9e8a891818f2bb73-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/9e8a891818f2bb73-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 153",
+    "sourceHash": "9e8a891818f2bb7322e285dc65dac4eed39a0e6e66d540c1994aeedb2bd23d4f"
+  },
+  {
+    "id": "hero-church",
+    "width": 1920,
+    "height": 1080,
+    "aspect": 1.7777777777777777,
+    "blur": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAQBACdASoYAA4APvVkqk4qpaOiMAgBUB6JbACdMoR3AB0WfsgZLl7SgAD8s6O/GsTlmjTj0Xj/EwGjuRjQ6IJytRsjVUX22KtIM3Gc8FWHggTaf1+/NJQl09D4n7sr+3qhLOk0juAMjzohuCDd1FbhnPSkPB2+pkHfvqWmxorcNuUMiRBeJWeFL4rDHO1TpEOfUx9bsd8Sj8Ym4AA=",
+    "color": "#b84808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/be5dcb9e5cc45d3f-320.avif",
+        "480": "/gallery/be5dcb9e5cc45d3f-480.avif",
+        "640": "/gallery/be5dcb9e5cc45d3f-640.avif",
+        "960": "/gallery/be5dcb9e5cc45d3f-960.avif",
+        "1280": "/gallery/be5dcb9e5cc45d3f-1280.avif",
+        "1920": "/gallery/be5dcb9e5cc45d3f-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/be5dcb9e5cc45d3f-320.webp",
+        "480": "/gallery/be5dcb9e5cc45d3f-480.webp",
+        "640": "/gallery/be5dcb9e5cc45d3f-640.webp",
+        "960": "/gallery/be5dcb9e5cc45d3f-960.webp",
+        "1280": "/gallery/be5dcb9e5cc45d3f-1280.webp",
+        "1920": "/gallery/be5dcb9e5cc45d3f-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo hero-church",
+    "sourceHash": "be5dcb9e5cc45d3f5147d9aa30584c7cf6991f33bbb40a1220f2652f1fdb689d"
+  },
+  {
+    "id": "join-online",
+    "width": 1024,
+    "height": 576,
+    "aspect": 1.7777777777777777,
+    "blur": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAwBACdASoYAA4APvVkq04qpaOiMAgBUB6JaACdMoR3ACVLd1ZGEBSUgYAA4nDg0RmiiLYl30EuL/mM7UYPX8DQWLa6I4tVTvP9mp9bCU6Tk+YFHDHjz82YnkrYGXsuHO6APLxY/zjb5QP9Yv89IIIy+E3ovLlWz35xcwUROixAY4CCkRwXTpO/9x/+7aw/0WshGxE/VhCTx8PKlp0IlYAA",
+    "color": "#181818",
+    "variants": {
+      "avif": {
+        "320": "/gallery/48283adb96efad19-320.avif",
+        "480": "/gallery/48283adb96efad19-480.avif",
+        "640": "/gallery/48283adb96efad19-640.avif",
+        "960": "/gallery/48283adb96efad19-960.avif",
+        "1024": "/gallery/48283adb96efad19-1024.avif"
+      },
+      "webp": {
+        "320": "/gallery/48283adb96efad19-320.webp",
+        "480": "/gallery/48283adb96efad19-480.webp",
+        "640": "/gallery/48283adb96efad19-640.webp",
+        "960": "/gallery/48283adb96efad19-960.webp",
+        "1024": "/gallery/48283adb96efad19-1024.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo join-online",
+    "sourceHash": "48283adb96efad19bdb3ad53932608c9835a6f7b6825f69c2840d5acb1fab0d2"
+  },
+  {
+    "id": "pastor-josiah",
+    "width": 1279,
+    "height": 1920,
+    "aspect": 0.6661458333333333,
+    "blur": "data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAABwBgCdASoYACQAPvVsrlGqpaQipWzJUB6JZACdM75Frq+XEcAYobzhgROL68Nar4aGQDXM4SbXlHEZRQAA/ss067AYZ1wMRhamz1giOBp7JfKqT/0OI2V/pzBRsz7j44PHku3RvsM1kQoEzCP5SSF9qcU6+95KOiXo90vgcnAgYob1tf8ynPs+C0AD1n8tGe0RlTPs70hv4VtdFIyBSSeFP4LmRZl3Xt6xpK9DXW1I8VqKpbPiDc2WQt/sImDkBgaUPbrQVcCx6C/GkkPqTiS7GGF7pH/eGN8jq6mrc5C13xehD29lOjU1ch9jKKAhGGbhMphwnM8RFUDKDbgVAAAA",
+    "color": "#485878",
+    "variants": {
+      "avif": {
+        "320": "/gallery/8382f0b05928b6fe-320.avif",
+        "480": "/gallery/8382f0b05928b6fe-480.avif",
+        "640": "/gallery/8382f0b05928b6fe-640.avif",
+        "960": "/gallery/8382f0b05928b6fe-960.avif",
+        "1279": "/gallery/8382f0b05928b6fe-1279.avif"
+      },
+      "webp": {
+        "320": "/gallery/8382f0b05928b6fe-320.webp",
+        "480": "/gallery/8382f0b05928b6fe-480.webp",
+        "640": "/gallery/8382f0b05928b6fe-640.webp",
+        "960": "/gallery/8382f0b05928b6fe-960.webp",
+        "1279": "/gallery/8382f0b05928b6fe-1279.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Pastor Josiah Ilari",
+    "sourceHash": "8382f0b05928b6fef028a7ba253abf0b5728b31c6b8e25caa4924ca7ce96edb6"
+  },
+  {
+    "id": "pastor-lawrence",
+    "width": 832,
+    "height": 1248,
+    "aspect": 0.6666666666666666,
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAACQBgCdASoYACQAPvVsr1AqpiSiqqoBUB6JZACsM1C70BOYQSMdi/Us2A4Z+vWP6QBvF1ALV4itYOmW/QQAAPxaXu5jbEAa7TaUCCxhRZRZRdhcdne6TBB9+MwnSD4Oy4TgxYsuv+QPFHTOQYn0B+SOQ8jzkJvGFykEgDEml1XlPFoVrsLFUjqsNXAedSn2brLgL2gd/2EQTESKy8B/QXNKxfihW0oaWZZ+1V9OSApw/6mU6/iBJJUe7TffmoRpyoZaS5WZkJSEcf4+bxlqc9AAi20WoAAA",
+    "color": "#98a8c8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/5a23ea8625a0d8cc-320.avif",
+        "480": "/gallery/5a23ea8625a0d8cc-480.avif",
+        "640": "/gallery/5a23ea8625a0d8cc-640.avif",
+        "832": "/gallery/5a23ea8625a0d8cc-832.avif"
+      },
+      "webp": {
+        "320": "/gallery/5a23ea8625a0d8cc-320.webp",
+        "480": "/gallery/5a23ea8625a0d8cc-480.webp",
+        "640": "/gallery/5a23ea8625a0d8cc-640.webp",
+        "832": "/gallery/5a23ea8625a0d8cc-832.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Pastor Lawrence Adewumi",
+    "sourceHash": "5a23ea8625a0d8cc7cb71c6140a7cd298c06d7a258da6e6af38ed6baeb81694a"
+  },
+  {
+    "id": "pastor-nkopeti",
+    "width": 1279,
+    "height": 1920,
+    "aspect": 0.6661458333333333,
+    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAACwBgCdASoYACQAPvVorU8qpaQiMBVaqVAeiWgAgvIL7sEEivD8HTSMMwgZnX0+QM5L0fcIFfqUP5eZDDs2AAD+yycd4msOniRGnj/nc38MPswhzC1M10qmNqs16WaWJFPqEQkzIAE3q5PksDdJHhC+37RtXaMBqRis2Ub7/E9ZwjD8i7qRZPaUIeAp/5pl/5U8hIITsiklCgG8e1JXvtu7wu9DNsBQGa6WF3xs1FH0pLX7Y9uIsMXEwSwtkBQQ+AAAAA==",
+    "color": "#484868",
+    "variants": {
+      "avif": {
+        "320": "/gallery/7eb7cd2c8456c13f-320.avif",
+        "480": "/gallery/7eb7cd2c8456c13f-480.avif",
+        "640": "/gallery/7eb7cd2c8456c13f-640.avif",
+        "960": "/gallery/7eb7cd2c8456c13f-960.avif",
+        "1279": "/gallery/7eb7cd2c8456c13f-1279.avif"
+      },
+      "webp": {
+        "320": "/gallery/7eb7cd2c8456c13f-320.webp",
+        "480": "/gallery/7eb7cd2c8456c13f-480.webp",
+        "640": "/gallery/7eb7cd2c8456c13f-640.webp",
+        "960": "/gallery/7eb7cd2c8456c13f-960.webp",
+        "1279": "/gallery/7eb7cd2c8456c13f-1279.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Pastor Jacob Nkopeti",
+    "sourceHash": "7eb7cd2c8456c13ffc0bc1ee21b03709588949d00d42bc915a18a061845dad64"
+  },
+  {
+    "id": "pastor-ogunrole",
+    "width": 1279,
+    "height": 1920,
+    "aspect": 0.6661458333333333,
+    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAADQBQCdASoYACQAPvV2slSqpySjJWgBUB6JZgC2+zx/2+oj9bwOjIAkvMB/YYBTT2jI5L5566JgALwCM2iGqaxjaNEvFYH8PjjDmar9XrA+6HnRbLWC5BVVLX/zT72qGb21WGuP+xGlt/HFLTZF5NnAsJ+gLPUSHJz33OWHYK6+Or4snVnE3XDIg96JgMbRG6l1OqVAC547mykQCkhTD+TLkUXJZ69Sft+jRPO288OPsMbYaAyVM5Xdp9CuWHRtgjjhD3XMA1BlcwDTHSkVkDlF9fgHblATbBKQWtU5AoAAAA==",
+    "color": "#686878",
+    "variants": {
+      "avif": {
+        "320": "/gallery/22018f1a212d2776-320.avif",
+        "480": "/gallery/22018f1a212d2776-480.avif",
+        "640": "/gallery/22018f1a212d2776-640.avif",
+        "960": "/gallery/22018f1a212d2776-960.avif",
+        "1279": "/gallery/22018f1a212d2776-1279.avif"
+      },
+      "webp": {
+        "320": "/gallery/22018f1a212d2776-320.webp",
+        "480": "/gallery/22018f1a212d2776-480.webp",
+        "640": "/gallery/22018f1a212d2776-640.webp",
+        "960": "/gallery/22018f1a212d2776-960.webp",
+        "1279": "/gallery/22018f1a212d2776-1279.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Pastor Samuel Ogunrole",
+    "sourceHash": "22018f1a212d2776c21b3cad51be60dcff3e338d17905b6f00d2574b5de35952"
+  },
+  {
+    "id": "tac-logo",
+    "width": 400,
+    "height": 400,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAADQBQCdASoYABgAPvVsrVGqpaQiqAqpUB6JbADE2dwLgYN2nxntEcqgHRry69i+qlThpD4m/aAAAP7noB6lk6q3mgdKG6mKBw8C1EThQXh/7NTU0gkvSHmsC42+87Smq4elSSUVT/IVYfOLYYZHnEvTg34ZsvY1O89wS8Q/VV3/xg873IwYkXhJ2CCH+7L+VYpA1b3GUN9j8a8yCRfOIq6G46evo6SERHp5lUycmqRKViRNRSFtegGYtyrI/MGlYMM/ewbH9rThjFCzAAA=",
+    "color": "#e8e8e8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/517cd41faf464058-320.avif",
+        "400": "/gallery/517cd41faf464058-400.avif"
+      },
+      "webp": {
+        "320": "/gallery/517cd41faf464058-320.webp",
+        "400": "/gallery/517cd41faf464058-400.webp"
+      }
+    },
+    "featured": true,
+    "alt": "The Apostolic Church Nigeria emblem",
+    "sourceHash": "517cd41faf464058447cac4b5b2e7b36180d03688e528c7f0192ccc213e0934a"
+  },
+  {
+    "id": "test-1",
+    "width": 1667,
+    "height": 1365,
+    "aspect": 1.2212454212454213,
+    "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADQBACdASoYABQAPvVwsFKqpiSiqAgBUB6JQBWAZYAJyy01yoDFeYT7yUnOFRMMAAD+oX4n6Cv2mxlUNhi334vw8Rp5h0YtPN+hm6ePusfcufqqZD2RbU7dJwFZ37SsQNJIdKq5eB3CH3RlGAXP8NExT8zhRXDqW/QB8H4ob6rDy0/oH3UceYO85txO+EO4C8JPZsynh2pEn4wjnZe0aKG8kzrSFbVhDoJ46NfKE1Sy4iAoje4vOAAA",
+    "color": "#182848",
+    "variants": {
+      "avif": {
+        "320": "/gallery/469a86e695dbb30e-320.avif",
+        "480": "/gallery/469a86e695dbb30e-480.avif",
+        "640": "/gallery/469a86e695dbb30e-640.avif",
+        "960": "/gallery/469a86e695dbb30e-960.avif",
+        "1280": "/gallery/469a86e695dbb30e-1280.avif",
+        "1667": "/gallery/469a86e695dbb30e-1667.avif"
+      },
+      "webp": {
+        "320": "/gallery/469a86e695dbb30e-320.webp",
+        "480": "/gallery/469a86e695dbb30e-480.webp",
+        "640": "/gallery/469a86e695dbb30e-640.webp",
+        "960": "/gallery/469a86e695dbb30e-960.webp",
+        "1280": "/gallery/469a86e695dbb30e-1280.webp",
+        "1667": "/gallery/469a86e695dbb30e-1667.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo test-1",
+    "sourceHash": "469a86e695dbb30e2876b326eaee32c0d5521f6cae4490d88076ffbe62a248e0"
+  }
+]
