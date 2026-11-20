@@ -234,5 +234,29 @@
       "174adff50f544b77-cover-2560.webp",
       "174adff50f544b77-cover-1600.jpg"
     ]
+  },
+  "cover-v2:f211aa64b74550197a2c73f2a0103bd9e06b303e0614b0ec8adbe44aade456c2": {
+    "id": "cover-media",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/7c8e5c3687a03489-cover-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/7c8e5c3687a03489-cover-206.webp"
+      },
+      "jpeg": "/gallery/7c8e5c3687a03489-cover-206.jpg"
+    },
+    "alt": "Media album cover",
+    "sourceHash": "f211aa64b74550197a2c73f2a0103bd9e06b303e0614b0ec8adbe44aade456c2",
+    "files": [
+      "7c8e5c3687a03489-cover-206.avif",
+      "7c8e5c3687a03489-cover-206.webp",
+      "7c8e5c3687a03489-cover-206.jpg"
+    ]
   }
 }

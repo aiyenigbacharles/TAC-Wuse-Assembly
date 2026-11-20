@@ -354,33 +354,6 @@
     "sourceHash": "9d17bfceb82ddec7c173366bf14fe7eb8e418b17c91ad35b3270ce3baf802a85"
   },
   {
-    "id": "gallery-12",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADwAwCdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdABMMjBdvN/indGgAAP2ZkvqRhNZmFwFDXXhd9zWxFYnRmCsokxE232aM1+9a1CCWOx7dt2QkUeoKh39uiAVbHZlp8oYymRQICyFK4mxxCEXEhkvjX0LRV8Z1AWygS06Jd17i/+zE2IqgtLJRb1jUJtoiWUnc53jbVK/vHlgA",
-    "color": "#a89888",
-    "variants": {
-      "avif": {
-        "320": "/gallery/6737171c808138ae-320.avif",
-        "480": "/gallery/6737171c808138ae-480.avif",
-        "640": "/gallery/6737171c808138ae-640.avif",
-        "960": "/gallery/6737171c808138ae-960.avif",
-        "1280": "/gallery/6737171c808138ae-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/6737171c808138ae-320.webp",
-        "480": "/gallery/6737171c808138ae-480.webp",
-        "640": "/gallery/6737171c808138ae-640.webp",
-        "960": "/gallery/6737171c808138ae-960.webp",
-        "1280": "/gallery/6737171c808138ae-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 12",
-    "group": "media",
-    "sourceHash": "6737171c808138ae074d9ffe48d5f16b0ab5af763246ef30d1c0619750866111"
-  },
-  {
     "id": "gallery-13",
     "width": 1280,
     "height": 854,
@@ -709,6 +682,35 @@
     "alt": "Wuse Assembly gallery photo 24",
     "group": "choir-sessions",
     "sourceHash": "008c1d07915f2cc8f2759261064dc40cb4c03e7517014f6e10e2297aabe7539f"
+  },
+  {
+    "id": "gallery-25",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JZwDKACHhMx1DmrD9/iXT7FwQAP7tIAgv7ElGzJM7+YZevmFdMDm08pR9tqtzmnzU+f/WROf+S6NJebETyH4JGbaxOzL3orySqnQe3LsbF2WS1DMeZgR87TvhowNZp6G8QPa4P4xTSpWY/4LZ2EAMZcAAAA==",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/0ade17e12111640e-320.avif",
+        "480": "/gallery/0ade17e12111640e-480.avif",
+        "640": "/gallery/0ade17e12111640e-640.avif",
+        "960": "/gallery/0ade17e12111640e-960.avif",
+        "1280": "/gallery/0ade17e12111640e-1280.avif",
+        "1920": "/gallery/0ade17e12111640e-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/0ade17e12111640e-320.webp",
+        "480": "/gallery/0ade17e12111640e-480.webp",
+        "640": "/gallery/0ade17e12111640e-640.webp",
+        "960": "/gallery/0ade17e12111640e-960.webp",
+        "1280": "/gallery/0ade17e12111640e-1280.webp",
+        "1920": "/gallery/0ade17e12111640e-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 25",
+    "group": "choir-sessions",
+    "sourceHash": "0ade17e12111640e41c259dc6e9acb4227d5e4c18972d4f62409cc131196b47d"
   },
   {
     "id": "gallery-39",
