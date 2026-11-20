@@ -39,7 +39,7 @@ const quickLinks = [
 
 const weekly = [
   {
-    image: getGalleryImage("gallery-17"),
+    image: getGalleryImage("gallery-2"),
     title: "Sunday School",
     when: "Sundays, 8:00 AM",
     text: "Start your Sunday with teaching from the Word, in a group where questions are welcome.",
@@ -51,7 +51,7 @@ const weekly = [
     text: "Worship, prayer and a message from the Word. Children's ministry and a mothers' room are available.",
   },
   {
-    image: getGalleryImage("gallery-46"),
+    image: getGalleryImage("gallery-40"),
     title: "Bible Study",
     when: "Tuesdays, 5:00 PM",
     text: "Open your Bible and grow deeper in the Scriptures with the congregation.",
@@ -138,7 +138,7 @@ const NewHere = () => (
     <div className="container grid items-center gap-12 lg:grid-cols-2 lg:gap-20">
       <ImageReveal className="overflow-hidden rounded-xl">
         <ResponsiveImage
-          image={getGalleryImage("gallery-14")}
+          image={getGalleryImage("gallery-10")}
           alt="Church members gathered and smiling around the tables"
           className="aspect-[4/3] w-full object-cover lg:aspect-[3/2.4]"
           sizes="(max-width: 640px) 100vw, 50vw"

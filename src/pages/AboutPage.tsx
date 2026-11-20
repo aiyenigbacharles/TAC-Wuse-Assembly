@@ -18,7 +18,7 @@ const AboutPage = () => (
     <section className="container pb-16">
       <ImageReveal className="overflow-hidden rounded-xl">
         <ResponsiveImage
-          image={getGalleryImage("gallery-39")}
+          image={getGalleryImage("gallery-40")}
           alt="The Wuse Assembly family gathered for a group photo"
           sizes="100vw"
           className="aspect-[16/8] w-full object-cover"

@@ -31,8 +31,11 @@ export const galleryGroups = groupManifest as GalleryGroup[];
 const galleryById = new Map(galleryImages.map((image) => [image.id, image]));
 export const getGalleryImage = (id: string): GalleryImage => {
   const image = galleryById.get(id);
-  if (!image) throw new Error(`Gallery image "${id}" is missing from the generated manifest.`);
-  return image;
+  if (image) return image;
+  const fallback = galleryImages.find((item) => item.id.startsWith("gallery-"));
+  if (!fallback) throw new Error("The generated gallery manifest has no images.");
+  console.warn(`Gallery image "${id}" is missing; using "${fallback.id}" as a fallback.`);
+  return fallback;
 };
 const uniqueByHash = (items: GalleryImage[]) => {
   const hashes = new Set<string>();
