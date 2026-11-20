@@ -1,13 +1,14 @@
 import PageHeader from "@/components/PageHeader";
 import { Reveal } from "@/components/motion";
 import { ArrowRight, Clock, Mail, MapPin, Navigation, Phone, Whatsapp } from "@/components/FontAwesomeIcons";
+import { ADDRESS_LINES, CHURCH_NAME, MAPS_DIRECTIONS_URL } from "@/lib/siteInfo";
 
 const contactItems = [
   {
     icon: MapPin,
     label: "Address",
-    value: "The Apostolic Church Nigeria, Wuse Assembly\nWuse, Abuja, Nigeria",
-    href: "https://maps.google.com/?q=Wuse+Abuja+Nigeria",
+    value: `${CHURCH_NAME}\n${ADDRESS_LINES.join("\n")}`,
+    href: MAPS_DIRECTIONS_URL,
     linkText: "Get directions",
   },
   { icon: Phone, label: "Phone", value: "+234 800 000 0000", href: "tel:+2348000000000", linkText: "Call now" },
@@ -67,7 +68,7 @@ const ContactPage = () => (
           ))}
         </dl>
         <a
-          href="https://maps.google.com/?q=Wuse+Abuja+Nigeria"
+          href={MAPS_DIRECTIONS_URL}
           target="_blank"
           rel="noopener noreferrer"
           className="btn btn-primary mt-8 w-full"

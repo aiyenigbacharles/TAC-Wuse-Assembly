@@ -8,7 +8,7 @@ import {
   BookBible,
   CirclePlay,
   Clock,
-  Facebook,
+  FacebookLogo,
   HandHoldingHeart,
   MapPin,
   Navigation,
@@ -16,17 +16,18 @@ import {
   Phone,
   Play,
   User,
-  Youtube,
+  YoutubeLogo,
   Cross,
 } from "@/components/FontAwesomeIcons";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { ImageReveal, Reveal, ease } from "@/components/motion";
 import FloatingImages from "@/components/FloatingImages";
 import { FACEBOOK_URL, YOUTUBE_URL } from "@/components/Header";
+import { ADDRESS_ONE_LINE, CHURCH_NAME, MAPS_DIRECTIONS_URL, MAPS_EMBED_URL } from "@/lib/siteInfo";
 import ResponsiveImage from "@/components/ResponsiveImage";
 import { getGalleryImage, heroGalleryImages, loadGalleryImages } from "@/data/gallery";
 
-const MAPS_URL = "https://maps.google.com/maps/dir/?api=1&destination=The+Apostolic+Church+Wuse+Abuja";
+const MAPS_URL = MAPS_DIRECTIONS_URL;
 const heroImages = heroGalleryImages;
 
 const quickLinks = [
@@ -72,7 +73,7 @@ const pastors = [
 
 const faqs = [
   { q: "What time does your service begin?", a: "Sunday School begins at 8:00 AM, followed by the main Sunday service at 9:00 AM. Bible Study is on Tuesdays at 5:00 PM, and Hour of Grace is on Thursdays at 5:00 PM." },
-  { q: "Where are you located?", a: "We are located in Wuse, Abuja, Nigeria. You can use the 'Get directions' button on this page to navigate to us via Google Maps." },
+  { q: "Where are you located?", a: `We are located at ${ADDRESS_ONE_LINE}. You can use the 'Get directions' button on this page to navigate to us via Google Maps.` },
   { q: "What should I wear?", a: "Come as you are! We welcome everyone regardless of attire. Most members dress in smart casual or traditional wear." },
   { q: "What about my kids?", a: "We have a vibrant children's ministry that runs during our Sunday services. Your children are welcome and will be well taken care of." },
   { q: "What if I have an infant and need to feed?", a: "We have a comfortable mothers' room available where you can nurse and care for your infant during services." },
@@ -98,7 +99,7 @@ const Hero = () => {
           The Apostolic Church Nigeria, Wuse Assembly is a family of believers growing together in faith. Come as you are this Sunday.
         </motion.p>
         <div className="mx-auto mt-8 flex w-full max-w-[20rem] flex-col justify-center gap-3 sm:max-w-none sm:flex-row">
-          <Link to="/contact" className="btn btn-dark">Plan your visit</Link>
+          <a href={MAPS_URL} target="_blank" rel="noopener noreferrer" className="btn btn-dark">Plan your visit</a>
           <a href={MAPS_URL} target="_blank" rel="noopener noreferrer" className="btn border border-foreground/50 text-foreground hover:bg-foreground hover:text-background"> <Navigation className="h-4 w-4" /> Get directions</a>
         </div>
         <p className="mt-6 text-sm text-foreground/75">2026 motto: “Thou art My King O! God, Command Deliverances For Us” (Psalm 44:4)</p>
@@ -197,10 +198,10 @@ const OnlineBanner = () => (
             </ul>
             <div className="flex flex-wrap gap-3">
               <a href={YOUTUBE_URL} target="_blank" rel="noopener noreferrer" className="btn btn-primary">
-                <Youtube className="h-4 w-4" /> Watch <Play className="h-3 w-3" />
+                <YoutubeLogo className="h-5 w-5" /> Watch <Play className="h-3 w-3" />
               </a>
-              <a href={FACEBOOK_URL} target="_blank" rel="noopener noreferrer" className="btn bg-background text-foreground hover:-translate-y-0.5">
-                <Facebook className="h-4 w-4" /> Facebook
+              <a href={FACEBOOK_URL} target="_blank" rel="noopener noreferrer" className="btn bg-[#1877F2] text-white hover:-translate-y-0.5">
+                <FacebookLogo className="h-5 w-5" /> Facebook
               </a>
             </div>
           </div>
@@ -292,9 +293,9 @@ const WeeklyCarousel = () => {
               <ArrowRight className="h-4 w-4" />
             </button>
           </div>
-          <Link to="/contact" className="btn btn-primary h-11 px-5 text-sm">
+          <a href={MAPS_URL} target="_blank" rel="noopener noreferrer" className="btn btn-primary h-11 px-5 text-sm">
             Plan your visit
-          </Link>
+          </a>
         </div>
       </div>
     </section>
@@ -372,7 +373,7 @@ const Visit = () => (
           </h2>
           <ul className="space-y-3 text-[0.98rem]">
             <li className="flex items-start gap-3">
-              <MapPin className="mt-1 h-4 w-4 shrink-0" /> The Apostolic Church Nigeria, Wuse Assembly, Wuse, Abuja
+              <MapPin className="mt-1 h-4 w-4 shrink-0" /> <a href={MAPS_URL} target="_blank" rel="noopener noreferrer" className="underline-offset-4 hover:underline">{CHURCH_NAME}, {ADDRESS_ONE_LINE}</a>
             </li>
             <li className="flex items-start gap-3">
               <Clock className="mt-1 h-4 w-4 shrink-0" /> Sundays: 8:00 AM Sunday School, 9:00 AM Main Service
@@ -388,7 +389,7 @@ const Visit = () => (
       </div>
       <div className="min-h-[22rem] overflow-hidden rounded-lg">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3939.8118816651513!2d7.463474374499338!3d9.08089558817552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104e0aef58396aff%3A0x49d7bbe56100aa08!2sThe%20Apostolic%20Church!5e0!3m2!1sen!2sng!4v1770984491256!5m2!1sen!2sng"
+          src={MAPS_EMBED_URL}
           className="h-full min-h-[22rem] w-full border-0"
           allowFullScreen
           loading="lazy"

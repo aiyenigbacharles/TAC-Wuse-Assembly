@@ -80,6 +80,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly members gathered for a group photograph",
+    "group": "seminars",
     "sourceHash": "a349f5dea820566fe7c37d52fadaa6da9930d088782725f2afbf3b271dde30fe"
   },
   {
@@ -106,6 +107,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 2",
+    "group": "choir-sessions",
     "sourceHash": "f35560ccbd83e72f59dbcf1a490dcc0c08f6302542cf4e750e437da2cd539211"
   },
   {
@@ -132,6 +134,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 3",
+    "group": "seminars",
     "sourceHash": "769a15212e020c5cf55ccdc90393b938586ce389e5ee07a4143f1595e494a382"
   },
   {
@@ -158,6 +161,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 4",
+    "group": "choir-sessions",
     "sourceHash": "c33a9008fff865f92bdc47233624b23dd07863459d8c5187e6c5850acb150812"
   },
   {
@@ -184,6 +188,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 5",
+    "group": "seminars",
     "sourceHash": "2116b7f9c35d9ae7ac6f7b38d3a2faccaaf9a4d7805ff25643556a095d0d9f62"
   },
   {
@@ -210,6 +215,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 6",
+    "group": "seminars",
     "sourceHash": "be99a1f4f34b58c62c7f71dcb14799400540770c89e668725818a2089f3346d9"
   },
   {
@@ -236,6 +242,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 7",
+    "group": "prayer-sessions",
     "sourceHash": "ae95ea194a4b02fb152fc19574110ffabd9d428efe672a126c93c99a96583fd2"
   },
   {
@@ -262,6 +269,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 8",
+    "group": "choir-sessions",
     "sourceHash": "a9fd0501d057dfec48e7dc6bc81934a94382d128c39f7054c83ddb99dc664801"
   },
   {
@@ -288,6 +296,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 9",
+    "group": "seminars",
     "sourceHash": "7516975d29f5b1682c17a4447b81274013fe4b832d9525c006b4f00b6158ffea"
   },
   {
@@ -314,6 +323,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 10",
+    "group": "choir-sessions",
     "sourceHash": "9fc2fe2aabc8721158c458bbc4a06c82b6ada6f8ecd4db6f86d2310c41a24c3c"
   },
   {
@@ -340,6 +350,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 11",
+    "group": "prayer-sessions",
     "sourceHash": "9d17bfceb82ddec7c173366bf14fe7eb8e418b17c91ad35b3270ce3baf802a85"
   },
   {
@@ -366,6 +377,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 12",
+    "group": "media",
     "sourceHash": "6737171c808138ae074d9ffe48d5f16b0ab5af763246ef30d1c0619750866111"
   },
   {
@@ -392,6 +404,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 13",
+    "group": "seminars",
     "sourceHash": "bb6774c6bc16e99b036ea49bed4310d249c1469cf8b9d07f1c5e3531732732f2"
   },
   {
@@ -418,6 +431,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 14",
+    "group": "seminars",
     "sourceHash": "6e1298ac73dfdef412ab7b7a0729d28c8d9796f5636e3783ec1d0b92c6300560"
   },
   {
@@ -444,6 +458,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 15",
+    "group": "seminars",
     "sourceHash": "a1c1f5c0f264fdd2cd582425d9f739ee164f9442f9745083a0f0bc89976fdd0f"
   },
   {
@@ -470,6 +485,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 16",
+    "group": "seminars",
     "sourceHash": "688b2ee60dddf882c5982fd27151ed6fea7b5e06447821763550391d21777844"
   },
   {
@@ -496,6 +512,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 17",
+    "group": "seminars",
     "sourceHash": "c324ae6b7dd12a8e1e9974b8b16787edc725be180c6e3656bf39da4bbfae9807"
   },
   {
@@ -522,6 +539,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 18",
+    "group": "seminars",
     "sourceHash": "0a097f87e06727211c70ee28ee0a8db2ed57a7e39f4123e540eb823c830b604f"
   },
   {
@@ -548,6 +566,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 19",
+    "group": "seminars",
     "sourceHash": "013a558a61f6efee68fbf81e4506989541a27b19efbf82f5b93d93890c62f525"
   },
   {
@@ -574,6 +593,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 20",
+    "group": "seminars",
     "sourceHash": "a5dddd9c069fa203697d8e33b09329ba6cb2e4db38ab3f8b678719d77c89083d"
   },
   {
@@ -600,6 +620,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 21",
+    "group": "choir-sessions",
     "sourceHash": "eeaf6886f26b3ea3ec50906a1a3afbb068134d447767a2abee0ef84b4db414a5"
   },
   {
@@ -628,6 +649,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 22",
+    "group": "prayer-sessions",
     "sourceHash": "eba2ae8553edd071a5e6254ea4a596972d78761f6d712c6b9798ca7da89975b1"
   },
   {
@@ -656,6 +678,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 23",
+    "group": "choir-sessions",
     "sourceHash": "b58b6328eded6a2079ccfe675c8d4800d9f3680c16d8b241259dc2ebcc14ee5b"
   },
   {
@@ -684,6 +707,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 24",
+    "group": "choir-sessions",
     "sourceHash": "008c1d07915f2cc8f2759261064dc40cb4c03e7517014f6e10e2297aabe7539f"
   },
   {
@@ -712,6 +736,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 25",
+    "group": "choir-sessions",
     "sourceHash": "0ade17e12111640e41c259dc6e9acb4227d5e4c18972d4f62409cc131196b47d"
   },
   {
@@ -740,6 +765,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 26",
+    "group": "choir-sessions",
     "sourceHash": "4386780e5f024588224fd77630e2ff3c46dfb0f40e6f252f487713b33b3d60e6"
   },
   {
@@ -768,6 +794,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 27",
+    "group": "choir-sessions",
     "sourceHash": "f6f3f0dd7637e43ed7f3fafd2156129c8bdf3297c92429563c8cd38a7a8090f3"
   },
   {
@@ -796,6 +823,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 28",
+    "group": "choir-sessions",
     "sourceHash": "8e9435cd893deabb40a0f87a84d39d2d2b391fc4c36f3ea5815c41abd11c1a12"
   },
   {
@@ -824,6 +852,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 29",
+    "group": "choir-sessions",
     "sourceHash": "1acefab6dc64cdfc2b319d266202f1d998b0fb8b9661ddecb51de436a9aa372c"
   },
   {
@@ -850,6 +879,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 30",
+    "group": "seminars",
     "sourceHash": "2e38afd8c00918eada1c706ed3a6f01557d764e023e6e1072b748d29bc862442"
   },
   {
@@ -876,6 +906,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 31",
+    "group": "seminars",
     "sourceHash": "6d077154adf7436c98e11ec881e1c6c6d3c5b8df054adfdfdc1f3852783415eb"
   },
   {
@@ -904,6 +935,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 32",
+    "group": "prayer-sessions",
     "sourceHash": "53a3622e077894eae07ed0e7adf15e48b39a9a326cfd155d442f2075edb73995"
   },
   {
@@ -932,6 +964,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 33",
+    "group": "prayer-sessions",
     "sourceHash": "469a86e695dbb30e2876b326eaee32c0d5521f6cae4490d88076ffbe62a248e0"
   },
   {
@@ -960,6 +993,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 34",
+    "group": "seminars",
     "sourceHash": "ac73a4f1f53643923906065327bdc7265c997e38634a954bf4b70846e70676ee"
   },
   {
@@ -984,6 +1018,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 35",
+    "group": "seminars",
     "sourceHash": "3744fe3e09bb17c22b572939498921b4d4d26e8d667e6d18b986e89239357c48"
   },
   {
@@ -1010,6 +1045,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 36",
+    "group": "prayer-sessions",
     "sourceHash": "d04a9c0e7f1b648f5a46dba892386be81ea8fabf45714a4e1a606677f23dece7"
   },
   {
@@ -1034,6 +1070,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 37",
+    "group": "seminars",
     "sourceHash": "fbe9f21fab5ede5f34067f7266e5754c9674eb998f7801db7c041191f9c5dbd1"
   },
   {
@@ -1058,6 +1095,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 38",
+    "group": "seminars",
     "sourceHash": "9e2940096c90560765ba32a46c9a6dd1439514798d396553a61f473a122fc64e"
   },
   {
@@ -1085,6 +1123,7 @@
     },
     "featured": true,
     "alt": "The Wuse Assembly family gathered together",
+    "group": "seminars",
     "sourceHash": "3c98103b486d22d657773b3bc53f3b09fb7f8cae077b47a46803f2193fb7a0d1"
   },
   {
@@ -1109,6 +1148,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 40",
+    "group": "choir-sessions",
     "sourceHash": "f15bc63e7e097b37983da09f0ba8ff179ff9ed8ef8343436507be2b1fb284b9b"
   },
   {
@@ -1134,6 +1174,7 @@
     },
     "featured": true,
     "alt": "A minister speaking at the assembly",
+    "group": "seminars",
     "sourceHash": "8cb8bf4c2154abf68850b69559ecbd15e7ffa61d9ef3380b8588305b334a2800"
   },
   {
@@ -1160,6 +1201,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 42",
+    "group": "seminars",
     "sourceHash": "2e4d6f767f0c1f1c1c84c8531cf41f35cd9ef4008fb81bb4e33a4015398b87ce"
   },
   {
@@ -1186,6 +1228,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 43",
+    "group": "seminars",
     "sourceHash": "098f1b436f48eea80885e91b833a0f56d5e3d4d1e10b1587333c1a8d61fa4f57"
   },
   {
@@ -1212,6 +1255,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 44",
+    "group": "seminars",
     "sourceHash": "31ca47f7846ecafd72b0f5ad66519c6aae7488f9008940858e0a6b6036212d59"
   },
   {
@@ -1238,6 +1282,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 45",
+    "group": "seminars",
     "sourceHash": "1f145b52df9a0a4d993b1fb569acfeed2fb83c48368d7ae34e74d0c28e631b27"
   },
   {
@@ -1264,6 +1309,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 46",
+    "group": "seminars",
     "sourceHash": "ede0826aa9af2febc2fb47405b603ec6373ccf0181df40a8898e41a52f1d4df6"
   },
   {
@@ -1290,6 +1336,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 47",
+    "group": "seminars",
     "sourceHash": "0bc4d635a4ee1cc3d50023a58be1b68f56cecd7c5e6edc8746a092122c0b7343"
   },
   {
@@ -1316,6 +1363,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 48",
+    "group": "seminars",
     "sourceHash": "44546de4769d3ebab122512204729a58fada1396113fdd9990b58900ce34115a"
   },
   {
@@ -1342,6 +1390,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 49",
+    "group": "seminars",
     "sourceHash": "14bd29554c9ac655bb16574e9ea1db20f94f591bec519f00d3bbf15fec16d30e"
   },
   {
@@ -1368,6 +1417,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 50",
+    "group": "choir-sessions",
     "sourceHash": "9345097cc6b5bfda9a1f06e79ba5cf4cbd15da6926080f542308cecd5f2c9ac7"
   },
   {
@@ -1395,6 +1445,7 @@
     },
     "featured": true,
     "alt": "A church leader sharing a message",
+    "group": "seminars",
     "sourceHash": "4aa2f9f5865b236b402045c3c7c8ae726e9d1aa10462eb351d7c000575e58663"
   },
   {
@@ -1423,6 +1474,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 52",
+    "group": "seminars",
     "sourceHash": "7f3e074e099afd0404024539a82c959534c419e4cc24705ad2a0bfee08ae8d86"
   },
   {
@@ -1451,6 +1503,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 53",
+    "group": "choir-sessions",
     "sourceHash": "e483435e1000ac72293629676b8bb6fd787adb68dd4b33a84fed6ed8a82c506e"
   },
   {
@@ -1479,6 +1532,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 54",
+    "group": "choir-sessions",
     "sourceHash": "f2c89d0a4f7873d5d3abe608e71b42dc48e563cd605e0909ec6cc51b74e1c00d"
   },
   {
@@ -1507,6 +1561,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 55",
+    "group": "choir-sessions",
     "sourceHash": "6c6dd8705e25afef3d399ffe8e4c59568c7ac7b8b9fab807b628c943b53d945f"
   },
   {
@@ -1535,6 +1590,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 56",
+    "group": "choir-sessions",
     "sourceHash": "be4511b36d7a2338af9966d5397c908b1ad4f269ed8fa3824a2293176b30dcc9"
   },
   {
@@ -1563,6 +1619,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 57",
+    "group": "prayer-sessions",
     "sourceHash": "a37907002cf81b0afeecdac5194ff10a824132b39d87546206d53ac60c92fb8f"
   },
   {
@@ -1591,6 +1648,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 58",
+    "group": "choir-sessions",
     "sourceHash": "fd1136752c135d079ba18f8c0c57118e5cb4f0ee5cb710133ab31aebc897e673"
   },
   {
@@ -1619,6 +1677,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 59",
+    "group": "choir-sessions",
     "sourceHash": "a5c47d89183e9d0f3ac57d1a5a956a2f93d4e98a54794b859ff3a9becc00efcb"
   },
   {
@@ -1647,6 +1706,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 60",
+    "group": "choir-sessions",
     "sourceHash": "ed41fe4fb4fdae31ecadff3b403c73ef76b8b11a5ba28555589bfcfd89986dda"
   },
   {
@@ -1673,6 +1733,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 61",
+    "group": "seminars",
     "sourceHash": "9aad93085a37aa100256b05e3735b6fcdf04ecaad90cd088c22b6cecb37a53e4"
   },
   {
@@ -1699,6 +1760,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 62",
+    "group": "seminars",
     "sourceHash": "0bc4d635a4ee1cc3d50023a58be1b68f56cecd7c5e6edc8746a092122c0b7343"
   },
   {
@@ -1725,6 +1787,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 63",
+    "group": "seminars",
     "sourceHash": "44546de4769d3ebab122512204729a58fada1396113fdd9990b58900ce34115a"
   },
   {
@@ -1751,6 +1814,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 64",
+    "group": "seminars",
     "sourceHash": "14bd29554c9ac655bb16574e9ea1db20f94f591bec519f00d3bbf15fec16d30e"
   },
   {
@@ -1777,6 +1841,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 65",
+    "group": "choir-sessions",
     "sourceHash": "9345097cc6b5bfda9a1f06e79ba5cf4cbd15da6926080f542308cecd5f2c9ac7"
   },
   {
@@ -1801,6 +1866,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 66",
+    "group": "seminars",
     "sourceHash": "8cb8bf4c2154abf68850b69559ecbd15e7ffa61d9ef3380b8588305b334a2800"
   },
   {
@@ -1827,6 +1893,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 67",
+    "group": "prayer-sessions",
     "sourceHash": "473507fad7826066a3c3c6457a93b2b4582feb5d919e26c2bb80e4d6f734e859"
   },
   {
@@ -1853,6 +1920,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 68",
+    "group": "seminars",
     "sourceHash": "6939ecd77086dd64821c161908d9fb62d7077b247978d4ac0c807f77b0fb04f7"
   },
   {
@@ -1879,6 +1947,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 69",
+    "group": "seminars",
     "sourceHash": "64a1ade2096a3f59245a1e3602856ba8a5763f10758ad54be479de6cdc8203f7"
   },
   {
@@ -1905,6 +1974,7 @@
       }
     },
     "alt": "Wuse Assembly gallery photo 70",
+    "group": "choir-sessions",
     "sourceHash": "dd27c86ecbf77d7bc0287303bee77c91feeefda5f7d923257787ca79bdb702f6"
   },
   {
@@ -1924,6 +1994,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 71",
+    "group": "seminars",
     "sourceHash": "b48c2846ac08aea771207942c14e23c2cb038a1a1d1539a57b9001c50f34add3"
   },
   {
@@ -1943,6 +2014,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 72",
+    "group": "seminars",
     "sourceHash": "82ab80e7c5d9df1ed7c094c4aebb966576ff94d571e5e5ab96e6523a7650ed60"
   },
   {
@@ -1962,6 +2034,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 73",
+    "group": "seminars",
     "sourceHash": "11666ce3a8c114ba3c07fbd4c94d4854bd53f32f36c52620cfddc0338bbe048b"
   },
   {
@@ -1981,6 +2054,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 74",
+    "group": "seminars",
     "sourceHash": "f96fd5e0e18cfa48c32fddb2cec47d16ee64a5e053faade5bbbf0d51db9257a9"
   },
   {
@@ -2000,6 +2074,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 75",
+    "group": "choir-sessions",
     "sourceHash": "3830a1a2e94ce6f019fcfca32ce445f30c151275aba0ea91a2f02ed739cf5fc7"
   },
   {
@@ -2019,6 +2094,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 76",
+    "group": "choir-sessions",
     "sourceHash": "8f1f77b00ce3513a6e83ad942f767fe8b8bb97f1e6a592aff2d6be4c749ae289"
   },
   {
@@ -2038,6 +2114,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 77",
+    "group": "seminars",
     "sourceHash": "9a2cf4d9e69a18d6e35e24c51f3cb86c08428d8a146fdf1d7740f8cd5d2e6a06"
   },
   {
@@ -2057,6 +2134,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 78",
+    "group": "seminars",
     "sourceHash": "6c79421f71e3b0285ee69701a9d780534955d00b2fe1c045f62154d47e753134"
   },
   {
@@ -2076,6 +2154,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 79",
+    "group": "seminars",
     "sourceHash": "62422504ed828046ee1bf8c488f672842c33118e29746bf76f2453ee5553dc28"
   },
   {
@@ -2095,6 +2174,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 80",
+    "group": "seminars",
     "sourceHash": "65f3262b55aad4174bd622eeb18803a386f91c184f37e3746c27669cf0ce1053"
   },
   {
@@ -2114,6 +2194,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 81",
+    "group": "media",
     "sourceHash": "deb13be5683fea166ad43a5b313b9ce2379869a5e48425a2f3e901ea9ce3c3a1"
   },
   {
@@ -2133,6 +2214,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 82",
+    "group": "seminars",
     "sourceHash": "755b34c183394fb355371c2d5b373953619078eca0a469e4a8941ceedd930a41"
   },
   {
@@ -2152,6 +2234,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 83",
+    "group": "seminars",
     "sourceHash": "e7a5f94aac872753c6917f33e0ee75c591ce2323cd1ace3ebc2e932f642a7df1"
   },
   {
@@ -2171,6 +2254,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 84",
+    "group": "seminars",
     "sourceHash": "f1fe390e69dc5eb07b67ba113daa388d8d71c41cdab83f49931c7e3801b5b496"
   },
   {
@@ -2190,6 +2274,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 85",
+    "group": "seminars",
     "sourceHash": "e591227b1539846e5d7e3ae5b65416777094fcd7830bb8dba673dbad8425598b"
   },
   {
@@ -2209,6 +2294,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 86",
+    "group": "prayer-sessions",
     "sourceHash": "43a3b8dd0772c7392784c54194b87302bad449b407ec74291e3c70ea82630438"
   },
   {
@@ -2228,6 +2314,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 87",
+    "group": "choir-sessions",
     "sourceHash": "9546cb8b6805f345ac169e52e738f73fc29ccbf61b17c22d8d4a6fb7891a9910"
   },
   {
@@ -2247,6 +2334,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 88",
+    "group": "media",
     "sourceHash": "0b5a7a5841155a0197726b47bf048331aaca5f85655aa28bafc49cb4139f7ebf"
   },
   {
@@ -2266,6 +2354,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 89",
+    "group": "choir-sessions",
     "sourceHash": "d198545fcbf0e6d8caf68d19b3be53133f0614395780027a667e590eed9d91d0"
   },
   {
@@ -2285,6 +2374,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 90",
+    "group": "choir-sessions",
     "sourceHash": "63a0ab34d0061a36e59c09ea0c2c0b29f01b185f02259258b1a2c07d35d9a075"
   },
   {
@@ -2304,6 +2394,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 91",
+    "group": "prayer-sessions",
     "sourceHash": "76f3a639404670c7849d738f95cdabe6ee73f30d0954d98c27b1cd0b3ea35081"
   },
   {
@@ -2323,6 +2414,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 92",
+    "group": "seminars",
     "sourceHash": "be5d426369829654b6763157a1bb80b2ac29daeb29dcfac09c273469325cdf53"
   },
   {
@@ -2342,6 +2434,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 93",
+    "group": "choir-sessions",
     "sourceHash": "4ae0071b166e56acfe159ef91d4802b436ce6642720725fd714ee3f7cf3e1ed2"
   },
   {
@@ -2361,6 +2454,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 94",
+    "group": "choir-sessions",
     "sourceHash": "e7878e7fc759002bb9915ad010c24672a05a3bfc7fb69f61c7a304caf1df9edb"
   },
   {
@@ -2380,6 +2474,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 95",
+    "group": "seminars",
     "sourceHash": "564bdc6844b977c0d5e1ce4eb4e00d86b2120064d92cc17b6d3b6d27b5a8d98d"
   },
   {
@@ -2399,6 +2494,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 96",
+    "group": "prayer-sessions",
     "sourceHash": "920b9ec4cbe085ff9f86dccfb7bb92037f45795c780d6dbcae5a5aa65b9315bb"
   },
   {
@@ -2418,6 +2514,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 97",
+    "group": "seminars",
     "sourceHash": "ad08fe3f9835aca23561561f4244ceb05371bb02206d97e1d281da0bee97e524"
   },
   {
@@ -2437,6 +2534,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 98",
+    "group": "seminars",
     "sourceHash": "194313db2ba15edbefcba0af7b5afd952525a5aea69b52a81f0060dd71634824"
   },
   {
@@ -2456,6 +2554,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 99",
+    "group": "choir-sessions",
     "sourceHash": "b3e7c2672162aeb09058df8eb19ede2d1df97020e7d49111f43545ccb49a42d0"
   },
   {
@@ -2475,6 +2574,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 100",
+    "group": "choir-sessions",
     "sourceHash": "3d394591db672610e50307a71a33e61d4f93aa3065d9c25e7927c2abb82b2a42"
   },
   {
@@ -2494,6 +2594,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 101",
+    "group": "media",
     "sourceHash": "e2d3a5d8a8e31a42fd0febc70a1e1ddb7f27be41e32f689ffc5b5c88eba09569"
   },
   {
@@ -2513,6 +2614,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 102",
+    "group": "seminars",
     "sourceHash": "d58c0c0ce6ade6bf175dd9c08eba37c5d523c10b3076628b706bc649a74059e7"
   },
   {
@@ -2532,6 +2634,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 103",
+    "group": "choir-sessions",
     "sourceHash": "e352f76ea69d9c152fda16d1c23d22e167c1e39a6f2f53f26fbb51f2a3ba49ed"
   },
   {
@@ -2551,6 +2654,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 104",
+    "group": "choir-sessions",
     "sourceHash": "e7abd36a1f438f4af240a8b2a731c31260825f2bbe93f27c29fc02c6a3012c65"
   },
   {
@@ -2570,6 +2674,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 105",
+    "group": "seminars",
     "sourceHash": "18d42c5b81de06fe09563c70466203691b7fa51b7d2712e6786f47fdb91d918f"
   },
   {
@@ -2589,6 +2694,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 106",
+    "group": "seminars",
     "sourceHash": "7cb9c7c50044c1fe5384ea72413ebb03b191b8a340b62504d9f63e2ce3976b6e"
   },
   {
@@ -2608,6 +2714,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 107",
+    "group": "seminars",
     "sourceHash": "f457f9d24dba7cf8483d8429b1e905a028f223df22699d87467622d21066b939"
   },
   {
@@ -2627,6 +2734,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 108",
+    "group": "seminars",
     "sourceHash": "a94ca4a417de2504f8f75ef1c17d6de6bda5a3bbbc0441d3cc09722d08af752e"
   },
   {
@@ -2646,6 +2754,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 109",
+    "group": "choir-sessions",
     "sourceHash": "4777418cd0cf56ba7000b99bbec9b2a205990bc923d8846c941d5976105cdcc6"
   },
   {
@@ -2665,6 +2774,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 110",
+    "group": "choir-sessions",
     "sourceHash": "6e5c53879a70f44f1a935676a21fcd891bc9c03e1f03f80d06bd28f8aef04c43"
   },
   {
@@ -2684,6 +2794,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 111",
+    "group": "seminars",
     "sourceHash": "7191c24a4ea6c22fdb3c7c17ea468df2f2069b4debc64e29012db082f9fb93a4"
   },
   {
@@ -2703,6 +2814,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 112",
+    "group": "seminars",
     "sourceHash": "a2852ad6ae158bb92cf9c4c40e31cf895de73c07a3f84aaf51f221937bc53ac0"
   },
   {
@@ -2722,6 +2834,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 113",
+    "group": "choir-sessions",
     "sourceHash": "1881c3cba4a8ec6f9b252e04248cbb6db4559e0de43596dd64e5ee745414155f"
   },
   {
@@ -2741,6 +2854,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 114",
+    "group": "choir-sessions",
     "sourceHash": "f2a22c65d22097a617152a19ee24906798d8d638e1d508cd2ec6e8c8d7108e33"
   },
   {
@@ -2760,6 +2874,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 115",
+    "group": "prayer-sessions",
     "sourceHash": "66ea2c6b9a775a106ab5df49b590574bef38ddf20a4efb13851e7e9b5595df19"
   },
   {
@@ -2779,6 +2894,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 116",
+    "group": "choir-sessions",
     "sourceHash": "915ab0fc7d9d6372f22af7d52a57933b52f02e8d8dee5e333ec32a4f3d12de35"
   },
   {
@@ -2798,6 +2914,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 117",
+    "group": "choir-sessions",
     "sourceHash": "d75be481e78ba9172072b7a9c2e8f77627abb99303e437bc0adebd9726d9bb7f"
   },
   {
@@ -2817,6 +2934,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 118",
+    "group": "choir-sessions",
     "sourceHash": "7f21feb5e8a619bd70b8f27f39bcb33d8a88936ef18cf03b00e92d52293772fc"
   },
   {
@@ -2836,6 +2954,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 119",
+    "group": "choir-sessions",
     "sourceHash": "e7333d11eb189ab8a8167d148142f2d4f22b6ee42f7b24f7740fdb352801be96"
   },
   {
@@ -2855,6 +2974,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 120",
+    "group": "choir-sessions",
     "sourceHash": "dce317b82f69a94f9f2a53016d636df90fe3f50ecb5c7f183a99f40ca77a883c"
   },
   {
@@ -2874,6 +2994,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 121",
+    "group": "seminars",
     "sourceHash": "5ddb863d692bb84a1be0581c4de8e1ec46ac84f0208f0bb580d9d34ee3f67b8e"
   },
   {
@@ -2893,6 +3014,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 122",
+    "group": "choir-sessions",
     "sourceHash": "22620a3ae0ec662937a5da37d6ec4d341ca80c5c86f24ad0233ab6d4d950e655"
   },
   {
@@ -2912,6 +3034,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 123",
+    "group": "seminars",
     "sourceHash": "2844840bb1b5950464a377e63b25a7ddce2085ad4b16e7d3d3fb4687c6ed7438"
   },
   {
@@ -2931,6 +3054,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 124",
+    "group": "seminars",
     "sourceHash": "2bc25719651e33cd1901ee3a376cd748f41a3b3755d4199c28aa8e75fa75a057"
   },
   {
@@ -2950,6 +3074,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 125",
+    "group": "seminars",
     "sourceHash": "636e413f9a3dbef89220fa22ff189d1bcbf03914e4d4658a19f3c1838b82116b"
   },
   {
@@ -2969,6 +3094,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 126",
+    "group": "seminars",
     "sourceHash": "6eb04d4189074e50950f8f03e222bfc2e832708c5d0bfa33e34500f9b4122640"
   },
   {
@@ -2988,6 +3114,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 127",
+    "group": "seminars",
     "sourceHash": "08f88cdb754d6b830eddc8a46ae1b83beebaef17f45c395d3ae9518cda7110c0"
   },
   {
@@ -3007,6 +3134,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 128",
+    "group": "prayer-sessions",
     "sourceHash": "8dfff0d08ee69285e1362b5804228f5a732f724bc2d5d82a2bad0af7d7e583c9"
   },
   {
@@ -3026,6 +3154,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 129",
+    "group": "choir-sessions",
     "sourceHash": "16adc24a6ab24eee76f6deba1523e21e95ffbcc767fa36924119dd7afb9e9ca1"
   },
   {
@@ -3045,6 +3174,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 130",
+    "group": "choir-sessions",
     "sourceHash": "88ca26646f6212f4dad3b609b8b0041bc2786dc1d6c2edfcaa666090f76aff95"
   },
   {
@@ -3064,6 +3194,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 131",
+    "group": "choir-sessions",
     "sourceHash": "ffe1e48fb8d2ab30eed2b701768323be30b12dca490ec73bfdaa5c5235962966"
   },
   {
@@ -3083,6 +3214,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 132",
+    "group": "prayer-sessions",
     "sourceHash": "4bb17567a27a7bd179a900c77760d910b1f9b0b88072447e2a355f6a2e6909fc"
   },
   {
@@ -3102,6 +3234,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 133",
+    "group": "choir-sessions",
     "sourceHash": "161a137f3f222b5474e1cd6b8c92893dfb4fa4b7800d9ac7f10ef0808e6a4e91"
   },
   {
@@ -3121,6 +3254,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 134",
+    "group": "choir-sessions",
     "sourceHash": "a890f43ef1901af260664ac8904987b8d75a2906e9e8a25cdcaf46fe519ee8c2"
   },
   {
@@ -3140,6 +3274,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 135",
+    "group": "seminars",
     "sourceHash": "89e8c635ea658ebac8204931d1e8dab8520c3af65acc5250b3e05f5c9e146f4e"
   },
   {
@@ -3159,6 +3294,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 136",
+    "group": "seminars",
     "sourceHash": "109d59982d9ca48dd2dcad24c6c84d0f67c28869201c289ef5464536b5bd2567"
   },
   {
@@ -3178,6 +3314,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 137",
+    "group": "seminars",
     "sourceHash": "f855f0dd46762d6745755e9c42d42c2cdd3c5d62bed28af6a7f70ca2f7ad5fc7"
   },
   {
@@ -3197,6 +3334,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 138",
+    "group": "seminars",
     "sourceHash": "9d29d8d15167d329659c35999786fd5d504b10501508113219b7575cfcd1d6b9"
   },
   {
@@ -3216,6 +3354,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 139",
+    "group": "seminars",
     "sourceHash": "285232b1508765c8e8047f67089cf287dcfd08f3f82cfae81f1116bd8084fde6"
   },
   {
@@ -3235,6 +3374,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 140",
+    "group": "seminars",
     "sourceHash": "1e2ab7b5948754c9b5ec2c0f4dcd96da89c2a7e85ab930ed96d413c465f8f6ef"
   },
   {
@@ -3254,6 +3394,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 141",
+    "group": "seminars",
     "sourceHash": "be880780d8c23646582dd34cc0713336b595b79a203eeb36b2bd250681339098"
   },
   {
@@ -3273,6 +3414,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 142",
+    "group": "seminars",
     "sourceHash": "256ae96f7fbcaf92282b0aa89f2f1818556f81ccf9a14ed0c81fc2e964bd9f5b"
   },
   {
@@ -3292,6 +3434,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 143",
+    "group": "seminars",
     "sourceHash": "b7fac453ec89a9199c5d87df84bebeec314654338c82dbc28c3f2287d09c2f71"
   },
   {
@@ -3311,6 +3454,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 144",
+    "group": "seminars",
     "sourceHash": "5444c015f71b651414c1e67a5ab5fd7e4be974c42106641e13546477ab4d1ebc"
   },
   {
@@ -3330,6 +3474,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 145",
+    "group": "choir-sessions",
     "sourceHash": "d8b7ec12bd03943df33140cb6cd44519ef864bfb7cc7baff9aa0b737c2240f51"
   },
   {
@@ -3349,6 +3494,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 146",
+    "group": "seminars",
     "sourceHash": "9b88b0a5f8f8e0b63027494a0a9cefbf423c8e84a0bb31d3ac20b49041560589"
   },
   {
@@ -3368,6 +3514,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 147",
+    "group": "seminars",
     "sourceHash": "2996ec6a347499760c6cd4b862aa30d2c4e3df90b116c4b582d05609717443d5"
   },
   {
@@ -3387,6 +3534,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 148",
+    "group": "seminars",
     "sourceHash": "9eabbe8fea482729ae64d030a80bf5686ba8c7d27d9adef49c5286138f3f5732"
   },
   {
@@ -3406,6 +3554,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 149",
+    "group": "seminars",
     "sourceHash": "74edba713f208cb863a6f824f801416681a470919850a8100c1b3fc0127885ef"
   },
   {
@@ -3425,6 +3574,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 150",
+    "group": "seminars",
     "sourceHash": "b920f775733535ca5ff195d7ce8a4360c184c9ea6fa60c13a2541292060cfadc"
   },
   {
@@ -3444,6 +3594,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 151",
+    "group": "seminars",
     "sourceHash": "f90616f39b400734944e6eef767e7943ede3432e2aa41654f02cad308500069e"
   },
   {
@@ -3463,6 +3614,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 152",
+    "group": "seminars",
     "sourceHash": "8afdd36d2f45461074e622688b76832337957df0d749f1286799e6bbae626d74"
   },
   {
@@ -3482,6 +3634,7 @@
     },
     "featured": true,
     "alt": "Wuse Assembly gallery photo 153",
+    "group": "seminars",
     "sourceHash": "9e8a891818f2bb7322e285dc65dac4eed39a0e6e66d540c1994aeedb2bd23d4f"
   },
   {

@@ -42,7 +42,7 @@ const Header = () => {
   }, [open]);
   return <motion.header animate={{ y: hidden && !open ? "-110%" : "0%" }} transition={{ duration: .45, ease }} className={`site-header ${scrolled ? "is-scrolled" : ""}`}>
     <div className="header-inner">
-      <Link to="/" className="header-brand" aria-label="The Apostolic Church Nigeria, Wuse Assembly, home"><ResponsiveImage image={getGalleryImage("tac-logo")} alt="" sizes="44px" className="h-11 w-11 rounded-full object-cover" priority /><span>TACN <small>WUSE ASSEMBLY</small></span></Link>
+      <Link to="/" className="header-brand" aria-label="The Apostolic Church Nigeria, Wuse Assembly, home"><span className="header-brand-emblem h-12 w-12"><ResponsiveImage image={getGalleryImage("tac-logo")} alt="" sizes="48px" fit="fill" pictureClassName="h-full w-full overflow-hidden rounded-full" className="h-full w-full rounded-full object-cover" priority /></span><span className="header-brand-wordmark"><strong>TACN</strong><small>WUSE ASSEMBLY</small></span></Link>
       <nav className="header-nav" aria-label="Main navigation">{navLinks.map((link) => <Link key={link.to} to={link.to} aria-current={pathname === link.to ? "page" : undefined} className={`nav-link ${pathname === link.to ? "is-active" : ""}`}>{link.label}</Link>)}</nav>
       <div className="header-actions"><Link to="/donate" className="btn btn-primary header-cta">Give <ArrowRight className="arrow h-3.5 w-3.5" /></Link><ThemeToggle /><button ref={toggleRef} className="mobile-menu-toggle" onClick={() => setOpen((value) => !value)} aria-expanded={open} aria-controls="mobile-nav" aria-label={open ? "Close menu" : "Open menu"}>{open ? <X /> : <Menu />}</button></div>
     </div>

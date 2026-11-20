@@ -1,0 +1,238 @@
+{
+  "161a137f3f222b5474e1cd6b8c92893dfb4fa4b7800d9ac7f10ef0808e6a4e91": {
+    "id": "cover-choir-sessions",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAADQBQCdASoYABgAPvVysFMqpqSiqAgBUB6JbACdMoM6A0lk7CPFTOCsdQoNhN243/kFbMFwU8V8AP7lLHKpCGodE0OP8h04sP0/5Ha+2L3gg8F/PQ27bUx7CeVlpZRN4eX+TA7wsCZ/aFDn+GEJCqNd8r/LGj1l496JDhKEEWM/SoZX+K1gJIR1xoA2dRnay1c0NcuqwZP5PBgw5IimENymNyC2yGzuzinPq+Win+VE6/aMJTKLaGbtTEP3j5FsqM2sZ8eW5C8w/j4SxgsPdvJY7tp722SL72nPm68Cz/s6Wt51ixCQeMS++LsipWlY1AA=",
+    "color": "#081858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/161a137f3f222b54-cover-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/161a137f3f222b54-cover-206.webp"
+      }
+    },
+    "alt": "Choir Sessions album cover",
+    "sourceHash": "161a137f3f222b5474e1cd6b8c92893dfb4fa4b7800d9ac7f10ef0808e6a4e91",
+    "files": [
+      "161a137f3f222b54-cover-206.avif",
+      "161a137f3f222b54-cover-206.webp",
+      "161a137f3f222b54-cover-blur.webp"
+    ]
+  },
+  "d04a9c0e7f1b648f5a46dba892386be81ea8fabf45714a4e1a606677f23dece7": {
+    "id": "cover-prayer-sessions",
+    "width": 1279,
+    "height": 1920,
+    "aspect": 0.6661458333333333,
+    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADwBgCdASoYACQAPvV2r1Iqp6QiqrgIAVAeiWUAA+doneBRc1jKa07wu+XIFAUVuJ7TChobsR0L+GcIGBMjnTQAAP7m5OfYfqeOeA33rZWxniyvWfETn1pbI6cDYXNgngbuDqBLHT0LmuaQoqf6byTbgc33edi8Peip9TJ8bNjEFtTRpkWeBiHpY2sVsl3S5lxKBrdqSSSMZt0G+QZGgusQeMW2hhjz5dO5l0ARCcuc+dc91MPpBA8ML+NWePTqMKH19l5pDQP4IhvsP1OTFu4U5fRIAAXt0Yk5y0UtLsX9CNB5Um6y+q2jRsNInp4c1xmrWv4YAIAAAA==",
+    "color": "#382818",
+    "variants": {
+      "avif": {
+        "960": "/gallery/d04a9c0e7f1b648f-cover-960.avif",
+        "1279": "/gallery/d04a9c0e7f1b648f-cover-1279.avif"
+      },
+      "webp": {
+        "960": "/gallery/d04a9c0e7f1b648f-cover-960.webp",
+        "1279": "/gallery/d04a9c0e7f1b648f-cover-1279.webp"
+      }
+    },
+    "alt": "Prayer Sessions album cover",
+    "sourceHash": "d04a9c0e7f1b648f5a46dba892386be81ea8fabf45714a4e1a606677f23dece7",
+    "files": [
+      "d04a9c0e7f1b648f-cover-960.avif",
+      "d04a9c0e7f1b648f-cover-960.webp",
+      "d04a9c0e7f1b648f-cover-1279.avif",
+      "d04a9c0e7f1b648f-cover-1279.webp",
+      "d04a9c0e7f1b648f-cover-blur.webp"
+    ]
+  },
+  "098f1b436f48eea80885e91b833a0f56d5e3d4d1e10b1587333c1a8d61fa4f57": {
+    "id": "cover-seminars",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdH8D2WSvA93R/ZCkypYxOq8WssUAA/mrnG6MV2/2IkPIHHjUJxQr1Pc2cFY6U30O1Xq5rdJRHHTz3NO45+1/xUKdh+6O6C+O7YLmpu2VajUsSLSJCRXf2JRgO3lzXr/nBDTqMhaJkd4RjlzUxT/cf1fZI6xZ6SY+oLtM8jPEsZU696ndo6XacXH+379t1Rb8X8Faq6UCapZBgB+bKXsmwYFOqKYVjP1nDZfzt1eiykjytSDN9hBr4AAAA",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "960": "/gallery/098f1b436f48eea8-cover-960.avif",
+        "1280": "/gallery/098f1b436f48eea8-cover-1280.avif"
+      },
+      "webp": {
+        "960": "/gallery/098f1b436f48eea8-cover-960.webp",
+        "1280": "/gallery/098f1b436f48eea8-cover-1280.webp"
+      }
+    },
+    "alt": "Seminars album cover",
+    "sourceHash": "098f1b436f48eea80885e91b833a0f56d5e3d4d1e10b1587333c1a8d61fa4f57",
+    "files": [
+      "098f1b436f48eea8-cover-960.avif",
+      "098f1b436f48eea8-cover-960.webp",
+      "098f1b436f48eea8-cover-1280.avif",
+      "098f1b436f48eea8-cover-1280.webp",
+      "098f1b436f48eea8-cover-blur.webp"
+    ]
+  },
+  "a17dc64f8dc428574e7ce4d5446ae64ad7740526e614d0ba46fb0e8ed8323c0e": {
+    "id": "cover-media",
+    "width": 2560,
+    "height": 1600,
+    "aspect": 1.6,
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADQBACdASoYAA8APvVkqk4qpaOiMAgBUB6JYgCdDBACJJF43jYia6lBUpDCM7tPAAD+tgx/V0bYHcuQYXZFYxTssmrabkwsSWWl+QrDe3MHBI+Ugj+8NBz/C1QdzRIHx1OwYyXqeuWLxcv/9fNMB3Hj+CF8zwqNqV1qf+7S8Wed4uYGvQ/jGz51V1nkPdcgj1h50nMl/FME/PNxkk8HxzZEvejHbeF8jPSTHVH2w82f8+EtHcKktlu6TfSI2CHAAAA=",
+    "color": "#b8e8f8",
+    "variants": {
+      "avif": {
+        "960": "/gallery/a17dc64f8dc42857-cover-960.avif",
+        "1280": "/gallery/a17dc64f8dc42857-cover-1280.avif",
+        "1600": "/gallery/a17dc64f8dc42857-cover-1600.avif",
+        "1920": "/gallery/a17dc64f8dc42857-cover-1920.avif",
+        "2560": "/gallery/a17dc64f8dc42857-cover-2560.avif"
+      },
+      "webp": {
+        "960": "/gallery/a17dc64f8dc42857-cover-960.webp",
+        "1280": "/gallery/a17dc64f8dc42857-cover-1280.webp",
+        "1600": "/gallery/a17dc64f8dc42857-cover-1600.webp",
+        "1920": "/gallery/a17dc64f8dc42857-cover-1920.webp",
+        "2560": "/gallery/a17dc64f8dc42857-cover-2560.webp"
+      }
+    },
+    "alt": "Media album cover",
+    "sourceHash": "a17dc64f8dc428574e7ce4d5446ae64ad7740526e614d0ba46fb0e8ed8323c0e",
+    "files": [
+      "a17dc64f8dc42857-cover-960.avif",
+      "a17dc64f8dc42857-cover-960.webp",
+      "a17dc64f8dc42857-cover-1280.avif",
+      "a17dc64f8dc42857-cover-1280.webp",
+      "a17dc64f8dc42857-cover-1600.avif",
+      "a17dc64f8dc42857-cover-1600.webp",
+      "a17dc64f8dc42857-cover-1920.avif",
+      "a17dc64f8dc42857-cover-1920.webp",
+      "a17dc64f8dc42857-cover-2560.avif",
+      "a17dc64f8dc42857-cover-2560.webp",
+      "a17dc64f8dc42857-cover-blur.webp"
+    ]
+  },
+  "cover-v2:161a137f3f222b5474e1cd6b8c92893dfb4fa4b7800d9ac7f10ef0808e6a4e91": {
+    "id": "cover-choir-sessions",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "",
+    "color": "#081858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/289a61dd17ac2996-cover-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/289a61dd17ac2996-cover-206.webp"
+      },
+      "jpeg": "/gallery/289a61dd17ac2996-cover-206.jpg"
+    },
+    "alt": "Choir Sessions album cover",
+    "sourceHash": "161a137f3f222b5474e1cd6b8c92893dfb4fa4b7800d9ac7f10ef0808e6a4e91",
+    "files": [
+      "289a61dd17ac2996-cover-206.avif",
+      "289a61dd17ac2996-cover-206.webp",
+      "289a61dd17ac2996-cover-206.jpg"
+    ]
+  },
+  "cover-v2:d04a9c0e7f1b648f5a46dba892386be81ea8fabf45714a4e1a606677f23dece7": {
+    "id": "cover-prayer-sessions",
+    "width": 1279,
+    "height": 1920,
+    "aspect": 0.6661458333333333,
+    "blur": "",
+    "color": "#382818",
+    "variants": {
+      "avif": {
+        "960": "/gallery/19385fb793757a8c-cover-960.avif",
+        "1279": "/gallery/19385fb793757a8c-cover-1279.avif"
+      },
+      "webp": {
+        "960": "/gallery/19385fb793757a8c-cover-960.webp",
+        "1279": "/gallery/19385fb793757a8c-cover-1279.webp"
+      },
+      "jpeg": "/gallery/19385fb793757a8c-cover-1279.jpg"
+    },
+    "alt": "Prayer Sessions album cover",
+    "sourceHash": "d04a9c0e7f1b648f5a46dba892386be81ea8fabf45714a4e1a606677f23dece7",
+    "files": [
+      "19385fb793757a8c-cover-960.avif",
+      "19385fb793757a8c-cover-960.webp",
+      "19385fb793757a8c-cover-1279.avif",
+      "19385fb793757a8c-cover-1279.webp",
+      "19385fb793757a8c-cover-1279.jpg"
+    ]
+  },
+  "cover-v2:098f1b436f48eea80885e91b833a0f56d5e3d4d1e10b1587333c1a8d61fa4f57": {
+    "id": "cover-seminars",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "960": "/gallery/8dc4e939e32d096b-cover-960.avif",
+        "1280": "/gallery/8dc4e939e32d096b-cover-1280.avif"
+      },
+      "webp": {
+        "960": "/gallery/8dc4e939e32d096b-cover-960.webp",
+        "1280": "/gallery/8dc4e939e32d096b-cover-1280.webp"
+      },
+      "jpeg": "/gallery/8dc4e939e32d096b-cover-1280.jpg"
+    },
+    "alt": "Seminars album cover",
+    "sourceHash": "098f1b436f48eea80885e91b833a0f56d5e3d4d1e10b1587333c1a8d61fa4f57",
+    "files": [
+      "8dc4e939e32d096b-cover-960.avif",
+      "8dc4e939e32d096b-cover-960.webp",
+      "8dc4e939e32d096b-cover-1280.avif",
+      "8dc4e939e32d096b-cover-1280.webp",
+      "8dc4e939e32d096b-cover-1280.jpg"
+    ]
+  },
+  "cover-v2:a17dc64f8dc428574e7ce4d5446ae64ad7740526e614d0ba46fb0e8ed8323c0e": {
+    "id": "cover-media",
+    "width": 2560,
+    "height": 1600,
+    "aspect": 1.6,
+    "blur": "",
+    "color": "#b8e8f8",
+    "variants": {
+      "avif": {
+        "960": "/gallery/174adff50f544b77-cover-960.avif",
+        "1280": "/gallery/174adff50f544b77-cover-1280.avif",
+        "1600": "/gallery/174adff50f544b77-cover-1600.avif",
+        "1920": "/gallery/174adff50f544b77-cover-1920.avif",
+        "2560": "/gallery/174adff50f544b77-cover-2560.avif"
+      },
+      "webp": {
+        "960": "/gallery/174adff50f544b77-cover-960.webp",
+        "1280": "/gallery/174adff50f544b77-cover-1280.webp",
+        "1600": "/gallery/174adff50f544b77-cover-1600.webp",
+        "1920": "/gallery/174adff50f544b77-cover-1920.webp",
+        "2560": "/gallery/174adff50f544b77-cover-2560.webp"
+      },
+      "jpeg": "/gallery/174adff50f544b77-cover-1600.jpg"
+    },
+    "alt": "Media album cover",
+    "sourceHash": "a17dc64f8dc428574e7ce4d5446ae64ad7740526e614d0ba46fb0e8ed8323c0e",
+    "files": [
+      "174adff50f544b77-cover-960.avif",
+      "174adff50f544b77-cover-960.webp",
+      "174adff50f544b77-cover-1280.avif",
+      "174adff50f544b77-cover-1280.webp",
+      "174adff50f544b77-cover-1600.avif",
+      "174adff50f544b77-cover-1600.webp",
+      "174adff50f544b77-cover-1920.avif",
+      "174adff50f544b77-cover-1920.webp",
+      "174adff50f544b77-cover-2560.avif",
+      "174adff50f544b77-cover-2560.webp",
+      "174adff50f544b77-cover-1600.jpg"
+    ]
+  }
+}

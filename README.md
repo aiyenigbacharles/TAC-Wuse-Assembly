@@ -1,5 +1,9 @@
 # Wuse Assembly Connect
 
+## How to add photos to an album
+
+Drop supported image files into `src/assets/gallery-source/choir-sessions/`, `prayer-sessions/`, `seminars/`, or `media/`. The image pipeline assigns each file to that album automatically; it keeps the original filename and reuses generated variants for identical image content. To place a top-level photo in an album, add its generated image id to `assignments` in `src/assets/gallery-source/groups.json`, or set a `group` in its `captions.json` entry. Assignments and caption groups override a folder's default. Unassigned top-level photos are listed as a warning and do not appear in an album. Set album covers with full-resolution originals in `src/assets/gallery-covers/`, then point each group's `coverSource` at its file in `groups.json`. Run `npm run images` (also run automatically before `npm run dev` and `npm run build`) to refresh the manifests and album counts.
+
 ## How to add new photos
 
 Drop JPEG, PNG, WebP, AVIF, or HEIC originals into `src/assets/gallery-source/`, using a new filename such as `gallery-154.jpg`. The gallery and floating hero read from the generated manifest automatically. Run `npm run images` to regenerate optimized AVIF/WebP sizes and the manifest; `npm run dev` and `npm run build` also run the pipeline for you. To add a caption, accessible alt text, or feature a photo in the hero, edit `src/assets/gallery-source/captions.json` using the filename as its key. Duplicate image content shares its optimized files automatically.

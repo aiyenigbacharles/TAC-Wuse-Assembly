@@ -1,0 +1,122 @@
+[
+  {
+    "id": "choir-sessions",
+    "title": "Choir Sessions",
+    "description": "Worship and music from the Wuse Assembly family.",
+    "coverPosition": "50% 42%",
+    "coverPositionMobile": "50% 45%",
+    "count": 49,
+    "coverImage": {
+      "id": "cover-choir-sessions",
+      "width": 206,
+      "height": 206,
+      "aspect": 1,
+      "blur": "",
+      "color": "#081858",
+      "variants": {
+        "avif": {
+          "206": "/gallery/289a61dd17ac2996-cover-206.avif"
+        },
+        "webp": {
+          "206": "/gallery/289a61dd17ac2996-cover-206.webp"
+        },
+        "jpeg": "/gallery/289a61dd17ac2996-cover-206.jpg"
+      },
+      "alt": "Choir Sessions album cover",
+      "sourceHash": "161a137f3f222b5474e1cd6b8c92893dfb4fa4b7800d9ac7f10ef0808e6a4e91"
+    }
+  },
+  {
+    "id": "prayer-sessions",
+    "title": "Prayer Sessions",
+    "description": "Moments of prayer, reflection and devotion.",
+    "coverPosition": "50% 28%",
+    "coverPositionMobile": "50% 30%",
+    "count": 14,
+    "coverImage": {
+      "id": "cover-prayer-sessions",
+      "width": 1279,
+      "height": 1920,
+      "aspect": 0.6661458333333333,
+      "blur": "",
+      "color": "#382818",
+      "variants": {
+        "avif": {
+          "960": "/gallery/19385fb793757a8c-cover-960.avif",
+          "1279": "/gallery/19385fb793757a8c-cover-1279.avif"
+        },
+        "webp": {
+          "960": "/gallery/19385fb793757a8c-cover-960.webp",
+          "1279": "/gallery/19385fb793757a8c-cover-1279.webp"
+        },
+        "jpeg": "/gallery/19385fb793757a8c-cover-1279.jpg"
+      },
+      "alt": "Prayer Sessions album cover",
+      "sourceHash": "d04a9c0e7f1b648f5a46dba892386be81ea8fabf45714a4e1a606677f23dece7"
+    }
+  },
+  {
+    "id": "seminars",
+    "title": "Seminars",
+    "description": "Teaching, fellowship and gatherings around the Word.",
+    "coverPosition": "50% 36%",
+    "coverPositionMobile": "50% 38%",
+    "count": 81,
+    "coverImage": {
+      "id": "cover-seminars",
+      "width": 1280,
+      "height": 854,
+      "aspect": 1.4988290398126465,
+      "blur": "",
+      "color": "#f8f8f8",
+      "variants": {
+        "avif": {
+          "960": "/gallery/8dc4e939e32d096b-cover-960.avif",
+          "1280": "/gallery/8dc4e939e32d096b-cover-1280.avif"
+        },
+        "webp": {
+          "960": "/gallery/8dc4e939e32d096b-cover-960.webp",
+          "1280": "/gallery/8dc4e939e32d096b-cover-1280.webp"
+        },
+        "jpeg": "/gallery/8dc4e939e32d096b-cover-1280.jpg"
+      },
+      "alt": "Seminars album cover",
+      "sourceHash": "098f1b436f48eea80885e91b833a0f56d5e3d4d1e10b1587333c1a8d61fa4f57"
+    }
+  },
+  {
+    "id": "media",
+    "title": "Media",
+    "description": "Church media, event highlights and production moments.",
+    "coverPosition": "50% 34%",
+    "coverPositionMobile": "50% 36%",
+    "count": 4,
+    "coverImage": {
+      "id": "cover-media",
+      "width": 2560,
+      "height": 1600,
+      "aspect": 1.6,
+      "blur": "",
+      "color": "#b8e8f8",
+      "variants": {
+        "avif": {
+          "960": "/gallery/174adff50f544b77-cover-960.avif",
+          "1280": "/gallery/174adff50f544b77-cover-1280.avif",
+          "1600": "/gallery/174adff50f544b77-cover-1600.avif",
+          "1920": "/gallery/174adff50f544b77-cover-1920.avif",
+          "2560": "/gallery/174adff50f544b77-cover-2560.avif"
+        },
+        "webp": {
+          "960": "/gallery/174adff50f544b77-cover-960.webp",
+          "1280": "/gallery/174adff50f544b77-cover-1280.webp",
+          "1600": "/gallery/174adff50f544b77-cover-1600.webp",
+          "1920": "/gallery/174adff50f544b77-cover-1920.webp",
+          "2560": "/gallery/174adff50f544b77-cover-2560.webp"
+        },
+        "jpeg": "/gallery/174adff50f544b77-cover-1600.jpg"
+      },
+      "alt": "Media album cover",
+      "sourceHash": "a17dc64f8dc428574e7ce4d5446ae64ad7740526e614d0ba46fb0e8ed8323c0e"
+    }
+  }
+]

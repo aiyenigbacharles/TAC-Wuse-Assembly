@@ -42,7 +42,7 @@ import {
   faUpload,
   faXmark,
 } from "@fortawesome/free-solid-svg-icons";
-import { faFacebookF, faWhatsapp, faYoutube } from "@fortawesome/free-brands-svg-icons";
+import { faFacebook, faFacebookF, faWhatsapp, faYoutube } from "@fortawesome/free-brands-svg-icons";
 
 type IconProps = Omit<FontAwesomeIconProps, "icon">;
 
@@ -79,6 +79,7 @@ export const Clock = createIcon(faClock, "Clock");
 export const Copy = createIcon(faCopy, "Copy");
 export const Dot = createIcon(faCircle, "Dot");
 export const Facebook = createIcon(faFacebookF, "Facebook");
+export const FacebookLogo = createIcon(faFacebook, "FacebookLogo");
 export const GripVertical = createIcon(faGripLinesVertical, "GripVertical");
 export const Heart = createIcon(faHeart, "Heart");
 export const Image = createIcon(faImage, "Image");
@@ -98,3 +99,4 @@ export const Target = createIcon(faBullseye, "Target");
 export const Upload = createIcon(faUpload, "Upload");
 export const X = createIcon(faXmark, "X");
 export const Youtube = createIcon(faYoutube, "Youtube");
+export const YoutubeLogo = createIcon(faYoutube, "YoutubeLogo");
