@@ -5,9 +5,9 @@ import { getGalleryImage } from "@/data/gallery";
 
 const pastors = [
   { name: "Pastor Jacob Nkopeti", title: "Wuse Area Superintendent", image: getGalleryImage("pastor-nkopeti") },
-  { name: "Pastor Samuel Ogunrole", title: "Assistant Pastor", image: getGalleryImage("pastor-ogunrole") },
+  { name: "Pastor Samuel Ogunrole", title: "Assembly Pastor", image: getGalleryImage("pastor-ogunrole") },
   { name: "Pastor Lawrence Adewumi", title: "Assistant Pastor", image: getGalleryImage("pastor-lawrence") },
-  { name: "Pastor Josiah Ilari", title: "Assistant Pastor", image: getGalleryImage("pastor-josiah") },
+  { name: "Pastor Josiah Ilari", title: "Assistant Pastor", image: getGalleryImage( "pastor-josiah") },
 ];
 
 const LeadershipPage = () => (
