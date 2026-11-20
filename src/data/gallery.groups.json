@@ -61,27 +61,25 @@
     "description": "Teaching, fellowship and gatherings around the Word.",
     "coverPosition": "50% 36%",
     "coverPositionMobile": "50% 38%",
-    "count": 81,
+    "count": 52,
     "coverImage": {
       "id": "cover-seminars",
-      "width": 1280,
-      "height": 854,
-      "aspect": 1.4988290398126465,
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6671875,
       "blur": "",
-      "color": "#f8f8f8",
+      "color": "#e8e808",
       "variants": {
         "avif": {
-          "960": "/gallery/8dc4e939e32d096b-cover-960.avif",
-          "1280": "/gallery/8dc4e939e32d096b-cover-1280.avif"
+          "854": "/gallery/ad59fde0723f5632-cover-854.avif"
         },
         "webp": {
-          "960": "/gallery/8dc4e939e32d096b-cover-960.webp",
-          "1280": "/gallery/8dc4e939e32d096b-cover-1280.webp"
+          "854": "/gallery/ad59fde0723f5632-cover-854.webp"
         },
-        "jpeg": "/gallery/8dc4e939e32d096b-cover-1280.jpg"
+        "jpeg": "/gallery/ad59fde0723f5632-cover-854.jpg"
       },
       "alt": "Seminars album cover",
-      "sourceHash": "098f1b436f48eea80885e91b833a0f56d5e3d4d1e10b1587333c1a8d61fa4f57"
+      "sourceHash": "fbe9f21fab5ede5f34067f7266e5754c9674eb998f7801db7c041191f9c5dbd1"
     }
   },
   {

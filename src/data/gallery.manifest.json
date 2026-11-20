@@ -56,34 +56,6 @@
     "sourceHash": "53a3622e077894eae07ed0e7adf15e48b39a9a326cfd155d442f2075edb73995"
   },
   {
-    "id": "gallery-1",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADwBACdASoYABAAPvVmqk4qpaOiMAgBUB6JbAC7MoFWAby+BPyOt/w9eZtHIsJ534AA8pyjm6YTlDrkkptxmWSTwpSc4ZrLjLNAI7C8FPGE6iM3X3+UA5SbGud0gv/wZKXNT+ezfWSBNIHEr2TLD7FtKXVBhXRxc3XNG4z9ESvk7qZnTl0be6HPZDYg+rkCDcW1oKPXtwqwySQOPWgRJ6Oo/PrhNu38APvK7nE5UpaGXnFNd7Lc9TwHG8PP5CX9NzuYU8xK4vbFqdjlP4P4XFy8Uf65IAAA",
-    "color": "#280858",
-    "variants": {
-      "avif": {
-        "320": "/gallery/a349f5dea820566f-320.avif",
-        "480": "/gallery/a349f5dea820566f-480.avif",
-        "640": "/gallery/a349f5dea820566f-640.avif",
-        "960": "/gallery/a349f5dea820566f-960.avif",
-        "1280": "/gallery/a349f5dea820566f-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/a349f5dea820566f-320.webp",
-        "480": "/gallery/a349f5dea820566f-480.webp",
-        "640": "/gallery/a349f5dea820566f-640.webp",
-        "960": "/gallery/a349f5dea820566f-960.webp",
-        "1280": "/gallery/a349f5dea820566f-1280.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly members gathered for a group photograph",
-    "group": "seminars",
-    "sourceHash": "a349f5dea820566fe7c37d52fadaa6da9930d088782725f2afbf3b271dde30fe"
-  },
-  {
     "id": "gallery-2",
     "width": 1280,
     "height": 854,
@@ -111,33 +83,6 @@
     "sourceHash": "f35560ccbd83e72f59dbcf1a490dcc0c08f6302542cf4e750e437da2cd539211"
   },
   {
-    "id": "gallery-3",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdGult8ABDQfI2i7BRTqafgAD+VEuOrWFVR29Y8VvtuFvS5YhjROTp8xoQXcSfeU3jLEoSVNoi4QJT3e+jBF4Dsbu1DPamUMkIVrsKzeoaDaBzrikwhGJdxx+D9h/CZBqz/mMrKUcGbsb8Zp5VZH+JB6aJOE/iFbxamkn1kaA7Hoh5bxqhF4+PiGmEAAA=",
-    "color": "#d8d8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/769a15212e020c5c-320.avif",
-        "480": "/gallery/769a15212e020c5c-480.avif",
-        "640": "/gallery/769a15212e020c5c-640.avif",
-        "960": "/gallery/769a15212e020c5c-960.avif",
-        "1280": "/gallery/769a15212e020c5c-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/769a15212e020c5c-320.webp",
-        "480": "/gallery/769a15212e020c5c-480.webp",
-        "640": "/gallery/769a15212e020c5c-640.webp",
-        "960": "/gallery/769a15212e020c5c-960.webp",
-        "1280": "/gallery/769a15212e020c5c-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 3",
-    "group": "seminars",
-    "sourceHash": "769a15212e020c5cf55ccdc90393b938586ce389e5ee07a4143f1595e494a382"
-  },
-  {
     "id": "gallery-4",
     "width": 1280,
     "height": 854,
@@ -163,60 +108,6 @@
     "alt": "Wuse Assembly gallery photo 4",
     "group": "choir-sessions",
     "sourceHash": "c33a9008fff865f92bdc47233624b23dd07863459d8c5187e6c5850acb150812"
-  },
-  {
-    "id": "gallery-5",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoACjsfCmIvj5ZnVwAD+VGc9XEk7lI2JtEMmmsWdfktb+B6vFXyUKAuKGh4Dn/J7m8e2Dk4VdgKP5VXEauIypGqzAGBNf/Uj4vpZ3T6u7PnU5VWUjucZeFDaXY62ngHKBx3Dpt0EPNN1QGR8y7/1LWAJyb/QigtVA1f4PtnQWQd2Kh28IeV/AAAA",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/2116b7f9c35d9ae7-320.avif",
-        "480": "/gallery/2116b7f9c35d9ae7-480.avif",
-        "640": "/gallery/2116b7f9c35d9ae7-640.avif",
-        "960": "/gallery/2116b7f9c35d9ae7-960.avif",
-        "1280": "/gallery/2116b7f9c35d9ae7-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/2116b7f9c35d9ae7-320.webp",
-        "480": "/gallery/2116b7f9c35d9ae7-480.webp",
-        "640": "/gallery/2116b7f9c35d9ae7-640.webp",
-        "960": "/gallery/2116b7f9c35d9ae7-960.webp",
-        "1280": "/gallery/2116b7f9c35d9ae7-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 5",
-    "group": "seminars",
-    "sourceHash": "2116b7f9c35d9ae7ac6f7b38d3a2faccaaf9a4d7805ff25643556a095d0d9f62"
-  },
-  {
-    "id": "gallery-6",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACsEfqgMSVC2K3k0zGLyjBOAAD+cWPHCfh65F/7d7trwS2xhtnGuLs6nr2O8MT1s0Y6D6zE+3NYyKRcMUTOW4WhjmsKIodClepfUt5X+KT2PViB/alJUQeYTYDW+Kg0+QSGCXei2Ff6gKiiUuO0deGEfBMQiVuhfj/N/ta56+NvYrpE/Az//rKHW8cp0InhznI4s1ltVVZE+/oCAAAA",
-    "color": "#c8c8e8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/be99a1f4f34b58c6-320.avif",
-        "480": "/gallery/be99a1f4f34b58c6-480.avif",
-        "640": "/gallery/be99a1f4f34b58c6-640.avif",
-        "960": "/gallery/be99a1f4f34b58c6-960.avif",
-        "1280": "/gallery/be99a1f4f34b58c6-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/be99a1f4f34b58c6-320.webp",
-        "480": "/gallery/be99a1f4f34b58c6-480.webp",
-        "640": "/gallery/be99a1f4f34b58c6-640.webp",
-        "960": "/gallery/be99a1f4f34b58c6-960.webp",
-        "1280": "/gallery/be99a1f4f34b58c6-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 6",
-    "group": "seminars",
-    "sourceHash": "be99a1f4f34b58c62c7f71dcb14799400540770c89e668725818a2089f3346d9"
   },
   {
     "id": "gallery-7",
@@ -273,33 +164,6 @@
     "sourceHash": "a9fd0501d057dfec48e7dc6bc81934a94382d128c39f7054c83ddb99dc664801"
   },
   {
-    "id": "gallery-9",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABQBACdASoYABAAPvVkqk4qpaQiMAgBUB6JZACdAywBi195EurqJRCf5LsIANqrwF+iFaZIiuTE19jSDefYmZUAXybAMUftMgCD0LAdwwn7lmBC2TTkZenloSR31ueEJScMIVkuOJ6BUVKhoEEW603guW1XOOJkvOTgnvh4B8B/EJtiIPAAAA==",
-    "color": "#988878",
-    "variants": {
-      "avif": {
-        "320": "/gallery/7516975d29f5b168-320.avif",
-        "480": "/gallery/7516975d29f5b168-480.avif",
-        "640": "/gallery/7516975d29f5b168-640.avif",
-        "960": "/gallery/7516975d29f5b168-960.avif",
-        "1280": "/gallery/7516975d29f5b168-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/7516975d29f5b168-320.webp",
-        "480": "/gallery/7516975d29f5b168-480.webp",
-        "640": "/gallery/7516975d29f5b168-640.webp",
-        "960": "/gallery/7516975d29f5b168-960.webp",
-        "1280": "/gallery/7516975d29f5b168-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 9",
-    "group": "seminars",
-    "sourceHash": "7516975d29f5b1682c17a4447b81274013fe4b832d9525c006b4f00b6158ffea"
-  },
-  {
     "id": "gallery-10",
     "width": 1280,
     "height": 854,
@@ -352,222 +216,6 @@
     "alt": "Wuse Assembly gallery photo 11",
     "group": "prayer-sessions",
     "sourceHash": "9d17bfceb82ddec7c173366bf14fe7eb8e418b17c91ad35b3270ce3baf802a85"
-  },
-  {
-    "id": "gallery-13",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAADwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdEf/i2NmBjszgMfSMFV4GH+fOVcAA/qN28dqWCC/aEXkRpIwY1ZHHI/sNOcPEqeDukPiNVfv+VM4PhgyX8NTYErxmMYfbsRmqaPWDcqHrwWSHbffrRLTf278/uCMd1HhPi8rbwK/FmiXAV6HVei6/yYJWAyggT7fZYQMSjqCayyprGPOM0fINrz+rdZXBA/wA",
-    "color": "#380848",
-    "variants": {
-      "avif": {
-        "320": "/gallery/bb6774c6bc16e99b-320.avif",
-        "480": "/gallery/bb6774c6bc16e99b-480.avif",
-        "640": "/gallery/bb6774c6bc16e99b-640.avif",
-        "960": "/gallery/bb6774c6bc16e99b-960.avif",
-        "1280": "/gallery/bb6774c6bc16e99b-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/bb6774c6bc16e99b-320.webp",
-        "480": "/gallery/bb6774c6bc16e99b-480.webp",
-        "640": "/gallery/bb6774c6bc16e99b-640.webp",
-        "960": "/gallery/bb6774c6bc16e99b-960.webp",
-        "1280": "/gallery/bb6774c6bc16e99b-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 13",
-    "group": "seminars",
-    "sourceHash": "bb6774c6bc16e99b036ea49bed4310d249c1469cf8b9d07f1c5e3531732732f2"
-  },
-  {
-    "id": "gallery-14",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAABQBQCdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoMYOFXFgG8dkRcHyBt6OSD4jqoo+8wA/nk2JfhcSfejT2MrWd0igkGpY6imxDI5RKhYSUNTEvcyIgxL4GAW9K1WiMzpp1KSaU887EidiAiyKtxxbz9Va59eX0qZSKsRnRVHgCOAd88RR87cIxu3POHRvee/pAQ6K8Vo1PS4KjvIb3nrhS55N+PeSH4gOaeZ4U1ZMtIRaiy1uqQDIDTLjtxQq0XksJUbGEFTgo8ANtMS0KOMdQzsBiONUrZ7k0l/XoyCn5GXynY+sWfAAAA=",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/6e1298ac73dfdef4-320.avif",
-        "480": "/gallery/6e1298ac73dfdef4-480.avif",
-        "640": "/gallery/6e1298ac73dfdef4-640.avif",
-        "960": "/gallery/6e1298ac73dfdef4-960.avif",
-        "1280": "/gallery/6e1298ac73dfdef4-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/6e1298ac73dfdef4-320.webp",
-        "480": "/gallery/6e1298ac73dfdef4-480.webp",
-        "640": "/gallery/6e1298ac73dfdef4-640.webp",
-        "960": "/gallery/6e1298ac73dfdef4-960.webp",
-        "1280": "/gallery/6e1298ac73dfdef4-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 14",
-    "group": "seminars",
-    "sourceHash": "6e1298ac73dfdef412ab7b7a0729d28c8d9796f5636e3783ec1d0b92c6300560"
-  },
-  {
-    "id": "gallery-15",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoMjiYAAQ0BrSwXTnkdNlq3xHoAA+pB5X28vA+e8XAV2olU5wuNePFFdNqClY1RyPg2nOtw1fV79EoCF5I+RDfAF5+uA+OA39rDyew7y8apMMQLZ/lEnECAX+FtjnmprR3orF1qeEuElR0LLwcV7/8+s8Jtoj34Wnggstgwq8bjeir55yyQtTfRvwPzk7e7oth/f+ipp1sbru/xvVrLV7FQccdPmbxC24C3ZescR8RcAAA==",
-    "color": "#080808",
-    "variants": {
-      "avif": {
-        "320": "/gallery/a1c1f5c0f264fdd2-320.avif",
-        "480": "/gallery/a1c1f5c0f264fdd2-480.avif",
-        "640": "/gallery/a1c1f5c0f264fdd2-640.avif",
-        "960": "/gallery/a1c1f5c0f264fdd2-960.avif",
-        "1280": "/gallery/a1c1f5c0f264fdd2-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/a1c1f5c0f264fdd2-320.webp",
-        "480": "/gallery/a1c1f5c0f264fdd2-480.webp",
-        "640": "/gallery/a1c1f5c0f264fdd2-640.webp",
-        "960": "/gallery/a1c1f5c0f264fdd2-960.webp",
-        "1280": "/gallery/a1c1f5c0f264fdd2-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 15",
-    "group": "seminars",
-    "sourceHash": "a1c1f5c0f264fdd2cd582425d9f739ee164f9442f9745083a0f0bc89976fdd0f"
-  },
-  {
-    "id": "gallery-16",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbAC06YwwphjcTwN4wnc+2EAA9ocBEw8abCdD+XG8XNvwLmVxnuN21DCX4mIA/Uo0ekgPXVoWgR7Of0EQBAGyngRBax4d3SvyLLGWewRNoheVDz/UO7ikSNZybg+X0+WSlxnhdNdyUnwN+QsoFDCwhl+YCFDkPF/XtWeiDe7jb40/ypXp5e9ZM42a7mzgDLHHH+LSpHc+Ict7hIlccD1AAAA=",
-    "color": "#a8a8b8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/688b2ee60dddf882-320.avif",
-        "480": "/gallery/688b2ee60dddf882-480.avif",
-        "640": "/gallery/688b2ee60dddf882-640.avif",
-        "960": "/gallery/688b2ee60dddf882-960.avif",
-        "1280": "/gallery/688b2ee60dddf882-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/688b2ee60dddf882-320.webp",
-        "480": "/gallery/688b2ee60dddf882-480.webp",
-        "640": "/gallery/688b2ee60dddf882-640.webp",
-        "960": "/gallery/688b2ee60dddf882-960.webp",
-        "1280": "/gallery/688b2ee60dddf882-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 16",
-    "group": "seminars",
-    "sourceHash": "688b2ee60dddf882c5982fd27151ed6fea7b5e06447821763550391d21777844"
-  },
-  {
-    "id": "gallery-17",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoR4GdF5F6Xnl6dDjaIOkAD+kbuOER3YGmm2cLi6Gaq6qtL+ngl1k/WJdV+/nWLA/cV2dbXgYata0hTjEHtOrGyvCn3Ab4zmXWxHakiT9v5Vdfhbh3vly1ydAeyVC5DqzHqzDy4PQVNpIyDx04Fl2d6HT3a7Ubt6+JtkblekJgx24uvzEq3i73gfvM8OHIBVC2nNEj3hyPIin5xzkoXOP09I88wAAA==",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/c324ae6b7dd12a8e-320.avif",
-        "480": "/gallery/c324ae6b7dd12a8e-480.avif",
-        "640": "/gallery/c324ae6b7dd12a8e-640.avif",
-        "960": "/gallery/c324ae6b7dd12a8e-960.avif",
-        "1280": "/gallery/c324ae6b7dd12a8e-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/c324ae6b7dd12a8e-320.webp",
-        "480": "/gallery/c324ae6b7dd12a8e-480.webp",
-        "640": "/gallery/c324ae6b7dd12a8e-640.webp",
-        "960": "/gallery/c324ae6b7dd12a8e-960.webp",
-        "1280": "/gallery/c324ae6b7dd12a8e-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 17",
-    "group": "seminars",
-    "sourceHash": "c324ae6b7dd12a8e1e9974b8b16787edc725be180c6e3656bf39da4bbfae9807"
-  },
-  {
-    "id": "gallery-18",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoADTdRH/6sWthjs/FzIgAD+nXFSt48V+zNUWvmK4mRVJC5lhGLQ0Daj++lS7dfJ8cE9176loowQWRdZpzFMzPaAeRs+SfPmRwtKT3BhF6si+7NijggbXAFd3pc/1lYx+cMhKQPI6fJELHIUay9Kd/Mo7w4FiEX4fnzCnyA/VxPhouQAAAA=",
-    "color": "#d8d8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/0a097f87e0672721-320.avif",
-        "480": "/gallery/0a097f87e0672721-480.avif",
-        "640": "/gallery/0a097f87e0672721-640.avif",
-        "960": "/gallery/0a097f87e0672721-960.avif",
-        "1280": "/gallery/0a097f87e0672721-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/0a097f87e0672721-320.webp",
-        "480": "/gallery/0a097f87e0672721-480.webp",
-        "640": "/gallery/0a097f87e0672721-640.webp",
-        "960": "/gallery/0a097f87e0672721-960.webp",
-        "1280": "/gallery/0a097f87e0672721-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 18",
-    "group": "seminars",
-    "sourceHash": "0a097f87e06727211c70ee28ee0a8db2ed57a7e39f4123e540eb823c830b604f"
-  },
-  {
-    "id": "gallery-19",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACsLwJ5WfiMBSub5vKgvZ//Oyy8AP7VusxOIrXQQbA76UIbnW5P42QmeFikq2STqXH1e4FtQUX+bVfcRjo4kLm+osgZq7o9GvDkFs5hfi+aHRtm0326n8IKViY2hBYsH++S0KcURo2Y/giF0ZMKOuurE+7fr3N0G2QSHhnJG+NE0D6sfTxsDsYHrmPTXjcq+wS5mDlxFfVasCKO4KPY9P7PKzXAAAA=",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/013a558a61f6efee-320.avif",
-        "480": "/gallery/013a558a61f6efee-480.avif",
-        "640": "/gallery/013a558a61f6efee-640.avif",
-        "960": "/gallery/013a558a61f6efee-960.avif",
-        "1280": "/gallery/013a558a61f6efee-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/013a558a61f6efee-320.webp",
-        "480": "/gallery/013a558a61f6efee-480.webp",
-        "640": "/gallery/013a558a61f6efee-640.webp",
-        "960": "/gallery/013a558a61f6efee-960.webp",
-        "1280": "/gallery/013a558a61f6efee-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 19",
-    "group": "seminars",
-    "sourceHash": "013a558a61f6efee68fbf81e4506989541a27b19efbf82f5b93d93890c62f525"
-  },
-  {
-    "id": "gallery-20",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAABwBACdASoYABAAPvVmqk4qpaOiMAgBUB6JbACdAdwLgiaALJOUf7aCWtyCAADKGYTYkLsQFpc6YtOt+ebJbvghwNOSNqeXH9t2Gh9gn249S0igqtfGp8OZycbRiN7ffLff5CzqbwYK7kNzd2spKA6CyeWj1hLaep+pCgnre3c7FV+9nZ28bnWZf0JwVL60C+9krgyI3ewYCdlfWls4EW3rFB3TNaJEZtxuVtjn05vjgwrEBkHjTBvtu2PYp/8G/pz5GXFGv79iwKllTTeKiyNHIq4c0kgA",
-    "color": "#c8d8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/a5dddd9c069fa203-320.avif",
-        "480": "/gallery/a5dddd9c069fa203-480.avif",
-        "640": "/gallery/a5dddd9c069fa203-640.avif",
-        "960": "/gallery/a5dddd9c069fa203-960.avif",
-        "1280": "/gallery/a5dddd9c069fa203-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/a5dddd9c069fa203-320.webp",
-        "480": "/gallery/a5dddd9c069fa203-480.webp",
-        "640": "/gallery/a5dddd9c069fa203-640.webp",
-        "960": "/gallery/a5dddd9c069fa203-960.webp",
-        "1280": "/gallery/a5dddd9c069fa203-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 20",
-    "group": "seminars",
-    "sourceHash": "a5dddd9c069fa203697d8e33b09329ba6cb2e4db38ab3f8b678719d77c89083d"
   },
   {
     "id": "gallery-21",
@@ -829,60 +477,6 @@
     "sourceHash": "1acefab6dc64cdfc2b319d266202f1d998b0fb8b9661ddecb51de436a9aa372c"
   },
   {
-    "id": "gallery-30",
-    "width": 1279,
-    "height": 1920,
-    "aspect": 0.6661458333333333,
-    "blur": "data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAAAwBwCdASoYACQAPvVsqVCqpaOiqqoBUB6JZgCxHxs+CCutwJBaJ4Gj+n8I61UTGCbL5mBm0hrCzzB5ewfbWphbc4AA/sQBV3fRMbh938W4v5wKJPMKFL5pTLzbLeLcqcVE/gbo4OfmtHhj7LIcZMpBeJfeDX/HZDVJ3yCtudYjdGIhtXxLgzaKQ1pnnpIMJ+yr+aEyyOq+IMPVESHaDotJNNP8dwT4meyztojvdlYsviuVvzwnEYVdg/ayHfR31X0cJwVWravTi8sRb/BPnX4EH4W3fQfneVEv7Wr2xfXHYtDvqz8k0SXYZUo3qSycWwRzW+NqgpHNylxkcBO2iKjEXvZONdfsFNChoIRQH6FHqe1XFKT07ytGjT9kvPvWvohfniQogTDd2qxAAAA=",
-    "color": "#d89878",
-    "variants": {
-      "avif": {
-        "320": "/gallery/2e38afd8c00918ea-320.avif",
-        "480": "/gallery/2e38afd8c00918ea-480.avif",
-        "640": "/gallery/2e38afd8c00918ea-640.avif",
-        "960": "/gallery/2e38afd8c00918ea-960.avif",
-        "1279": "/gallery/2e38afd8c00918ea-1279.avif"
-      },
-      "webp": {
-        "320": "/gallery/2e38afd8c00918ea-320.webp",
-        "480": "/gallery/2e38afd8c00918ea-480.webp",
-        "640": "/gallery/2e38afd8c00918ea-640.webp",
-        "960": "/gallery/2e38afd8c00918ea-960.webp",
-        "1279": "/gallery/2e38afd8c00918ea-1279.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 30",
-    "group": "seminars",
-    "sourceHash": "2e38afd8c00918eada1c706ed3a6f01557d764e023e6e1072b748d29bc862442"
-  },
-  {
-    "id": "gallery-31",
-    "width": 1279,
-    "height": 1920,
-    "aspect": 0.6661458333333333,
-    "blur": "data:image/webp;base64,UklGRjYBAABXRUJQVlA4ICoBAAAQBwCdASoYACQAPvVmq08qpaOiKqwBUB6JagCdBa+xgKptM6XG4yJ7vBrHg5f+jPKgBREfvHQOsUfw05utl40c0AD+2XTSzfoPeOuLqokOcXOSSh9PSFQ4SDqevAMTnPxpsD2Z44lL19glVdWMmWhcY93x827zNSIhhBFwz735POONV/hgyKsXO7sTYZFs7/hceL+XtyXOP3hzotAMwJrA5LXQWej1brEQjGFE2m/LE9DVpDigFeY+X5F4eji6QSqZLYeiJ90wXcYsXlwURFpmvyLjsTFjJx/mVsbS+bw2kX3PFwbXjOnmkBFiPfKyg9a5AHObPQbKFzLjHCwV+V79gk5Ha7FuXXvbANV1Knay0pBvzhvDe96/fqVGYMc+c9zRbQll8EjVAAAA",
-    "color": "#382828",
-    "variants": {
-      "avif": {
-        "320": "/gallery/6d077154adf7436c-320.avif",
-        "480": "/gallery/6d077154adf7436c-480.avif",
-        "640": "/gallery/6d077154adf7436c-640.avif",
-        "960": "/gallery/6d077154adf7436c-960.avif",
-        "1279": "/gallery/6d077154adf7436c-1279.avif"
-      },
-      "webp": {
-        "320": "/gallery/6d077154adf7436c-320.webp",
-        "480": "/gallery/6d077154adf7436c-480.webp",
-        "640": "/gallery/6d077154adf7436c-640.webp",
-        "960": "/gallery/6d077154adf7436c-960.webp",
-        "1279": "/gallery/6d077154adf7436c-1279.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 31",
-    "group": "seminars",
-    "sourceHash": "6d077154adf7436c98e11ec881e1c6c6d3c5b8df054adfdfdc1f3852783415eb"
-  },
-  {
     "id": "gallery-32",
     "width": 1920,
     "height": 1279,
@@ -941,60 +535,6 @@
     "sourceHash": "469a86e695dbb30e2876b326eaee32c0d5521f6cae4490d88076ffbe62a248e0"
   },
   {
-    "id": "gallery-34",
-    "width": 1336,
-    "height": 1365,
-    "aspect": 0.9787545787545787,
-    "blur": "data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAAAQBgCdASoYABgAPvVsqlCqpaOiqA1RUB6JQBgBkn1NHuxFt6Pu9Kg2cPrQJ8R4Jl/5tXrTgKktpeAA/jRQUxTFIxn+u2PoNsURXu+JGZVing6Y1i974Bo4t9w/2rxRaBjQnl0UvP+B7c92+zMboqzvWPzZRsxdmuJHN+TjYcxy/tz13LXZ2BrmrAxWHPyGJ/5LHhaqfxJ1n+XhWYOonr5p+OIzb7XDSbZdnbMTXP/kRrhBZnh3DMG9uWkrCM/xrioBOk83o2NfM03KgLtnMeJQXBIA7TK6QproMPvBdm06CwQVL9pGc9zkjJr3tQBnVmIq84TfwZLGRHiezNFmRr8GnhVu8k2t35VqTIOZ1pM6E2N9DVKT/2TMSDUQFvEmW6CF/vSwAAA=",
-    "color": "#e8e8e8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/ac73a4f1f5364392-320.avif",
-        "480": "/gallery/ac73a4f1f5364392-480.avif",
-        "640": "/gallery/ac73a4f1f5364392-640.avif",
-        "960": "/gallery/ac73a4f1f5364392-960.avif",
-        "1280": "/gallery/ac73a4f1f5364392-1280.avif",
-        "1336": "/gallery/ac73a4f1f5364392-1336.avif"
-      },
-      "webp": {
-        "320": "/gallery/ac73a4f1f5364392-320.webp",
-        "480": "/gallery/ac73a4f1f5364392-480.webp",
-        "640": "/gallery/ac73a4f1f5364392-640.webp",
-        "960": "/gallery/ac73a4f1f5364392-960.webp",
-        "1280": "/gallery/ac73a4f1f5364392-1280.webp",
-        "1336": "/gallery/ac73a4f1f5364392-1336.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 34",
-    "group": "seminars",
-    "sourceHash": "ac73a4f1f53643923906065327bdc7265c997e38634a954bf4b70846e70676ee"
-  },
-  {
-    "id": "gallery-35",
-    "width": 853,
-    "height": 1280,
-    "aspect": 0.66640625,
-    "blur": "data:image/webp;base64,UklGRigBAABXRUJQVlA4IBwBAABQBwCdASoYACQAPvVusVKqpiSiqrgIAVAeiWIAuzNGACLFA0wYSe4C2QHTCtObfp0OAusdtCf6vAZzHrw7RikyTlMwAP5tFCXbMqU1XmMw+w7aJPwyOPJjPemZ2ri1U+a29hTbVoNVnal2FFBtXF7iPoogRnybke4tRUFUPlA70CYfYm5B9Z2HQbGSTqVSd88yimbDqqrKRzEl/+Tpj9iZ2C1XKVsNLrJ6pRj1JU1Lgi5kiX2vK5FDgd8766OAPTAyoigg1raKkWoQHrTIhRBE/Chtsy6I+HDW+0Ll2wD0EeRqSKf40Zlqmej1nwdx4WAXTDHaUNml9myxvpgbQRRF1gGcTA3dgcgqkqi8lGpSf5Mu4qyFcFPDFqkAAA==",
-    "color": "#f8e8c8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/3744fe3e09bb17c2-320.avif",
-        "480": "/gallery/3744fe3e09bb17c2-480.avif",
-        "640": "/gallery/3744fe3e09bb17c2-640.avif",
-        "853": "/gallery/3744fe3e09bb17c2-853.avif"
-      },
-      "webp": {
-        "320": "/gallery/3744fe3e09bb17c2-320.webp",
-        "480": "/gallery/3744fe3e09bb17c2-480.webp",
-        "640": "/gallery/3744fe3e09bb17c2-640.webp",
-        "853": "/gallery/3744fe3e09bb17c2-853.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 35",
-    "group": "seminars",
-    "sourceHash": "3744fe3e09bb17c22b572939498921b4d4d26e8d667e6d18b986e89239357c48"
-  },
-  {
     "id": "gallery-36",
     "width": 1279,
     "height": 1920,
@@ -1022,84 +562,6 @@
     "sourceHash": "d04a9c0e7f1b648f5a46dba892386be81ea8fabf45714a4e1a606677f23dece7"
   },
   {
-    "id": "gallery-37",
-    "width": 854,
-    "height": 1280,
-    "aspect": 0.6671875,
-    "blur": "data:image/webp;base64,UklGRnQBAABXRUJQVlA4IGgBAABwCACdASoYACQAPvVwrlEqpqQiqrgKAVAeiWwApzUiCASwB/ADtEDAde090h7NfSjwIlLvkA7R9qeYiNByndQzWqVD+j+eKuAtHgBgAP39E7xgSccIlrhXoJ/CNxzLi9u45drztK+0m+AMaFGfhfmWiy2l7ZXLUq+/iaFbTprDl1OEUtoZmtTf9FYTT3J3r4HMfMuRkQ1vZUaqtFZIOrF2xpuPEwCbOtj3cNiPrBCLtzn0Kck7xedBIrclH1cQz/KOpQ556s/oQFsYaHT94CM89UXSda79zYakG97otlEPsUTXYgqn91mv05UvwGfyKManMOgztSnvVvV1amHPhGJ/SiBLCrR/oAp2aMY+2e7JSBor5y18oMdwuH+KEDhY7Rheg6f3Eoi06e7lmPM+zsqFX3EvCeEZkjh91fSVqM/K9KNeZ5Erh6zU0MOw/E9oj6OVHPkkTQ73q7RrjxgbVLuW1ZVgBgGaMAA=",
-    "color": "#e8e808",
-    "variants": {
-      "avif": {
-        "320": "/gallery/fbe9f21fab5ede5f-320.avif",
-        "480": "/gallery/fbe9f21fab5ede5f-480.avif",
-        "640": "/gallery/fbe9f21fab5ede5f-640.avif",
-        "854": "/gallery/fbe9f21fab5ede5f-854.avif"
-      },
-      "webp": {
-        "320": "/gallery/fbe9f21fab5ede5f-320.webp",
-        "480": "/gallery/fbe9f21fab5ede5f-480.webp",
-        "640": "/gallery/fbe9f21fab5ede5f-640.webp",
-        "854": "/gallery/fbe9f21fab5ede5f-854.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 37",
-    "group": "seminars",
-    "sourceHash": "fbe9f21fab5ede5f34067f7266e5754c9674eb998f7801db7c041191f9c5dbd1"
-  },
-  {
-    "id": "gallery-38",
-    "width": 854,
-    "height": 1280,
-    "aspect": 0.6671875,
-    "blur": "data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAADwBwCdASoYACQAPvVoq1CqpaOiqqoBUB6JbACdMw40QRJu0A7Xtx2l1W3W2UBZVRoPVEWJy/seokNZNfIZhXrh5eoDTrD8lngAyt1cyeN2ladYQ1xHSaN5aypmCrq9Pc/3feTewivCotNkizuFCj3DVp+SGgm9SUSzUiAptPta2Yys7w1Psu+3Z1YwrdqVzueL2Q659msfg8my78M5QIGCkwLA7qvQGuDjzHhRv+DWJTkZ4CFYE95zZRukGYu2kmdigwy+v8s1yM4nVWb0NPJ/RVC+PUEJmQusVlhj+KN+uDdqmaCl33GrqmPdmIWgh9I8p2NTIwbd6u+JfOpKmAbN7TmMbdGZDVfg5KBP1d2if9AYCpVgrhCvNvq+T2fYJsy5d7YWbJavf19PMqvlxi7BFZQbqLKw8izgPt5R8CVcVkiD/L01LZ8e6e+3Ka/Kaj5JpgiUqbCr9Ym8eBJTQYAA",
-    "color": "#482878",
-    "variants": {
-      "avif": {
-        "320": "/gallery/9e2940096c905607-320.avif",
-        "480": "/gallery/9e2940096c905607-480.avif",
-        "640": "/gallery/9e2940096c905607-640.avif",
-        "854": "/gallery/9e2940096c905607-854.avif"
-      },
-      "webp": {
-        "320": "/gallery/9e2940096c905607-320.webp",
-        "480": "/gallery/9e2940096c905607-480.webp",
-        "640": "/gallery/9e2940096c905607-640.webp",
-        "854": "/gallery/9e2940096c905607-854.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 38",
-    "group": "seminars",
-    "sourceHash": "9e2940096c90560765ba32a46c9a6dd1439514798d396553a61f473a122fc64e"
-  },
-  {
-    "id": "gallery-39",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbAC0+fwAMhwUUuvtycgTOEMAAPzv/L9zLlnYRbdQYQYYHqQo7KzknqsOgUP8bbyR/PJm6DkAj2N7b4/7Xf/+vGBE9alzNkhi3dxTw+RG8I85WME0xnozx6Jm9g0gjX2fCFQjWb2OK8k7ORH3Xb16Ykv9nWWApg5er63mLLjHzkl80gvfO1REOYfT5qgm+VNgAA==",
-    "color": "#a8b8b8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/3c98103b486d22d6-320.avif",
-        "480": "/gallery/3c98103b486d22d6-480.avif",
-        "640": "/gallery/3c98103b486d22d6-640.avif",
-        "960": "/gallery/3c98103b486d22d6-960.avif",
-        "1280": "/gallery/3c98103b486d22d6-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/3c98103b486d22d6-320.webp",
-        "480": "/gallery/3c98103b486d22d6-480.webp",
-        "640": "/gallery/3c98103b486d22d6-640.webp",
-        "960": "/gallery/3c98103b486d22d6-960.webp",
-        "1280": "/gallery/3c98103b486d22d6-1280.webp"
-      }
-    },
-    "featured": true,
-    "alt": "The Wuse Assembly family gathered together",
-    "group": "seminars",
-    "sourceHash": "3c98103b486d22d657773b3bc53f3b09fb7f8cae077b47a46803f2193fb7a0d1"
-  },
-  {
     "id": "gallery-40",
     "width": 853,
     "height": 1280,
@@ -1123,248 +585,6 @@
     "alt": "Wuse Assembly gallery photo 40",
     "group": "choir-sessions",
     "sourceHash": "f15bc63e7e097b37983da09f0ba8ff179ff9ed8ef8343436507be2b1fb284b9b"
-  },
-  {
-    "id": "gallery-41",
-    "width": 854,
-    "height": 1280,
-    "aspect": 0.6671875,
-    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAwBwCdASoYACQAPvVwsFIqpiSipWsxUB6JYgCdM2KApGWt4jDUOlTsrc+Tyr3zFtsmmhe+pIF/Cs2oEVpMo1EQnIgA9kGES6OOgcwTC4NyT6sgw7C2uaPHxfh+DdbSBSHTN9tAeZdhynKuqy1iCdKO0JUINtPIsh8q7N5lERYPCdUs43MfIJUKZr7qShDsiKkkqsWVGWbU9ba1OKROM4OyUyb0lgbzpgzy5gLrN3FkhCRHO9Ol9KfwlFKhkX85lwTSfSjzjFOF4F45DUCEWi7IiJ7f9cT89UeQW6Xwwle4G6ufYjfZLpoBDsh/yZoa3cUI21oQAAA=",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/8cb8bf4c2154abf6-320.avif",
-        "480": "/gallery/8cb8bf4c2154abf6-480.avif",
-        "640": "/gallery/8cb8bf4c2154abf6-640.avif",
-        "854": "/gallery/8cb8bf4c2154abf6-854.avif"
-      },
-      "webp": {
-        "320": "/gallery/8cb8bf4c2154abf6-320.webp",
-        "480": "/gallery/8cb8bf4c2154abf6-480.webp",
-        "640": "/gallery/8cb8bf4c2154abf6-640.webp",
-        "854": "/gallery/8cb8bf4c2154abf6-854.webp"
-      }
-    },
-    "featured": true,
-    "alt": "A minister speaking at the assembly",
-    "group": "seminars",
-    "sourceHash": "8cb8bf4c2154abf68850b69559ecbd15e7ffa61d9ef3380b8588305b334a2800"
-  },
-  {
-    "id": "gallery-42",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADwAwCdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoACdoXgB1UIft+IAP68jUKDpuADqHslvNx51ZybbIcNVaDeeqtWHxZWEqmjaaCCMOWsZDAORyhxlfa4I983abXHXT7kJdWrzj0cWUsv49qn35+L/s//T7PGdrjfb9QpYs/Z6O8orRBdlseJ+Hp/w/1InBpUojGmuMbt0BNYxvCD1ifEri8K443/G3Bzv/+Dkyzf6pXg/gwAwAAA",
-    "color": "#080808",
-    "variants": {
-      "avif": {
-        "320": "/gallery/2e4d6f767f0c1f1c-320.avif",
-        "480": "/gallery/2e4d6f767f0c1f1c-480.avif",
-        "640": "/gallery/2e4d6f767f0c1f1c-640.avif",
-        "960": "/gallery/2e4d6f767f0c1f1c-960.avif",
-        "1280": "/gallery/2e4d6f767f0c1f1c-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/2e4d6f767f0c1f1c-320.webp",
-        "480": "/gallery/2e4d6f767f0c1f1c-480.webp",
-        "640": "/gallery/2e4d6f767f0c1f1c-640.webp",
-        "960": "/gallery/2e4d6f767f0c1f1c-960.webp",
-        "1280": "/gallery/2e4d6f767f0c1f1c-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 42",
-    "group": "seminars",
-    "sourceHash": "2e4d6f767f0c1f1c1c84c8531cf41f35cd9ef4008fb81bb4e33a4015398b87ce"
-  },
-  {
-    "id": "gallery-43",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdH8D2WSvA93R/ZCkypYxOq8WssUAA/mrnG6MV2/2IkPIHHjUJxQr1Pc2cFY6U30O1Xq5rdJRHHTz3NO45+1/xUKdh+6O6C+O7YLmpu2VajUsSLSJCRXf2JRgO3lzXr/nBDTqMhaJkd4RjlzUxT/cf1fZI6xZ6SY+oLtM8jPEsZU696ndo6XacXH+379t1Rb8X8Faq6UCapZBgB+bKXsmwYFOqKYVjP1nDZfzt1eiykjytSDN9hBr4AAAA",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/098f1b436f48eea8-320.avif",
-        "480": "/gallery/098f1b436f48eea8-480.avif",
-        "640": "/gallery/098f1b436f48eea8-640.avif",
-        "960": "/gallery/098f1b436f48eea8-960.avif",
-        "1280": "/gallery/098f1b436f48eea8-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/098f1b436f48eea8-320.webp",
-        "480": "/gallery/098f1b436f48eea8-480.webp",
-        "640": "/gallery/098f1b436f48eea8-640.webp",
-        "960": "/gallery/098f1b436f48eea8-960.webp",
-        "1280": "/gallery/098f1b436f48eea8-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 43",
-    "group": "seminars",
-    "sourceHash": "098f1b436f48eea80885e91b833a0f56d5e3d4d1e10b1587333c1a8d61fa4f57"
-  },
-  {
-    "id": "gallery-44",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAAAwBQCdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoLUDgAYW2BAXu+dS0ZkIQ2AGvIZAAD+JeYpV5d/K3kZDQNYvR8Y+0x/PzRkxFix3bicxXfbt5x7FeaFFuD2XxuNffm8A7H1Hz5j01EY52P0BFLk7Rdk3BxBYtgSR/Gr/E92urD7If1dbJ3rYJ/dQzv4pU7wrvhXFa18t7rbfFp8E9flMoVDvujXitI3C7m9XedVzP/akzIWg8Z8Z/CP9aV9bAAAAA==",
-    "color": "#080808",
-    "variants": {
-      "avif": {
-        "320": "/gallery/31ca47f7846ecafd-320.avif",
-        "480": "/gallery/31ca47f7846ecafd-480.avif",
-        "640": "/gallery/31ca47f7846ecafd-640.avif",
-        "960": "/gallery/31ca47f7846ecafd-960.avif",
-        "1280": "/gallery/31ca47f7846ecafd-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/31ca47f7846ecafd-320.webp",
-        "480": "/gallery/31ca47f7846ecafd-480.webp",
-        "640": "/gallery/31ca47f7846ecafd-640.webp",
-        "960": "/gallery/31ca47f7846ecafd-960.webp",
-        "1280": "/gallery/31ca47f7846ecafd-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 44",
-    "group": "seminars",
-    "sourceHash": "31ca47f7846ecafd72b0f5ad66519c6aae7488f9008940858e0a6b6036212d59"
-  },
-  {
-    "id": "gallery-45",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdGvVAUyHkBXJ5YbYRNuc2gAD+FSHE+ABhqFFfzTNR6P4comhvCpK50D6VAR7DEZbtHSDWj/px89KSQN/pwj0SjllmSwzjNTkKzIH5cP7Bmqw+KUWGYpQTHiNpfms3S1Uz/aXMEUFiNDvmwwf9UL9gIfxUX9WTjgJ87hHWVEgkA2mOp15UygAAAA==",
-    "color": "#e8e8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/1f145b52df9a0a4d-320.avif",
-        "480": "/gallery/1f145b52df9a0a4d-480.avif",
-        "640": "/gallery/1f145b52df9a0a4d-640.avif",
-        "960": "/gallery/1f145b52df9a0a4d-960.avif",
-        "1280": "/gallery/1f145b52df9a0a4d-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/1f145b52df9a0a4d-320.webp",
-        "480": "/gallery/1f145b52df9a0a4d-480.webp",
-        "640": "/gallery/1f145b52df9a0a4d-640.webp",
-        "960": "/gallery/1f145b52df9a0a4d-960.webp",
-        "1280": "/gallery/1f145b52df9a0a4d-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 45",
-    "group": "seminars",
-    "sourceHash": "1f145b52df9a0a4d993b1fb569acfeed2fb83c48368d7ae34e74d0c28e631b27"
-  },
-  {
-    "id": "gallery-46",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoR3ACUZbfARcajHBVhIAP7D/q88OujJqOvLlznfOZII6TfPZ/jKJFGoI01h3pTSjHV9FByQt1UB+KgJZoqOv8dLgvANpmR3gR3ZJ/C8pev3bDiucUinxm2oiPhyAGOQZsdBjoi+99Sz5kAQaPg2X77H4en56z+O5F/qnJRwSBBxQS/rtAUQAA==",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/ede0826aa9af2feb-320.avif",
-        "480": "/gallery/ede0826aa9af2feb-480.avif",
-        "640": "/gallery/ede0826aa9af2feb-640.avif",
-        "960": "/gallery/ede0826aa9af2feb-960.avif",
-        "1280": "/gallery/ede0826aa9af2feb-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/ede0826aa9af2feb-320.webp",
-        "480": "/gallery/ede0826aa9af2feb-480.webp",
-        "640": "/gallery/ede0826aa9af2feb-640.webp",
-        "960": "/gallery/ede0826aa9af2feb-960.webp",
-        "1280": "/gallery/ede0826aa9af2feb-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 46",
-    "group": "seminars",
-    "sourceHash": "ede0826aa9af2febc2fb47405b603ec6373ccf0181df40a8898e41a52f1d4df6"
-  },
-  {
-    "id": "gallery-47",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoRwAkgPdiM+sl67ummgerkAAP7ED4D4CblHhdYWc50+CrdeLpEf5HUJgfGdE8H51GNbY7FTe7pLK1g44FdoOzB+X764b1OsTgwFe3eKZ+AVZPH2UNhJUTR6rFFn3B+L0JbJjw1APtGGcIDkPMNItvvdBkfkZZkqVi6gh9vIZ2qYS0cBl/gf2j37AKB09hPPS2ATW93/QDkf9cpwZ/VBOKC/fdsfPgAA",
-    "color": "#e8e8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/0bc4d635a4ee1cc3-320.avif",
-        "480": "/gallery/0bc4d635a4ee1cc3-480.avif",
-        "640": "/gallery/0bc4d635a4ee1cc3-640.avif",
-        "960": "/gallery/0bc4d635a4ee1cc3-960.avif",
-        "1280": "/gallery/0bc4d635a4ee1cc3-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/0bc4d635a4ee1cc3-320.webp",
-        "480": "/gallery/0bc4d635a4ee1cc3-480.webp",
-        "640": "/gallery/0bc4d635a4ee1cc3-640.webp",
-        "960": "/gallery/0bc4d635a4ee1cc3-960.webp",
-        "1280": "/gallery/0bc4d635a4ee1cc3-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 47",
-    "group": "seminars",
-    "sourceHash": "0bc4d635a4ee1cc3d50023a58be1b68f56cecd7c5e6edc8746a092122c0b7343"
-  },
-  {
-    "id": "gallery-48",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBQCdASoYABAAPvVsrk4qpqSiMAgBUB6JbACdMoRwN5BbgwlkI0+3e+0rJzVWDaqWAADiQVpwb0iZegNJTncVx7nthCk7AKvFWmptACzjJjutWdBU/CJl03nCRqq29Upd3TNGk8if/hpNzB4LaEgfYbZJkTk7/ww/Z/nTJlPhP/Xy8oW4sQ2jGGEJJrzTLqXwVB1G5KbAIxq5fz/ki87DLRjm0zAWPnXk5Zxys5NHVNtTqUSvOzLAAAA=",
-    "color": "#a85808",
-    "variants": {
-      "avif": {
-        "320": "/gallery/44546de4769d3eba-320.avif",
-        "480": "/gallery/44546de4769d3eba-480.avif",
-        "640": "/gallery/44546de4769d3eba-640.avif",
-        "960": "/gallery/44546de4769d3eba-960.avif",
-        "1280": "/gallery/44546de4769d3eba-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/44546de4769d3eba-320.webp",
-        "480": "/gallery/44546de4769d3eba-480.webp",
-        "640": "/gallery/44546de4769d3eba-640.webp",
-        "960": "/gallery/44546de4769d3eba-960.webp",
-        "1280": "/gallery/44546de4769d3eba-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 48",
-    "group": "seminars",
-    "sourceHash": "44546de4769d3ebab122512204729a58fada1396113fdd9990b58900ce34115a"
-  },
-  {
-    "id": "gallery-49",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoR3ACfboV3EIKqhsp9A2AAA/tPbeHBRGaDNu6y3ztRq5EIlZqmve1p/DGpiktnaTnmQYgbOsdZyPWqch5rg4bvThKMlhsyTqOMCXfo/lXEDvkZuh/rtRIfVtaWic0wh2O8IjAfjsgkEwVa7cIBA5fSceW2A82J3RazzZF4sgwDgtFA2lqHZJSUCk9S5SjSZLOlDfsv0aAT9lR89j79eaH3RAAA=",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/14bd29554c9ac655-320.avif",
-        "480": "/gallery/14bd29554c9ac655-480.avif",
-        "640": "/gallery/14bd29554c9ac655-640.avif",
-        "960": "/gallery/14bd29554c9ac655-960.avif",
-        "1280": "/gallery/14bd29554c9ac655-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/14bd29554c9ac655-320.webp",
-        "480": "/gallery/14bd29554c9ac655-480.webp",
-        "640": "/gallery/14bd29554c9ac655-640.webp",
-        "960": "/gallery/14bd29554c9ac655-960.webp",
-        "1280": "/gallery/14bd29554c9ac655-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 49",
-    "group": "seminars",
-    "sourceHash": "14bd29554c9ac655bb16574e9ea1db20f94f591bec519f00d3bbf15fec16d30e"
   },
   {
     "id": "gallery-50",
@@ -1392,63 +612,6 @@
     "alt": "Wuse Assembly gallery photo 50",
     "group": "choir-sessions",
     "sourceHash": "9345097cc6b5bfda9a1f06e79ba5cf4cbd15da6926080f542308cecd5f2c9ac7"
-  },
-  {
-    "id": "gallery-51",
-    "width": 1279,
-    "height": 1920,
-    "aspect": 0.6661458333333333,
-    "blur": "data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAABwBgCdASoYACQAPvVqrVAqpaQiqqoBUB6JZAC2+7AB03XbDbM5AKIXCyN1d6IVjnjyMy1PNVTePAXLRAAAlUVAOPbYCbZGXoafC6w6YlY0sBblsnbpPdZPzYdH4GEDjgZFsNX7suFI0VgnV07FmaxUdb1kEv+OaLtiWyY1YebY8Cw/Hb6G4/cIQcExuT4pEoylICCRNmEMNHjKfRVN3ugxYWkfZ71ZM/+gtKoUFvp6aPUKMonABK5y7X2GqWYTT/chrotv28kWOJnYB+HNuJKAQfjJaQmF7d7h8IDjcgVdyyJZ/VN63r1y//+w8kC4nDUc5Rwdr6lCVYJPg/efmAAA",
-    "color": "#887878",
-    "variants": {
-      "avif": {
-        "320": "/gallery/4aa2f9f5865b236b-320.avif",
-        "480": "/gallery/4aa2f9f5865b236b-480.avif",
-        "640": "/gallery/4aa2f9f5865b236b-640.avif",
-        "960": "/gallery/4aa2f9f5865b236b-960.avif",
-        "1279": "/gallery/4aa2f9f5865b236b-1279.avif"
-      },
-      "webp": {
-        "320": "/gallery/4aa2f9f5865b236b-320.webp",
-        "480": "/gallery/4aa2f9f5865b236b-480.webp",
-        "640": "/gallery/4aa2f9f5865b236b-640.webp",
-        "960": "/gallery/4aa2f9f5865b236b-960.webp",
-        "1279": "/gallery/4aa2f9f5865b236b-1279.webp"
-      }
-    },
-    "featured": true,
-    "alt": "A church leader sharing a message",
-    "group": "seminars",
-    "sourceHash": "4aa2f9f5865b236b402045c3c7c8ae726e9d1aa10462eb351d7c000575e58663"
-  },
-  {
-    "id": "gallery-52",
-    "width": 1920,
-    "height": 1279,
-    "aspect": 1.5011727912431587,
-    "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JQBadApf5PBBhM2SF0KodPAAA/J/ZOFPuc8TmYuhZdVaTHi9fK0FujnlWJzokM6JAJtLI76Nkg5/YfoeRVq9P7xW8C1geJoF1PJKbOG56fGLKd3JAWdFjhouceyfIEJoPbsEuGeBrnNDrFqEHZpJjeGL4eC17oMgAAA==",
-    "color": "#282828",
-    "variants": {
-      "avif": {
-        "320": "/gallery/7f3e074e099afd04-320.avif",
-        "480": "/gallery/7f3e074e099afd04-480.avif",
-        "640": "/gallery/7f3e074e099afd04-640.avif",
-        "960": "/gallery/7f3e074e099afd04-960.avif",
-        "1280": "/gallery/7f3e074e099afd04-1280.avif",
-        "1920": "/gallery/7f3e074e099afd04-1920.avif"
-      },
-      "webp": {
-        "320": "/gallery/7f3e074e099afd04-320.webp",
-        "480": "/gallery/7f3e074e099afd04-480.webp",
-        "640": "/gallery/7f3e074e099afd04-640.webp",
-        "960": "/gallery/7f3e074e099afd04-960.webp",
-        "1280": "/gallery/7f3e074e099afd04-1280.webp",
-        "1920": "/gallery/7f3e074e099afd04-1920.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 52",
-    "group": "seminars",
-    "sourceHash": "7f3e074e099afd0404024539a82c959534c419e4cc24705ad2a0bfee08ae8d86"
   },
   {
     "id": "gallery-53",
@@ -1683,114 +846,6 @@
     "sourceHash": "ed41fe4fb4fdae31ecadff3b403c73ef76b8b11a5ba28555589bfcfd89986dda"
   },
   {
-    "id": "gallery-61",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JagCdAYyU5YTn+rpqEh8bG3RgYXAA/rHiDB7cybhNWajkVdrpdL1je/bAeDKiHJnWqR9jajWmuv19IId02DCflRp/NBx2ZWOdWNXXfxc8ZRELlqyEoBVKDXEkk8radM6xkLNDCePFobhLEhmMoGOhF2nmPlsFVdfoaOWt/eTznfIz/VLQeLfJPs1+lIXsa/lYeoKVP0wsgAAA",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/9aad93085a37aa10-320.avif",
-        "480": "/gallery/9aad93085a37aa10-480.avif",
-        "640": "/gallery/9aad93085a37aa10-640.avif",
-        "960": "/gallery/9aad93085a37aa10-960.avif",
-        "1280": "/gallery/9aad93085a37aa10-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/9aad93085a37aa10-320.webp",
-        "480": "/gallery/9aad93085a37aa10-480.webp",
-        "640": "/gallery/9aad93085a37aa10-640.webp",
-        "960": "/gallery/9aad93085a37aa10-960.webp",
-        "1280": "/gallery/9aad93085a37aa10-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 61",
-    "group": "seminars",
-    "sourceHash": "9aad93085a37aa100256b05e3735b6fcdf04ecaad90cd088c22b6cecb37a53e4"
-  },
-  {
-    "id": "gallery-62",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoRwAkgPdiM+sl67ummgerkAAP7ED4D4CblHhdYWc50+CrdeLpEf5HUJgfGdE8H51GNbY7FTe7pLK1g44FdoOzB+X764b1OsTgwFe3eKZ+AVZPH2UNhJUTR6rFFn3B+L0JbJjw1APtGGcIDkPMNItvvdBkfkZZkqVi6gh9vIZ2qYS0cBl/gf2j37AKB09hPPS2ATW93/QDkf9cpwZ/VBOKC/fdsfPgAA",
-    "color": "#e8e8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/0bc4d635a4ee1cc3-320.avif",
-        "480": "/gallery/0bc4d635a4ee1cc3-480.avif",
-        "640": "/gallery/0bc4d635a4ee1cc3-640.avif",
-        "960": "/gallery/0bc4d635a4ee1cc3-960.avif",
-        "1280": "/gallery/0bc4d635a4ee1cc3-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/0bc4d635a4ee1cc3-320.webp",
-        "480": "/gallery/0bc4d635a4ee1cc3-480.webp",
-        "640": "/gallery/0bc4d635a4ee1cc3-640.webp",
-        "960": "/gallery/0bc4d635a4ee1cc3-960.webp",
-        "1280": "/gallery/0bc4d635a4ee1cc3-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 62",
-    "group": "seminars",
-    "sourceHash": "0bc4d635a4ee1cc3d50023a58be1b68f56cecd7c5e6edc8746a092122c0b7343"
-  },
-  {
-    "id": "gallery-63",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBQCdASoYABAAPvVsrk4qpqSiMAgBUB6JbACdMoRwN5BbgwlkI0+3e+0rJzVWDaqWAADiQVpwb0iZegNJTncVx7nthCk7AKvFWmptACzjJjutWdBU/CJl03nCRqq29Upd3TNGk8if/hpNzB4LaEgfYbZJkTk7/ww/Z/nTJlPhP/Xy8oW4sQ2jGGEJJrzTLqXwVB1G5KbAIxq5fz/ki87DLRjm0zAWPnXk5Zxys5NHVNtTqUSvOzLAAAA=",
-    "color": "#a85808",
-    "variants": {
-      "avif": {
-        "320": "/gallery/44546de4769d3eba-320.avif",
-        "480": "/gallery/44546de4769d3eba-480.avif",
-        "640": "/gallery/44546de4769d3eba-640.avif",
-        "960": "/gallery/44546de4769d3eba-960.avif",
-        "1280": "/gallery/44546de4769d3eba-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/44546de4769d3eba-320.webp",
-        "480": "/gallery/44546de4769d3eba-480.webp",
-        "640": "/gallery/44546de4769d3eba-640.webp",
-        "960": "/gallery/44546de4769d3eba-960.webp",
-        "1280": "/gallery/44546de4769d3eba-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 63",
-    "group": "seminars",
-    "sourceHash": "44546de4769d3ebab122512204729a58fada1396113fdd9990b58900ce34115a"
-  },
-  {
-    "id": "gallery-64",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoR3ACfboV3EIKqhsp9A2AAA/tPbeHBRGaDNu6y3ztRq5EIlZqmve1p/DGpiktnaTnmQYgbOsdZyPWqch5rg4bvThKMlhsyTqOMCXfo/lXEDvkZuh/rtRIfVtaWic0wh2O8IjAfjsgkEwVa7cIBA5fSceW2A82J3RazzZF4sgwDgtFA2lqHZJSUCk9S5SjSZLOlDfsv0aAT9lR89j79eaH3RAAA=",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/14bd29554c9ac655-320.avif",
-        "480": "/gallery/14bd29554c9ac655-480.avif",
-        "640": "/gallery/14bd29554c9ac655-640.avif",
-        "960": "/gallery/14bd29554c9ac655-960.avif",
-        "1280": "/gallery/14bd29554c9ac655-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/14bd29554c9ac655-320.webp",
-        "480": "/gallery/14bd29554c9ac655-480.webp",
-        "640": "/gallery/14bd29554c9ac655-640.webp",
-        "960": "/gallery/14bd29554c9ac655-960.webp",
-        "1280": "/gallery/14bd29554c9ac655-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 64",
-    "group": "seminars",
-    "sourceHash": "14bd29554c9ac655bb16574e9ea1db20f94f591bec519f00d3bbf15fec16d30e"
-  },
-  {
     "id": "gallery-65",
     "width": 1280,
     "height": 854,
@@ -1816,31 +871,6 @@
     "alt": "Wuse Assembly gallery photo 65",
     "group": "choir-sessions",
     "sourceHash": "9345097cc6b5bfda9a1f06e79ba5cf4cbd15da6926080f542308cecd5f2c9ac7"
-  },
-  {
-    "id": "gallery-66",
-    "width": 854,
-    "height": 1280,
-    "aspect": 0.6671875,
-    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAwBwCdASoYACQAPvVwsFIqpiSipWsxUB6JYgCdM2KApGWt4jDUOlTsrc+Tyr3zFtsmmhe+pIF/Cs2oEVpMo1EQnIgA9kGES6OOgcwTC4NyT6sgw7C2uaPHxfh+DdbSBSHTN9tAeZdhynKuqy1iCdKO0JUINtPIsh8q7N5lERYPCdUs43MfIJUKZr7qShDsiKkkqsWVGWbU9ba1OKROM4OyUyb0lgbzpgzy5gLrN3FkhCRHO9Ol9KfwlFKhkX85lwTSfSjzjFOF4F45DUCEWi7IiJ7f9cT89UeQW6Xwwle4G6ufYjfZLpoBDsh/yZoa3cUI21oQAAA=",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/8cb8bf4c2154abf6-320.avif",
-        "480": "/gallery/8cb8bf4c2154abf6-480.avif",
-        "640": "/gallery/8cb8bf4c2154abf6-640.avif",
-        "854": "/gallery/8cb8bf4c2154abf6-854.avif"
-      },
-      "webp": {
-        "320": "/gallery/8cb8bf4c2154abf6-320.webp",
-        "480": "/gallery/8cb8bf4c2154abf6-480.webp",
-        "640": "/gallery/8cb8bf4c2154abf6-640.webp",
-        "854": "/gallery/8cb8bf4c2154abf6-854.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 66",
-    "group": "seminars",
-    "sourceHash": "8cb8bf4c2154abf68850b69559ecbd15e7ffa61d9ef3380b8588305b334a2800"
   },
   {
     "id": "gallery-67",
@@ -1870,60 +900,6 @@
     "sourceHash": "473507fad7826066a3c3c6457a93b2b4582feb5d919e26c2bb80e4d6f734e859"
   },
   {
-    "id": "gallery-68",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JagCdACLpb4ugNRsN4FMyXNOAAP34PKXNlgNfAT6o+vqcZtxGEy1BKlWNpTgyOXs0oSKnIzqD/i5OcASl/nGe98kpx7kVM+Qty2GjVPL2x9WOIP47wn/UE8isXvqXsFc+8BkM8/64yNhDvoRTJYbGKJ9BLSMPSKJmjvX5tsFnBLDx5DwTZTvRbqPWv3TsyQAvtgunsq0vc0bxeRhIeRGn+Y3AAA==",
-    "color": "#c8c8e8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/6939ecd77086dd64-320.avif",
-        "480": "/gallery/6939ecd77086dd64-480.avif",
-        "640": "/gallery/6939ecd77086dd64-640.avif",
-        "960": "/gallery/6939ecd77086dd64-960.avif",
-        "1280": "/gallery/6939ecd77086dd64-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/6939ecd77086dd64-320.webp",
-        "480": "/gallery/6939ecd77086dd64-480.webp",
-        "640": "/gallery/6939ecd77086dd64-640.webp",
-        "960": "/gallery/6939ecd77086dd64-960.webp",
-        "1280": "/gallery/6939ecd77086dd64-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 68",
-    "group": "seminars",
-    "sourceHash": "6939ecd77086dd64821c161908d9fb62d7077b247978d4ac0c807f77b0fb04f7"
-  },
-  {
-    "id": "gallery-69",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoGvqgLrOfuHOlI49hqBJ5AA/rob++zXAaxOnfMc3twrjyCrfrFUL3ayemibyF2KVVp8ntHEE3+96Bff3CR0lDaCW7S4v8jXaENDmYekSV3bevw91Yv8vT3A9se5yxugkuP+drEEmz3nBbIhq3Egps6osCxHsVK9wTrNKhudderln6//Dn3gOh3//CLIpB08qPoHs3ykxOKy37SAAAA=",
-    "color": "#d8d8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/64a1ade2096a3f59-320.avif",
-        "480": "/gallery/64a1ade2096a3f59-480.avif",
-        "640": "/gallery/64a1ade2096a3f59-640.avif",
-        "960": "/gallery/64a1ade2096a3f59-960.avif",
-        "1280": "/gallery/64a1ade2096a3f59-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/64a1ade2096a3f59-320.webp",
-        "480": "/gallery/64a1ade2096a3f59-480.webp",
-        "640": "/gallery/64a1ade2096a3f59-640.webp",
-        "960": "/gallery/64a1ade2096a3f59-960.webp",
-        "1280": "/gallery/64a1ade2096a3f59-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 69",
-    "group": "seminars",
-    "sourceHash": "64a1ade2096a3f59245a1e3602856ba8a5763f10758ad54be479de6cdc8203f7"
-  },
-  {
     "id": "gallery-70",
     "width": 1280,
     "height": 854,
@@ -1949,86 +925,6 @@
     "alt": "Wuse Assembly gallery photo 70",
     "group": "choir-sessions",
     "sourceHash": "dd27c86ecbf77d7bc0287303bee77c91feeefda5f7d923257787ca79bdb702f6"
-  },
-  {
-    "id": "gallery-71",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAABwBQCdASoYABgAPvVqq1AqpiOiqA1RUB6JbACdM47BqhJUg7bN5Oy+RifM7hHmjWw1LpDQAP1TkwtKaWDrg0NBi0/mAtH+QC8ztUZLTz5VK9O35nbzcBimiE73pOajtETPoywtvjXxMjxnmXnp1zeeMH1UQCnPIUlGbzMLd0Icbme8dZXmiF1MOmdqrTMtHdpP4ETmgUdeCuwd5D2JImOuvvuao0D213bmWs9vgW6SEDjg0IDPkVAteeB/hHN8c+iDgLSZYycXytAA",
-    "color": "#181818",
-    "variants": {
-      "avif": {
-        "206": "/gallery/b48c2846ac08aea7-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/b48c2846ac08aea7-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 71",
-    "group": "seminars",
-    "sourceHash": "b48c2846ac08aea771207942c14e23c2cb038a1a1d1539a57b9001c50f34add3"
-  },
-  {
-    "id": "gallery-72",
-    "width": 198,
-    "height": 200,
-    "aspect": 0.99,
-    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAAAwBgCdASoYABgAPvVsrlGqpaQiqAqpUB6JbACdMuz6bxhhtgFCZsnBMreHEz5GmJ/lWreLJ1vHOiygAPcmPCPZgrtitplMnSTBJaZXOSujuCFVEpInK9E1CJmz7W0WrJbS+rTudrceBoe/mCwJ/Zl1e4RyN6r/50GMv2ya62OUMovPk49pGdKQnMVN9DogpidFolE/jB7gHXp5hKsKQst+1Yglzgf2nIQe7+G8unlRHLcpeMeA8I3C4QO31LJLDkVkzvZQ0+TXU+OoQqQneexY3hxKJPx5iFsJfm4TwICzF5PHAAA=",
-    "color": "#583828",
-    "variants": {
-      "avif": {
-        "198": "/gallery/82ab80e7c5d9df1e-198.avif"
-      },
-      "webp": {
-        "198": "/gallery/82ab80e7c5d9df1e-198.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 72",
-    "group": "seminars",
-    "sourceHash": "82ab80e7c5d9df1ed7c094c4aebb966576ff94d571e5e5ab96e6523a7650ed60"
-  },
-  {
-    "id": "gallery-73",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRkQBAABXRUJQVlA4IDgBAACQBwCdASoYABgAPvVsq1AqpiOiqA1RUB6JbACdMuN/gLjyCft30a7QCPWNwhG6BvNtWvMq5k8q+IExZM6EItx+EG6LjwAA/tztgx7fr15Cf23jjzNuR8GuZpB+EYSwz0cR51stVbFYEMuMflSJyQjzjp/I7QNnsQJXp0PhYzUmUL/wBt7IZIiS5PreKCEs2NJTfYotpQOoMripoJPeQ2fa1+A/b+MSqZbmjlJD8JED1T+9cLaSnDt1LOgFau1ZOIP6N/55Tak5t7FvS4mR49ARb2rXA3p4Pms5h24VwfACiw6C8nZ4TLBZwW7zx96TXFSoPxLOBQFR/DHJdvpCz8x2W5F4S6X4nw9rb5CqD259B+i8QQK7dKhr9tiZnAGqasu+rpRFUO+GKUmyUgI+tuw4IkUK95OMAAA=",
-    "color": "#083888",
-    "variants": {
-      "avif": {
-        "206": "/gallery/11666ce3a8c114ba-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/11666ce3a8c114ba-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 73",
-    "group": "seminars",
-    "sourceHash": "11666ce3a8c114ba3c07fbd4c94d4854bd53f32f36c52620cfddc0338bbe048b"
-  },
-  {
-    "id": "gallery-74",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAACQBgCdASoYABgAPvVsrVGqpaQiqAqpUB6JZgCxHoMqpCWtgTSQOsJDeGe/WppmalJ6qMGp2SzxQR4W6ZcAAP7qAAiULoCIGAXIDSS0QjHTOCqf38nivIy+nopyx4ze3C9alPV6YJnk/U+h4XS1T5DpmNyWnh2djnJ0JAs5p3l36YQDzGIO72mQV3yM27BLmq8GR4En/MIVuIVFosMO3C7fU7fopfsBKC+4zhqCCYWzAFeCtpdjRqeCq9Z4VXZU6Hg5XavjLuDHY/9cOGup5SR3MgZTqeEAzNpT+j3zMde4w4SdY4syjUb6UfKDTKAAAAA=",
-    "color": "#082858",
-    "variants": {
-      "avif": {
-        "206": "/gallery/f96fd5e0e18cfa48-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/f96fd5e0e18cfa48-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 74",
-    "group": "seminars",
-    "sourceHash": "f96fd5e0e18cfa48c32fddb2cec47d16ee64a5e053faade5bbbf0d51db9257a9"
   },
   {
     "id": "gallery-75",
@@ -2069,166 +965,6 @@
     "alt": "Wuse Assembly gallery photo 76",
     "group": "choir-sessions",
     "sourceHash": "8f1f77b00ce3513a6e83ad942f767fe8b8bb97f1e6a592aff2d6be4c749ae289"
-  },
-  {
-    "id": "gallery-77",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABQBQCdASoYABgAPvVwsFMqpiSiqAgBUB6JZgDE2BE0hx4b2uXh1YEDtt6XVJRDLR4GtAAA99BXrACeAP9WMftA84zTtAEba7Sq2tB/2GjR0+4WaLp2aYPQM+vaxDTZgnFxZ2DHnfph2r8vakqbRT3WhhhdIjHq3OUznnAFrYoEoI4HWti2qwDSxCaUHU/FiyBwmlPkkyV3Kjfl362T4s/n7VrazxqpeL8f+ePSMveuEUfLq0hbB8obeJgOpQFS5Aw2yAAA",
-    "color": "#181828",
-    "variants": {
-      "avif": {
-        "206": "/gallery/9a2cf4d9e69a18d6-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/9a2cf4d9e69a18d6-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 77",
-    "group": "seminars",
-    "sourceHash": "9a2cf4d9e69a18d6e35e24c51f3cb86c08428d8a146fdf1d7740f8cd5d2e6a06"
-  },
-  {
-    "id": "gallery-78",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAACQBQCdASoYABgAPvVysVMqpqSiqAgBUB6JagC7IGKD3LUYX0wpfu45ecXF5fNVsCvDiME8aAD+0dgRkfAgHRPm3ZSKV+HEYlHiFXqZPIHVTLS3ZNXWVrA8o1OrRrJhDXMFOymii7N/zoXF9xIQgOwxB2mdGQT9LD33r+6JN/15F8e3XxJsGkXoUQPABNd/qE+iQKI/7+b3qmgjEKfgi3AuUZeG+iOhzDWv8+pesNumIjXUS6HuSbkeuknBAKm/E+v7JLZUTeL4bb1aQ38zOWS1F2NLbk1JOPQ5FaT9sFLmnz26I5k0Gr46u0Vy40gbi6rwmAAA",
-    "color": "#989898",
-    "variants": {
-      "avif": {
-        "206": "/gallery/6c79421f71e3b028-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/6c79421f71e3b028-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 78",
-    "group": "seminars",
-    "sourceHash": "6c79421f71e3b0285ee69701a9d780534955d00b2fe1c045f62154d47e753134"
-  },
-  {
-    "id": "gallery-79",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAACQBQCdASoYABgAPvVwr1MqpiQiqAgBUB6JagCdIMggyQvu6n5L8uZ/SM6vdTRJmUm1dpdk0AD9mkJ9JvkJAOeLiZ3V61ok6yjNCVR0HRxwPdALrSr1S5MY0SmWoK33IfP6Y5j96bNjYOoRcFUD6dW53VEKtlO0TeqQOL0VZ708jgyW+vTPHUvMR1tk64p3HnWRh7uFKPlfmzKv5YdskRwps6QCwMqq4if3Atq2EmVyZEVa9bEBdPvpa+H54iTJZWE/QoRl8g01I4H8j6+2BFWKev43L/v7a4clVRFkBTeaQrS1BWz/3LIPbkYAOErqawAAAA==",
-    "color": "#989898",
-    "variants": {
-      "avif": {
-        "206": "/gallery/62422504ed828046-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/62422504ed828046-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 79",
-    "group": "seminars",
-    "sourceHash": "62422504ed828046ee1bf8c488f672842c33118e29746bf76f2453ee5553dc28"
-  },
-  {
-    "id": "gallery-80",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAACwBQCdASoYABgAPvVyslKqpqSiqAgBUB6JZACdIHAgzgc7pywmeKTxk6tmLAnsilyloS6ENYAA/qwsDGg2RFhLQsuJNO8Kw1WJD5hAb7GhX2Klx1nVsHa2aofypCrDL9YFuEd7+/DoLpczG6gM+hRbdpy6xHikawl5WOuwuNnVS/DsISlK8YGIUXGz/R7xCVp16K0FXiJ4HyI477NQzGDDmTlP/CoRJufbwYDVkMzVYZgcbnQpnPf+rYqnphUq5kaOWwFmR/6y+4f3v5HqH5DQ0Y7V9+YdpTAAAA==",
-    "color": "#282828",
-    "variants": {
-      "avif": {
-        "206": "/gallery/65f3262b55aad417-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/65f3262b55aad417-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 80",
-    "group": "seminars",
-    "sourceHash": "65f3262b55aad4174bd622eeb18803a386f91c184f37e3746c27669cf0ce1053"
-  },
-  {
-    "id": "gallery-82",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAABQBQCdASoYABgAPvVuq1IqpiOiqAqpUB6JbACdBAoWXmQln2CkzGB4E7zURAHgKD/0lDAA/rWIGeZ90KNxH5jJbaXDDU1+coNzFhb+ZFfpXWpMTMuc08CVYSDmtRyHJhw0dp5U53w5YKXTYmVQTiJThQjTbpE/J8ebDxc45oQ1JCYc0PYTIgB4X2hlWNubZ0iNekce3PhtzdtwvDY4hKH1fUplqQK/IGkZHoLnqrpmq2LU1ZN/2HnKnzFn4ragZlvuWPax2zSnG2JFJq15dbRUSE0iUJLlFKX9MC35q1gHdEmAAAA=",
-    "color": "#d8c878",
-    "variants": {
-      "avif": {
-        "206": "/gallery/755b34c183394fb3-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/755b34c183394fb3-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 82",
-    "group": "seminars",
-    "sourceHash": "755b34c183394fb355371c2d5b373953619078eca0a469e4a8941ceedd930a41"
-  },
-  {
-    "id": "gallery-83",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAQBQCdASoYABgAPvVwq1IqpiOiqAqpUB6JaADDNGjr/5OD9FerSoRhv4gYZ9w4ayVwAP7OBxSnExubsukuDyPhEdU0TCDOySUdStHsJyxN0Kau53ncm4yc218j3PLPg/+QKsNNZXpbEZN4em8d2pQVCOtJrZpiw461HfsIAOZ971YJIMFK+SbThYnjIYKzeX1IBGHD6ik9/tryg+3fywrawjxpwAAA",
-    "color": "#382848",
-    "variants": {
-      "avif": {
-        "206": "/gallery/e7a5f94aac872753-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/e7a5f94aac872753-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 83",
-    "group": "seminars",
-    "sourceHash": "e7a5f94aac872753c6917f33e0ee75c591ce2323cd1ace3ebc2e932f642a7df1"
-  },
-  {
-    "id": "gallery-84",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAACQBgCdASoYABgAPvVsq1AqpiOiqA1RUB6JbACzqIAhAJW83vELD/TXjtYer+FT6poSBXiRGhqpbW29q4QAAP54/8JtOkpCNRTZbwRo0i946LbROhXb8mJnuoQc2GRv16DvdOCFl/LqYXw6z1Z2sjEDPeFgZ4i7Yd1gkmM+6BkpE3j5bnrX2ucr40GL0nlKH+MjJhWVqx8qi2PnuEAqOB4G75UpVlcq43uIzyvHgaxGPWB1JoRrh9HOHVP9K19Onpy+oF4Rv9iQbSITJUK5fnBR1/GDlH3yRQ0fXSz1KZQxoomDljrgSfZzBaVB4oXL+5ozLAdaPzqD/B3xdGxido3+TYUDQEcFwAA=",
-    "color": "#181828",
-    "variants": {
-      "avif": {
-        "206": "/gallery/f1fe390e69dc5eb0-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/f1fe390e69dc5eb0-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 84",
-    "group": "seminars",
-    "sourceHash": "f1fe390e69dc5eb07b67ba113daa388d8d71c41cdab83f49931c7e3801b5b496"
-  },
-  {
-    "id": "gallery-85",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAwBQCdASoYABgAPvVgq06qpSOiMBgMAVAeiWYAv2svyB+LLapC0rWk7BzRhsIOpTfd6AD+7qCwZv76Aky3k1XQkD1+p1/7sUggFYhU+HymbAaCj8xx3fTgwzigBxbp5tBKBV6Ue4sPwA3C8cZ5MlQ84j6KwngcLSCsrzQa4Vcg4B8RL8ruMFifQuwAKmKEgidqpmzFMF7iuuVZ2jl184paFBBgAA==",
-    "color": "#888878",
-    "variants": {
-      "avif": {
-        "206": "/gallery/e591227b1539846e-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/e591227b1539846e-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 85",
-    "group": "seminars",
-    "sourceHash": "e591227b1539846e5d7e3ae5b65416777094fcd7830bb8dba673dbad8425598b"
   },
   {
     "id": "gallery-86",
@@ -2331,26 +1067,6 @@
     "sourceHash": "76f3a639404670c7849d738f95cdabe6ee73f30d0954d98c27b1cd0b3ea35081"
   },
   {
-    "id": "gallery-92",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAABQBQCdASoYABgAPvVysVMqpqSiqAgBUB6JQBkageTxQGtubiw6L0W5qTLbdTD4Fail62AA+pxP4jWUvxDQ+eaCpI3mSxYB8fLFWZRAjd0Df1nqRmyRK431vhCtAUHuG585u9Pd2Vr7PvwmRrXtiZt/3fWKO0HqFKJcxwKm5O2DhUJQn9Otahj7vRTyPgsSJfptN8dKg+1xZcwH2PBhFU75/uYQ8cBtd5a0vFEaMMEoS4ohI0DUSQh9NheESewxeYoLYwxD8vg8+iJz7Fw0IAAA",
-    "color": "#383838",
-    "variants": {
-      "avif": {
-        "206": "/gallery/be5d426369829654-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/be5d426369829654-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 92",
-    "group": "seminars",
-    "sourceHash": "be5d426369829654b6763157a1bb80b2ac29daeb29dcfac09c273469325cdf53"
-  },
-  {
     "id": "gallery-93",
     "width": 206,
     "height": 206,
@@ -2391,26 +1107,6 @@
     "sourceHash": "e7878e7fc759002bb9915ad010c24672a05a3bfc7fb69f61c7a304caf1df9edb"
   },
   {
-    "id": "gallery-95",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAABwBQCdASoYABgAPvVysVKqpqSiqAgBUB6JZgDE2A8rguMqQtfe4J3l8cea/IBVc8lk1n4AAPuuLP6bFmcCJYJYxF1XncaiIys3kltkV9+C6LQ7Xhrnug3foBZ5fzDwl3KnkCutDoihHksCpUA4B5uUfMLromwylRHDMgmKna+tPZI5eAazsVu2sTy4gcl2yIur/whfnHQf3KW1ZKyIswpCG7HZiMODxCsG4OqAzo+jQRZm1gcAAA==",
-    "color": "#686878",
-    "variants": {
-      "avif": {
-        "206": "/gallery/564bdc6844b977c0-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/564bdc6844b977c0-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 95",
-    "group": "seminars",
-    "sourceHash": "564bdc6844b977c0d5e1ce4eb4e00d86b2120064d92cc17b6d3b6d27b5a8d98d"
-  },
-  {
     "id": "gallery-96",
     "width": 206,
     "height": 206,
@@ -2429,46 +1125,6 @@
     "alt": "Wuse Assembly gallery photo 96",
     "group": "prayer-sessions",
     "sourceHash": "920b9ec4cbe085ff9f86dccfb7bb92037f45795c780d6dbcae5a5aa65b9315bb"
-  },
-  {
-    "id": "gallery-97",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADwBQCdASoYABgAPvVuq1IqpiOiqAqpUB6JZAC26SB4QmjQb1PFZz2mz1/Rw6nPV+vsL5NNy14DAADXKDVCFHEuj6ZsG7Imz++rsLfnzHipAhXIAeSrUMAu3xcH8AKCx2S/sqOoR0IpcLyUdzP/W50VJH8Qm/DL95WEcenbrF6aTMp9rQSVdbPSeAoZ4ujWBRfVyak+MTQI8xLz6dRx0qRgNJCYBufQqrSFQnJo3jC8jya0LqVEwOdiGH74eEQ4A2L7rgFA93WF12giLJB2GrN33J3ct/z+yoTKmq4fXQelc81LIXcQUDPzhPgt8IZC4AAAAA==",
-    "color": "#989888",
-    "variants": {
-      "avif": {
-        "206": "/gallery/ad08fe3f9835aca2-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/ad08fe3f9835aca2-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 97",
-    "group": "seminars",
-    "sourceHash": "ad08fe3f9835aca23561561f4244ceb05371bb02206d97e1d281da0bee97e524"
-  },
-  {
-    "id": "gallery-98",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAAAQBgCdASoYABgAPvVysVMqpqSiqAgBUB6JZgC/a6T6A0qkibOy0i73lt3nLYOZq3/kyQFLjq1LLgAA+5jdtUUCL2Pgx92hKUqK1SUMYQtlkYMHDgOUUgCOFMteTsWpx8HfPiSPSo3g1udzYq2jMMiPL8T7cILp475m7sGIe/9QS/L+FgAXZhllr5qUa4CTUVWNJDMPkUegdJGTpCtIpcQvl08V1vDeO0G1xN0e8lz6RUflFOmui9XR3gubLZ+UZfGLLU0e1ft1w0TByHWX8ys871RdQ/1uVh2TpAw+sXiZ0SL/pG6/UZAA",
-    "color": "#484848",
-    "variants": {
-      "avif": {
-        "206": "/gallery/194313db2ba15edb-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/194313db2ba15edb-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 98",
-    "group": "seminars",
-    "sourceHash": "194313db2ba15edbefcba0af7b5afd952525a5aea69b52a81f0060dd71634824"
   },
   {
     "id": "gallery-99",
@@ -2511,26 +1167,6 @@
     "sourceHash": "3d394591db672610e50307a71a33e61d4f93aa3065d9c25e7927c2abb82b2a42"
   },
   {
-    "id": "gallery-102",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASoYABgAPvVysVKqpqSiqAgBUB6JbAC3vazSCIVvhSxnrfvZ5j32qJ+kYgo4tAlNwW6SAAD+s+QHCafRZz2v37NHWcGNyfHAeN8xc8onlY3TAl5Fy/zoSXutH+uMWpMetyRzusQcC4f0Xu+xiPMYXVAVEXlghFBjYKDkFvJRN7q8FgAQswAsnUEI0UxnEc+EMyWTn4zuQ0ivW+9sfvVwZaX1mDjMiMd9eM7fY07K8V1e4lDSonDA68QGxPYEXNXMjvm0FS/OD1GSss1h6Ciq3YPgZQGbPHk+MON0mNQaAAA=",
-    "color": "#e8c888",
-    "variants": {
-      "avif": {
-        "206": "/gallery/d58c0c0ce6ade6bf-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/d58c0c0ce6ade6bf-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 102",
-    "group": "seminars",
-    "sourceHash": "d58c0c0ce6ade6bf175dd9c08eba37c5d523c10b3076628b706bc649a74059e7"
-  },
-  {
     "id": "gallery-103",
     "width": 206,
     "height": 206,
@@ -2571,86 +1207,6 @@
     "sourceHash": "e7abd36a1f438f4af240a8b2a731c31260825f2bbe93f27c29fc02c6a3012c65"
   },
   {
-    "id": "gallery-105",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAACQBQCdASoYABgAPvVysFMqpqSiqAgBUB6JbACsIHAgzAt9fr6GdzSCt2cf8qC6ZyBsqtFBgAD+hK/pMGYAKtaSXrFySUp1uzEufLgSK9oszsN3CPDh4eeojg2MTyKZc+hd+Q4FIroONchhDwTpv86yHZ2BWqz1MRZz6E5jnR8rJSbdi1IZDSRIfN52F2MAC6KL4qqyzxyJqelGy+tSMA32n4qVV4Qh2UE3d+QSWU2tFQWG6EVwBuNM1Otsb/waZPDblkZpQhJ991Au0p6Afkk2vKM8yj01F95ewrfhPma7P8PS4WSHf6vbJqz+lNUUChuYO3VKTu1I1mU9fZITmGs3WceXJ5fHcL/afAA4IAAAAA==",
-    "color": "#483858",
-    "variants": {
-      "avif": {
-        "206": "/gallery/18d42c5b81de06fe-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/18d42c5b81de06fe-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 105",
-    "group": "seminars",
-    "sourceHash": "18d42c5b81de06fe09563c70466203691b7fa51b7d2712e6786f47fdb91d918f"
-  },
-  {
-    "id": "gallery-106",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRiQBAABXRUJQVlA4IBgBAADQBgCdASoYABgAPvVurFGqpiQiqAqpUB6JbACdMuz1XaA21F25HaiOXjhY16el6T/sdQwVQyt6MAgD5JGXh1AA/t62MZ7rZohl6LaJLbnMMqNLvsIKVfEFu7Xz637DYb4zNBYSBiQ+1v0b8hVXmP6RQ2i1lSi5Wi6nf0jPv0df7IL3tue2GyAGe8X4BkAIudtjwkdk8/ZlPKeW/6z+rSerFSvmTjWmq+UkgZm2m6KzFs5p28Yy5hL1g1lJNG40NPibL9VpRflxUiqrejRe4dA1OEKM7dco4PPoiUiyJyBbyy9R0c/vigXbY4gQb46mZyphoNIwry9OLh3PLd6bs41YRBa2EZvbiUJXeyzfpEGYptuw81lMgAAA",
-    "color": "#d8e8e8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/7cb9c7c50044c1fe-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/7cb9c7c50044c1fe-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 106",
-    "group": "seminars",
-    "sourceHash": "7cb9c7c50044c1fe5384ea72413ebb03b191b8a340b62504d9f63e2ce3976b6e"
-  },
-  {
-    "id": "gallery-107",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAADQBQCdASoYABgAPvVwsFMqpiQiqAgBUB6JQBg6NY4wFVUkv6LYnMVtHCZjE1geGahxKtyUE3YAAMozqhVIXKvlsj41i/kRf4sbkkD6zQkbjnokroTxm9deVc1c7zcc0oRvgswlIokvtmFYE6FakhVjVulmqZRNVB7lvVzMtKr+RbmF2dkptIvbSQvhoPHcs3A/9M4+i31dy1+2Bg9EooLIycyXgY5SPjwqkY4rcU96azrHZ8ff0SMbx0S7gguSZ9cHk0HijSXB/MO7QFOnzxlQCauINrVAbFVf84qb59Lv8sO3Qh2jsyZ2E/fTL7hO798hXAE/20imAAAA",
-    "color": "#c8c8b8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/f457f9d24dba7cf8-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/f457f9d24dba7cf8-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 107",
-    "group": "seminars",
-    "sourceHash": "f457f9d24dba7cf8483d8429b1e905a028f223df22699d87467622d21066b939"
-  },
-  {
-    "id": "gallery-108",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAACQBwCdASoYABgAPvVqrE+qpaQiKA1RUB6JbACdMoPHMdn/l8CX9Vi2bebl+Ctg97A8jUmFqK147cAAyKhny8vwa9Y1n4AA/kAM8aJfjX8wILcjGPigDzNM0YaadCE9sELn7Q3+Xspgsgde2x6Q2/l/92+3uacxEk1siRJB+0wj8irNc6KSBU23Sxq4fuM3/XeXCQ3kGg0PaIbk3TUUcO6gYl4y2T3mr5ClITo1YrC1TFseRPS2QkJX45E0SbxcRVAuEc01lUgul4lOPZsx/j3qitjy52Gl255Xn+l1mvn2IqNbTpXI70ffZGatZCyDH8274tbYFHrbVYOkrPe0gnLwGNS/DcHBgE3AnqPcLVbWe64WNLWrDvLZorjjLWCJzbzunJHh/0OX5gxB+PooeJ0zn/0AAA==",
-    "color": "#e8f8f8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/a94ca4a417de2504-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/a94ca4a417de2504-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 108",
-    "group": "seminars",
-    "sourceHash": "a94ca4a417de2504f8f75ef1c17d6de6bda5a3bbbc0441d3cc09722d08af752e"
-  },
-  {
     "id": "gallery-109",
     "width": 206,
     "height": 206,
@@ -2689,46 +1245,6 @@
     "alt": "Wuse Assembly gallery photo 110",
     "group": "choir-sessions",
     "sourceHash": "6e5c53879a70f44f1a935676a21fcd891bc9c03e1f03f80d06bd28f8aef04c43"
-  },
-  {
-    "id": "gallery-111",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAAAQBgCdASoYABgAPvVysVMqpqSiqAgBUB6JagCxHt8lwwwNN9WbdimWl7JmRevmm016CvhOPZPZIAAA/pGQCztrmcBDrF0mUE6+dtzETdZfrrnr3PjRy8R/t3viRgegeHH4zlotHxZ0CjrGf1qrbmjbt4LHVsgYsRRhRWrR5juSZNFQbt586FjmBGpv4NgovMRIi/shqFvQjycmnUjP3nKPWde2DsOUJT+PD+//ToPop8oDDxUvDNJjtnkASmj2BePMJC14qRCD2qmP+2rS904sn+ucnHdYn4DWhK/VbOD7UK6SGD6numNYAAA=",
-    "color": "#e8d898",
-    "variants": {
-      "avif": {
-        "206": "/gallery/7191c24a4ea6c22f-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/7191c24a4ea6c22f-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 111",
-    "group": "seminars",
-    "sourceHash": "7191c24a4ea6c22fdb3c7c17ea468df2f2069b4debc64e29012db082f9fb93a4"
-  },
-  {
-    "id": "gallery-112",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAACQBgCdASoYABgAPvVysFMqpqSiqAgBUB6JZgC2+oKNnFJKgBHAhHdaqQztLDVMpnuExwkbT76IyrH1lI0AAPLqH7zZr9MboTOlLXPQ0Mbrw6tR6ao+iasMouUlPUuZY1v9CDZeyO1lnae0DdTKilj2EMKblGYBzZPAWbgeIIVJfo9MK2BnsT84iE5s8EMi6E2XkPV8TDWIE8gKc4ZbLM4MK7rlnV5NZrT9of32CBvE+UONZrBKMonP0os2V1erhcTWYmNnPsvu5FSYltI9vxFdKYyeSemgsyGXVpviR6wQBLsFP7mcHrYrQC3zCBAWSl5aSzFi/NLM5jnHBbR4AA==",
-    "color": "#b8b8a8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/a2852ad6ae158bb9-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/a2852ad6ae158bb9-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 112",
-    "group": "seminars",
-    "sourceHash": "a2852ad6ae158bb92cf9c4c40e31cf895de73c07a3f84aaf51f221937bc53ac0"
   },
   {
     "id": "gallery-113",
@@ -2891,26 +1407,6 @@
     "sourceHash": "dce317b82f69a94f9f2a53016d636df90fe3f50ecb5c7f183a99f40ca77a883c"
   },
   {
-    "id": "gallery-121",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAAAwBQCdASoYABgAPvVysFMqpqSiqAgBUB6JagDDNY0qbSNrBYXPHCEo/LQYDdQ316KhYADh/7Al8JB6jMugxbxdnXVS6LOzYIDI80//rkO80M5I1HeZ0bRuk5Tgbx1FP9RPRDTS9Y0otT+W4xONf1IKMpsqOhFgXPh/kVyUF8FHd4VSj3BET1yCaTbJd1K+O10QowZn3nGpAxebtK+OdBGkxxKO2f1FkRC8y0g1lrQQKwg5LL7mc6TOzjwnCfleIrbE62NTTqsV6/lms3U9IdJSLIP43LIJzqU9AAAA",
-    "color": "#282838",
-    "variants": {
-      "avif": {
-        "206": "/gallery/5ddb863d692bb84a-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/5ddb863d692bb84a-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 121",
-    "group": "seminars",
-    "sourceHash": "5ddb863d692bb84a1be0581c4de8e1ec46ac84f0208f0bb580d9d34ee3f67b8e"
-  },
-  {
     "id": "gallery-122",
     "width": 206,
     "height": 206,
@@ -2929,106 +1425,6 @@
     "alt": "Wuse Assembly gallery photo 122",
     "group": "choir-sessions",
     "sourceHash": "22620a3ae0ec662937a5da37d6ec4d341ca80c5c86f24ad0233ab6d4d950e655"
-  },
-  {
-    "id": "gallery-123",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAAAQBgCdASoYABgAPvVysVMqpqSiqAgBUB6JaAC1GtqOg5FwkVawtTDww7XJClb6YYCzbB5hTU1HMqAA3mOXtGU2LD9yQmhq0Yccss45kc26QhZgTs354ZrbBcmomDgWmnfsQYhAM00BYAmdoc7918CCnz4uFQQVVhM4CVPsCtfDGTMT89epaAlcLx4+a3aPfm5Na6EK5UXcJY5xT54cbFFrMsTw7x+SX7dFokz5KfAzAgWNcwwL3u3EytnUyF8ER30NEnOo+aHrxxJ6pxY6ZlvJhUE3mZfDoXn/Su0brBAwZwsiy2AAAA==",
-    "color": "#c8c8b8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/2844840bb1b59504-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/2844840bb1b59504-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 123",
-    "group": "seminars",
-    "sourceHash": "2844840bb1b5950464a377e63b25a7ddce2085ad4b16e7d3d3fb4687c6ed7438"
-  },
-  {
-    "id": "gallery-124",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAABQBgCdASoYABgAPvVysVMqpqSiqAgBUB6JagC7BAgdlq6LOL1sd9gD8nWdIr5Lxe8wseLiwwH+bOicAAD+2faKLtqvy+jikqxGkNNqJDOgn2P9poZ4+tKvS4OscJ6v0voyDREae1uHtVxK0UQxfv2qEwFnKG2/sX03ah4vhaXTjMUgW2QN1KFbd4p3plo94JR3IZsSyduEBlp2BgpIg5oKx25+PAYRW0G1GourHYG9RL/Z9rELstI/5CTp4t64XpYck+qfMO+cHX2vT6inDJ3CMcBUWVhzZzCPV9Fnv3JPo8CeJVaZo6ZCGzc899XDR3H5+9xisAA=",
-    "color": "#181828",
-    "variants": {
-      "avif": {
-        "206": "/gallery/2bc25719651e33cd-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/2bc25719651e33cd-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 124",
-    "group": "seminars",
-    "sourceHash": "2bc25719651e33cd1901ee3a376cd748f41a3b3755d4199c28aa8e75fa75a057"
-  },
-  {
-    "id": "gallery-125",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADQBQCdASoYABgAPvVsq1AqpiOiqA1RUB6JbACdMuu200lQ13Qh+N1HFEF2ohjeHv5Q9AgEFPAAAP6hETh4G+icbaR9iEEcw0XbdHpnnfXmMzjIJJYreXcu/tjpU4KgxQfOkedeMtra9F8k6bd61q9uZN2GZzAwlr0BkZTNQbrupKqHD+PJxr5vl7nn/+lnQc0/z7lMBj984UuXLKEpOHecTb7phJpI0BfAe+ygRTpx9cORJ1BxcFkCh9NJwvqptpmpWYBQgacYVXA2oGwfUrg7lKjE828JyS8GsKweNnmI0v7Lx1fjDbrre1f3QorSccpllDn0pmgAAA==",
-    "color": "#080808",
-    "variants": {
-      "avif": {
-        "206": "/gallery/636e413f9a3dbef8-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/636e413f9a3dbef8-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 125",
-    "group": "seminars",
-    "sourceHash": "636e413f9a3dbef89220fa22ff189d1bcbf03914e4d4658a19f3c1838b82116b"
-  },
-  {
-    "id": "gallery-126",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAADQBQCdASoYABgAPvVurVGqpiQiqAqpUB6JbAAIFYgBKsW/we3d7fTpVqJZLlK07kBwm1UUOSfgAP7WD3Vsmw3cxhwj5s8e1ScMcZoEsvbr6Uh0zBBRDqiGiOXJAfmxCVbx0RyDDe100TB8s72MX9qASlLJ1P8bbJPsc0CoDRmUpVrwHFkNHdxdxYNldsJ1Bx8lmS0WOFC7FOVQ16gwY3k/2lSm6M0dk56rHzEem6k40Yto5Kfl04RAb5z6E0qXNjoUOYju0Bj9KBYNKJ/jWS59k951i46oJmJGiWqMwbBe6poatTq8XnkFzQAAAA==",
-    "color": "#383838",
-    "variants": {
-      "avif": {
-        "206": "/gallery/6eb04d4189074e50-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/6eb04d4189074e50-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 126",
-    "group": "seminars",
-    "sourceHash": "6eb04d4189074e50950f8f03e222bfc2e832708c5d0bfa33e34500f9b4122640"
-  },
-  {
-    "id": "gallery-127",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAACQBQCdASoYABgAPvVkrFCqpSQisBgIAVAeiWoAnTMhgaodovY9BGaA0ZxrsWccNbYCwxwZrAD+w5pLwUbspdEvELC0oNAmJXQaL5nVHJly5KJBtmgc+YLMOGC2aUd23R74KMIglmIzMXQZfWggWFp2DINy68NGf8B17V5l4VtCF21oA3/AOkqpIy+6oyRzgI7Q9Ic7u9n2Y/thtW+WPIn3sGNOAd/+V3LES4WuaRRjrOHSDJk3M7tRn6Cerj/s5mzt2RKMsJfLnmJ2EcXXBBHbIAhBAa3pRxf3y16Ey0Rdf0IrWj9gDH2byGUDrjJcIItoKmgTJBzmVE1rIwpXtxxNeZSAAA==",
-    "color": "#e8c888",
-    "variants": {
-      "avif": {
-        "206": "/gallery/08f88cdb754d6b83-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/08f88cdb754d6b83-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 127",
-    "group": "seminars",
-    "sourceHash": "08f88cdb754d6b830eddc8a46ae1b83beebaef17f45c395d3ae9518cda7110c0"
   },
   {
     "id": "gallery-128",
@@ -3171,206 +1567,6 @@
     "sourceHash": "a890f43ef1901af260664ac8904987b8d75a2906e9e8a25cdcaf46fe519ee8c2"
   },
   {
-    "id": "gallery-135",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAABwBgCdASoYABgAPvVwr1MqpiQiqAgBUB6JbACdMuI8xYml0BKshQuvsMSaI31dMJVxIXH95mT44efyPlgA+KapHW/qo/KTcrKGPlFPD6vH2dVc9V045fHX01YIMN8HizCha9ocHDJgVEhElRe7COi4wNop/BJY8g1HQJp4ZQvlN1zp2aMxopsln94aFkWeVruuz13hpbe4IpIXuWSwy8uwFrTPh1EV8l0uPLh4CA1IQe7GO72CDh2PTHPv4eqVbn09g1/Ft7utZlpcY1Jz4sk9VB5USM0nKl6ET8cnr1E0+UpBy1Qfv3y2V9o+KRKdlpVprVay2yICj6Dg/4yT1kt1IJqAe5r+A5kf74nNxVssHS6fAQAAAA==",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/89e8c635ea658eba-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/89e8c635ea658eba-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 135",
-    "group": "seminars",
-    "sourceHash": "89e8c635ea658ebac8204931d1e8dab8520c3af65acc5250b3e05f5c9e146f4e"
-  },
-  {
-    "id": "gallery-136",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAADwBgCdASoYABgAPvVsqlAqpaOiqA1RUB6JbACsMoRwJ4JmrFpu8wPgDPQCtMXU4C1mu/e4NVrlFXCDhJ95lcYAAP5o+AKp+M1Itkw+IsSnT5bG+WdnWb1OEXCI2rLyknJbsYnsfDJMnxTf6oaGfXKYOTw4QMXsuTFzE+lH/clIVuuOA3DPSZS/J2qFpqAXaFuPEIO72gwkPSQcG/qAhrjyyOWGoceoRK3a1ZSZisbYybQvvX0VNltBYTZ9rgzdno6cvbvnKGvgZF5e753u0CG0umkX5kh6SLFtgaMiBKNpPdoYYreOeQB3AfZlr4zzbh2DsPA7Jjzm3YuDDqcpy0Tfw1iGat7ztd+GNQncsOb+f0JyzKY8c4smidcAsJu10D/p+ty03U6d4PFJPQAAAA==",
-    "color": "#f80828",
-    "variants": {
-      "avif": {
-        "206": "/gallery/109d59982d9ca48d-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/109d59982d9ca48d-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 136",
-    "group": "seminars",
-    "sourceHash": "109d59982d9ca48dd2dcad24c6c84d0f67c28869201c289ef5464536b5bd2567"
-  },
-  {
-    "id": "gallery-137",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAACQBQCdASoYABgAPvVsrlGqpaQiqAqpUB6JaACdMoABKO/cOrgG7+ArWv/QPsEu6liSDEI0AADtfrhu+RB5WneA1CLDaFqv3Tze9XAjFkxkASz69C6YOs5wxUOd7zC1RYlLCWQhSq0Wn/u0kIYnRPkBBcnZlsqiP6u5GvDFyAVusX1qjn0NHyl0n/nLeWtz0F9ThD64ekfVdPTkETuUZRtfgi9UFulKigBOpepCn6/JBBGw+glaD8ODmSr4Ay0hYbDJq91HMM2IjyJcNQW9M10AzDi0AAAA",
-    "color": "#a88868",
-    "variants": {
-      "avif": {
-        "206": "/gallery/f855f0dd46762d67-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/f855f0dd46762d67-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 137",
-    "group": "seminars",
-    "sourceHash": "f855f0dd46762d6745755e9c42d42c2cdd3c5d62bed28af6a7f70ca2f7ad5fc7"
-  },
-  {
-    "id": "gallery-138",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAABwBgCdASoYABgAPvVurFGqpiQiqAqpUB6JbACdMxyEUL25gWTGRIoXnIc3704aiJGxdCMlY+YHIjeX1YQA/utSpxzAVGB9BJHqJu3JoRqXtOApRwl8VYsNPl2DLiTFFKcttRCNz9o8LzLsyFwNCZPRoZgkhsx+l/g+JezireKsYLcO4IJOv9ocd6u0jABdmjLx/Z9QN7oxFPkCPSbMAETS34sDYOC1UJwNbEGSCDg0ZsCT8t4mYtYAHMPYK+ODrbIUlcX+HcoVTO8JcOJL6fnTJUafhiqkVNzfyPJp/h2VLX4qLRP50sxNf/rP2rWSfghPjl1YRUsQu4EfMAqainvfoEhVx1IJRHgAAA==",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/9d29d8d15167d329-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/9d29d8d15167d329-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 138",
-    "group": "seminars",
-    "sourceHash": "9d29d8d15167d329659c35999786fd5d504b10501508113219b7575cfcd1d6b9"
-  },
-  {
-    "id": "gallery-139",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAABwBgCdASoYABgAPvVsq1AqpaOiqA1RUB6JbACdMoMrkKBdlbXIywAlJf9/mhvHPZyIbhUKeaGCE9mpDyAA+/FxuVaOJsLjrNCFG1kq1t9/U9ixUkTNE75d5vYVxsFmWF3JDK71bwbPwBzN29bBpuxkE/Nse0HWypeMU66G0tiF/pcO3NcUpEMNCXTpfDa4juXd72WLy45X3JtsvSHRPumTvrASaCn4btQ0uOwqmirYvlJ09ExcrLluU1qq1emYk3aiAr+Gpk4o9vNbYs5hvoFiurqyIxfg05UbpCxGCgbK56Z69sJT486zLGDT97cpUt7TIADwOrjXoQFguTG5URK2/oM8DZqvP+AAAA==",
-    "color": "#b8b8f8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/285232b1508765c8-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/285232b1508765c8-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 139",
-    "group": "seminars",
-    "sourceHash": "285232b1508765c8e8047f67089cf287dcfd08f3f82cfae81f1116bd8084fde6"
-  },
-  {
-    "id": "gallery-140",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRlYBAABXRUJQVlA4IEoBAAAQBwCdASoYABgAPvVorE8qpaQiKA1RUB6JbACdMuz7TxioBdsG8vERSGIER5SD/qg7zmzcovciQvZddaLkAoEQAAD+0bEi8Qrc0pcC1poV2INnGtaYeGFm6thEt38OHnQUad+4ZSHcWjw3A7rVjZ8q/y7odfPWrFM5L3zEiJXb8XZ71tOORB3mWnE9M8+0z3eS57b9saKh94HA+7Uk8UElSbbRRtIaLcsj30dMfHd6jcoDDcBZcTBAIRTuX22Eqa77h1H/J0Or+4lMH3//BtJOP7Uo7fhQ1HYB/pYWWLHUp9HFPP7hiyYDsp3ZUbiLksjd0FG0BDATkxEtu56RSq/tr5+HmTIat4K38LX/qFGQ0miQ/5oEvDqEtmIeMfDrnvmi4MrpCmPn4M5aXN39xhcJYTPMNV+8eMGuY+ZAxmTjF4HnXr0WQXQAAAA=",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/1e2ab7b5948754c9-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/1e2ab7b5948754c9-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 140",
-    "group": "seminars",
-    "sourceHash": "1e2ab7b5948754c9b5ec2c0f4dcd96da89c2a7e85ab930ed96d413c465f8f6ef"
-  },
-  {
-    "id": "gallery-141",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAADQBACdASoYABgAPvVsqlCqpiOiqA1RUB6JQBXDgelOSrxl65QeMzAr7hVhXzFccADbW1CmcSuoZHsVw2g77BfTOMGx1/Wllsez6AFIHCGN24FjbJMmxaZwcNkAmb1W5gAFuHa8zS/MhAgVcvSKpSYO4+WaQ+o0ApubyBWfII7P2/lxlyzks65dFIbHWj0kv/EK482Hd+MPQp+6t8y8zpVYpldYDbgulhqorGaLkmG/vbQczAA=",
-    "color": "#988878",
-    "variants": {
-      "avif": {
-        "206": "/gallery/be880780d8c23646-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/be880780d8c23646-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 141",
-    "group": "seminars",
-    "sourceHash": "be880780d8c23646582dd34cc0713336b595b79a203eeb36b2bd250681339098"
-  },
-  {
-    "id": "gallery-142",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADQBQCdASoYABgAPvVmrlAqpSQisBgIAVAeiWIAnS+OgL1kJkEFjsshPbv+PjyzYtjX4ZoeH4eoAPxci9JC4e9kCl40q/f9Jt4ptXJiFkKs+u3X9kYjEvsG+Q9Rdo84UnpiCeayg5clOxjx8mdljxEB6krimO9zVhNoPseVwF9ZwHekphwYLIv836Ydb/pLVMg8cqsqy4t2Zz0rN8vmvi9HCzkq0fCE/Q0St6tsEW48itivtLEdnSQLXhPNlfkPw5HW7M2xsoAAAA==",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/256ae96f7fbcaf92-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/256ae96f7fbcaf92-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 142",
-    "group": "seminars",
-    "sourceHash": "256ae96f7fbcaf92282b0aa89f2f1818556f81ccf9a14ed0c81fc2e964bd9f5b"
-  },
-  {
-    "id": "gallery-143",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAACwBgCdASoYABgAPvVwrFIqpiOiqAqpUB6JbACdMuIzNYZl0A63RB4q+w68+Z87WKnfIRQdA8NYANX4NvSVgADhP8v9phZXK+a65qPahAneh5A0VQfvrygEFmOaDYM/jUuweHRxOngK6yMlWgKp9FnZ43vgB5d2PFQDVS3hCT6kcJj/HXpfwoxjKq7Jz0KAg155CcTKrwvF21aDl1YlAY7J02lJvOpuvNV1SXK/XOlQj7LXEKGb+9ScIqCAOGqK3ouaOOuhGpPSmIE95SoItzXGcTCvmaH4Uk3yR04tEAAlbAwyENnKvXYVbSfUir6+bUWu+imxJ/S0FsYEp5xj9KFASwfNcTsYLZqYAcrzUajTvlXEh3AyzTfwfXCkUQJAAAA=",
-    "color": "#c8d8f8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/b7fac453ec89a919-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/b7fac453ec89a919-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 143",
-    "group": "seminars",
-    "sourceHash": "b7fac453ec89a9199c5d87df84bebeec314654338c82dbc28c3f2287d09c2f71"
-  },
-  {
-    "id": "gallery-144",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAABwBwCdASoYABgAPvVorE+qpaQiKA1RUB6JbACdMoMn2JfzvFkur8Fbuu4y7gckkMHijmP43BcAol+nVlP4u3rU0IS8AAD8CRtwtOApBy1aIZM4llRYYqNLq9HDpxNJli+Y32/B+fjTIFx71sxrCN5fXu9zoZXUnT5BM/yN3TgdfMy/vQu5n78X4luxYtu4NpW0jA3doj07rTr5wh6LrxfCeeiRov7IiXA2VaG6Y6/UR7mlxzCMq7V9/WSGZSNjvQakwuiQ0lcjnYuCeAch3gBza1hWfo+lOXB+FLBdxRc0ucZ/lmZJT2UMexZRWJsYAWpiKc1dOI385Tj/QBG63U4vnybawIUsJakRJt1k0P3J9hVMxZSIS1jsnA7dzm6cN4DsVvIFpKZwWVIIsLF4JqO9ux3NFtziHgrGORQBAAA=",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/5444c015f71b6514-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/5444c015f71b6514-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 144",
-    "group": "seminars",
-    "sourceHash": "5444c015f71b651414c1e67a5ab5fd7e4be974c42106641e13546477ab4d1ebc"
-  },
-  {
     "id": "gallery-145",
     "width": 206,
     "height": 206,
@@ -3389,166 +1585,6 @@
     "alt": "Wuse Assembly gallery photo 145",
     "group": "choir-sessions",
     "sourceHash": "d8b7ec12bd03943df33140cb6cd44519ef864bfb7cc7baff9aa0b737c2240f51"
-  },
-  {
-    "id": "gallery-146",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAwBgCdASoYABgAPvVsqlAqpiOiqA1RUB6JbACdMyX/dwLGpvj2uRD8u72/Nora51BkrwD+uYOGXDcAAP1SRzzfQqNijUG7u2E4iQtjeRkhZ9OG3UvJ7+X6kyDHztmMUV0AqNhTM4WMlfCeLJYA3l5SbZv9M0VmdM3g1PMwrMmRdOnGhmQhPmC6VLEzRzr8CQ4DuB9ySLMicUx6C4XKS3ljC0bcYIHWiyI10CjFs3CmJ/5u+05m2SFMnNpZH1RI8roPhw4MC41tJ5Akb0DEOYU0zvrHK1YSmB+tzR2HLxA0s3r7NcYgwTbAK8qmUwN60yfbF0Chr69ZBxbLc7TlAEZlppeYgj7gAAA=",
-    "color": "#280858",
-    "variants": {
-      "avif": {
-        "206": "/gallery/9b88b0a5f8f8e0b6-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/9b88b0a5f8f8e0b6-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 146",
-    "group": "seminars",
-    "sourceHash": "9b88b0a5f8f8e0b63027494a0a9cefbf423c8e84a0bb31d3ac20b49041560589"
-  },
-  {
-    "id": "gallery-147",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAABwBQCdASoYABgAPvVysFMqpqQiqAgBUB6JbAC7My/vXgcO1h9FjcdCdfoeFhqDLpBeeO4AAP5xC0BMsdEGhziZZPG+7/c8kaP0WoqIICkYrf4mKyh6AuZyPPgFQ/07uVafPaMxTAymgG0/gG4zIIMj5RX45rpbjZJAoq+hydFqzMxEGzND5LqoxxI/tn/KKmr7uTq+UZ4Llz4us+T0fNTjfeZ48GNZ+Y3fOTGWZSMf0ulMrsxola6iRQglAZ5Kp41wnJ54Dn+20WnpaNfsAQ51YIhb9iNJokTYIYAA",
-    "color": "#c8c8e8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/2996ec6a34749976-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/2996ec6a34749976-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 147",
-    "group": "seminars",
-    "sourceHash": "2996ec6a347499760c6cd4b862aa30d2c4e3df90b116c4b582d05609717443d5"
-  },
-  {
-    "id": "gallery-148",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRiABAABXRUJQVlA4IBQBAABwBgCdASoYABgAPvVsqlAqpiOiqA1RUB6JbACdMoR/ZfO6aTvLCNdyQeUcTwHkElGhWBskJjJOEI1AVsAA/luV1IilsvT25VOxjbkyqYrnHCVsl/gylxpi+Z0BiWsNXkHLD/jTYcRp+DoVxyTN0pxtGxaquO/okS/wMgRaqLfsIy6GkfmJphUEW/swAGdz58xBRzzOFmZNZ83FztT//0CHPfUnsrtNHDV9p+L1wvYS5utXFuoQ9Eq5lQ2g3U0genN9/rdhB+LDYpevpsyrh4X2D5m/tTrNcFn6W8YAb4Dq3qb2iJ+fUF83Yx3nfsQWLpF7ypcxZK+8WG7rppth39orBYbkNYNrrL1I2ZLnVqPbulwTgAA=",
-    "color": "#080808",
-    "variants": {
-      "avif": {
-        "206": "/gallery/9eabbe8fea482729-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/9eabbe8fea482729-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 148",
-    "group": "seminars",
-    "sourceHash": "9eabbe8fea482729ae64d030a80bf5686ba8c7d27d9adef49c5286138f3f5732"
-  },
-  {
-    "id": "gallery-149",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAQBQCdASoYABgAPvVsqlCqpaOiqA1RUB6JZAC/TQgADjYEPJFNsIkQbK2I64hAjdoAAP7nrbcH94crsSzkjrQWAXS7lJWrGJKnT7byGPGIxQndR1Y0BYUbUFxW6lRH+FKZIi+sTGDABQ8xmrnH1zdp3vEjudLLqWp7o0Cly3UNVhfLptj5CphaWZduDYZf1kwJ3Uayc2n0fD8EYR92+7XCYeU7YIqzzNNpC+8BdLMlRaVygEErqotJfjWnGFgtyjwSp19l1iHf5GYQAPUXYnWOPjtoaog1V6/z1We4NXgAAA==",
-    "color": "#c8c8e8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/74edba713f208cb8-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/74edba713f208cb8-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 149",
-    "group": "seminars",
-    "sourceHash": "74edba713f208cb863a6f824f801416681a470919850a8100c1b3fc0127885ef"
-  },
-  {
-    "id": "gallery-150",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASoYABgAPvVyslMqpqSiqAgBUB6JagCsO//OFPZGXPK2LhCGydJPZGdO5hG9c50tn1n4iSJMQAD3L7xNWZuyxs6hLiyufol0Y+Z4S/K2BUe9uQgHpviDIhjJ6ydT7ZgylrxrMTJGQsngyq3GGMOGtFO5KH1PM4RE6wK/M5jwspA4hBZ5xnnfGomi9eEeprmLE7wXKLzXY7nfHqQ7me0Sg2xWX0YmzXWnr0iub/l+1XMtlG4kAIQ0eSPTms2QbrZXnoY/zudYVU/06SY5SUi84G13hwtKQGjiP6dpFf3bIfbvUAcB8sjNzwc0R6zM9wFNQn5ld75YKlQkrUuN0IISTAAA",
-    "color": "#a89888",
-    "variants": {
-      "avif": {
-        "206": "/gallery/b920f775733535ca-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/b920f775733535ca-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 150",
-    "group": "seminars",
-    "sourceHash": "b920f775733535ca5ff195d7ce8a4360c184c9ea6fa60c13a2541292060cfadc"
-  },
-  {
-    "id": "gallery-151",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAAAQBgCdASoYABgAPvVorE+qpiQiKA1RUB6JbACdMoHga5+MuwWTAc84wAOupsppCLX9J+juLlL37wAA8gr7I8x0ife2FbDj7jHPcm9QwCiQP+fGWWS6WfDA+9XGv2jgQxjdx0icGovkYTzbz49MMTQItd35jc1nj8dFiQY1dZ7V4sZsB1C8GXTqUFXyRF/cfj/sb6oRtQVdxNdK8eP+n/1jgbHvi2WtWd/sgXTsiA6byoad5eVEQ590LMl7p4MKxz+efSHUrRRma6G7FrDH0Xx9glSfO/6yJZ2MZg7AaE6AUdaXGroeh7y0uOYndeKVg1x1XdaeZOzaz1jVjRE/BG1NRfGMDJltRk3VxpCQAAA=",
-    "color": "#9898b8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/f90616f39b400734-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/f90616f39b400734-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 151",
-    "group": "seminars",
-    "sourceHash": "f90616f39b400734944e6eef767e7943ede3432e2aa41654f02cad308500069e"
-  },
-  {
-    "id": "gallery-152",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAADwBQCdASoYABgAPvVurlEqpiQiqAqpUB6JaAC7MuI6JnbFsRFuv4mMF9SNF8P2ArWpig+OnqUXAAD+seGQVWtnm0IDAQGrHQvycfNbz2mF3LYb0T3EaLFQUCDfuj5JQJW8VrCxsMlZcdHocdeHcApI9Lif4x4h/wN2Aw+QkB+wyTOMKJdsp/5TEl2mCaJMmjQwlZNxNMg+4yeV7oArIAEFwguqx+4fdQF6zowajHxDpGi3S1fuYibmsLxGIaUoi3QAJyW8Q84DweIsBbnmvs5omzpv63vA4Ia+XyOSZngj2FLnw9xhNOqN3RVwE0du6qvZcYRaGe76xQi2llP0WlR93XdZd6x0q70AAA==",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/8afdd36d2f454610-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/8afdd36d2f454610-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 152",
-    "group": "seminars",
-    "sourceHash": "8afdd36d2f45461074e622688b76832337957df0d749f1286799e6bbae626d74"
-  },
-  {
-    "id": "gallery-153",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAACQBQCdASoYABgAPvVwr1MqpiQiqAgBUB6JagCdISAgvAcYa98la/oaTAW0RCXrVkHtV7ErwADOPgtyIuoGEMNbXYmsCKKXM1/RtsRzTZRkF8IKWuffenwHPBaLUcXcL7ULcu2FjGrU8eXz0wvML4Sd4qAT9Woia9jiE2XZvMqKCzJy2+T3MFvXCqpq6USApzZLYpxJAKcn439RcYwSYEHMT4StdRMkXeTs9eTEUtvSAY6h+AdjgO/XoX6LHtO1i4/CWwLRc1LphjSt1JTq0imsU5R1b1psio9t9+yqp5N3mGKNsZtjKFqG7Xl+GTgpLVBd2yZUaT8sAAAA",
-    "color": "#a8c8f8",
-    "variants": {
-      "avif": {
-        "206": "/gallery/9e8a891818f2bb73-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/9e8a891818f2bb73-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 153",
-    "group": "seminars",
-    "sourceHash": "9e8a891818f2bb7322e285dc65dac4eed39a0e6e66d540c1994aeedb2bd23d4f"
   },
   {
     "id": "hero-church",
@@ -4269,6 +2305,1138 @@
     "featured": true,
     "alt": "Pastor Samuel Ogunrole",
     "sourceHash": "22018f1a212d2776c21b3cad51be60dcff3e338d17905b6f00d2574b5de35952"
+  },
+  {
+    "id": "gallery-seminar-01",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAABwBgCdASoYABgAPvV0slMqpqSiqAgBUB6JbACdOUFUVO59/IcEJAEazhRVJcm8Va2KlRgglYP7lKhT34AA4DQEtZfPdMFnwvemzymDpJpYTRJP6Fowcv6md8Q9VlqniCsGcenrYRAWz31icGTm5yV5VSYAgtNJc4UlaQFitP/HEx/pV+8RfBLRY/he4Yc63zozfAOALUwVdsmtQCJL/2NPqtA+zgiiRfnmHY978l1uoEsRTjwH7uRYPK4re83Zqab6rUYqQQzEJNghBJw3ZYph9Bm6cCGBMrNxDrsfSmHxpvbTtvGHqnmO94IuybKM63RL0rMXDBPFudhUlIgJuW/H+hLa/AsIxrBrWtoAAAA=",
+    "color": "#a88868",
+    "variants": {
+      "avif": {
+        "206": "/gallery/ed42e5ab670cfc66-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/ed42e5ab670cfc66-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-01",
+    "group": "seminars",
+    "sourceHash": "ed42e5ab670cfc66fa53e899d940606bd3b6af5a92080d494a35d6f60978a3e8"
+  },
+  {
+    "id": "gallery-seminar-02",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAADwBQCdASoYABgAPvVurFGqpiQiqAqpUB6JYgCw8AgOWkQfOKFNe+oVE73tgS4+bFwetTTx3EP6QAD+7ohVTKZag+x53kYIyDPMeVqjTNxDskh2bAaZHzNjXMC4FNnysIcEf9d67cFEj41g1cZYOvIYhwTmWCwvEviYRqjZv3L6RzG5S9QT7gQ32g3r0I7a6P1yuNvZBXvwqZ1m3hpy48Vt9PnltqIiwDTkVBySO43MygLobxik+G0olj39mj54DK/8R6SDz+wkJCD7Ev2q8zT9rozI8oKchYOw6STplF6Jt7LxNTLZ+acILf5s+K6zT8RG5dYI7tpAxfjkLZsQAAAA",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/96fbb7473c876519-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/96fbb7473c876519-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-02",
+    "group": "seminars",
+    "sourceHash": "96fbb7473c876519cb5530d731200ea892aae52f1f17e39e275b8036f9400b13"
+  },
+  {
+    "id": "gallery-seminar-03",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAABQBgCdASoYABgAPvVirU4qpSSiMBgMAVAeiWwAnTKDyg5MaAG8qkSMe+DwqMzjk3NrTkGRnQclI7vzaAD+93e9JXxOE0/5qcbYSm6v/aLtWj0GWhitOFN50sutQqOI+ePR9OWt6wrAR/I1P7X/b4U+vcgihvSZvKPjF4i+Q+I+bwt8SAK+UIsw4GSHsYr21MG4dtJ+gQSeawZhoCykPi6mYkTAGdauHn69MQWm6c6L1J8ZC5JSlSXDpgBCwgwWBQpLLrAa/cB8eJzmaWDf3k35ZGzdDPfZDy/ZWAZEa+jcvvJbE2TTwjejoeLPdx2jbd1CEy49fpI+m7Z/F11d1HsP2t8bE+VwAAA=",
+    "color": "#280848",
+    "variants": {
+      "avif": {
+        "206": "/gallery/d8b7ec12bd03943d-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/d8b7ec12bd03943d-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-03",
+    "group": "seminars",
+    "sourceHash": "d8b7ec12bd03943df33140cb6cd44519ef864bfb7cc7baff9aa0b737c2240f51"
+  },
+  {
+    "id": "gallery-seminar-04",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAwBgCdASoYABgAPvVsqlAqpiOiqA1RUB6JbACdMyX/dwLGpvj2uRD8u72/Nora51BkrwD+uYOGXDcAAP1SRzzfQqNijUG7u2E4iQtjeRkhZ9OG3UvJ7+X6kyDHztmMUV0AqNhTM4WMlfCeLJYA3l5SbZv9M0VmdM3g1PMwrMmRdOnGhmQhPmC6VLEzRzr8CQ4DuB9ySLMicUx6C4XKS3ljC0bcYIHWiyI10CjFs3CmJ/5u+05m2SFMnNpZH1RI8roPhw4MC41tJ5Akb0DEOYU0zvrHK1YSmB+tzR2HLxA0s3r7NcYgwTbAK8qmUwN60yfbF0Chr69ZBxbLc7TlAEZlppeYgj7gAAA=",
+    "color": "#280858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/9b88b0a5f8f8e0b6-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/9b88b0a5f8f8e0b6-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-04",
+    "group": "seminars",
+    "sourceHash": "9b88b0a5f8f8e0b63027494a0a9cefbf423c8e84a0bb31d3ac20b49041560589"
+  },
+  {
+    "id": "gallery-seminar-05",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAABwBQCdASoYABgAPvVysFMqpqQiqAgBUB6JbAC7My/vXgcO1h9FjcdCdfoeFhqDLpBeeO4AAP5xC0BMsdEGhziZZPG+7/c8kaP0WoqIICkYrf4mKyh6AuZyPPgFQ/07uVafPaMxTAymgG0/gG4zIIMj5RX45rpbjZJAoq+hydFqzMxEGzND5LqoxxI/tn/KKmr7uTq+UZ4Llz4us+T0fNTjfeZ48GNZ+Y3fOTGWZSMf0ulMrsxola6iRQglAZ5Kp41wnJ54Dn+20WnpaNfsAQ51YIhb9iNJokTYIYAA",
+    "color": "#c8c8e8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/2996ec6a34749976-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/2996ec6a34749976-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-05",
+    "group": "seminars",
+    "sourceHash": "2996ec6a347499760c6cd4b862aa30d2c4e3df90b116c4b582d05609717443d5"
+  },
+  {
+    "id": "gallery-seminar-06",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRiABAABXRUJQVlA4IBQBAABwBgCdASoYABgAPvVsqlAqpiOiqA1RUB6JbACdMoR/ZfO6aTvLCNdyQeUcTwHkElGhWBskJjJOEI1AVsAA/luV1IilsvT25VOxjbkyqYrnHCVsl/gylxpi+Z0BiWsNXkHLD/jTYcRp+DoVxyTN0pxtGxaquO/okS/wMgRaqLfsIy6GkfmJphUEW/swAGdz58xBRzzOFmZNZ83FztT//0CHPfUnsrtNHDV9p+L1wvYS5utXFuoQ9Eq5lQ2g3U0genN9/rdhB+LDYpevpsyrh4X2D5m/tTrNcFn6W8YAb4Dq3qb2iJ+fUF83Yx3nfsQWLpF7ypcxZK+8WG7rppth39orBYbkNYNrrL1I2ZLnVqPbulwTgAA=",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/9eabbe8fea482729-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/9eabbe8fea482729-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-06",
+    "group": "seminars",
+    "sourceHash": "9eabbe8fea482729ae64d030a80bf5686ba8c7d27d9adef49c5286138f3f5732"
+  },
+  {
+    "id": "gallery-seminar-07",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAQBQCdASoYABgAPvVsqlCqpaOiqA1RUB6JZAC/TQgADjYEPJFNsIkQbK2I64hAjdoAAP7nrbcH94crsSzkjrQWAXS7lJWrGJKnT7byGPGIxQndR1Y0BYUbUFxW6lRH+FKZIi+sTGDABQ8xmrnH1zdp3vEjudLLqWp7o0Cly3UNVhfLptj5CphaWZduDYZf1kwJ3Uayc2n0fD8EYR92+7XCYeU7YIqzzNNpC+8BdLMlRaVygEErqotJfjWnGFgtyjwSp19l1iHf5GYQAPUXYnWOPjtoaog1V6/z1We4NXgAAA==",
+    "color": "#c8c8e8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/74edba713f208cb8-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/74edba713f208cb8-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-07",
+    "group": "seminars",
+    "sourceHash": "74edba713f208cb863a6f824f801416681a470919850a8100c1b3fc0127885ef"
+  },
+  {
+    "id": "gallery-seminar-08",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASoYABgAPvVyslMqpqSiqAgBUB6JagCsO//OFPZGXPK2LhCGydJPZGdO5hG9c50tn1n4iSJMQAD3L7xNWZuyxs6hLiyufol0Y+Z4S/K2BUe9uQgHpviDIhjJ6ydT7ZgylrxrMTJGQsngyq3GGMOGtFO5KH1PM4RE6wK/M5jwspA4hBZ5xnnfGomi9eEeprmLE7wXKLzXY7nfHqQ7me0Sg2xWX0YmzXWnr0iub/l+1XMtlG4kAIQ0eSPTms2QbrZXnoY/zudYVU/06SY5SUi84G13hwtKQGjiP6dpFf3bIfbvUAcB8sjNzwc0R6zM9wFNQn5ld75YKlQkrUuN0IISTAAA",
+    "color": "#a89888",
+    "variants": {
+      "avif": {
+        "206": "/gallery/b920f775733535ca-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/b920f775733535ca-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-08",
+    "group": "seminars",
+    "sourceHash": "b920f775733535ca5ff195d7ce8a4360c184c9ea6fa60c13a2541292060cfadc"
+  },
+  {
+    "id": "gallery-seminar-09",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAQBQCdASoYABgAPvVqrE+qpiQiKA1RUB6JaQAAJR4Iq1rU9w3wXLQWrrt7GEpV56QAAP6qBI6TyB7/2qVEWSFdAAvJdVs57XNFwRLjFePXZpwfBsMSqLeXgBhU8nc1N50s4t6FH9tjKl0bZazCvyQ8D103JRbjuyeEyds5/6EmbxOwIuKv0IpMZKOpC7ecM4qlRdXnKNDFVpa7aAeAvklznH6NVcqQxo8coSG2R3pnQAAA",
+    "color": "#a8a8a8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/a13cfecaf6ae9d47-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/a13cfecaf6ae9d47-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-09",
+    "group": "seminars",
+    "sourceHash": "a13cfecaf6ae9d470d6591e0b08b7cb110d53e4b64b8d0201ec9636067835bff"
+  },
+  {
+    "id": "gallery-seminar-10",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAAAQBgCdASoYABgAPvVorE+qpiQiKA1RUB6JbACdMoHga5+MuwWTAc84wAOupsppCLX9J+juLlL37wAA8gr7I8x0ife2FbDj7jHPcm9QwCiQP+fGWWS6WfDA+9XGv2jgQxjdx0icGovkYTzbz49MMTQItd35jc1nj8dFiQY1dZ7V4sZsB1C8GXTqUFXyRF/cfj/sb6oRtQVdxNdK8eP+n/1jgbHvi2WtWd/sgXTsiA6byoad5eVEQ590LMl7p4MKxz+efSHUrRRma6G7FrDH0Xx9glSfO/6yJZ2MZg7AaE6AUdaXGroeh7y0uOYndeKVg1x1XdaeZOzaz1jVjRE/BG1NRfGMDJltRk3VxpCQAAA=",
+    "color": "#9898b8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/f90616f39b400734-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/f90616f39b400734-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-10",
+    "group": "seminars",
+    "sourceHash": "f90616f39b400734944e6eef767e7943ede3432e2aa41654f02cad308500069e"
+  },
+  {
+    "id": "gallery-seminar-11",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAADwBQCdASoYABgAPvVurlEqpiQiqAqpUB6JaAC7MuI6JnbFsRFuv4mMF9SNF8P2ArWpig+OnqUXAAD+seGQVWtnm0IDAQGrHQvycfNbz2mF3LYb0T3EaLFQUCDfuj5JQJW8VrCxsMlZcdHocdeHcApI9Lif4x4h/wN2Aw+QkB+wyTOMKJdsp/5TEl2mCaJMmjQwlZNxNMg+4yeV7oArIAEFwguqx+4fdQF6zowajHxDpGi3S1fuYibmsLxGIaUoi3QAJyW8Q84DweIsBbnmvs5omzpv63vA4Ia+XyOSZngj2FLnw9xhNOqN3RVwE0du6qvZcYRaGe76xQi2llP0WlR93XdZd6x0q70AAA==",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/8afdd36d2f454610-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/8afdd36d2f454610-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-11",
+    "group": "seminars",
+    "sourceHash": "8afdd36d2f45461074e622688b76832337957df0d749f1286799e6bbae626d74"
+  },
+  {
+    "id": "gallery-seminar-12",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASoYABgAPvVwsFMqpiQiqAgBUB6JbACdMuIulCFVMTh8+6H0ZW5EuOJyyY+bdE4DYwAAzgr4LLzi35fQ2cLUYklFFrykv3tF47fcsWGXCyiJa7mvxjbumvuz+eSKcQ8E7/E1fPObHbNqjIJK+7wDUOowKuAr1SFUmNBPniQUHFEV25KSb8BTS+l1Ha/3ZxZ3piEL6Rc3lI3QWpxbiSsqlsjldrejVNc4esk4dypKqlrN8inDppPK/DUx6wLSGVmQymWvdXTFDTWvlsdJMWZfLH/T/ygFslNY/7fuUGr+DI998ra4YKzU0N3mN8sbUg1FZkHwjP4PHNMK/wAAAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/b7520bfb8ca31b98-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/b7520bfb8ca31b98-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-12",
+    "group": "seminars",
+    "sourceHash": "b7520bfb8ca31b985393d74cc14e0f6d405635df453a64fbee29b7c1ebe1674e"
+  },
+  {
+    "id": "gallery-seminar-13",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAACQBQCdASoYABgAPvVwr1MqpiQiqAgBUB6JagCdISAgvAcYa98la/oaTAW0RCXrVkHtV7ErwADOPgtyIuoGEMNbXYmsCKKXM1/RtsRzTZRkF8IKWuffenwHPBaLUcXcL7ULcu2FjGrU8eXz0wvML4Sd4qAT9Woia9jiE2XZvMqKCzJy2+T3MFvXCqpq6USApzZLYpxJAKcn439RcYwSYEHMT4StdRMkXeTs9eTEUtvSAY6h+AdjgO/XoX6LHtO1i4/CWwLRc1LphjSt1JTq0imsU5R1b1psio9t9+yqp5N3mGKNsZtjKFqG7Xl+GTgpLVBd2yZUaT8sAAAA",
+    "color": "#a8c8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/9e8a891818f2bb73-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/9e8a891818f2bb73-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-13",
+    "group": "seminars",
+    "sourceHash": "9e8a891818f2bb7322e285dc65dac4eed39a0e6e66d540c1994aeedb2bd23d4f"
+  },
+  {
+    "id": "gallery-seminar-14",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAABQBgCdASoYABgAPvVurlGqpiQiqAqpUB6JaAC/au0A8QAGe7aAByEcKqOdQHKw8O12vmsUHq8z64rxUAD8XcXkv4HRLq4v0t1qXlIJ/IKgOpMBloqZHgQnmzbm0F/dtfpPuNYyV9Vxsv6uNRoTtPvjLTttikN57ySlh4Ddj/Jge+QR8ZCmvBDeHcihlP6tmvDH4b0EBE2PGgl/LLl0KniaRgJxomgIHXCA8GtzXhAKUUsOMpx9XCpr3dUKZZ34r335lo/EnGIZnyOZ8pH93GKVpVFNREC4+O3Ya2/XoPUeGcmW0QkHPI9BhrumJV4Oz3vpFy6FrFUk/MvgYRzUdi22u2Eo+ZM+V6SYtIeZpIAAAA==",
+    "color": "#a8a8b8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/2e6fbdfbb1775414-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/2e6fbdfbb1775414-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-14",
+    "group": "seminars",
+    "sourceHash": "2e6fbdfbb17754143a8b99ca344f6b81ec295da214c6c46539edbb37fd2facea"
+  },
+  {
+    "id": "gallery-seminar-15",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAACwBQCdASoYABgAPvVorFAqpaQisBgIAVAeiWwAnS+gAO6ZSZeYD26j6XC9MvJ+MYWjvedM41AA/qa6v73eLUcU2bHAf0IIOdT2gzu6x3zaDWYnL/VpTZ9ZNvUsnqGx8HfszCzjl0i3ygDYciXNvIlICPWcIkeipJ0jv1uxOAdeEjGdLxrkr79yGd4WOKodHUTnLMASoav46BAuaELjgdA/qa968H/X60+8/h+5DFzKvfq/+j7DsQD5LK73Hu7Hyv9r9nfaaMJntLAA",
+    "color": "#a87848",
+    "variants": {
+      "avif": {
+        "206": "/gallery/0d34a80468885826-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/0d34a80468885826-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-15",
+    "group": "seminars",
+    "sourceHash": "0d34a804688858262b353c41ec9677ba3f26a94171a47bd1a182fd980c61f2fe"
+  },
+  {
+    "id": "gallery-seminar-16",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAABwBgCdASoYABgAPvVwr1MqpiQiqAgBUB6JbACdMuI8xYml0BKshQuvsMSaI31dMJVxIXH95mT44efyPlgA+KapHW/qo/KTcrKGPlFPD6vH2dVc9V045fHX01YIMN8HizCha9ocHDJgVEhElRe7COi4wNop/BJY8g1HQJp4ZQvlN1zp2aMxopsln94aFkWeVruuz13hpbe4IpIXuWSwy8uwFrTPh1EV8l0uPLh4CA1IQe7GO72CDh2PTHPv4eqVbn09g1/Ft7utZlpcY1Jz4sk9VB5USM0nKl6ET8cnr1E0+UpBy1Qfv3y2V9o+KRKdlpVprVay2yICj6Dg/4yT1kt1IJqAe5r+A5kf74nNxVssHS6fAQAAAA==",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/89e8c635ea658eba-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/89e8c635ea658eba-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-16",
+    "group": "seminars",
+    "sourceHash": "89e8c635ea658ebac8204931d1e8dab8520c3af65acc5250b3e05f5c9e146f4e"
+  },
+  {
+    "id": "gallery-seminar-17",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAACQBQCdASoYABgAPvVoqU4qpiOiMBgMAVAeiWwAnTKDNTggrk/Ysl9taxmzNMKOe7xtB+1uQAD+ycmJ8nLH/6qN1oCWx1s5y1XQ79qt6RCWCVG+IbXK4JfTll85h+xfp4vhLkZGmW/AM9aXplPtaSi0Ce8HWUK3Ku9WanFiPp6w+CaT5aLy/gcDZfpQ39gZvcQ1MQEDir8ZbCH2W+BE2tShBlA1rx/NUwGDvE/WyOm4jw82pi+rDZXMoiJUinWBQu90qzMIlxjd02ikgtlTWgR0hYWQAAAA",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/977b7d591f206d7f-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/977b7d591f206d7f-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-17",
+    "group": "seminars",
+    "sourceHash": "977b7d591f206d7fdf6cf81c8d71a7b2a50f3556042a781d0c8ddf9da1b2170d"
+  },
+  {
+    "id": "gallery-seminar-18",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAAAwBgCdASoYABgAPvVurFGqpiQiqAqpUB6JbACdMoJYBhSoBmFEL/nKATemET0uRWycsgMNLqyjmZ3AAP6Z5HxMea2gHYX+MQ1JSSiLWDGIMpBKDRhY5307hwENpctjW5U4GA9+T6tbGH1StCy+TLYxthi1uIYKdqj9GyLrrNtRKz9m03zyTqfzL3ZDwaH5oXvKGVyCFWmkfYgRzEitJm4gP1cDpLdHJE+tkMfvv6z6nYehdbpv09txpI7CB1oJjVCIXy10Rz+1LLkjaIkxCAryWGwhioHs4H4PCeuRsvj4swqwFlnMIJPktTZc3ZgAAAA=",
+    "color": "#d8d8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/c655b21bbe91c2d4-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/c655b21bbe91c2d4-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-18",
+    "group": "seminars",
+    "sourceHash": "c655b21bbe91c2d4e6f3e2d291c2b00364853a70b4f4d7f023f74a647268e169"
+  },
+  {
+    "id": "gallery-seminar-19",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAACwBgCdASoYABgAPvVurVGqpiQiqAqpUB6JbACxHuOBD6TvWZjj0BYzdABYAACaU8a4Evo1lJ8g8xVmbc/fAAD3BQpcgvM4o7B3ZUG4tp1sw7aXX5RDFO39lVT2GSb2Ej6ee0ZRa9lr+LK5mEPBzx96HT/dpL2oPwTTNyQY7oqWJu/d6vJ4cBy7CvhY9ziVBtceLV6729Bd5d6ahe7qNNKMrJU0goM/9cl810q4LteC3yHZl3grhfeALkkjqNeMsXSUS1Yy1Nv5fXQ5J+0wVpz6xVILdqiy+ou9/YK+lgGeX35jYdH3IxYgaAC32l3ge9iCRfQS7vKbANzUjG6Cr+f8Tkz9//g9OfF7kmZe//Q3AgAA",
+    "color": "#987848",
+    "variants": {
+      "avif": {
+        "206": "/gallery/29232d2a2ae4be0e-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/29232d2a2ae4be0e-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-19",
+    "group": "seminars",
+    "sourceHash": "29232d2a2ae4be0ece443f7708a0c12a67eefe730abc023b148fffb3ff3d02cf"
+  },
+  {
+    "id": "gallery-seminar-20",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAACwBQCdASoYABgAPvVwsFMqpiQiqAgBUB6JZgCdEf/l3MmR4z072+P+9wrBiLKsqMv7a5Rv0AAA/p1zlYmNLjm0wMzKtYCWPZXinAV7bgvWixzuICdI73/jcOsV3QD11lXafYWsAVtVWmR8EzVUIXyzE1dEgsOMO3tl8zkMJ9dN9moKyLX9vYag/VfYgGgF9UdWrwcBrDs1mTp3H/5suEfwpnaWz62A3sQxT+IfzJq3FraSXXC/IBRoFkjDw5OFsSHttmOqn5Gg8MjJBnIfRYsAAAA=",
+    "color": "#d8d8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/dcc5b9461655bfcb-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/dcc5b9461655bfcb-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-20",
+    "group": "seminars",
+    "sourceHash": "dcc5b9461655bfcbfe20dc66b97e69404830b74ec4580b96a3034a98615d71dc"
+  },
+  {
+    "id": "gallery-seminar-21",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAAAwBgCdASoYABgAPvVorU8qpaQiKA1RUB6JbACdHZJsmY5bYhd5jk0OmoiOzKyj81PBjD0Zfv+LZDVAAPzBbEejMslRIPrSCpkP1Wh1cVgJ7ykvuV/w9gH+9Mrm7Gmd9IaLa1bwkDWUj/sIRKOLqFZMRqkcTWZzvZi7sAUJ00b+lfQI1CUYhWWQJClSfpG89smdmyBUDCeNIsOddj/4YTWrPPbGPYUNoanJcRH+5ASlRu5UPKfcKNjHVeq8G8/YFp96QQFYkDOOddyNNZz2BkzTHuGOp8XZy7or7nGs2ensXu6wZadUQHMz1r5aNwHHUNk6ay0fa4CpZb51aBYCqJmix6h3V7z+DkxUGsLc4AA=",
+    "color": "#a89898",
+    "variants": {
+      "avif": {
+        "206": "/gallery/287e64acc90c9e18-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/287e64acc90c9e18-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-21",
+    "group": "seminars",
+    "sourceHash": "287e64acc90c9e18a1a3cc87e6d68dd1d0182559298989f0aa1b7879fe83270c"
+  },
+  {
+    "id": "gallery-seminar-22",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAABQBgCdASoYABgAPvVurFGqpiQiqAqpUB6JagCdMunWARqWRA7SktkGfh28tATO4sOn5ez3hPFNwnOVAAD+mQVjxeDfA26bMB5YnctWMJiA6ZzrNt5PRjkv2HM/QvUO87+HKCswryR8/nwKXNAT1CP6O4CDFq1p+JJhlP3OhwI7x7ePwgKnfR+uQYpj0k2CHBhucW8x15vs6R0A3ZBYUiQv+2Ds8yBigjpqv/cWwS6VyhQbV5BjFGqQOy04nmpLGHqPvPB5uoMexYX3ntSndJcJrc2SN/Sgal5x4EL4ppEgaM169Kxynyod9HMOwZHeBCmjkHxl+vY3M2K7KlKeqlMAAAA=",
+    "color": "#c8c8e8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/da069c635bf4c6d3-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/da069c635bf4c6d3-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-22",
+    "group": "seminars",
+    "sourceHash": "da069c635bf4c6d38d5a99af26cde80d5b726639bd311edccc46de0ad9694e91"
+  },
+  {
+    "id": "gallery-seminar-23",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAAAwBgCdASoYABgAPvVurFGqpiQiqAqpUB6JZACdMw6vQTQoXq3GJxd5ckz1g+SByvHrC2+HzM+r3g2gAP7uiFV4oNxGgiQcNe1KNnCjHsOGsn1C5PUFX6q8NVIs+RaMWJcuHZWPrcNnTvG/8yQFRBUz5Tz6F8dFA3rJJW8fxqnYEU1qet5YEw8m8ENEt6IOBjo979A9iirMK6ZPTLrFwtmrU+ZiZk+r8qzp+T5ACGR1AmDqCWzMnySPspxD/72YgO3AwEVKkNZbUPfKZ2MaTwuvhkwTjxSppxGoWq2OrpLbRaYhFH8g977xnU4YKcc4/2RAAA==",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/e15b5a755adb82b9-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/e15b5a755adb82b9-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-23",
+    "group": "seminars",
+    "sourceHash": "e15b5a755adb82b95e4aaf9aaf007d9c7905fecb6b4ca043f72be71ff0499571"
+  },
+  {
+    "id": "gallery-seminar-24",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAADwBgCdASoYABgAPvVsqlAqpaOiqA1RUB6JbACsMoRwJ4JmrFpu8wPgDPQCtMXU4C1mu/e4NVrlFXCDhJ95lcYAAP5o+AKp+M1Itkw+IsSnT5bG+WdnWb1OEXCI2rLyknJbsYnsfDJMnxTf6oaGfXKYOTw4QMXsuTFzE+lH/clIVuuOA3DPSZS/J2qFpqAXaFuPEIO72gwkPSQcG/qAhrjyyOWGoceoRK3a1ZSZisbYybQvvX0VNltBYTZ9rgzdno6cvbvnKGvgZF5e753u0CG0umkX5kh6SLFtgaMiBKNpPdoYYreOeQB3AfZlr4zzbh2DsPA7Jjzm3YuDDqcpy0Tfw1iGat7ztd+GNQncsOb+f0JyzKY8c4smidcAsJu10D/p+ty03U6d4PFJPQAAAA==",
+    "color": "#f80828",
+    "variants": {
+      "avif": {
+        "206": "/gallery/109d59982d9ca48d-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/109d59982d9ca48d-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-24",
+    "group": "seminars",
+    "sourceHash": "109d59982d9ca48dd2dcad24c6c84d0f67c28869201c289ef5464536b5bd2567"
+  },
+  {
+    "id": "gallery-seminar-25",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAACQBQCdASoYABgAPvVsrlGqpaQiqAqpUB6JaACdMoABKO/cOrgG7+ArWv/QPsEu6liSDEI0AADtfrhu+RB5WneA1CLDaFqv3Tze9XAjFkxkASz69C6YOs5wxUOd7zC1RYlLCWQhSq0Wn/u0kIYnRPkBBcnZlsqiP6u5GvDFyAVusX1qjn0NHyl0n/nLeWtz0F9ThD64ekfVdPTkETuUZRtfgi9UFulKigBOpepCn6/JBBGw+glaD8ODmSr4Ay0hYbDJq91HMM2IjyJcNQW9M10AzDi0AAAA",
+    "color": "#a88868",
+    "variants": {
+      "avif": {
+        "206": "/gallery/f855f0dd46762d67-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/f855f0dd46762d67-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-25",
+    "group": "seminars",
+    "sourceHash": "f855f0dd46762d6745755e9c42d42c2cdd3c5d62bed28af6a7f70ca2f7ad5fc7"
+  },
+  {
+    "id": "gallery-seminar-26",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAABwBgCdASoYABgAPvVurFGqpiQiqAqpUB6JbACdMxyEUL25gWTGRIoXnIc3704aiJGxdCMlY+YHIjeX1YQA/utSpxzAVGB9BJHqJu3JoRqXtOApRwl8VYsNPl2DLiTFFKcttRCNz9o8LzLsyFwNCZPRoZgkhsx+l/g+JezireKsYLcO4IJOv9ocd6u0jABdmjLx/Z9QN7oxFPkCPSbMAETS34sDYOC1UJwNbEGSCDg0ZsCT8t4mYtYAHMPYK+ODrbIUlcX+HcoVTO8JcOJL6fnTJUafhiqkVNzfyPJp/h2VLX4qLRP50sxNf/rP2rWSfghPjl1YRUsQu4EfMAqainvfoEhVx1IJRHgAAA==",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/9d29d8d15167d329-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/9d29d8d15167d329-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-26",
+    "group": "seminars",
+    "sourceHash": "9d29d8d15167d329659c35999786fd5d504b10501508113219b7575cfcd1d6b9"
+  },
+  {
+    "id": "gallery-seminar-27",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAABwBgCdASoYABgAPvVsq1AqpaOiqA1RUB6JbACdMoMrkKBdlbXIywAlJf9/mhvHPZyIbhUKeaGCE9mpDyAA+/FxuVaOJsLjrNCFG1kq1t9/U9ixUkTNE75d5vYVxsFmWF3JDK71bwbPwBzN29bBpuxkE/Nse0HWypeMU66G0tiF/pcO3NcUpEMNCXTpfDa4juXd72WLy45X3JtsvSHRPumTvrASaCn4btQ0uOwqmirYvlJ09ExcrLluU1qq1emYk3aiAr+Gpk4o9vNbYs5hvoFiurqyIxfg05UbpCxGCgbK56Z69sJT486zLGDT97cpUt7TIADwOrjXoQFguTG5URK2/oM8DZqvP+AAAA==",
+    "color": "#b8b8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/285232b1508765c8-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/285232b1508765c8-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-27",
+    "group": "seminars",
+    "sourceHash": "285232b1508765c8e8047f67089cf287dcfd08f3f82cfae81f1116bd8084fde6"
+  },
+  {
+    "id": "gallery-seminar-28",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRlYBAABXRUJQVlA4IEoBAAAQBwCdASoYABgAPvVorE8qpaQiKA1RUB6JbACdMuz7TxioBdsG8vERSGIER5SD/qg7zmzcovciQvZddaLkAoEQAAD+0bEi8Qrc0pcC1poV2INnGtaYeGFm6thEt38OHnQUad+4ZSHcWjw3A7rVjZ8q/y7odfPWrFM5L3zEiJXb8XZ71tOORB3mWnE9M8+0z3eS57b9saKh94HA+7Uk8UElSbbRRtIaLcsj30dMfHd6jcoDDcBZcTBAIRTuX22Eqa77h1H/J0Or+4lMH3//BtJOP7Uo7fhQ1HYB/pYWWLHUp9HFPP7hiyYDsp3ZUbiLksjd0FG0BDATkxEtu56RSq/tr5+HmTIat4K38LX/qFGQ0miQ/5oEvDqEtmIeMfDrnvmi4MrpCmPn4M5aXN39xhcJYTPMNV+8eMGuY+ZAxmTjF4HnXr0WQXQAAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/1e2ab7b5948754c9-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/1e2ab7b5948754c9-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-28",
+    "group": "seminars",
+    "sourceHash": "1e2ab7b5948754c9b5ec2c0f4dcd96da89c2a7e85ab930ed96d413c465f8f6ef"
+  },
+  {
+    "id": "gallery-seminar-29",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAADQBgCdASoYABgAPvVorU8qpiQiKA1RUB6JbACsMvXEKkyqA3i87AA7Two8teXGFDCZORAohA1xFGZz8/q+iAAAyz2Ft8Iy5y/k2jLm6gyVFs4UUkmM9UW8ox2QSYoMD8i4ycqxri1GVLAbGfySqexvFN43x7/XyBiTWWP3yg7IRAg1wlcAKrz8kEl19SeGhfNn6ZMMNJHF4m7RBwV/gVJ1C3j7yrORG27CIr5b3wNHx1ebcIpY3CYfzxpNAfUYL8q4cfReFFcfW6wZAs4xK4/5GTtU21wPYBqyXFrJkHX0Dtv1FYAILOt33fs/7baCn/7cS4XDTS+4wEVqwcMydYKN1lyAAA==",
+    "color": "#e80808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/eea120056651d31e-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/eea120056651d31e-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-29",
+    "group": "seminars",
+    "sourceHash": "eea120056651d31e7395c705c9fffda9114cdf2ce9c125e744b18ee516ea6232"
+  },
+  {
+    "id": "gallery-seminar-30",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAADQBACdASoYABgAPvVsqlCqpiOiqA1RUB6JQBXDgelOSrxl65QeMzAr7hVhXzFccADbW1CmcSuoZHsVw2g77BfTOMGx1/Wllsez6AFIHCGN24FjbJMmxaZwcNkAmb1W5gAFuHa8zS/MhAgVcvSKpSYO4+WaQ+o0ApubyBWfII7P2/lxlyzks65dFIbHWj0kv/EK482Hd+MPQp+6t8y8zpVYpldYDbgulhqorGaLkmG/vbQczAA=",
+    "color": "#988878",
+    "variants": {
+      "avif": {
+        "206": "/gallery/be880780d8c23646-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/be880780d8c23646-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-30",
+    "group": "seminars",
+    "sourceHash": "be880780d8c23646582dd34cc0713336b595b79a203eeb36b2bd250681339098"
+  },
+  {
+    "id": "gallery-seminar-31",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADQBQCdASoYABgAPvVmrlAqpSQisBgIAVAeiWIAnS+OgL1kJkEFjsshPbv+PjyzYtjX4ZoeH4eoAPxci9JC4e9kCl40q/f9Jt4ptXJiFkKs+u3X9kYjEvsG+Q9Rdo84UnpiCeayg5clOxjx8mdljxEB6krimO9zVhNoPseVwF9ZwHekphwYLIv836Ydb/pLVMg8cqsqy4t2Zz0rN8vmvi9HCzkq0fCE/Q0St6tsEW48itivtLEdnSQLXhPNlfkPw5HW7M2xsoAAAA==",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/256ae96f7fbcaf92-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/256ae96f7fbcaf92-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-31",
+    "group": "seminars",
+    "sourceHash": "256ae96f7fbcaf92282b0aa89f2f1818556f81ccf9a14ed0c81fc2e964bd9f5b"
+  },
+  {
+    "id": "gallery-seminar-32",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAABwBwCdASoYABgAPvVorE+qpaQiKA1RUB6JbACdMoMn2JfzvFkur8Fbuu4y7gckkMHijmP43BcAol+nVlP4u3rU0IS8AAD8CRtwtOApBy1aIZM4llRYYqNLq9HDpxNJli+Y32/B+fjTIFx71sxrCN5fXu9zoZXUnT5BM/yN3TgdfMy/vQu5n78X4luxYtu4NpW0jA3doj07rTr5wh6LrxfCeeiRov7IiXA2VaG6Y6/UR7mlxzCMq7V9/WSGZSNjvQakwuiQ0lcjnYuCeAch3gBza1hWfo+lOXB+FLBdxRc0ucZ/lmZJT2UMexZRWJsYAWpiKc1dOI385Tj/QBG63U4vnybawIUsJakRJt1k0P3J9hVMxZSIS1jsnA7dzm6cN4DsVvIFpKZwWVIIsLF4JqO9ux3NFtziHgrGORQBAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/5444c015f71b6514-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/5444c015f71b6514-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-32",
+    "group": "seminars",
+    "sourceHash": "5444c015f71b651414c1e67a5ab5fd7e4be974c42106641e13546477ab4d1ebc"
+  },
+  {
+    "id": "gallery-seminar-33",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAACwBgCdASoYABgAPvVwrFIqpiOiqAqpUB6JbACdMuIzNYZl0A63RB4q+w68+Z87WKnfIRQdA8NYANX4NvSVgADhP8v9phZXK+a65qPahAneh5A0VQfvrygEFmOaDYM/jUuweHRxOngK6yMlWgKp9FnZ43vgB5d2PFQDVS3hCT6kcJj/HXpfwoxjKq7Jz0KAg155CcTKrwvF21aDl1YlAY7J02lJvOpuvNV1SXK/XOlQj7LXEKGb+9ScIqCAOGqK3ouaOOuhGpPSmIE95SoItzXGcTCvmaH4Uk3yR04tEAAlbAwyENnKvXYVbSfUir6+bUWu+imxJ/S0FsYEp5xj9KFASwfNcTsYLZqYAcrzUajTvlXEh3AyzTfwfXCkUQJAAAA=",
+    "color": "#c8d8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/b7fac453ec89a919-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/b7fac453ec89a919-206.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-33",
+    "group": "seminars",
+    "sourceHash": "b7fac453ec89a9199c5d87df84bebeec314654338c82dbc28c3f2287d09c2f71"
+  },
+  {
+    "id": "gallery-seminar-34",
+    "width": 854,
+    "height": 1280,
+    "aspect": 0.6671875,
+    "blur": "data:image/webp;base64,UklGRnQBAABXRUJQVlA4IGgBAABwCACdASoYACQAPvVwrlEqpqQiqrgKAVAeiWwApzUiCASwB/ADtEDAde090h7NfSjwIlLvkA7R9qeYiNByndQzWqVD+j+eKuAtHgBgAP39E7xgSccIlrhXoJ/CNxzLi9u45drztK+0m+AMaFGfhfmWiy2l7ZXLUq+/iaFbTprDl1OEUtoZmtTf9FYTT3J3r4HMfMuRkQ1vZUaqtFZIOrF2xpuPEwCbOtj3cNiPrBCLtzn0Kck7xedBIrclH1cQz/KOpQ556s/oQFsYaHT94CM89UXSda79zYakG97otlEPsUTXYgqn91mv05UvwGfyKManMOgztSnvVvV1amHPhGJ/SiBLCrR/oAp2aMY+2e7JSBor5y18oMdwuH+KEDhY7Rheg6f3Eoi06e7lmPM+zsqFX3EvCeEZkjh91fSVqM/K9KNeZ5Erh6zU0MOw/E9oj6OVHPkkTQ73q7RrjxgbVLuW1ZVgBgGaMAA=",
+    "color": "#e8e808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/fbe9f21fab5ede5f-320.avif",
+        "480": "/gallery/fbe9f21fab5ede5f-480.avif",
+        "640": "/gallery/fbe9f21fab5ede5f-640.avif",
+        "854": "/gallery/fbe9f21fab5ede5f-854.avif"
+      },
+      "webp": {
+        "320": "/gallery/fbe9f21fab5ede5f-320.webp",
+        "480": "/gallery/fbe9f21fab5ede5f-480.webp",
+        "640": "/gallery/fbe9f21fab5ede5f-640.webp",
+        "854": "/gallery/fbe9f21fab5ede5f-854.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-34",
+    "group": "seminars",
+    "sourceHash": "fbe9f21fab5ede5f34067f7266e5754c9674eb998f7801db7c041191f9c5dbd1"
+  },
+  {
+    "id": "gallery-seminar-35",
+    "width": 854,
+    "height": 1280,
+    "aspect": 0.6671875,
+    "blur": "data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAADwBwCdASoYACQAPvVoq1CqpaOiqqoBUB6JbACdMw40QRJu0A7Xtx2l1W3W2UBZVRoPVEWJy/seokNZNfIZhXrh5eoDTrD8lngAyt1cyeN2ladYQ1xHSaN5aypmCrq9Pc/3feTewivCotNkizuFCj3DVp+SGgm9SUSzUiAptPta2Yys7w1Psu+3Z1YwrdqVzueL2Q659msfg8my78M5QIGCkwLA7qvQGuDjzHhRv+DWJTkZ4CFYE95zZRukGYu2kmdigwy+v8s1yM4nVWb0NPJ/RVC+PUEJmQusVlhj+KN+uDdqmaCl33GrqmPdmIWgh9I8p2NTIwbd6u+JfOpKmAbN7TmMbdGZDVfg5KBP1d2if9AYCpVgrhCvNvq+T2fYJsy5d7YWbJavf19PMqvlxi7BFZQbqLKw8izgPt5R8CVcVkiD/L01LZ8e6e+3Ka/Kaj5JpgiUqbCr9Ym8eBJTQYAA",
+    "color": "#482878",
+    "variants": {
+      "avif": {
+        "320": "/gallery/9e2940096c905607-320.avif",
+        "480": "/gallery/9e2940096c905607-480.avif",
+        "640": "/gallery/9e2940096c905607-640.avif",
+        "854": "/gallery/9e2940096c905607-854.avif"
+      },
+      "webp": {
+        "320": "/gallery/9e2940096c905607-320.webp",
+        "480": "/gallery/9e2940096c905607-480.webp",
+        "640": "/gallery/9e2940096c905607-640.webp",
+        "854": "/gallery/9e2940096c905607-854.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-35",
+    "group": "seminars",
+    "sourceHash": "9e2940096c90560765ba32a46c9a6dd1439514798d396553a61f473a122fc64e"
+  },
+  {
+    "id": "gallery-seminar-36",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbAC0+fwAMhwUUuvtycgTOEMAAPzv/L9zLlnYRbdQYQYYHqQo7KzknqsOgUP8bbyR/PJm6DkAj2N7b4/7Xf/+vGBE9alzNkhi3dxTw+RG8I85WME0xnozx6Jm9g0gjX2fCFQjWb2OK8k7ORH3Xb16Ykv9nWWApg5er63mLLjHzkl80gvfO1REOYfT5qgm+VNgAA==",
+    "color": "#a8b8b8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/3c98103b486d22d6-320.avif",
+        "480": "/gallery/3c98103b486d22d6-480.avif",
+        "640": "/gallery/3c98103b486d22d6-640.avif",
+        "960": "/gallery/3c98103b486d22d6-960.avif",
+        "1280": "/gallery/3c98103b486d22d6-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/3c98103b486d22d6-320.webp",
+        "480": "/gallery/3c98103b486d22d6-480.webp",
+        "640": "/gallery/3c98103b486d22d6-640.webp",
+        "960": "/gallery/3c98103b486d22d6-960.webp",
+        "1280": "/gallery/3c98103b486d22d6-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-36",
+    "group": "seminars",
+    "sourceHash": "3c98103b486d22d657773b3bc53f3b09fb7f8cae077b47a46803f2193fb7a0d1"
+  },
+  {
+    "id": "gallery-seminar-37",
+    "width": 853,
+    "height": 1280,
+    "aspect": 0.66640625,
+    "blur": "data:image/webp;base64,UklGRrYBAABXRUJQVlA4IKoBAADQCQCdASoYACQAPvVmrE6qpaQiKqwBUB6JbACdMxvKPejgAbcDngNMd9ACYASLZbUXMsJRslKwZ8+7h8b7w96YOIgeP4Bk8Qqs+2UOBWbLAEJ/MIlaFUAA/qPf/yh1R5v36Wss7De2ELFrT1gOHawW2dao0BctLE5mECC9eX32ZCnotzzbdB0QuN+a+8PGhGNU62O8cNYDBwcDL/1WWx2c9rZLioe87RRrzItMbw0nv80oNezOG6qDPYwWZXhE22AeYrfMTxQwUeNeDI/hsg5nO4tvdM6QylljTDLMUrcKuCyzc+BAvlLsJaKs7QyxQRa488sXGzz8hI5h7r5sJj91HlXmcWCKUOvRW8aLxxpmm1l1X4ztdkzGPj0/XqQXiIEks3sSwXeQsDiyvmZiEkqvYBl4PFvp3uSiSZ8INXwwf3QNOc12054HHLro9TztpMH+s/BAPBStd0BKuHRujnE/ZEq2/zJz7urShR9ZarEa4si7NReNh6yt/A5B5FycGB5PyTHkj+Kth34RuJRT6XHTAL7i/8hh1hdEXtGWFq6AFfexJQ0jl+hgAAA=",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/f15bc63e7e097b37-320.avif",
+        "480": "/gallery/f15bc63e7e097b37-480.avif",
+        "640": "/gallery/f15bc63e7e097b37-640.avif",
+        "853": "/gallery/f15bc63e7e097b37-853.avif"
+      },
+      "webp": {
+        "320": "/gallery/f15bc63e7e097b37-320.webp",
+        "480": "/gallery/f15bc63e7e097b37-480.webp",
+        "640": "/gallery/f15bc63e7e097b37-640.webp",
+        "853": "/gallery/f15bc63e7e097b37-853.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-37",
+    "group": "seminars",
+    "sourceHash": "f15bc63e7e097b37983da09f0ba8ff179ff9ed8ef8343436507be2b1fb284b9b"
+  },
+  {
+    "id": "gallery-seminar-38",
+    "width": 854,
+    "height": 1280,
+    "aspect": 0.6671875,
+    "blur": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAwBwCdASoYACQAPvVwsFIqpiSipWsxUB6JYgCdM2KApGWt4jDUOlTsrc+Tyr3zFtsmmhe+pIF/Cs2oEVpMo1EQnIgA9kGES6OOgcwTC4NyT6sgw7C2uaPHxfh+DdbSBSHTN9tAeZdhynKuqy1iCdKO0JUINtPIsh8q7N5lERYPCdUs43MfIJUKZr7qShDsiKkkqsWVGWbU9ba1OKROM4OyUyb0lgbzpgzy5gLrN3FkhCRHO9Ol9KfwlFKhkX85lwTSfSjzjFOF4F45DUCEWi7IiJ7f9cT89UeQW6Xwwle4G6ufYjfZLpoBDsh/yZoa3cUI21oQAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/8cb8bf4c2154abf6-320.avif",
+        "480": "/gallery/8cb8bf4c2154abf6-480.avif",
+        "640": "/gallery/8cb8bf4c2154abf6-640.avif",
+        "854": "/gallery/8cb8bf4c2154abf6-854.avif"
+      },
+      "webp": {
+        "320": "/gallery/8cb8bf4c2154abf6-320.webp",
+        "480": "/gallery/8cb8bf4c2154abf6-480.webp",
+        "640": "/gallery/8cb8bf4c2154abf6-640.webp",
+        "854": "/gallery/8cb8bf4c2154abf6-854.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-38",
+    "group": "seminars",
+    "sourceHash": "8cb8bf4c2154abf68850b69559ecbd15e7ffa61d9ef3380b8588305b334a2800"
+  },
+  {
+    "id": "gallery-seminar-39",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADwAwCdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoACdoXgB1UIft+IAP68jUKDpuADqHslvNx51ZybbIcNVaDeeqtWHxZWEqmjaaCCMOWsZDAORyhxlfa4I983abXHXT7kJdWrzj0cWUsv49qn35+L/s//T7PGdrjfb9QpYs/Z6O8orRBdlseJ+Hp/w/1InBpUojGmuMbt0BNYxvCD1ifEri8K443/G3Bzv/+Dkyzf6pXg/gwAwAAA",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/2e4d6f767f0c1f1c-320.avif",
+        "480": "/gallery/2e4d6f767f0c1f1c-480.avif",
+        "640": "/gallery/2e4d6f767f0c1f1c-640.avif",
+        "960": "/gallery/2e4d6f767f0c1f1c-960.avif",
+        "1280": "/gallery/2e4d6f767f0c1f1c-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/2e4d6f767f0c1f1c-320.webp",
+        "480": "/gallery/2e4d6f767f0c1f1c-480.webp",
+        "640": "/gallery/2e4d6f767f0c1f1c-640.webp",
+        "960": "/gallery/2e4d6f767f0c1f1c-960.webp",
+        "1280": "/gallery/2e4d6f767f0c1f1c-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-39",
+    "group": "seminars",
+    "sourceHash": "2e4d6f767f0c1f1c1c84c8531cf41f35cd9ef4008fb81bb4e33a4015398b87ce"
+  },
+  {
+    "id": "gallery-seminar-40",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdH8D2WSvA93R/ZCkypYxOq8WssUAA/mrnG6MV2/2IkPIHHjUJxQr1Pc2cFY6U30O1Xq5rdJRHHTz3NO45+1/xUKdh+6O6C+O7YLmpu2VajUsSLSJCRXf2JRgO3lzXr/nBDTqMhaJkd4RjlzUxT/cf1fZI6xZ6SY+oLtM8jPEsZU696ndo6XacXH+379t1Rb8X8Faq6UCapZBgB+bKXsmwYFOqKYVjP1nDZfzt1eiykjytSDN9hBr4AAAA",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/098f1b436f48eea8-320.avif",
+        "480": "/gallery/098f1b436f48eea8-480.avif",
+        "640": "/gallery/098f1b436f48eea8-640.avif",
+        "960": "/gallery/098f1b436f48eea8-960.avif",
+        "1280": "/gallery/098f1b436f48eea8-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/098f1b436f48eea8-320.webp",
+        "480": "/gallery/098f1b436f48eea8-480.webp",
+        "640": "/gallery/098f1b436f48eea8-640.webp",
+        "960": "/gallery/098f1b436f48eea8-960.webp",
+        "1280": "/gallery/098f1b436f48eea8-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-40",
+    "group": "seminars",
+    "sourceHash": "098f1b436f48eea80885e91b833a0f56d5e3d4d1e10b1587333c1a8d61fa4f57"
+  },
+  {
+    "id": "gallery-seminar-41",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAAAwBQCdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoLUDgAYW2BAXu+dS0ZkIQ2AGvIZAAD+JeYpV5d/K3kZDQNYvR8Y+0x/PzRkxFix3bicxXfbt5x7FeaFFuD2XxuNffm8A7H1Hz5j01EY52P0BFLk7Rdk3BxBYtgSR/Gr/E92urD7If1dbJ3rYJ/dQzv4pU7wrvhXFa18t7rbfFp8E9flMoVDvujXitI3C7m9XedVzP/akzIWg8Z8Z/CP9aV9bAAAAA==",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/31ca47f7846ecafd-320.avif",
+        "480": "/gallery/31ca47f7846ecafd-480.avif",
+        "640": "/gallery/31ca47f7846ecafd-640.avif",
+        "960": "/gallery/31ca47f7846ecafd-960.avif",
+        "1280": "/gallery/31ca47f7846ecafd-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/31ca47f7846ecafd-320.webp",
+        "480": "/gallery/31ca47f7846ecafd-480.webp",
+        "640": "/gallery/31ca47f7846ecafd-640.webp",
+        "960": "/gallery/31ca47f7846ecafd-960.webp",
+        "1280": "/gallery/31ca47f7846ecafd-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-41",
+    "group": "seminars",
+    "sourceHash": "31ca47f7846ecafd72b0f5ad66519c6aae7488f9008940858e0a6b6036212d59"
+  },
+  {
+    "id": "gallery-seminar-42",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdGvVAUyHkBXJ5YbYRNuc2gAD+FSHE+ABhqFFfzTNR6P4comhvCpK50D6VAR7DEZbtHSDWj/px89KSQN/pwj0SjllmSwzjNTkKzIH5cP7Bmqw+KUWGYpQTHiNpfms3S1Uz/aXMEUFiNDvmwwf9UL9gIfxUX9WTjgJ87hHWVEgkA2mOp15UygAAAA==",
+    "color": "#e8e8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/1f145b52df9a0a4d-320.avif",
+        "480": "/gallery/1f145b52df9a0a4d-480.avif",
+        "640": "/gallery/1f145b52df9a0a4d-640.avif",
+        "960": "/gallery/1f145b52df9a0a4d-960.avif",
+        "1280": "/gallery/1f145b52df9a0a4d-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/1f145b52df9a0a4d-320.webp",
+        "480": "/gallery/1f145b52df9a0a4d-480.webp",
+        "640": "/gallery/1f145b52df9a0a4d-640.webp",
+        "960": "/gallery/1f145b52df9a0a4d-960.webp",
+        "1280": "/gallery/1f145b52df9a0a4d-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-42",
+    "group": "seminars",
+    "sourceHash": "1f145b52df9a0a4d993b1fb569acfeed2fb83c48368d7ae34e74d0c28e631b27"
+  },
+  {
+    "id": "gallery-seminar-43",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoR3ACUZbfARcajHBVhIAP7D/q88OujJqOvLlznfOZII6TfPZ/jKJFGoI01h3pTSjHV9FByQt1UB+KgJZoqOv8dLgvANpmR3gR3ZJ/C8pev3bDiucUinxm2oiPhyAGOQZsdBjoi+99Sz5kAQaPg2X77H4en56z+O5F/qnJRwSBBxQS/rtAUQAA==",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/ede0826aa9af2feb-320.avif",
+        "480": "/gallery/ede0826aa9af2feb-480.avif",
+        "640": "/gallery/ede0826aa9af2feb-640.avif",
+        "960": "/gallery/ede0826aa9af2feb-960.avif",
+        "1280": "/gallery/ede0826aa9af2feb-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/ede0826aa9af2feb-320.webp",
+        "480": "/gallery/ede0826aa9af2feb-480.webp",
+        "640": "/gallery/ede0826aa9af2feb-640.webp",
+        "960": "/gallery/ede0826aa9af2feb-960.webp",
+        "1280": "/gallery/ede0826aa9af2feb-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-43",
+    "group": "seminars",
+    "sourceHash": "ede0826aa9af2febc2fb47405b603ec6373ccf0181df40a8898e41a52f1d4df6"
+  },
+  {
+    "id": "gallery-seminar-44",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoRwAkgPdiM+sl67ummgerkAAP7ED4D4CblHhdYWc50+CrdeLpEf5HUJgfGdE8H51GNbY7FTe7pLK1g44FdoOzB+X764b1OsTgwFe3eKZ+AVZPH2UNhJUTR6rFFn3B+L0JbJjw1APtGGcIDkPMNItvvdBkfkZZkqVi6gh9vIZ2qYS0cBl/gf2j37AKB09hPPS2ATW93/QDkf9cpwZ/VBOKC/fdsfPgAA",
+    "color": "#e8e8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/0bc4d635a4ee1cc3-320.avif",
+        "480": "/gallery/0bc4d635a4ee1cc3-480.avif",
+        "640": "/gallery/0bc4d635a4ee1cc3-640.avif",
+        "960": "/gallery/0bc4d635a4ee1cc3-960.avif",
+        "1280": "/gallery/0bc4d635a4ee1cc3-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/0bc4d635a4ee1cc3-320.webp",
+        "480": "/gallery/0bc4d635a4ee1cc3-480.webp",
+        "640": "/gallery/0bc4d635a4ee1cc3-640.webp",
+        "960": "/gallery/0bc4d635a4ee1cc3-960.webp",
+        "1280": "/gallery/0bc4d635a4ee1cc3-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-44",
+    "group": "seminars",
+    "sourceHash": "0bc4d635a4ee1cc3d50023a58be1b68f56cecd7c5e6edc8746a092122c0b7343"
+  },
+  {
+    "id": "gallery-seminar-45",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBQCdASoYABAAPvVsrk4qpqSiMAgBUB6JbACdMoRwN5BbgwlkI0+3e+0rJzVWDaqWAADiQVpwb0iZegNJTncVx7nthCk7AKvFWmptACzjJjutWdBU/CJl03nCRqq29Upd3TNGk8if/hpNzB4LaEgfYbZJkTk7/ww/Z/nTJlPhP/Xy8oW4sQ2jGGEJJrzTLqXwVB1G5KbAIxq5fz/ki87DLRjm0zAWPnXk5Zxys5NHVNtTqUSvOzLAAAA=",
+    "color": "#a85808",
+    "variants": {
+      "avif": {
+        "320": "/gallery/44546de4769d3eba-320.avif",
+        "480": "/gallery/44546de4769d3eba-480.avif",
+        "640": "/gallery/44546de4769d3eba-640.avif",
+        "960": "/gallery/44546de4769d3eba-960.avif",
+        "1280": "/gallery/44546de4769d3eba-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/44546de4769d3eba-320.webp",
+        "480": "/gallery/44546de4769d3eba-480.webp",
+        "640": "/gallery/44546de4769d3eba-640.webp",
+        "960": "/gallery/44546de4769d3eba-960.webp",
+        "1280": "/gallery/44546de4769d3eba-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-45",
+    "group": "seminars",
+    "sourceHash": "44546de4769d3ebab122512204729a58fada1396113fdd9990b58900ce34115a"
+  },
+  {
+    "id": "gallery-seminar-46",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoR3ACfboV3EIKqhsp9A2AAA/tPbeHBRGaDNu6y3ztRq5EIlZqmve1p/DGpiktnaTnmQYgbOsdZyPWqch5rg4bvThKMlhsyTqOMCXfo/lXEDvkZuh/rtRIfVtaWic0wh2O8IjAfjsgkEwVa7cIBA5fSceW2A82J3RazzZF4sgwDgtFA2lqHZJSUCk9S5SjSZLOlDfsv0aAT9lR89j79eaH3RAAA=",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/14bd29554c9ac655-320.avif",
+        "480": "/gallery/14bd29554c9ac655-480.avif",
+        "640": "/gallery/14bd29554c9ac655-640.avif",
+        "960": "/gallery/14bd29554c9ac655-960.avif",
+        "1280": "/gallery/14bd29554c9ac655-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/14bd29554c9ac655-320.webp",
+        "480": "/gallery/14bd29554c9ac655-480.webp",
+        "640": "/gallery/14bd29554c9ac655-640.webp",
+        "960": "/gallery/14bd29554c9ac655-960.webp",
+        "1280": "/gallery/14bd29554c9ac655-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-46",
+    "group": "seminars",
+    "sourceHash": "14bd29554c9ac655bb16574e9ea1db20f94f591bec519f00d3bbf15fec16d30e"
+  },
+  {
+    "id": "gallery-seminar-47",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAACQBACdASoYABAAPvVmq04qpaQiMAgBUB6JbACdMoFWAbyqBifQiHwOu9/5g0AA/vDHJ0oJlnWs2DjPqTMyKIY20WzoB8CdVoPc1cfyejw6fPDp7LVfPcyKCcEkoit0QD0JTErLmnGz2nKPQ/cuDFnV5lMhrHyYYNxlP/a/Pl87VNEZg0w+av0Wpe/PfamP5cwe/o3yPZpTm4OYo8Oiv5Yp1NhcwCfuHX1kBScfLs1rrqzU360Hntns8a2AGfD7Ki/nCwmJuo2AAAAA",
+    "color": "#180838",
+    "variants": {
+      "avif": {
+        "320": "/gallery/9345097cc6b5bfda-320.avif",
+        "480": "/gallery/9345097cc6b5bfda-480.avif",
+        "640": "/gallery/9345097cc6b5bfda-640.avif",
+        "960": "/gallery/9345097cc6b5bfda-960.avif",
+        "1280": "/gallery/9345097cc6b5bfda-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/9345097cc6b5bfda-320.webp",
+        "480": "/gallery/9345097cc6b5bfda-480.webp",
+        "640": "/gallery/9345097cc6b5bfda-640.webp",
+        "960": "/gallery/9345097cc6b5bfda-960.webp",
+        "1280": "/gallery/9345097cc6b5bfda-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-47",
+    "group": "seminars",
+    "sourceHash": "9345097cc6b5bfda9a1f06e79ba5cf4cbd15da6926080f542308cecd5f2c9ac7"
+  },
+  {
+    "id": "gallery-seminar-48",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JagCdAYyU5YTn+rpqEh8bG3RgYXAA/rHiDB7cybhNWajkVdrpdL1je/bAeDKiHJnWqR9jajWmuv19IId02DCflRp/NBx2ZWOdWNXXfxc8ZRELlqyEoBVKDXEkk8radM6xkLNDCePFobhLEhmMoGOhF2nmPlsFVdfoaOWt/eTznfIz/VLQeLfJPs1+lIXsa/lYeoKVP0wsgAAA",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/9aad93085a37aa10-320.avif",
+        "480": "/gallery/9aad93085a37aa10-480.avif",
+        "640": "/gallery/9aad93085a37aa10-640.avif",
+        "960": "/gallery/9aad93085a37aa10-960.avif",
+        "1280": "/gallery/9aad93085a37aa10-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/9aad93085a37aa10-320.webp",
+        "480": "/gallery/9aad93085a37aa10-480.webp",
+        "640": "/gallery/9aad93085a37aa10-640.webp",
+        "960": "/gallery/9aad93085a37aa10-960.webp",
+        "1280": "/gallery/9aad93085a37aa10-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-48",
+    "group": "seminars",
+    "sourceHash": "9aad93085a37aa100256b05e3735b6fcdf04ecaad90cd088c22b6cecb37a53e4"
+  },
+  {
+    "id": "gallery-seminar-49",
+    "width": 1280,
+    "height": 853,
+    "aspect": 1.5005861664712778,
+    "blur": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdLwAB3q1BsVHxdM95Vqh0ZMAA+gKC5JTxbUqHrNrYmfd+/douh3H8Veu7UXPZ2nFInL/KB0zowLb9PsfO5YTSH+EPzgbMrDZBOJprQ3+uFy+gsQtxkaTFBaPVyrfCtrMK3TDdp1JsZ7T3y8Dv/UCf13/JxoXEzcRrsjYAAA==",
+    "color": "#a87848",
+    "variants": {
+      "avif": {
+        "320": "/gallery/473507fad7826066-320.avif",
+        "480": "/gallery/473507fad7826066-480.avif",
+        "640": "/gallery/473507fad7826066-640.avif",
+        "960": "/gallery/473507fad7826066-960.avif",
+        "1280": "/gallery/473507fad7826066-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/473507fad7826066-320.webp",
+        "480": "/gallery/473507fad7826066-480.webp",
+        "640": "/gallery/473507fad7826066-640.webp",
+        "960": "/gallery/473507fad7826066-960.webp",
+        "1280": "/gallery/473507fad7826066-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-49",
+    "group": "seminars",
+    "sourceHash": "473507fad7826066a3c3c6457a93b2b4582feb5d919e26c2bb80e4d6f734e859"
+  },
+  {
+    "id": "gallery-seminar-50",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JagCdACLpb4ugNRsN4FMyXNOAAP34PKXNlgNfAT6o+vqcZtxGEy1BKlWNpTgyOXs0oSKnIzqD/i5OcASl/nGe98kpx7kVM+Qty2GjVPL2x9WOIP47wn/UE8isXvqXsFc+8BkM8/64yNhDvoRTJYbGKJ9BLSMPSKJmjvX5tsFnBLDx5DwTZTvRbqPWv3TsyQAvtgunsq0vc0bxeRhIeRGn+Y3AAA==",
+    "color": "#c8c8e8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/6939ecd77086dd64-320.avif",
+        "480": "/gallery/6939ecd77086dd64-480.avif",
+        "640": "/gallery/6939ecd77086dd64-640.avif",
+        "960": "/gallery/6939ecd77086dd64-960.avif",
+        "1280": "/gallery/6939ecd77086dd64-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/6939ecd77086dd64-320.webp",
+        "480": "/gallery/6939ecd77086dd64-480.webp",
+        "640": "/gallery/6939ecd77086dd64-640.webp",
+        "960": "/gallery/6939ecd77086dd64-960.webp",
+        "1280": "/gallery/6939ecd77086dd64-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-50",
+    "group": "seminars",
+    "sourceHash": "6939ecd77086dd64821c161908d9fb62d7077b247978d4ac0c807f77b0fb04f7"
+  },
+  {
+    "id": "gallery-seminar-51",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAACQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoGvqgLrOfuHOlI49hqBJ5AA/rob++zXAaxOnfMc3twrjyCrfrFUL3ayemibyF2KVVp8ntHEE3+96Bff3CR0lDaCW7S4v8jXaENDmYekSV3bevw91Yv8vT3A9se5yxugkuP+drEEmz3nBbIhq3Egps6osCxHsVK9wTrNKhudderln6//Dn3gOh3//CLIpB08qPoHs3ykxOKy37SAAAA=",
+    "color": "#d8d8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/64a1ade2096a3f59-320.avif",
+        "480": "/gallery/64a1ade2096a3f59-480.avif",
+        "640": "/gallery/64a1ade2096a3f59-640.avif",
+        "960": "/gallery/64a1ade2096a3f59-960.avif",
+        "1280": "/gallery/64a1ade2096a3f59-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/64a1ade2096a3f59-320.webp",
+        "480": "/gallery/64a1ade2096a3f59-480.webp",
+        "640": "/gallery/64a1ade2096a3f59-640.webp",
+        "960": "/gallery/64a1ade2096a3f59-960.webp",
+        "1280": "/gallery/64a1ade2096a3f59-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-51",
+    "group": "seminars",
+    "sourceHash": "64a1ade2096a3f59245a1e3602856ba8a5763f10758ad54be479de6cdc8203f7"
+  },
+  {
+    "id": "gallery-seminar-52",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoRwH1/ASF/8H4J/WWE6W9EAAP5r0D/LlRI/MlYJ7hOnAnSaLYzWpzch1ovM82V3Lv9A3+qERkZm6wEqPcpyuvr+3302rWbmjnhiw2pwHpmavxPB6e908TYZlvbWf98IO+ohAZ9xc0OeZjipWj6v4LYpAlsJJMA7/Wx8zQ/znJs9b3/1dHjwz/v23ZXttrOEo9gJLz5aHx+stieEliA6gT6vrt7DSwAA",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/dd27c86ecbf77d7b-320.avif",
+        "480": "/gallery/dd27c86ecbf77d7b-480.avif",
+        "640": "/gallery/dd27c86ecbf77d7b-640.avif",
+        "960": "/gallery/dd27c86ecbf77d7b-960.avif",
+        "1280": "/gallery/dd27c86ecbf77d7b-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/dd27c86ecbf77d7b-320.webp",
+        "480": "/gallery/dd27c86ecbf77d7b-480.webp",
+        "640": "/gallery/dd27c86ecbf77d7b-640.webp",
+        "960": "/gallery/dd27c86ecbf77d7b-960.webp",
+        "1280": "/gallery/dd27c86ecbf77d7b-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo seminar-52",
+    "group": "seminars",
+    "sourceHash": "dd27c86ecbf77d7bc0287303bee77c91feeefda5f7d923257787ca79bdb702f6"
   },
   {
     "id": "tac-logo",

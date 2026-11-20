@@ -258,5 +258,29 @@
       "7c8e5c3687a03489-cover-206.webp",
       "7c8e5c3687a03489-cover-206.jpg"
     ]
+  },
+  "cover-v2:fbe9f21fab5ede5f34067f7266e5754c9674eb998f7801db7c041191f9c5dbd1": {
+    "id": "cover-seminars",
+    "width": 854,
+    "height": 1280,
+    "aspect": 0.6671875,
+    "blur": "",
+    "color": "#e8e808",
+    "variants": {
+      "avif": {
+        "854": "/gallery/ad59fde0723f5632-cover-854.avif"
+      },
+      "webp": {
+        "854": "/gallery/ad59fde0723f5632-cover-854.webp"
+      },
+      "jpeg": "/gallery/ad59fde0723f5632-cover-854.jpg"
+    },
+    "alt": "Seminars album cover",
+    "sourceHash": "fbe9f21fab5ede5f34067f7266e5754c9674eb998f7801db7c041191f9c5dbd1",
+    "files": [
+      "ad59fde0723f5632-cover-854.avif",
+      "ad59fde0723f5632-cover-854.webp",
+      "ad59fde0723f5632-cover-854.jpg"
+    ]
   }
 }
