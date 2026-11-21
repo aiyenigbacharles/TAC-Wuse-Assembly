@@ -110,33 +110,6 @@
     "sourceHash": "c33a9008fff865f92bdc47233624b23dd07863459d8c5187e6c5850acb150812"
   },
   {
-    "id": "gallery-7",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JZAC1GoABdjF/r1AmrslWKYAA/rYbJJMJu8mkTSyyQcUl7ZWD8+orX1B6Si9WA1/mqZg2nCOdSSwJ2Pv6yeqDmyHGVcHPGVFUdsv274GRbIcONHdvrNgh9jR+oxbvcpLNisMbmlarh8i3XijB1wg+zClymvXY/XcJK47JSmLdvX9c7BD8TtoAPJGhbdobzyBopqvhuAVzCIrfAAA=",
-    "color": "#c8c8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/ae95ea194a4b02fb-320.avif",
-        "480": "/gallery/ae95ea194a4b02fb-480.avif",
-        "640": "/gallery/ae95ea194a4b02fb-640.avif",
-        "960": "/gallery/ae95ea194a4b02fb-960.avif",
-        "1280": "/gallery/ae95ea194a4b02fb-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/ae95ea194a4b02fb-320.webp",
-        "480": "/gallery/ae95ea194a4b02fb-480.webp",
-        "640": "/gallery/ae95ea194a4b02fb-640.webp",
-        "960": "/gallery/ae95ea194a4b02fb-960.webp",
-        "1280": "/gallery/ae95ea194a4b02fb-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 7",
-    "group": "prayer-sessions",
-    "sourceHash": "ae95ea194a4b02fb152fc19574110ffabd9d428efe672a126c93c99a96583fd2"
-  },
-  {
     "id": "gallery-8",
     "width": 1280,
     "height": 854,
@@ -191,33 +164,6 @@
     "sourceHash": "9fc2fe2aabc8721158c458bbc4a06c82b6ada6f8ecd4db6f86d2310c41a24c3c"
   },
   {
-    "id": "gallery-11",
-    "width": 1280,
-    "height": 854,
-    "aspect": 1.4988290398126465,
-    "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAADQBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoR4G8AXgNnQMJKXI5+rn/tQAAD0bNzFVFxR+TnEBqIR2omU037gy1ItQbM/C3hBT5atfpN2xtaFaY6wK9ytW3gYc+MkuO/2l0/FzE9r/MRAV38LpwH57GmSdEHdABSujPryjd5v6Gxg2loPwS4g53ncV6wnOzilULski8f1+qvVpAz56/vDwsfLJHxM5kGXwTjBoGTyhdurMi51rzwcSCThQL/5LFc19jNZpMwo+biMl5PawybahEFmYBe8cAAA",
-    "color": "#f8f8f8",
-    "variants": {
-      "avif": {
-        "320": "/gallery/9d17bfceb82ddec7-320.avif",
-        "480": "/gallery/9d17bfceb82ddec7-480.avif",
-        "640": "/gallery/9d17bfceb82ddec7-640.avif",
-        "960": "/gallery/9d17bfceb82ddec7-960.avif",
-        "1280": "/gallery/9d17bfceb82ddec7-1280.avif"
-      },
-      "webp": {
-        "320": "/gallery/9d17bfceb82ddec7-320.webp",
-        "480": "/gallery/9d17bfceb82ddec7-480.webp",
-        "640": "/gallery/9d17bfceb82ddec7-640.webp",
-        "960": "/gallery/9d17bfceb82ddec7-960.webp",
-        "1280": "/gallery/9d17bfceb82ddec7-1280.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 11",
-    "group": "prayer-sessions",
-    "sourceHash": "9d17bfceb82ddec7c173366bf14fe7eb8e418b17c91ad35b3270ce3baf802a85"
-  },
-  {
     "id": "gallery-21",
     "width": 1279,
     "height": 1920,
@@ -243,35 +189,6 @@
     "alt": "Wuse Assembly gallery photo 21",
     "group": "choir-sessions",
     "sourceHash": "eeaf6886f26b3ea3ec50906a1a3afbb068134d447767a2abee0ef84b4db414a5"
-  },
-  {
-    "id": "gallery-22",
-    "width": 1920,
-    "height": 1279,
-    "aspect": 1.5011727912431587,
-    "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACQBACdASoYABAAPvVmq04qpaQiMAgBUB6JbAC7MjcAxbYDVVKU9GRivck47UAA/u6Lupu5PXI+BjxrbadX7xfvg5/YVI9FDSyM4Bxumu+l6SgikKTKn5OIvGgG07IA0ZtbVeAONhDHo8CNUBoPsTttUwt+xNuHXf6cbH7PjodYXaHmcc2aorftPtcWRSjlT13ARcAA",
-    "color": "#181828",
-    "variants": {
-      "avif": {
-        "320": "/gallery/eba2ae8553edd071-320.avif",
-        "480": "/gallery/eba2ae8553edd071-480.avif",
-        "640": "/gallery/eba2ae8553edd071-640.avif",
-        "960": "/gallery/eba2ae8553edd071-960.avif",
-        "1280": "/gallery/eba2ae8553edd071-1280.avif",
-        "1920": "/gallery/eba2ae8553edd071-1920.avif"
-      },
-      "webp": {
-        "320": "/gallery/eba2ae8553edd071-320.webp",
-        "480": "/gallery/eba2ae8553edd071-480.webp",
-        "640": "/gallery/eba2ae8553edd071-640.webp",
-        "960": "/gallery/eba2ae8553edd071-960.webp",
-        "1280": "/gallery/eba2ae8553edd071-1280.webp",
-        "1920": "/gallery/eba2ae8553edd071-1920.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 22",
-    "group": "prayer-sessions",
-    "sourceHash": "eba2ae8553edd071a5e6254ea4a596972d78761f6d712c6b9798ca7da89975b1"
   },
   {
     "id": "gallery-23",
@@ -477,91 +394,6 @@
     "sourceHash": "1acefab6dc64cdfc2b319d266202f1d998b0fb8b9661ddecb51de436a9aa372c"
   },
   {
-    "id": "gallery-32",
-    "width": 1920,
-    "height": 1279,
-    "aspect": 1.5011727912431587,
-    "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAwBACdASoYABAAPvVmqk4qpaOiMAgBUB6JbAC06BelRu44H9rdBr5/35QA/pjtOtJpnKJthE+PHcnhVQGWNiI3yJqyzpKVf4vvRIBFgNq0AkEZIldkDJRqoyVTK9TLdyRRxnmmcbtTmwhp6syF/3uTxz9i59Z94525Fh4nhL4eder1EiFMR2UqLYonf/E4RyNuusfLQLaoPse6TDXsMsJYLfvrPRwA",
-    "color": "#888898",
-    "variants": {
-      "avif": {
-        "320": "/gallery/53a3622e077894ea-320.avif",
-        "480": "/gallery/53a3622e077894ea-480.avif",
-        "640": "/gallery/53a3622e077894ea-640.avif",
-        "960": "/gallery/53a3622e077894ea-960.avif",
-        "1280": "/gallery/53a3622e077894ea-1280.avif",
-        "1920": "/gallery/53a3622e077894ea-1920.avif"
-      },
-      "webp": {
-        "320": "/gallery/53a3622e077894ea-320.webp",
-        "480": "/gallery/53a3622e077894ea-480.webp",
-        "640": "/gallery/53a3622e077894ea-640.webp",
-        "960": "/gallery/53a3622e077894ea-960.webp",
-        "1280": "/gallery/53a3622e077894ea-1280.webp",
-        "1920": "/gallery/53a3622e077894ea-1920.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 32",
-    "group": "prayer-sessions",
-    "sourceHash": "53a3622e077894eae07ed0e7adf15e48b39a9a326cfd155d442f2075edb73995"
-  },
-  {
-    "id": "gallery-33",
-    "width": 1667,
-    "height": 1365,
-    "aspect": 1.2212454212454213,
-    "blur": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADQBACdASoYABQAPvVwsFKqpiSiqAgBUB6JQBWAZYAJyy01yoDFeYT7yUnOFRMMAAD+oX4n6Cv2mxlUNhi334vw8Rp5h0YtPN+hm6ePusfcufqqZD2RbU7dJwFZ37SsQNJIdKq5eB3CH3RlGAXP8NExT8zhRXDqW/QB8H4ob6rDy0/oH3UceYO85txO+EO4C8JPZsynh2pEn4wjnZe0aKG8kzrSFbVhDoJ46NfKE1Sy4iAoje4vOAAA",
-    "color": "#182848",
-    "variants": {
-      "avif": {
-        "320": "/gallery/469a86e695dbb30e-320.avif",
-        "480": "/gallery/469a86e695dbb30e-480.avif",
-        "640": "/gallery/469a86e695dbb30e-640.avif",
-        "960": "/gallery/469a86e695dbb30e-960.avif",
-        "1280": "/gallery/469a86e695dbb30e-1280.avif",
-        "1667": "/gallery/469a86e695dbb30e-1667.avif"
-      },
-      "webp": {
-        "320": "/gallery/469a86e695dbb30e-320.webp",
-        "480": "/gallery/469a86e695dbb30e-480.webp",
-        "640": "/gallery/469a86e695dbb30e-640.webp",
-        "960": "/gallery/469a86e695dbb30e-960.webp",
-        "1280": "/gallery/469a86e695dbb30e-1280.webp",
-        "1667": "/gallery/469a86e695dbb30e-1667.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 33",
-    "group": "prayer-sessions",
-    "sourceHash": "469a86e695dbb30e2876b326eaee32c0d5521f6cae4490d88076ffbe62a248e0"
-  },
-  {
-    "id": "gallery-36",
-    "width": 1279,
-    "height": 1920,
-    "aspect": 0.6661458333333333,
-    "blur": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADwBgCdASoYACQAPvV2r1Iqp6QiqrgIAVAeiWUAA+doneBRc1jKa07wu+XIFAUVuJ7TChobsR0L+GcIGBMjnTQAAP7m5OfYfqeOeA33rZWxniyvWfETn1pbI6cDYXNgngbuDqBLHT0LmuaQoqf6byTbgc33edi8Peip9TJ8bNjEFtTRpkWeBiHpY2sVsl3S5lxKBrdqSSSMZt0G+QZGgusQeMW2hhjz5dO5l0ARCcuc+dc91MPpBA8ML+NWePTqMKH19l5pDQP4IhvsP1OTFu4U5fRIAAXt0Yk5y0UtLsX9CNB5Um6y+q2jRsNInp4c1xmrWv4YAIAAAA==",
-    "color": "#382818",
-    "variants": {
-      "avif": {
-        "320": "/gallery/d04a9c0e7f1b648f-320.avif",
-        "480": "/gallery/d04a9c0e7f1b648f-480.avif",
-        "640": "/gallery/d04a9c0e7f1b648f-640.avif",
-        "960": "/gallery/d04a9c0e7f1b648f-960.avif",
-        "1279": "/gallery/d04a9c0e7f1b648f-1279.avif"
-      },
-      "webp": {
-        "320": "/gallery/d04a9c0e7f1b648f-320.webp",
-        "480": "/gallery/d04a9c0e7f1b648f-480.webp",
-        "640": "/gallery/d04a9c0e7f1b648f-640.webp",
-        "960": "/gallery/d04a9c0e7f1b648f-960.webp",
-        "1279": "/gallery/d04a9c0e7f1b648f-1279.webp"
-      }
-    },
-    "alt": "Wuse Assembly gallery photo 36",
-    "group": "prayer-sessions",
-    "sourceHash": "d04a9c0e7f1b648f5a46dba892386be81ea8fabf45714a4e1a606677f23dece7"
-  },
-  {
     "id": "gallery-40",
     "width": 853,
     "height": 1280,
@@ -730,6 +562,147 @@
     "sourceHash": "be4511b36d7a2338af9966d5397c908b1ad4f269ed8fa3824a2293176b30dcc9"
   },
   {
+    "id": "gallery-58",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADwAwCdASoYABAAPvVkqk4qpaOiMAgBUB6JbAC7ACDpHEvE+xxUJPpAAPx2x2zJxUi09eZGG81Lb9+VSpupANY7KxfEsBCEqExfCFLYGGa5IKV9FSdejqotOoj6rKtoyycafSGWWPNhp5PmjljgSoF1QmleXUbl1oFoqj0vy5JkVIX69bg/1tdoknbONtABB+QXWmqtasZQUi1YADyH6/CntPu0HDNjcAA=",
+    "color": "#989888",
+    "variants": {
+      "avif": {
+        "320": "/gallery/fd1136752c135d07-320.avif",
+        "480": "/gallery/fd1136752c135d07-480.avif",
+        "640": "/gallery/fd1136752c135d07-640.avif",
+        "960": "/gallery/fd1136752c135d07-960.avif",
+        "1280": "/gallery/fd1136752c135d07-1280.avif",
+        "1920": "/gallery/fd1136752c135d07-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/fd1136752c135d07-320.webp",
+        "480": "/gallery/fd1136752c135d07-480.webp",
+        "640": "/gallery/fd1136752c135d07-640.webp",
+        "960": "/gallery/fd1136752c135d07-960.webp",
+        "1280": "/gallery/fd1136752c135d07-1280.webp",
+        "1920": "/gallery/fd1136752c135d07-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 58",
+    "group": "choir-sessions",
+    "sourceHash": "fd1136752c135d079ba18f8c0c57118e5cb4f0ee5cb710133ab31aebc897e673"
+  },
+  {
+    "id": "gallery-59",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoYABAAPvVkqk4qpaOiMAgBUB6JQBkW+ABgGa8o//5KEalAAM2jgUV/+Quni41H7iq0BDEkX+fkIuWCEgmHliFESW6AlgiAn30ABQkNd5DDrG7ljBDs83VDKpWHOKmB9JkzxO/S0bjgWXGsAwcnk1PGn/YV4rLGgkGPghUiPxFs8gd9Wpo20ogA",
+    "color": "#182838",
+    "variants": {
+      "avif": {
+        "320": "/gallery/a5c47d89183e9d0f-320.avif",
+        "480": "/gallery/a5c47d89183e9d0f-480.avif",
+        "640": "/gallery/a5c47d89183e9d0f-640.avif",
+        "960": "/gallery/a5c47d89183e9d0f-960.avif",
+        "1280": "/gallery/a5c47d89183e9d0f-1280.avif",
+        "1920": "/gallery/a5c47d89183e9d0f-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/a5c47d89183e9d0f-320.webp",
+        "480": "/gallery/a5c47d89183e9d0f-480.webp",
+        "640": "/gallery/a5c47d89183e9d0f-640.webp",
+        "960": "/gallery/a5c47d89183e9d0f-960.webp",
+        "1280": "/gallery/a5c47d89183e9d0f-1280.webp",
+        "1920": "/gallery/a5c47d89183e9d0f-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 59",
+    "group": "choir-sessions",
+    "sourceHash": "a5c47d89183e9d0f3ac57d1a5a956a2f93d4e98a54794b859ff3a9becc00efcb"
+  },
+  {
+    "id": "gallery-60",
+    "width": 1920,
+    "height": 1279,
+    "aspect": 1.5011727912431587,
+    "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JagCsAYyAl+anfAYsqvF6aWgA+SlL4SIxTxPLGK1dNxprhKjM2/bI/m0/XRAgsTN7G0nLPJFRKbu7ExWgwb1d51on7UW+/nX6tWaCPcGZqXY1OPh90O52SJXhGFTgDygVfFPgWkHy0WeHG0KuYnYfCWCsOH1rs0RwjmdUGXn5ASdAuASafJ2aeKzByx1AAAA=",
+    "color": "#182838",
+    "variants": {
+      "avif": {
+        "320": "/gallery/ed41fe4fb4fdae31-320.avif",
+        "480": "/gallery/ed41fe4fb4fdae31-480.avif",
+        "640": "/gallery/ed41fe4fb4fdae31-640.avif",
+        "960": "/gallery/ed41fe4fb4fdae31-960.avif",
+        "1280": "/gallery/ed41fe4fb4fdae31-1280.avif",
+        "1920": "/gallery/ed41fe4fb4fdae31-1920.avif"
+      },
+      "webp": {
+        "320": "/gallery/ed41fe4fb4fdae31-320.webp",
+        "480": "/gallery/ed41fe4fb4fdae31-480.webp",
+        "640": "/gallery/ed41fe4fb4fdae31-640.webp",
+        "960": "/gallery/ed41fe4fb4fdae31-960.webp",
+        "1280": "/gallery/ed41fe4fb4fdae31-1280.webp",
+        "1920": "/gallery/ed41fe4fb4fdae31-1920.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 60",
+    "group": "choir-sessions",
+    "sourceHash": "ed41fe4fb4fdae31ecadff3b403c73ef76b8b11a5ba28555589bfcfd89986dda"
+  },
+  {
+    "id": "gallery-65",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAACQBACdASoYABAAPvVmq04qpaQiMAgBUB6JbACdMoFWAbyqBifQiHwOu9/5g0AA/vDHJ0oJlnWs2DjPqTMyKIY20WzoB8CdVoPc1cfyejw6fPDp7LVfPcyKCcEkoit0QD0JTErLmnGz2nKPQ/cuDFnV5lMhrHyYYNxlP/a/Pl87VNEZg0w+av0Wpe/PfamP5cwe/o3yPZpTm4OYo8Oiv5Yp1NhcwCfuHX1kBScfLs1rrqzU360Hntns8a2AGfD7Ki/nCwmJuo2AAAAA",
+    "color": "#180838",
+    "variants": {
+      "avif": {
+        "320": "/gallery/9345097cc6b5bfda-320.avif",
+        "480": "/gallery/9345097cc6b5bfda-480.avif",
+        "640": "/gallery/9345097cc6b5bfda-640.avif",
+        "960": "/gallery/9345097cc6b5bfda-960.avif",
+        "1280": "/gallery/9345097cc6b5bfda-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/9345097cc6b5bfda-320.webp",
+        "480": "/gallery/9345097cc6b5bfda-480.webp",
+        "640": "/gallery/9345097cc6b5bfda-640.webp",
+        "960": "/gallery/9345097cc6b5bfda-960.webp",
+        "1280": "/gallery/9345097cc6b5bfda-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 65",
+    "group": "choir-sessions",
+    "sourceHash": "9345097cc6b5bfda9a1f06e79ba5cf4cbd15da6926080f542308cecd5f2c9ac7"
+  },
+  {
+    "id": "gallery-70",
+    "width": 1280,
+    "height": 854,
+    "aspect": 1.4988290398126465,
+    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoYABAAPvVkqk4qpaOiMAgBUB6JbACdMoRwH1/ASF/8H4J/WWE6W9EAAP5r0D/LlRI/MlYJ7hOnAnSaLYzWpzch1ovM82V3Lv9A3+qERkZm6wEqPcpyuvr+3302rWbmjnhiw2pwHpmavxPB6e908TYZlvbWf98IO+ohAZ9xc0OeZjipWj6v4LYpAlsJJMA7/Wx8zQ/znJs9b3/1dHjwz/v23ZXttrOEo9gJLz5aHx+stieEliA6gT6vrt7DSwAA",
+    "color": "#f8f8f8",
+    "variants": {
+      "avif": {
+        "320": "/gallery/dd27c86ecbf77d7b-320.avif",
+        "480": "/gallery/dd27c86ecbf77d7b-480.avif",
+        "640": "/gallery/dd27c86ecbf77d7b-640.avif",
+        "960": "/gallery/dd27c86ecbf77d7b-960.avif",
+        "1280": "/gallery/dd27c86ecbf77d7b-1280.avif"
+      },
+      "webp": {
+        "320": "/gallery/dd27c86ecbf77d7b-320.webp",
+        "480": "/gallery/dd27c86ecbf77d7b-480.webp",
+        "640": "/gallery/dd27c86ecbf77d7b-640.webp",
+        "960": "/gallery/dd27c86ecbf77d7b-960.webp",
+        "1280": "/gallery/dd27c86ecbf77d7b-1280.webp"
+      }
+    },
+    "alt": "Wuse Assembly gallery photo 70",
+    "group": "choir-sessions",
+    "sourceHash": "dd27c86ecbf77d7bc0287303bee77c91feeefda5f7d923257787ca79bdb702f6"
+  },
+  {
     "id": "gallery-75",
     "width": 206,
     "height": 206,
@@ -768,26 +741,6 @@
     "alt": "Wuse Assembly gallery photo 76",
     "group": "choir-sessions",
     "sourceHash": "8f1f77b00ce3513a6e83ad942f767fe8b8bb97f1e6a592aff2d6be4c749ae289"
-  },
-  {
-    "id": "gallery-86",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAADQBQCdASoYABgAPvVysVMqpqSiqAgBUB6JYgDGnMggyAg8fYDJSOYjzUMeEU2Jf+gCgVy0LXoAAP0SdvEpkyJG+NA4DqdRZh7j5RfL/FkYtx/l/kxifaDsbfaHl70UVInL4hM0GcaIr3NsjAsk/FQwPVNOmReWgPUXtRxQlmDf9Hv7HN5HpczeiU9LhfCJevd6Ue3egyl8saxDiElhCuvjqPcPGHSZIG7HqaMvlOc7quUppd/bxm+C3vBkKZw+LWBfgAAA",
-    "color": "#686868",
-    "variants": {
-      "avif": {
-        "206": "/gallery/43a3b8dd0772c739-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/43a3b8dd0772c739-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 86",
-    "group": "prayer-sessions",
-    "sourceHash": "43a3b8dd0772c7392784c54194b87302bad449b407ec74291e3c70ea82630438"
   },
   {
     "id": "gallery-87",
@@ -850,26 +803,6 @@
     "sourceHash": "63a0ab34d0061a36e59c09ea0c2c0b29f01b185f02259258b1a2c07d35d9a075"
   },
   {
-    "id": "gallery-91",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRioBAABXRUJQVlA4IB4BAABQBgCdASoYABgAPvVysFMqpqSiqAgBUB6JZACdMzBiZXixnYHfG4NTKOc+87wppTZEIeHjfU0o2o2IAAD9uhy31401SZF4FHX/RSatcPqaFxHnS8NfUyYHAzlCTwc6eq4PUp+T4Tq4hXg/eKAmNOT0iIkWT3s95poZK/ndq9qsizs5kQ1bX8J8jzfD21BScLrvcVIUHgL8ytCJzatqsna7RWqCHPw2ouO0InECKFDkBcAQM+rfZnWdx7TVG6Ay77kt7qzKwPvo1/Tb8KVHYC73qPMenDYZrMuFIKwXv5MqXB9cU0GNaZyTkaH/oZ3SpJkoSVGzSV7uGO6TiMY25TvglwsE/WTUq0g/kS+tKe+p4q/jAh4qaZymwS8LcAAA",
-    "color": "#282828",
-    "variants": {
-      "avif": {
-        "206": "/gallery/76f3a639404670c7-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/76f3a639404670c7-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 91",
-    "group": "prayer-sessions",
-    "sourceHash": "76f3a639404670c7849d738f95cdabe6ee73f30d0954d98c27b1cd0b3ea35081"
-  },
-  {
     "id": "gallery-93",
     "width": 206,
     "height": 206,
@@ -910,26 +843,6 @@
     "sourceHash": "e7878e7fc759002bb9915ad010c24672a05a3bfc7fb69f61c7a304caf1df9edb"
   },
   {
-    "id": "gallery-96",
-    "width": 206,
-    "height": 206,
-    "aspect": 1,
-    "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACQBQCdASoYABgAPvVqrVCqpaQisBgIAVAeiWQAw3GM5Gatw5k8QrcxO7D4i1ql9DH3e4MAGADI3QOd5mHgIi5y5yYnpt919haJNSPBLWh1tBYHUK2ujfNScHWw2carxbjIcJn4j+X3cuOPeO6uZwPv6n++E6eBHZrmhWHqMqAIxppN97pPnqZW+Uoi6U+XCCfHs+wqPBjVHKC0hmOZc2yvOUhtOhgLcbjE457NNpwwqZHvK6hHcYACagBBMAdBgKyGp4AA",
-    "color": "#181818",
-    "variants": {
-      "avif": {
-        "206": "/gallery/920b9ec4cbe085ff-206.avif"
-      },
-      "webp": {
-        "206": "/gallery/920b9ec4cbe085ff-206.webp"
-      }
-    },
-    "featured": true,
-    "alt": "Wuse Assembly gallery photo 96",
-    "group": "prayer-sessions",
-    "sourceHash": "920b9ec4cbe085ff9f86dccfb7bb92037f45795c780d6dbcae5a5aa65b9315bb"
-  },
-  {
     "id": "gallery-99",
     "width": 206,
     "height": 206,
@@ -968,6 +881,66 @@
     "alt": "Wuse Assembly gallery photo 100",
     "group": "choir-sessions",
     "sourceHash": "3d394591db672610e50307a71a33e61d4f93aa3065d9c25e7927c2abb82b2a42"
+  },
+  {
+    "id": "gallery-103",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRngBAABXRUJQVlA4IGwBAADQBwCdASoYABgAPvVgq06qpSOiMBgMAVAeiWwAnTKEdeCrMsYye2U54jTIDswHERDcu86yB8GRXQzYqILMonKdyx3bmEEL4AD+uk/j7V/bPNG+qDv/3n8cJjYMjKFsy8n3ytBYw7mMIt4Vr16iyoDsSHrO3TvcEcHMqp3+K8JYamuq5dPmAkqul9C7qGMHIOb24LjXLMzik60Hvds6rn2jrttUISYH7DDduL2Mod8aDn/OKPrr4p+sNqWu7dQa3h6blsfF+H3RNpQ/MzZXpVLvElNkK6JBMIoQ6H0IvbHcvsN/jN14+WJzXlEiOpo/o0Z/NXnr1L5JtE/4cFfqfk8gxFrZuKUjse7cAzZoqZ9r9tnVLrw2rXr/PdYclQNHl4HjKTWbQUccmePmHl1o+Ejv5zM+LpsjNW4FdCFOghYHsEbOWpN5MJUdFOZnScpgXNLA5ckgeYi/SSq1hHeYAnkYI32iGlNHx58AgAAA",
+    "color": "#e8f8f8",
+    "variants": {
+      "avif": {
+        "206": "/gallery/e352f76ea69d9c15-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/e352f76ea69d9c15-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 103",
+    "group": "choir-sessions",
+    "sourceHash": "e352f76ea69d9c152fda16d1c23d22e167c1e39a6f2f53f26fbb51f2a3ba49ed"
+  },
+  {
+    "id": "gallery-104",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRjYBAABXRUJQVlA4ICoBAADwBQCdASoYABgAPvVsrlEqpaQiqAqpUB6JZgCsMzLjb+06xwZaFqy4FXF0E5UrqgbPYUvGVzSTUAD+ciACp90+n1pLla/d35orGRwFqe5uU3MaPC67hqb9AQNlDVYaYsdUhiUKHi4361G+XIlcpgAVdEu/C8pNwMslmM2SuXsxkHgoEOKqyQ+KczfXf8bJqM/SOW2ofW3S4ifX/kLNWj55PrvTDSoI2GzcyFoLkilWpeCw4k1pD0TGCUMsRQcwBnNnqQqmYzq5+95yWh2/NHPZq//+EI0SSB90ycZyNqpwl6IVKPLnYuWkYvWFJYNKCpPI0C2EUvcLFzPu4T/Ge9fk3qR1HeJP2P499J0scWbo8Z33cGL8vUB846J8A5r3rAA9f/fK08yDetQA",
+    "color": "#082858",
+    "variants": {
+      "avif": {
+        "206": "/gallery/e7abd36a1f438f4a-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/e7abd36a1f438f4a-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 104",
+    "group": "choir-sessions",
+    "sourceHash": "e7abd36a1f438f4af240a8b2a731c31260825f2bbe93f27c29fc02c6a3012c65"
+  },
+  {
+    "id": "gallery-109",
+    "width": 206,
+    "height": 206,
+    "aspect": 1,
+    "blur": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAAAQBgCdASoYABgAPvVop06qpiMiMBgMAVAeiWgAnSD0Q4G1kGMDljsz/EWiGheFlXm8+KFsbCFKqQAA/bATdu6F4FEIaWv4ohqpCicitxEIKWk1d0TvP5IZPa8YsvdNkUJOFmKH/FgwR4XHcxubGWxVEngja3VXejr2NmkBfj/vBASlrgN4Qu3DQ2hfJTPxWuyjdrIsDsbNccq6IcVyPeIRsebuiAqq66j/RpSZs5/dxn3GB28rcwumQ0i0IEcTQjRY7RVhInj6kBaVCFvplUsjqsWQHLnCkSx/amSxKqw80tnvI8bXM194AAA=",
+    "color": "#080808",
+    "variants": {
+      "avif": {
+        "206": "/gallery/4777418cd0cf56ba-206.avif"
+      },
+      "webp": {
+        "206": "/gallery/4777418cd0cf56ba-206.webp"
+      }
+    },
+    "featured": true,
+    "alt": "Wuse Assembly gallery photo 109",
+    "group": "choir-sessions",
+    "sourceHash": "4777418cd0cf56ba7000b99bbec9b2a205990bc923d8846c941d5976105cdcc6"
   },
   {
     "id": "hero-church",

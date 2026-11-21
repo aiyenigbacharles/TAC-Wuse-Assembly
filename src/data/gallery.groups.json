@@ -32,27 +32,29 @@
     "description": "Moments of prayer, reflection and devotion.",
     "coverPosition": "50% 28%",
     "coverPositionMobile": "50% 30%",
-    "count": 14,
+    "count": 30,
     "coverImage": {
       "id": "cover-prayer-sessions",
-      "width": 1279,
-      "height": 1920,
-      "aspect": 0.6661458333333333,
+      "width": 1536,
+      "height": 2048,
+      "aspect": 0.75,
       "blur": "",
-      "color": "#382818",
+      "color": "#181828",
       "variants": {
         "avif": {
-          "960": "/gallery/19385fb793757a8c-cover-960.avif",
-          "1279": "/gallery/19385fb793757a8c-cover-1279.avif"
+          "960": "/gallery/c7834852af8bb209-cover-960.avif",
+          "1280": "/gallery/c7834852af8bb209-cover-1280.avif",
+          "1536": "/gallery/c7834852af8bb209-cover-1536.avif"
         },
         "webp": {
-          "960": "/gallery/19385fb793757a8c-cover-960.webp",
-          "1279": "/gallery/19385fb793757a8c-cover-1279.webp"
+          "960": "/gallery/c7834852af8bb209-cover-960.webp",
+          "1280": "/gallery/c7834852af8bb209-cover-1280.webp",
+          "1536": "/gallery/c7834852af8bb209-cover-1536.webp"
         },
-        "jpeg": "/gallery/19385fb793757a8c-cover-1279.jpg"
+        "jpeg": "/gallery/c7834852af8bb209-cover-1536.jpg"
       },
       "alt": "Prayer Sessions album cover",
-      "sourceHash": "d04a9c0e7f1b648f5a46dba892386be81ea8fabf45714a4e1a606677f23dece7"
+      "sourceHash": "6236f80fd03210aefeec6dc429c4fdaa45b0820a386d9a4fb907d7d1acf5a954"
     }
   },
   {

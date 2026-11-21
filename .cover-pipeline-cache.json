@@ -282,5 +282,37 @@
       "ad59fde0723f5632-cover-854.webp",
       "ad59fde0723f5632-cover-854.jpg"
     ]
+  },
+  "cover-v2:6236f80fd03210aefeec6dc429c4fdaa45b0820a386d9a4fb907d7d1acf5a954": {
+    "id": "cover-prayer-sessions",
+    "width": 1536,
+    "height": 2048,
+    "aspect": 0.75,
+    "blur": "",
+    "color": "#181828",
+    "variants": {
+      "avif": {
+        "960": "/gallery/c7834852af8bb209-cover-960.avif",
+        "1280": "/gallery/c7834852af8bb209-cover-1280.avif",
+        "1536": "/gallery/c7834852af8bb209-cover-1536.avif"
+      },
+      "webp": {
+        "960": "/gallery/c7834852af8bb209-cover-960.webp",
+        "1280": "/gallery/c7834852af8bb209-cover-1280.webp",
+        "1536": "/gallery/c7834852af8bb209-cover-1536.webp"
+      },
+      "jpeg": "/gallery/c7834852af8bb209-cover-1536.jpg"
+    },
+    "alt": "Prayer Sessions album cover",
+    "sourceHash": "6236f80fd03210aefeec6dc429c4fdaa45b0820a386d9a4fb907d7d1acf5a954",
+    "files": [
+      "c7834852af8bb209-cover-960.avif",
+      "c7834852af8bb209-cover-960.webp",
+      "c7834852af8bb209-cover-1280.avif",
+      "c7834852af8bb209-cover-1280.webp",
+      "c7834852af8bb209-cover-1536.avif",
+      "c7834852af8bb209-cover-1536.webp",
+      "c7834852af8bb209-cover-1536.jpg"
+    ]
   }
 }
