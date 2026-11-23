@@ -12,13 +12,14 @@ const desktop: GallerySlot[] = [
   { id: "R1", x: 89, y: 15, w: 13, ratio: 1.12, rot: 3 }, { id: "R2", x: 74, y: 34, w: 12, ratio: .78, rot: -3 },
   { id: "R3", x: 90, y: 57, w: 12, ratio: .92, rot: -4 }, { id: "R4", x: 75, y: 76, w: 12, ratio: 1.08, rot: 4 },
 ];
-const mobileHero: GallerySlot[] = [
-  { id: "M1", x: -7, y: 12, w: 34, ratio: .72, rot: -5 }, { id: "M2", x: 72, y: 17, w: 34, ratio: .78, rot: 4 },
-  { id: "M3", x: 34, y: 25, w: 31, ratio: .78, rot: -3 }, { id: "M4", x: -8, y: 34, w: 34, ratio: .72, rot: 4 },
-  { id: "M5", x: 76, y: 40, w: 32, ratio: .78, rot: -5 }, { id: "M6", x: 31, y: 45, w: 34, ratio: .72, rot: 3 },
-  { id: "M7", x: -7, y: 54, w: 32, ratio: .78, rot: -4 }, { id: "M8", x: 73, y: 61, w: 34, ratio: .72, rot: 5 },
-  { id: "M9", x: 34, y: 65, w: 31, ratio: .78, rot: -3 }, { id: "M10", x: -6, y: 74, w: 34, ratio: .72, rot: 4 },
-  { id: "M11", x: 74, y: 80, w: 33, ratio: .78, rot: -4 }, { id: "M12", x: 34, y: 86, w: 31, ratio: .78, rot: 3 },
+// Mobile photos live in two bands (above and below the hero copy) so they can never overlap the text.
+const mobileTop: GallerySlot[] = [
+  { id: "MT1", x: 3, y: 12, w: 28, ratio: .8, rot: -4 }, { id: "MT2", x: 36, y: 0, w: 28, ratio: .8, rot: 3 },
+  { id: "MT3", x: 69, y: 14, w: 28, ratio: .8, rot: -3 },
+];
+const mobileBottom: GallerySlot[] = [
+  { id: "MB1", x: 3, y: 2, w: 28, ratio: .8, rot: 4 }, { id: "MB2", x: 36, y: 14, w: 28, ratio: .8, rot: -3 },
+  { id: "MB3", x: 69, y: 0, w: 28, ratio: .8, rot: 4 },
 ];
 
 interface SlotMap { desktop: GallerySlot[]; tablet: GallerySlot[]; mobile: GallerySlot[] }
@@ -184,6 +185,9 @@ export default function FloatingImages({ images, variant = "hero", exclusionRef 
   const desktopSlots = variant === "field" ? gallerySlotMap : desktop;
   return <>
     <FloatingField images={images} slots={desktopSlots} exclusionRef={exclusionRef} className={`floating-desktop floating-${variant}`} debug />
-    {variant === "hero" && <FloatingField images={images} slots={mobileHero} className="floating-mobile floating-mobile-scatter" debug />}
+    {variant === "hero" && <>
+      <FloatingField images={images.filter((_, i) => i % 2 === 0)} slots={mobileTop} className="floating-mobile floating-mobile-top" debug />
+      <FloatingField images={images.filter((_, i) => i % 2 === 1)} slots={mobileBottom} className="floating-mobile floating-mobile-bottom" debug />
+    </>}
   </>;
 }
