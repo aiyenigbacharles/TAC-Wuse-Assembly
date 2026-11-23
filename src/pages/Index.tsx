@@ -99,7 +99,6 @@ const Hero = () => {
           The Apostolic Church Nigeria, Wuse Assembly is a family of believers growing together in faith. Come as you are this Sunday.
         </motion.p>
         <div className="mx-auto mt-8 flex w-full max-w-[20rem] flex-col justify-center gap-3 sm:max-w-none sm:flex-row">
-          <a href={MAPS_URL} target="_blank" rel="noopener noreferrer" className="btn btn-dark">Plan your visit</a>
           <a href={MAPS_URL} target="_blank" rel="noopener noreferrer" className="btn border border-foreground/50 text-foreground hover:bg-foreground hover:text-background"> <Navigation className="h-4 w-4" /> Get directions</a>
         </div>
         <p className="mt-6 text-sm text-foreground/75">2026 motto: “Thou art My King O! God, Command Deliverances For Us” (Psalm 44:4)</p>
